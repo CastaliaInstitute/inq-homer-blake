@@ -7,6 +7,8 @@ The first source-collated revision, covering lines 1–21, is recorded in
 text/odyssey/book-01-collation-1-21.md pending promotion after meter review.
 Lines 22–50 are recorded in
 text/odyssey/book-01-collation-22-50.md.
+Lines 51–100 are recorded in
+text/odyssey/book-01-collation-51-100.md.
 
 ## Translation
 

@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–574 are recorded in
+text/odyssey/book-10-collation-1-574.md.
+
 ## Translation
 
 We reached the island of Aeolus, keeper of the winds.

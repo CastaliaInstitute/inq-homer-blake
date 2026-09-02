@@ -154,6 +154,230 @@ But bring me another prize at once, lest I alone
 
 among the Argives go without honor.”
 
+## Extension: the quarrel and Achilles' withdrawal
+
+**Source passage:** Book 1, lines 101–430 (working range; verify against copy text)
+
+Achilles, swift of foot, looked at him darkly and answered:
+
+“Son of Atreus, most grasping of all men, how shall the Greeks
+
+give you a prize? There is no common store of treasure left;
+
+the cities we have taken have been divided and their spoils
+
+are already in men's hands. To gather them again would be shame.
+
+But send the girl away, and when we take Troy at last,
+
+we will repay you threefold and fourfold, if Zeus permits.”
+
+Agamemnon, king of men, replied:
+
+“Do not, for all your valor, speak to me as if I were a fool.
+
+Would you keep your own prize while I sit empty-handed?
+
+No: if the great-hearted Achaeans give me none,
+
+I will take one myself—from you, or Ajax, or Odysseus—
+
+and let the man I visit with my hand be bitter.
+
+But first let the dark ship carry Chryseis home;
+
+then choose and bring another girl into my tent.”
+
+Achilles answered him, his voice already sharpened:
+
+“Shameless man, wrapped in your own profit, who would follow you
+
+to war, or stand in battle for your sake? I did not come
+
+to fight the Trojans for any quarrel of my own.
+
+They never harmed me. From Phthia I followed you,
+
+and here I bear the burden while you sit behind the army,
+
+gathering the prizes we win with blood. Yet my reward,
+
+small as it is, is always the first thing you threaten.
+
+I will not remain here to pile up wealth for you.
+
+I will sail home. Better to return in my curved ships
+
+than stay dishonored and heap treasure in your hands.”
+
+“Go, then,” the king replied, “if your heart commands it.
+
+I do not beg you to stay. I have others here to honor me,
+
+and Zeus above all. You are the most hateful of kings:
+
+you love the quarrel and the battlefield, but not the work
+
+of standing beside the army when orders must be borne.
+
+Go home and rule your Myrmidons. I care nothing for your wrath.
+
+But this I tell you plainly: when bright-eyed Athena
+
+has taken Briseis from your hut, I will come myself
+
+and take her, so that every man may know my power.”
+
+Then grief and anger gathered in Achilles' chest.
+
+He weighed two thoughts: to draw his sword from his thigh
+
+and scatter the assembly, or to master his heart and endure.
+
+As he drew the great blade, Athena came down from heaven,
+
+sent by the white-armed goddess Hera, who loved both men.
+
+She stood behind him, visible to him alone, and caught his hair.
+
+Achilles turned and said: “Why have you come, child of Zeus?
+
+To watch the insolence of Agamemnon? I tell you this:
+
+his life, I think, will soon pay for what he has done.”
+
+The goddess of flashing eyes answered him:
+
+“I came to restrain you. Put away the sword.
+
+Speak against him as fiercely as you will, but do not strike.
+
+One day, for this dishonor, gifts three times over
+
+will be set before you. Hold your hand and obey.”
+
+Achilles answered: “A man must obey you, goddess,
+
+though anger burns. It is better so. Whoever obeys the gods,
+
+the gods hear him in return.” He drove the blade back
+
+into its sheath, and Athena rose again to Olympus.
+
+Then he faced the son of Atreus and spoke once more:
+
+“You who wear a dog's eyes and carry a deer's heart,
+
+never do you arm with the people for battle,
+
+never go with the best into an ambush or the line.
+
+That would be death to you. It is easier to walk the camp
+
+and strip a man of his prize. You rule men who obey you,
+
+because you are a king who feeds upon his own people.
+
+Otherwise, son of Atreus, this would be your last outrage.
+
+But I swear a great oath: by this staff, which will never again
+
+put forth leaf or branch, since bronze cut it from the mountain
+
+and stripped its bark, and now heralds carry it in their hands—
+
+so surely shall a day come when all the Achaeans
+
+will long for Achilles. Then, though you suffer, you cannot help them,
+
+when Hector, breaker of ranks, kills men beside their ships.
+
+You will tear your heart for the champion you dishonored.”
+
+He flung the gold-studded staff upon the ground and sat.
+
+Across from him Agamemnon still raged. But Nestor rose,
+
+the clear-speaking elder from Pylos, whose tongue flowed sweeter
+
+than honey. Two generations of mortal men had passed before him,
+
+and now he ruled among the third. He addressed them:
+
+“What sorrow has come upon the Achaean land!
+
+The Trojans would rejoice, and Priam's sons, and all the rest,
+
+if they could hear you. End this quarrel. You are both younger
+
+than I, and I have stood beside men greater than you.
+
+Yet they listened when I spoke, and followed my counsel.
+
+Listen now. You, Agamemnon, do not take the girl;
+
+let her remain. And you, Achilles, do not contend
+
+with the king, since no other scepter-bearing man
+
+has honor equal to his. If you are the stronger, still he is greater
+
+in rank, and more men obey him.”
+
+Achilles cut him off: “No coward would endure your words.
+
+I will not battle you for a girl. Take what you have given me;
+
+you will never take another thing from me while I am here.
+
+But if you lay hands on anything else that is mine,
+
+let every man see it. Now we have done. This quarrel is finished.”
+
+They broke the assembly. Achilles went to his ships
+
+with Patroclus and his faithful companions. The king sent men
+
+to lead away fair-cheeked Briseis. Reluctantly they came,
+
+and stood there in silence, afraid of the prince.
+
+Achilles knew them and said: “Come nearer. You bear no blame.
+
+I know who sent you. Take her, and lead her away.
+
+Let them be witnesses before the blessed gods, and before men,
+
+of the day when the king will need me to save the army.”
+
+So they led Briseis from the sheltering hut. She went unwillingly.
+
+Achilles withdrew to the shore and looked upon the gray sea,
+
+stretching his hands toward his mother, Thetis, born of the sea:
+
+“Since you bore me to a short life, surely Olympian Zeus,
+
+who thunders above, should give me honor. Yet he gives me none.
+
+Agamemnon, son of Atreus, has dishonored me and taken my prize.”
+
+His mother heard him from the deep, where she sat beside her father.
+
+She rose through the breaking water like mist, sat near her son,
+
+and touched him with her hand: “Why do you weep, my child?
+
+Tell me; do not hide the grief that has entered your heart.”
+
+He answered her, and told her all. Then Thetis said:
+
+“I will go to Olympus at dawn, and clasp the knees of Zeus.
+
+I will ask him to lift the Trojans' strength, so the Achaeans
+
+may learn how dearly they have wronged you.”
+
 ## Decision log
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
@@ -164,6 +388,12 @@ among the Argives go without honor.”
   following the project's Longfellow model without reproducing his wording.
 - The Calchas exchange keeps the public, procedural movement of the scene:
   prophecy becomes accusation, then the demand for compensation.
+- The quarrel keeps *geras* (the material prize) beside *timē* (the honor it
+  represents), rather than reducing the conflict to personal jealousy.
+- The extension is deliberately marked as a working range: its English line
+  breaks are literary decisions, while the exact Greek line mapping remains a
+  required review task before approval.
 - This passage needs Greek-fidelity review against the selected print copy text,
   especially for *mēnis*, *Achaioi*, the priest's ritual vocabulary, and the
-  exact sequence of the plague and assembly.
+  exact sequence of the plague, assembly, seizure of Briseis, and appeal to
+  Thetis.

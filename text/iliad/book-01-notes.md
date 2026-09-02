@@ -11,6 +11,10 @@ research notes, not final commentary.
 | 1.12–16 | Apollo's anger follows the priest's dishonor | “deadly sickness” | Confirm the chosen disease term against the final Greek edition and note any textual variant. |
 | 1.37–52 | Apollo's epithets, bow, arrows, and nine-day plague | “silver bow,” “covered quiver” | Check formulaic consistency across the complete *Iliad*. |
 | 1.53–100 | Calchas's prophecy and Agamemnon's demand for honor | Public procedural exchange | Distinguish *timē* as social honor from the material prize that embodies it. |
+| 1.101–187 | *geras* (prize) and *timē* (honor) drive the quarrel | “prize,” “honor,” and “dishonor” | Verify that the English keeps the material and social registers distinct rather than treating them as synonyms. |
+| 1.188–222 | Athena restrains Achilles at Hera's command | Visible only to Achilles; violence is averted, not erased | Confirm the sequence and the goddess's promise of restitution against the copy text. |
+| 1.223–305 | Nestor's mediation and the seizure of Briseis | Elders' authority and unequal kingship | Review the compressed genealogy and ensure no omitted speech changes the political logic of the assembly. |
+| 1.348–412 | Achilles appeals to Thetis beside the sea | Short life and earned honor | Preserve the sea-born mother's intimacy while keeping the formulaic language concrete. |
 
 ## Draft warning
 

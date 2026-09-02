@@ -66,6 +66,12 @@ behind the current drafts.
 Rendered-page traceability is maintained in the [page map](design/page-map.csv)
 under the rules in [page-map-rules.md](design/page-map-rules.md).
 
+The provisional [release manifest](design/release-manifest.yaml) records the
+current development state, printer target, pending locks, and proof classes.
+PDF geometry and release-font requirements are checked by
+`scripts/preflight_pdfs.py`; the tracked PDFs remain architecture samples until
+the full-volume and cover gates are complete.
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

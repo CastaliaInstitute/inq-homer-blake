@@ -23,3 +23,5 @@ jobs:
           ' assets/source/manifest.csv assets/generated/manifest.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
+      - name: Run PDF geometry preflight
+        run: python3 scripts/preflight_pdfs.py

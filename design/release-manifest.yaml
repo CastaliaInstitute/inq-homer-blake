@@ -1,0 +1,57 @@
+edition_id: castalia-institute-inq-homer-blake
+status: development
+last_reviewed: 2026-09-02
+
+format:
+  trim_in: [7, 10]
+  interior_bleed_in: 0.125
+  interior_stock: "80# White Coated"
+  printing: "Premium Color hardcover target"
+  binding: hardcover
+  cover_spread: pending_page_count_and_printer_lock
+
+volumes:
+  - id: iliad
+    title: "The Iliad"
+    interior_pdf: pending_full_volume_assembly
+    cover_pdf: pending_page_count_and_spine_calculation
+    translation_status: book_01_working_draft
+  - id: odyssey
+    title: "The Odyssey"
+    interior_pdf: pending_full_volume_assembly
+    cover_pdf: pending_page_count_and_spine_calculation
+    translation_status: book_01_working_draft
+
+typography:
+  status: provisional
+  verse_face: "Baskerville or licensed open-source equivalent"
+  display_face: "Baskerville Semibold or licensed open-source equivalent"
+  notes_face: "Baskerville Italic or licensed open-source equivalent"
+  license_evidence: pending_font_selection
+  point_sizes_and_leading: pending_type_lock
+
+color:
+  working_space: sRGB
+  print_profile: pending_printer_profile
+  conversion_and_output_intent: pending_final_printer_specification
+
+proofs:
+  - file: output/pdf/inq-homer-book-1-proof.pdf
+    class: architecture_sample
+    page_size_pt: [504, 720]
+  - file: output/pdf/inq-homer-odyssey-book-1-proof.pdf
+    class: architecture_sample
+    page_size_pt: [504, 720]
+  - file: output/pdf/inq-homer-historical-plate-proof.pdf
+    class: provenance_sample
+    page_size_pt: [504, 720]
+
+release_gates:
+  full_translation: incomplete
+  plate_manifest: development
+  type_license_lock: incomplete
+  printer_profile_lock: incomplete
+  interior_pdfs: incomplete
+  cover_pdfs: incomplete
+  physical_proof: incomplete
+  editorial_signoff: incomplete

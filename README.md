@@ -83,6 +83,10 @@ requirements for each volume.
 The [font lock](design/font-lock.md) records the redistributable Cormorant
 Garamond files, OFL 1.1 license, checksums, and proof typography settings.
 
+The [cover design proof contract](design/cover-proof.md) defines the
+template-dependent casewrap workflow and keeps the current cover studies
+explicitly separate from release-ready Lulu cover PDFs.
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

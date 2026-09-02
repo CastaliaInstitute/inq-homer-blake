@@ -2,94 +2,134 @@
 
 **Source passage:** Book 14, lines 1–533 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+
+**Source-collated authority:** [Book 14, lines 1–533](book-14-collation-1-533.md).
+The compact translation below is retained for the current volume architecture;
+the collation file is the editorial authority for line-level revision.
 
 ## Translation
 
-Odysseus climbed to the hills and found Eumaeus' hut.
-The swineherd was away, building a pen of stones and thorn,
-for his master had left him no wall or shelter for the pigs.
-Four dogs rushed at Odysseus. Eumaeus dropped the leather he held,
-ran out, and drove them away with stones.
+Odysseus climbed from the harbor by the rough path,
+Through the wood and over the heights where Athena
+Had shown him Eumaeus, faithful to his lord.
+The swineherd had built a high and spacious yard
+Of stones and thorn, apart from queen and father,
+While absent Odysseus' wealth lay in his keeping.
+Twelve sties stood within it, close together;
+In each fifty mother-sows were sleeping, while
+The boars lay out of doors, fewer each day,
+For the proud suitors consumed the fattest swine.
+Four dogs, like wild beasts, guarded them. Three men
+Had gone with other herds; the fourth was forced
+To bring a boar into the city for the feast.
 
-“Old stranger,” he said, “the dogs nearly killed you. That would bring
-me shame before the gods. I already have enough grief for Odysseus.
-He is gone, and I am left to feed the swine for other men.”
+The dogs saw the stranger and rushed upon him barking.
+Odysseus sat down, and let his staff fall from his hand.
+Eumaeus heard, ran from the doorway, and drove them off
+With stones. “Old man,” he said, “they nearly tore you.
+That would have brought me shame before the gods.
+I have enough sorrow, mourning the lord I served,
+While he perhaps wanders, hungry, through strange lands.
+Come in; eat bread and drink wine, and tell me
+From where you came and what sorrows you have borne.”
 
-He led Odysseus beneath the shelter and gave him a seat of brush.
-He spread a fresh hide, large enough for a chief, and built a fire.
-He chose five fat pigs from the herd, singed them, cut them apart,
-and offered one portion to the gods. He gave the stranger the best meat.
+He spread brushwood and a shaggy goat-hide for his guest.
+Odysseus blessed him. “Stranger,” Eumaeus answered,
+“It is not lawful to dishonor any guest. Beggars
+And strangers are all from Zeus. Our gift is small,
+But gladly given. Had my master grown old here,
+He would have granted me a house, land, and wife.
+But he went to Troy for Agamemnon's honor.”
 
-Odysseus said: “May Zeus reward you. You have welcomed a beggar.”
+Eumaeus chose two young boars, sacrificed them,
+Singed, cut, and roasted them, then brought the meat
+Hot on the spits. He sprinkled barley, mixed sweet wine,
+And sat opposite, urging the stranger to eat.
+“The suitors consume the fat ones without reverence.
+Yet the gods love justice. Their wealth is without end:
+Twelve herds of cattle, twelve flocks of sheep,
+Twelve droves of swine, twelve broad herds of goats;
+And here eleven herds are pastured at the edge.
+I guard these pigs and send the best away.”
 
-Eumaeus answered: “Stranger, I cannot insult a guest. All beggars
-and strangers come from Zeus. My portion is small, but I give it gladly.
-If my master lived, he would give you a house and land.”
+Odysseus ate in silence, planting evil in his heart
+Against the suitors. Then he asked who had bought
+So wealthy a servant, and where his gentle lord had died.
+Eumaeus answered that wanderers brought false tales
+To Penelope; she received them and wept as women do
+When husbands perish abroad. “Odysseus is gone,”
+He said; “his friends have grief behind them all,
+But I shall never find so gentle a master again.”
 
-He poured wine and spoke of Odysseus:
-“The gods have hidden him. I do not know whether the sea or the earth
-holds him. His father mourns in the country; his wife remains in the hall;
-his son has gone to learn his fate. The suitors consume everything.”
+“Before this year has run its course,” said Odysseus,
+“Your lord will come, and punish whoever dishonors
+His wife and shining son. Then give me cloak and tunic;
+Before that I will receive no gift.” But Eumaeus
+Would not believe him. He mourned Penelope, Laertes,
+And Telemachus, who had gone to seek his father's news;
+The suitors waited to kill the last seed of Arcesius.
 
-Odysseus invented a Cretan life. He claimed to have fought in Troy,
-to have sailed with Idomeneus, and to have won wealth in Egypt.
-He told of a Phoenician captain who betrayed him, leaving him
-on Ithaca. Then he added: “I heard that Odysseus lives,
-and will return with gold. He is near.”
+He asked the stranger's name, birthplace, parents, and ship.
+Odysseus answered with a long Cretan tale: he claimed
+To be the son of Castor of Crete, a warrior who led ships
+To Troy, raided Egypt, and was spared by an Egyptian king.
+He told of seven years gathering wealth there, then of
+A Phoenician trader who deceived him, carried him toward Libya,
+And lost the ship beneath Zeus's thunder. The stranger
+Bound himself to mast and sail, reached Crete, and survived
+Among the rocks until sailors found him.
 
-Eumaeus replied: “Old man, you do not comfort me. Many strangers
-have come with such stories, and Penelope has wept for each.
-Do not swear falsely for food. Odysseus will not return.
-I wish he had died before Troy, so the Achaeans could have raised
-a mound for him. Then he would have left fame for his house.
-Now he has vanished, and my life is a burden.”
+He said that the king of Thesprotis had welcomed him,
+And that there he heard of Odysseus, who had gathered
+Gold, bronze, and iron, and gone to Dodona to ask Zeus
+How to return to Ithaca. A ship was ready to send him;
+But the Thesprotians put their guest aboard first,
+Stripped him to rags, bound him beneath the benches,
+And ate supper on the shore. The gods loosed his bonds.
+He slid down the rudder, swam beyond their sight,
+And was guided to the hut of a man whose life remained.
 
-Odysseus said: “You are stubborn. I swear that he will come.
-Before the suitors take his wife, he will stand in this hut.
-I will have no cloak until then, if my word is false.”
+Eumaeus rejected the tale. “You have stirred my heart,
+But you will not persuade me. An Aetolian once deceived me
+With the same report: Odysseus repairing ships in Crete,
+To return in summer or autumn with much wealth.
+Do not flatter me with lies. I fear Zeus, the god of guests,
+And pity you.” Odysseus proposed an oath: if the lord returned,
+Eumaeus would clothe and send him to Dulichium; if not,
+The swineherd might cast him from the cliff. Eumaeus refused
+The bargain, saying only that supper was due.
 
-Eumaeus laid another hide over him. He told the story of his own life:
-“I was born on an island ruled by a wealthy man. A Phoenician woman
-stole me when I was small, and sailors carried me away. They sold me
-to Laertes, who raised me in Ithaca. I have not forgotten my first home,
-but I am loyal to the house that fed me.”
+The swine and herdsmen came. Eumaeus ordered the best boar
+For sacrifice, praying that Odysseus would return.
+He divided the roasted meat into seven shares, gave one
+To the nymphs and Hermes, and honored the stranger with the best.
+Mesaulius, whom he had bought with his own goods,
+Distributed bread. Then night came with rain and a wet West Wind.
 
-The night grew cold. Odysseus asked: “If you had a cloak,
-would you lend it to a man lying out in the rain?”
+Odysseus tested him with a tale of Troy: how, cold beneath
+The walls, he had tricked Agamemnon into sending Thoas
+With a red cloak. Eumaeus praised the story, but said
+There was no spare cloak in the hut; at dawn the stranger
+Must wear his rags. When Telemachus came, he himself
+Would give the guest a cloak and tunic.
 
-Eumaeus answered with a plan. “When the watch begins, I will tell
-the young men to fetch a cloak from the hut. They will obey,
-because they fear me.” He gave Odysseus his own cloak for the night.
-
-At dawn he rose and went to the herd. He killed a great boar,
-prepared the meat, and divided it among the seven portions.
-He offered the first to the gods and gave Odysseus his share.
-
-“Eat, stranger. There is no reason to starve. The gods have made
-our master wait, but they have not taken away the food of a day.”
-
-Odysseus answered: “Tell me, why do you serve this house so faithfully?
-You are far from your birthplace. Are you the son of a king?”
-
-Eumaeus said: “Why ask my lineage? A man's life is short.
-I cannot return to my first land. I care for these swine,
-and for the absent king. If he came, he would see that I kept faith.”
-
-Odysseus smiled: “Do not mourn. Your master is near. I will tell you
-when he arrives, though you do not believe me.”
-
-Eumaeus did not answer. He set bread before him, and the two men ate.
-The hut stood outside the palace, but within it the true household
-had begun to recognize itself without knowing the name of its king.
+He made a bed near the fire from sheep and goat skins,
+And laid a thick cloak over Odysseus. But Eumaeus
+Did not sleep within, away from the swine. He armed himself
+With sword, windproof cloak, goat hide, and sharp spear,
+Then went to lie beneath the hollow rock, guarding the herd
+Against the North Wind. The disguised king slept beneath
+The roof of his faithful servant.
 
 ## Decision log
 
-- Eumaeus' hospitality is made materially exact—dogs, hide, fire, sacrifice,
-  meat, wine, and a cloak—so that faithfulness is enacted rather than praised.
-- Odysseus tests the swineherd through invented stories, but Eumaeus' grief
-  for the absent king makes him resistant to consoling fiction.
-- The Cretan tale and Eumaeus' biography place mobility beside rooted labor;
-  both men are displaced, but only one has returned under disguise.
-- This draft needs Greek-fidelity review for the hut and pig pens,
-  sacrifice, false Cretan narrative, Eumaeus' abduction, and cloak episode.
+- This compact production draft follows the complete collation and preserves
+  the hut, herds, sacrificial sequence, long Cretan performance, and cloak
+  anecdote without presenting the invented history as fact.
+- Book 14 ends with Eumaeus arming himself beside the swine. The palace,
+  Telemachus's recognition, and the later return scenes remain in their proper
+  books.
+- This draft requires independent Greek-fidelity review, literary review,
+  meter review, notes review, and production sign-off before promotion beyond
+  `draft`.

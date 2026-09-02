@@ -2,8 +2,8 @@
 
 **Source passage:** Book 24, lines 1–804 (complete working-book draft)
 
-**Status:** First source-collated literary revision through lines 1–119;
-independent meter and Greek-fidelity review remains pending. Lines 120–804
+**Status:** First source-collated literary revision through lines 1–228;
+independent meter and Greek-fidelity review remains pending. Lines 229–804
 remain in their Greek-collation files pending promotion.
 Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
@@ -138,6 +138,118 @@ and carry gifts to Achilles—gifts that may soothe his heart.”
 
 **Continuation:** line 120 begins Thetis’s message to Achilles;
 this unit intentionally ends with Zeus’s command to ransom Hector.
+
+## Translation — source-collated lines 120–228
+
+Thetis did not refuse. From Olympus’ heights she sprang,
+and reached the shelter where her son was found, beside
+the ships, lamenting deeply; all his dear companions
+were busied with the preparation of their meal,
+and in the hut a great, thick-fleeced sheep was slain.
+The august mother sat beside him, stroked him with her hand,
+and called him by his name, and spoke: “My child, how long
+wilt thou consume thy heart in mourning and in pain,
+forgetful of thy food and of thy bed? It is a good thing
+to join in love with a woman; for thy life shall not be long:
+death and the mighty Fate already stand beside thee.
+Hear me at once. I come to thee bearing Zeus’ word.
+He says the gods are angered with thee, and that he himself,
+beyond all other immortals, is most deeply angered,
+because with mind distraught thou keepest Hector by the ships
+and hast not let him go. Come, then: release the dead,
+and take the ransom offered for him.”
+
+Swift-footed Achilles answered: “So let it be—let him come
+who brings the ransom and carries away the dead,
+if the Olympian himself commands it with a willing heart.”
+Thus mother and son beside the ships exchanged their many
+winged words. Meanwhile the Son of Cronus sent Iris
+to sacred Ilium: “Go, swift Iris, leave Olympus’ seat;
+tell great-hearted Priam, within the city, to ransom
+his dear son, going alone to the ships of the Achaeans,
+and to bring gifts to Achilles—gifts that may soothe his heart.
+Let no other Trojan follow him. Only some older herald
+may go with him, to guide his mules and his well-wheeled wagon,
+and afterward bring back to the city the dead man
+whom noble Achilles killed. Let death not trouble his mind,
+nor let him fear; we shall give him as guide the Slayer of Argus,
+who will conduct him safely until he brings him near Achilles.
+When he has led him within Achilles’ shelter, neither Achilles
+himself shall kill him, nor shall he let the others kill him;
+for he is neither foolish, heedless, nor transgressing,
+but will show great care for the suppliant man.”
+
+So he spoke, and storm-swift Iris went bearing the word.
+She reached the house of Priam, and found there cries and grief.
+His sons sat round their father in the inner court,
+wet with their tears; the old man in their midst was wrapped
+in a cloak, close-folded, and much dung lay upon his head
+and neck, which, rolling on the ground, he had gathered
+with his own hands. His daughters in the halls, and daughters-in-law,
+mourned, remembering the many brave men who had fallen,
+their lives destroyed beneath the Argives’ hands.
+
+The messenger of Zeus stood beside Priam and spoke softly;
+but trembling seized the old king’s limbs: “Take courage,
+Priam, son of Dardanus; let no fear enter thy heart.
+I have not come with evil in my sight, but with good intent.
+I am a messenger of Zeus, who, though far away, cares for thee
+and pities thee. The Olympian bids thee ransom noble Hector,
+and carry gifts to Achilles—gifts that may soothe his heart.
+Let no other Trojan follow thee. Only some older herald
+may accompany thee, to guide thy mules and well-wheeled wagon,
+and afterward bring home the dead man whom noble Achilles killed.
+Let death not trouble thy mind, nor fear; for such a guide
+as the Slayer of Argus shall follow with thee, and lead thee
+until he brings thee near Achilles. When he has led thee within
+the shelter, neither Achilles himself shall kill thee,
+nor shall he let the others kill thee; for he is neither foolish,
+nor heedless, nor a transgressor, but will carefully spare
+the suppliant man.”
+
+Having spoken thus, swift-footed Iris departed. But Priam
+commanded his sons to make ready the smooth-running mule-cart,
+and to fasten its wicker basket upon it. He himself went down
+into the fragrant chamber, built high of cedar,
+which held within it many treasures. There he called
+his wife Hecuba, and spoke: “Strange one, a messenger
+from Zeus has come to me, commanding that I go to the ships
+of the Achaeans, to ransom my beloved son, and bring gifts
+to Achilles—gifts that may soothe his heart. Tell me,
+what seems this counsel to thy mind? For a terrible force
+and desire urges me to go there, within the wide Achaean host.”
+
+She cried aloud and answered: “Ah me! Where has thy reason fled,
+for which thou wert renowned among strangers and those thou rulest?
+How canst thou wish to go alone among the ships of the Achaeans,
+into the eyes of the man who has destroyed so many of thy sons,
+so brave and noble? Thy heart must be made of iron.
+If that savage, faithless man should seize thee and behold thee,
+he would show thee no mercy, nor any reverence. Let us sit
+here in the hall apart and mourn; for such a thread the mighty Fate
+spun for thy son when I bore him: that he should feed
+the swift-footed dogs far from his parents, beside a powerful man.
+Then might I bite the liver of that man, clinging to him—
+such deeds would answer for my child, since he did not kill him
+while shrinking back, but stood before the Trojans and their wives,
+remembering neither fear nor flight.”
+
+Then godlike aged Priam answered her: “Do not restrain me
+when I desire to go; do not become an evil bird of omen
+within my house. Thou shalt not persuade me. If another man
+among earth’s people had commanded this—some seer who reads
+the sacrifices, or a priest—we should call it false,
+and turn away the more. But now I have heard the god himself,
+and looked upon him face to face; therefore I shall go,
+and his word shall not be vain. If it is my portion to die
+beside the ships of the bronze-clad Achaeans, so be it;
+let Achilles kill me at once, after I have embraced my son
+and satisfied my heart with mourning.”
+
+So speaking, he opened the beautiful lids of the chests.
+
+**Continuation:** line 229 begins Priam’s ransom inventory and departure;
+this unit ends with his resolve to enter the Achaean camp.
 
 ## Working synopsis
 

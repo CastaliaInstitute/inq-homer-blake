@@ -9,7 +9,7 @@ commentary.
 | 24.120–228 | Thetis reports Zeus’s command; Iris reaches Priam; Hecuba objects | Command, supplication, and grief | Collated 2026-09-02; verify the repeated safety formula, Hermes’s escort, and the chest-opening hinge at meter review. |
 | 24.229–386 | Ransom inventory; eagle omen; Hermes meets Priam | Treasures, omen, and divine disguise | Collated 2026-09-02; verify the inventory, cart construction, eagle, and line-386 question at meter review. |
 | 24.387–551 | Priam supplicates Achilles; fathers remember grief | Supplication and shared mourning | Collated 2026-09-02; verify Hermes’s camp threshold, the physical gesture, father parallel, and two jars at meter review. |
-| 24.552–635 | Truce and departure | Time for mourning | Check days, sleep, Hermes, and wagon. |
+| 24.552–635 | Hector released; washing, meal, and Niobe exemplum | Ritual release and measured hospitality | Collated 2026-09-02; verify the held-back garments, Patroclus address, Niobe sequence, and sleep request at meter review. |
 | 24.636–804 | Hector's funeral and laments | Ritual closure | Verify Cassandra, Andromache, Hecuba, Helen, and pyre. |
 
 ## Draft warning

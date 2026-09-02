@@ -2,8 +2,8 @@
 
 **Source passage:** Book 24, lines 1–804 (complete working-book draft)
 
-**Status:** First source-collated literary revision through lines 1–386;
-independent meter and Greek-fidelity review remains pending. Lines 387–804
+**Status:** First source-collated literary revision through lines 1–551;
+independent meter and Greek-fidelity review remains pending. Lines 552–804
 remain in their Greek-collation files pending promotion.
 Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
@@ -411,6 +411,173 @@ has fallen—and he lacked nothing in the battle against the Achaeans?”
 
 **Continuation:** line 387 begins Hermes’s answer and the final approach
 to Achilles’s shelter; this unit ends at the question to Priam.
+
+## Translation — source-collated lines 387–551
+
+“And who art thou, most excellent, and of what parents born?
+Thou hast spoken well concerning my unhappy son.”
+
+The messenger, the Slayer of Argus, answered him:
+“Old man, thou testest me, and askest me of noble Hector.
+I have seen him often in the glorious battle where men win fame;
+I saw him also when he drove the Argives toward the ships,
+slaying them with sharp bronze. We stood and wondered;
+for Achilles, angered with the son of Atreus, would not let us fight.
+I was his servant, and one well-built ship brought me from Myrmidon land.
+My father is Polyctor. He is rich, but already old as thou art;
+six sons he has, and I am the seventh. By lot I was chosen
+to come here among them. Now I have come from the ships upon the plain;
+at dawn the bright-eyed Achaeans will make battle round the city.
+Their kings are impatient as they sit, and cannot hold back
+the army’s eagerness for war.”
+
+Godlike old Priam answered: “If thou art indeed a servant
+of Peleus’ son Achilles, tell me all the truth:
+is my son still beside the ships, or has Achilles already cut him
+limb from limb and laid him out for his own dogs?”
+
+The messenger, the Slayer of Argus, answered him:
+“Old man, the dogs have not eaten him, nor the birds;
+he still lies there beside Achilles’ ship, within the shelter,
+just as he was. The twelfth dawn has risen while he lies there,
+yet his flesh does not decay, nor do the worms consume him,
+those worms that eat the men who fall in battle.
+At daybreak Achilles drags him without pity around the tomb
+of his beloved companion; but he does not dishonor him.
+Go and see for thyself how fresh he lies, with blood washed away,
+and no stain upon him. All the wounds are closed—those wounds
+where the bronze entered him, though many struck him.
+So greatly do the blessed gods care for thy son, even in death,
+because he was dear to them, and dear beyond measure.”
+
+The old man rejoiced and answered: “My child, it is good
+to give the immortals their due gifts; my son never forgot them,
+not once, if ever he lived, within his halls. Therefore they remember
+him now, even in the portion of death. But come, receive this beautiful cup
+from my hand; save me, and guide me under the gods’ protection,
+until I reach the shelter of Peleus’ son.”
+
+The messenger answered: “Thou testest me, old man, though I am younger;
+thou wouldst persuade me to accept gifts from thee, without Achilles’ word.
+I fear and reverence him too much to rob him, lest some evil afterward
+come upon me. But I would be thy guide, even as far as famous Argos,
+whether I walked beside thee on foot or sailed in a swift ship;
+no man would despise thy guide and rise against thee.”
+
+So he sprang upon the chariot, took the whip and reins,
+and breathed good strength into the horses and the mules.
+When they reached the towers, the trench, and the ships,
+the guards had only just begun their evening meal;
+then the messenger, the Slayer of Argus, poured sleep over them all,
+and at once opened the gates and thrust back the bars,
+leading Priam and the shining gifts inside upon the wagon.
+
+When they came to the high shelter of Peleus’ son,
+which the Myrmidons had built for their king,
+cutting the pine-tree beams and roofing it above
+with a thatch of meadow-grass; and when around it they had made
+a great court for their lord, with close-set stakes,
+and one pinewood gate, fastened by a single bar,
+which three Achaeans used to close and three to open—
+though Achilles alone could close and open it—
+then gracious Hermes opened the gate for the old man,
+and brought in Priam and the glorious gifts to the swift-footed son
+of Peleus. He stepped down from the horses to the earth and spoke:
+
+“Old man, know that I am Hermes, an immortal god.
+My father sent me as thy guide. But now I return;
+I will not enter the eyes of Achilles; it would be unseemly
+for an immortal to show such honor face to face to mortals.
+But go thou within, clasp the knees of Peleus’ son,
+and supplicate him for his father, his fair-haired mother,
+and his child, that thou mayest stir his heart.”
+
+So speaking, Hermes departed toward high Olympus.
+Priam leapt down from the chariot and left Idaeus there,
+to guard the horses and the mules. The old king went straight
+into the shelter where Achilles was accustomed to sit.
+He found Achilles within; his companions sat apart.
+Only two heroes, Automedon and Alcimus, branches of Ares,
+served him as he sat; he had newly ended his food and drink,
+and the table still stood beside him.
+
+Great Priam entered unseen, stood near, clasped Achilles’ knees,
+and kissed the hands terrible in battle, hands that had killed
+so many of his sons. As when a man, stricken by a sudden madness,
+having killed a countryman, comes among strangers to the house
+of a wealthy man, and wonder seizes all who see him—
+so Achilles wondered when he saw godlike Priam;
+the others wondered too, and looked upon one another.
+
+Then Priam spoke to him, supplicating:
+“Remember thy father, godlike Achilles, like me upon
+the grievous threshold of old age. Perhaps the neighbors around him
+wear him down, and there is no one to ward off trouble and ruin.
+Yet he, hearing that thou livest, rejoices in his heart,
+and every day hopes to see his dear son returning from Troy.
+But I am altogether unfortunate: I fathered the best of sons
+in spacious Troy, and not one, I think, remains.
+Fifty sons I had when the Achaeans came;
+nineteen were born to me from one womb,
+and the others women bore within my halls.
+Most of them swift Ares loosened at the knees.
+But the one who stood alone, defending the city and its people—
+Hector, whom thou hast killed but lately as he fought for his country—
+for his sake I have come now to the ships of the Achaeans,
+to ransom him from thee; and I bring a ransom beyond counting.
+Revere the gods, Achilles, and have pity upon me,
+remembering thy father. I am more pitiable than he;
+for I have endured what no other mortal on earth has endured:
+I have brought my hand to the mouth of the man who killed my son.”
+
+So he spoke, and stirred in Achilles the desire to weep for his father.
+He took the old man’s hand and gently pushed him away.
+Then, remembering each other, the one mourned Hector the man-killer,
+lying released before Achilles’ feet; and Achilles mourned his father,
+and at times Patroclus. The sound of their lament rose throughout the house.
+
+When noble Achilles had taken his fill of mourning,
+and the desire had gone from his heart and limbs,
+he rose at once from his seat and lifted the old man by the hand,
+pitying his gray head and gray beard. He spoke winged words:
+
+“Ah, wretched man, thou hast endured many sorrows in thy heart.
+How couldst thou dare to come alone among the ships of the Achaeans,
+into the eyes of the man who has destroyed so many of thy brave sons?
+Thy heart must be made of iron. Come, sit upon this seat;
+though we are grieving, let us lay our pains down within our hearts.
+There is no profit in the chill lament; for the gods have spun
+this destiny for miserable mortals: to live in grief,
+while they themselves are free from care.
+
+“Two jars stand upon Zeus’ floor, filled with gifts he gives:
+one holds evils, the other blessings. To the man with whom
+Zeus who delights in thunder mingles the gifts, now evil comes,
+now good; but to the man to whom he gives only the sorrowful gifts,
+he makes him disgraced, and grim hunger drives him over the bright earth;
+he wanders honored neither by gods nor mortals.
+
+“So the gods gave Peleus splendid gifts from his birth;
+he surpassed all men in happiness and wealth,
+and ruled the Myrmidons. Though mortal, the gods gave him a goddess
+for his wife; yet even upon him a god laid this evil:
+no race of mighty sons was born to him within his halls,
+but only one son, born to a death before his time.
+Nor do I care for him now that he grows old, since far from his country
+I sit in Troy, bringing sorrow to thee and to thy children.
+
+“And thou, old man, we once heard, wert blessed:
+as far as Lesbos, the seat of Makar, encloses thee above,
+and Phrygia lies beyond, and the boundless Hellespont—
+they said thou surpassed all elders in wealth and sons.
+But since the gods of heaven brought this sorrow upon thee,
+battles and slaughter have forever surrounded thy city.
+Endure, and do not lament without ceasing within thy heart;
+thy grief will win thee nothing, nor wilt thou raise thy son again,
+before another evil first befall thee.”
+
+**Continuation:** line 552 begins Priam’s meal and the night’s rest;
+this unit ends after the first shared mourning in Achilles’s shelter.
 
 ## Working synopsis
 

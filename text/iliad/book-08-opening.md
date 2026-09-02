@@ -6,29 +6,59 @@
 
 ## Translation
 
-Dawn rose, and Zeus called the gods to council. He spoke:
+Dawn spread her saffron robe across the earth, and Zeus, delighting in thunder,
+called the gods to council on the highest peak of many-ridged Olympus. He spoke,
+and all the gods listened: “Hear me, every god and goddess, while I say what my
+heart commands. Let no female or male god attempt to break my word; all together
+approve it, that I may bring this work to its swift end. If I see any one of you
+going apart from the others to aid either Trojans or Danaans, he shall return to
+Olympus beaten and dishonored, or I will seize him and throw him into misty Tartarus,
+far down, where the iron gates and brazen threshold lie as far beneath Hades as
+heaven is above the earth. Then you will learn how much I am the strongest of all.
 
-“No god shall help the Trojans or the Argives today.
-If I find one descending to the battle, I will seize him
-and cast him into Tartarus, far below the earth and sea.
-Then he will know that I am stronger than all the immortals.
-Look at the chain I could hang from heaven: all gods together
-could not pull me down, while I could lift earth and sea.”
+“Come, test it, gods, so that you may all know. Hang a golden chain from heaven,
+and take hold of it, every god and goddess together; you could not drag highest
+Zeus from heaven to earth, though you labored greatly. But if I wished to pull,
+I could draw you up with the earth and the sea, bind the chain around the ridge
+of Olympus, and leave all things suspended. So far do I stand above gods and men.”
 
-The gods sat silent. Zeus mounted his chariot, took the reins,
-and drove from Olympus. He came to Ida, rich in springs,
-and sat upon Gargarus, beneath an oak. The armies met below.
+He spoke, and all sat silent, astonished by the force of his word. At last gray-eyed
+Athena said: “Our father, son of Cronus, you know that your strength cannot be
+opposed. Yet we pity the spear-bearing Danaans, who will perish in an evil fate.
+We will keep away from the war as you command, but we will give the Argives counsel
+that may help them, lest they all perish beneath your anger.”
 
-The Trojans crossed the plain with Hector leading them.
-Zeus lifted the scales of fate, and Hector's side rose high;
-the day of the Achaeans fell. Thunder rolled above the field.
+Cloud-gathering Zeus smiled and answered: “Take courage, Tritogeneia, dear child;
+I do not speak in anger, but wish to be gentle with you.” He harnessed his bronze-
+hoofed horses with their golden manes, clothed his body in gold, seized the golden
+whip, and mounted the chariot. The willing horses flew between earth and the
+starry heaven. He reached Ida, rich in springs, mother of wild beasts, and Gargarus,
+where he had a sacred grove, altar, and incense. There the father of gods and men
+unharnessed the horses, hid them in deep mist, and sat upon the peak in his glory,
+looking toward the city of Troy and the Achaean ships.
 
-Hector drove the Argives back. Teucer stood with his bow,
-and shot eight men, but Hector's ninth arrow struck him.
-The bow fell, and Ajax covered him with his shield.
-Idomeneus and Diomedes fought near the wall, but the Trojans
-pressed like a fire through dry grass. The Achaeans turned
-their chariots toward the ships, and the night grew near.
+The long-haired Achaeans took their meal quickly among the huts and armed themselves;
+the Trojans armed throughout the city, fewer than before, yet determined by necessity
+to fight before their children and wives. All the gates opened, and footmen and
+horsemen rushed out amid a great uproar. When they met in one place, hide struck hide,
+spear struck spear, and the courage of bronze-clad men collided. The bossed shields
+crashed together; cries rose from those who killed and those who died, and the earth
+ran with blood.
+
+As the sacred day grew, missiles struck both sides and men fell. When the sun stood
+at mid-heaven, Zeus stretched out his golden scales and set in them the two fates
+of death, one for the horse-taming Trojans and one for the bronze-clad Achaeans.
+He lifted the balance at its middle: the Achaeans’ day sank toward the earth,
+while the Trojan fate rose toward the broad heaven. Zeus thundered terribly from
+Ida and cast a blazing flash among the Achaeans; they were seized by green fear.
+
+Neither Idomeneus nor Agamemnon, nor either Ajax, dared remain; only Nestor stayed,
+not willingly, for an arrow shot by Paris, husband of fair-haired Helen, struck his
+horse at the top of its head where the first mane grows, the most vulnerable place.
+The horse sprang in pain; the shaft entered its brain, and it tangled the others
+in the bronze. While the old man cut the traces with his sword, Hector’s swift
+horses came through the uproar carrying their driver, and the old man would have
+lost his life had Diomedes not seen him and called loudly to Odysseus.
 
 Agamemnon raised his hands to Zeus:
 

@@ -5,8 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 8.1–52 | Zeus prohibits divine intervention | Cosmic hierarchy | Verify the threat, chain image, and divine response. |
-| 8.53–176 | Zeus weighs the armies and raises Hector | Scales and thunder | Check the omen sequence and battle reversal. |
+| 8.1–176 | Zeus prohibits divine intervention; scales and first reversal | Cosmic hierarchy; scales and thunder | Collation recorded in `book-08-collation-1-176.md`; preserve the threat, chain image, Gargarus setting, battle reversal, and Nestor’s endangered horses. |
 | 8.177–286 | Teucer, Hector, and the Achaean retreat | Bow, shield, and wall | Verify wounds, chariots, and named actions. |
 | 8.287–390 | Nestor and Diomedes before Hector | Failed rescue and restraint | Collate Eniopeus, Zeus's broken spear, and the retreat. |
 | 8.391–482 | Hera and Athena recalled | Divine frustration | Check Iris's message and the gods' speeches. |

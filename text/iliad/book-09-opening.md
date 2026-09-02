@@ -6,29 +6,44 @@
 
 ## Translation
 
-The Achaeans were driven back, and fear stood among them.
-Agamemnon called the elders to council. He wept and said:
+The Trojans kept watch, but the Achaeans were held by a terrible companion,
+chill fear, and every champion lay beneath unbearable grief. As Boreas and Zephyr
+suddenly stir the fish-filled sea, raising black waves and scattering seaweed along
+the shore, so the Achaeans’ hearts were torn within them. Agamemnon, pierced by
+great sorrow, called the leaders quietly to assembly and stood weeping like a
+dark-water spring pouring down a sheer rock:
 
-“Friends, Zeus has caught me in a ruinous error. Let us launch
-the ships and flee. Troy is too strong, and the god has turned away.”
+“Friends, Zeus, son of Cronus, has bound me in ruinous delusion. Once he promised
+that we would sack well-walled Ilium and return; now he devises a hateful deception
+and commands me to go dishonored to Argos, having lost so many men. Come, let us
+obey my word: let us flee with our ships to our dear fatherland. We shall not take
+broad-streeted Troy.”
 
-Diomedes rose: “Atreus' son, you may leave if you wish.
-The rest of us will stay. We came here under fate. A man who runs
-from battle cannot command those who remain. Let the army fight.”
+Diomedes rose: “Atrid, I will oppose you in your folly, as is lawful in assembly.
+You once reproached my courage before the Danaans, but the young and old Argives
+know that this was false. Zeus gave you a scepter, honoring you above all, but did
+not give you the greatest strength. If your heart urges you to go, go: the road is
+open, and your many ships stand near the sea. Others of us will remain until we have
+sacked Troy. Sthenelus and I will fight until we find the end of Ilium, for we came
+here with a god.” The Achaeans shouted approval.
 
-The chiefs praised him. Nestor, wise in counsel, spoke:
+Nestor rose: “Son of Tydeus, you are strong in war and best of your peers in counsel;
+no Achaean will find fault with your speech, but you have not reached its end. You
+are young enough to be my youngest son, yet you speak wisely to kings. Let us obey
+the black night, prepare supper, and set guards beside the dug trench. Then,
+Agamemnon, feast the elders; your huts are full of wine, and men will hear the
+counsel of whoever offers the best plan. Our enemies burn many fires near the ships;
+who could be glad? This night will either shatter the army or save it.”
 
-“Agamemnon, the fault is yours. You angered Achilles and took
-his prize, though he is the best among us. Give back Briseis,
-and send gifts beyond counting. Go to his tent and ask forgiveness.
-Let Phoenix, Ajax, and Odysseus carry your words.”
-
-Agamemnon answered: “I was blinded by delusion. I will make amends.
-I will give seven tripods, twenty shining cauldrons, and talents of gold;
-cities I took in Thrace; and when we reach Troy, Achilles may choose
-twenty Trojan women. I will return Briseis untouched, and swear
-I have not approached her bed. If he returns, he will be honored
-like my own brother. Let the gifts be carried to him now.”
+The kings obeyed. Agamemnon answered: “Old man, you have not lied in naming my error.
+I was blinded, and I do not deny it. I will appease Achilles with measureless ransom:
+seven tripods, ten talents of gold, twenty shining cauldrons, twelve prize-winning
+horses, and seven skilled Lesbian women, with Briseis among them. I will swear that
+I never entered her bed. These shall be ready at once. If we sack Priam’s city,
+Achilles may load his ship with gold and bronze, choose twenty Trojan women next to
+Helen in beauty, and take one of my three daughters to Peleus’ house without bride-
+price. I will give him seven cities near the sea, whose people will honor him like
+a god. Let him submit; Hades is pitiless and unconquerable.”
 
 They loaded the gifts upon wagons, and the heralds led the way.
 Odysseus and Ajax went to Achilles' shelter, with Phoenix beside them.

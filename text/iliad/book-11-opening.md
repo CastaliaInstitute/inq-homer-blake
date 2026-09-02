@@ -390,46 +390,119 @@ for the horses rushed past me in front.”
 Patroclus obeyed his beloved companion and ran beside the huts and ships of the
 Achaeans.
 
-Patroclus obeyed, while Hector drove the Argives to their ships.
-The dust rose, and the sea shone behind the fleeing men.
+Then Nestor and Machaon, from the chariot,
+Stepped down upon the earth beside the sea,
+And wiped the sweat from off their tunics, while
+The sea-wind cooled them. In the shelter, then,
+Hecamede of the lovely braided hair,
+The daughter of Arsinoüs, whom Achilles
+Had taken from Tenedos, and the Greeks
+Had given to old Nestor for his excellence,
+Set forth a polished table, dark of foot.
+Upon it stood a cup of bronze, four-eared,
+With golden studs, and doves of gold beside
+Each handle; and she mingled Pramnian wine
+With cheese of goat, scraped by the bronze, and meal
+Of shining barley, and bade them drink.
 
-The wounded commanders gathered in their shelters: Agamemnon,
-Diomedes, and Odysseus. They were unable to fight, but still gave counsel.
-Agamemnon said: “Our wall has not held. The ships are in danger.
-Call Achilles, if he will listen.”
+Then Patroclus came near. The old man rose
+And welcomed him; but he refused the seat.
+“No time for sitting,” he replied, “is here.
+Tell me whom you have brought, struck down from battle.”
+Already, looking closely, he had seen
+Machaon, son of that great healer, and
+Would bear the tidings to Achilles’ tent.
 
-The Achaeans formed again by the ditch. Ajax held the front,
-while Hector sought a way through. Zeus watched from Ida,
-and sent terror into the hearts of the Argives.
+And Nestor answered: “Why does Peleus’ son,
+Though he can see the grief of all the host,
+Not understand the grief that fills our ranks?
+The chiefs are wounded: Diomedes lies
+Apart, and the spear wounded Odysseus;
+Agamemnon also suffers, and
+Eurypylus is stricken in the thigh.
+The best of us lie helpless by the ships.
+Will Achilles wait until the black ships burn,
+And all the Argives perish at the sea?”
 
-Patroclus returned to Achilles' tent. He found Eurypylus bleeding,
-and cut out the arrow, washed the wound with warm water,
-and laid bitter herbs upon it. The herbs stopped the blood,
-but Eurypylus' pain did not cease.
+Then Nestor told the strength of former days,
+When he had fought the Epeans for their debt.
+He slew Itymoneus, and took their teams,
+Fifty dark chariots, and from each two men;
+The sons of Actor, famous horsemen both,
+The Moliones, he had nearly slain,
+Had not Poseidon hidden them in mist.
 
-Achilles saw Patroclus' tears and asked: “Why do you weep?
-You look like a girl running beside her mother, begging to be held.
-Do not hide it. Tell me what the army suffers.”
+He told how from Pylos they drove away
+The cattle, sheep, and swine, and mares of war;
+How through the night they marched, and how Athena
+Had called him to the battle; how his father,
+Old Neleus, hid his horses, thinking him
+Unpracticed in the handling of a team;
+How by the Minyeian river they
+Made offering to Zeus, Alpheius, lord
+Of silver streams, Poseidon of the deep,
+And bright-eyed Pallas; how the Epeans fell.
 
-Patroclus answered: “Achilles, you have a cruel heart. The wounded
-fill the ships. Agamemnon, Diomedes, and Odysseus cannot fight.
-Machaon is hurt, and Eurypylus lies bleeding here. I wish you would
-return. If not, let me wear your armor, and lead the Myrmidons.
-The Trojans may mistake me for you, and the army may breathe again.”
+There Mulius, son-in-law of Augeias,
+And husband of Agamede, fell—she knew
+The medicines that the nourishing earth brings forth—
+And Nestor seized his chariot, and took fifty
+More teams. The sons of Actor escaped alone,
+When mist from their sea-father hid them there.
 
-Achilles replied: “I am not yet ready to forgive Agamemnon.
-But take the armor, and lead the men only as far as the ships.
-Do not pursue the Trojans to the wall. If you go farther,
-you will win me honor but bring death upon yourself.”
+“If youth and strength were mine again,” he said,
+“Then Achilles would win a glory greater
+Than any valor of my former time.
+Yet tell him what your father charged you, when
+You left the house of Menoetius. He said:
+‘Achilles is the greater, by his birth
+And strength; but you are older. Speak wise words
+Before him, and advise him. If he still
+Withholds himself, obeying prophecy
+Or his dear mother’s warning, go forth armed
+With all the Myrmidons. Put on his arms,
+And let the Trojans think Achilles comes.
+So might the Argives draw a little breath,
+Though only for a moment, from the war.’”
 
-He watched the battle through the tent's opening. The armor lay ready,
-and Patroclus' request began to move the story toward its catastrophe.
+He ceased; and Patroclus ran beside the ships,
+Toward where Achilles waited. But Eurypylus,
+The son of Euaemon, limped from battle,
+An arrow fast within his thigh. The sweat
+Ran down his shoulders and his head, and dark
+Blood streamed from that grievous wound; his mind,
+Though shaken, still remained steadfast. He saw
+Patroclus and cried out: “Save me, my friend!
+Lead me within your hut; draw forth the shaft
+That pierces me, and wash away the blood
+With warm water. Then sprinkle gentle herbs,
+The medicines, men say, that Achilles learned
+From Chiron, justest of the Centaurs. Our
+Physicians, Podalirius and Machaon,
+Are wounded or are needed elsewhere; and I
+Have held my ground until you came.”
+
+Then pity seized Patroclus. “I cannot leave
+A man in such distress,” he answered him,
+“For Nestor sent me to the son of Peleus.”
+He led him to the hut. A servant spread
+The hides; Patroclus stretched the wounded thigh,
+And with his knife cut out the bitter arrow.
+He washed the black blood with warm water, then
+Ground down a bitter root and rubbed it in.
+The wound grew dry; the dark blood ceased to flow;
+Yet still the anguish held Eurypylus.
 
 ## Decision log
 
 - The book is organized around wounds as a form of knowledge: commanders
   leave the field, healers become targets, and Patroclus learns what action
   the army requires.
+- The 2026-09-02 revision replaces the compressed ending with a continuous
+  blank-verse pass for 11.618–848. It restores Hecamede's preparation of the
+  kykeon, Nestor's Pylian exemplum and Menoetius's charge, and Eurypylus's
+  request and treatment; it remains a working version pending independent
+  Greek-fidelity and meter review.
 - Patroclus' tears are retained as moral perception rather than weakness;
   they translate the battlefield's distant crisis into Achilles' tent.
 - Achilles' permission is deliberately conditional. The restriction on

@@ -10,8 +10,8 @@ These notes accompany the current opening draft and are not final commentary.
 | 2.87–100 | The Achaeans gather like bees | Bee-rock and meadow image | Check the geography and motion of the simile against the copy text. |
 | 2.110–141 | Agamemnon tests the army | “test” rather than “command” | Keep the disastrous gap between the king's intention and the army's hearing. |
 | 2.155–210 | Hera sends Athena; Odysseus restores order | Scepter as civic instrument | Distinguish courteous admonition to a king from force used against a common man. |
-| 2.211–277 | Thersites attacks Agamemnon | “ugly words” and bodily grotesquerie | Review whether the English preserves the narrator's hostility without turning the scene into caricature. |
-| 2.278–393 | The army is restored and the Achaean contingents begin | Ordered ranks and the bull simile | Verify command sequence, simile placement, and the relation of tribes to clans. |
+| 2.211–277 | Thersites attacks Agamemnon | Hostile bodily grotesquerie, intelligible political complaint, and unequal scepter violence | Collation recorded in `book-02-collation-211-393.md`; review whether the English preserves the narrator's hostility without turning the scene into caricature. |
+| 2.278–393 | The army is restored; the serpent omen is recalled; battle preparation begins | Athena's herald, Aulis, nine/tenth-year interpretation, tribes and clans, and physical battle readiness | Collation recorded in `book-02-collation-211-393.md`; verify command sequence, omen placement, and the relation of tribes to clans. |
 | 2.394–493 | Catalogue of Achaean ships and leaders | Place-name catalogue in ceremonial pentameter | Collate every name, ship count, genealogy, and geographical modifier. |
 | 2.494–877 | Catalogue of Trojan and allied forces; armies assemble | Muses' memory, bird and sheep similes, final battle readiness | Verify the Trojan contingents, the closing divine perspective, and all proper names. |
 

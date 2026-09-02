@@ -272,53 +272,273 @@ The people returned from the ships. The gathering became
 
 like a high wave breaking, then settling in its bed.
 
-Only Thersites still poured out his ugly words.
+Only Thersites remained, still pouring out his unmeasured words.
 
-He knew many things, but knew no measure in speech.
+He knew many shameful things, but knew no order in his speech;
 
-With a crooked body and a head narrowed above,
+he loved to quarrel with kings and say whatever seemed laughable
 
-he came before the king and mocked Agamemnon:
+to the Argives. He was the ugliest man who came to Ilium:
 
-“Son of Atreus, what do you lack now? Your shelters are full
+bandy-legged, lame in one foot, his shoulders hunched together
 
-of bronze and women, prizes the Achaeans bring you first.
+over his chest, and above them his pointed head was thinly covered
 
-Do you want more gold, a ransom some Trojan will bring
+with down. Achilles and Odysseus hated him most of all,
 
-to buy his son, whom I or another Greek has bound?
+for he was always abusing them. Now he shrilled against Agamemnon,
 
-You have led us into war and made our hearts sick with it.
+and the Achaeans grew angry and resented him in their hearts.
 
-Let us sail home, leaving him here with his prizes,
+He shouted loudly and reproached the shepherd of the people:
 
-so he may learn whether we have been of any use.”
+“Son of Atreus, what are you blaming now, and what do you lack?
 
-Odysseus struck his shoulders with the scepter. Thersites
+Your huts are full of bronze, and many women are there,
 
-bent and wept, while a dark swelling rose beneath his skin.
+chosen out for you first whenever we take a city.
 
-The army laughed, and one man turned to another:
+Do you still lack gold, some ransom a horse-taming Trojan
 
-“Odysseus has done a thousand good things, but this is best:
+will bring from Ilium for his son, whom I or another Achaean
 
-he has stopped the loud mouth that disgraces the people.”
+has bound and led away? Or a young woman, to join with her in love,
 
-The assembly now stood restored. The kingly heralds called
-the soldiers back into ranks, and the men fell into order.
-As when a fire runs over the dry hillside, and the wind
-drives its red tongue before it, so the murmur passed
-through all the camp. The earth groaned beneath the feet
-of the moving host. Then the chiefs began to marshal
-the chariots, horses, shields, and men beside the sea.
+whom you alone keep apart from the others? It is not fitting
 
-Agamemnon went among them, like a bull that leads the herd,
-high among the cattle, standing out above them all.
-He was attended by the heralds and by men of counsel,
-and Nestor urged the Pylians into their ordered ranks.
-The lord of men commanded each captain to make his people
-stand by tribes and clans, so that one might aid another
-when battle closed, and every man might know his neighbor.
+that the leader of our troubles should heap more trouble upon us.
+
+Soft, shameful Achaeans, no longer men—let us sail home
+
+with our ships and leave this man here in Troy to consume his prizes,
+
+so that he may see whether we are of any use to him or not—
+
+the man who has dishonored Achilles, a far better man than he,
+
+and taken his prize for himself. Yet Achilles is not angry enough;
+
+otherwise, son of Atreus, this would be your last outrage.”
+
+So Thersites mocked Agamemnon, shepherd of the people.
+
+At once godlike Odysseus stood beside him and looked him down:
+
+“Thersites, reckless speaker, hold your tongue. Do not try alone
+
+to quarrel with kings. I say there is no worse mortal than you
+
+among all who came with the sons of Atreus to Ilium.
+
+Therefore do not carry the kings' names in your mouth,
+
+or heap insults upon them, or urge the people home.
+
+We do not yet know how these matters will end,
+
+whether we Achaeans will return well or badly.
+
+You sit here abusing Agamemnon, shepherd of the people,
+
+because the heroes of the Danaans give him many gifts,
+
+and you speak by taunting. But I tell you—and this shall be fulfilled:
+
+if I find you raving again as now, let Odysseus have no head on his shoulders,
+
+and let me no longer be called Telemachus's father,
+
+if I do not strip your cloak and tunic, the garments that cover your shame,
+
+and send you weeping to the swift ships, beaten with disgraceful blows.”
+
+He struck his back and shoulders with the golden scepter.
+
+Thersites bent, tears fell thickly, and a bloody welt rose beneath the scepter.
+
+He sat trembling, wiped away the tear, and looked helplessly around.
+
+The army, though grieved for him, laughed aloud, and one man said to another:
+
+“Odysseus has done countless good things, leading counsel and arming war;
+
+but this is the best he has done among the Argives:
+
+he has stopped this abusive loudmouth from insulting kings.”
+
+So the multitude spoke. Then city-sacking Odysseus rose,
+
+holding the scepter; beside him bright-eyed Athena,
+
+in the likeness of a herald, ordered the people to be silent,
+
+so that the first and last of the Achaeans might hear
+
+and understand the counsel. Odysseus spoke thoughtfully:
+
+“Son of Atreus, the Achaeans now want to make you,
+
+their king, the most disgraced of all mortal men.
+
+They do not fulfill the promise they made when they left Argos:
+
+that they would return after taking well-built Ilium.
+
+They groan like young children and widowed women,
+
+each longing to go home. It is painful to stay and return
+
+after a single month away from one's wife on a many-benched ship,
+
+when winter winds and the troubled sea hold a man in place.
+
+But we have spent nine turning years here; I do not blame
+
+the Achaeans for grieving beside their curved ships.
+
+Yet it is shameful to remain long and return empty-handed.
+
+Endure, friends, and stay a little longer, until we learn
+
+whether Calchas truly prophesies or not. We know this well,
+
+and you are all witnesses who escaped the fate of death:
+
+when the Achaean ships gathered at Aulis, carrying slaughter
+
+to Priam and the Trojans, we sacrificed perfect hecatombs
+
+beside the spring, under a beautiful plane tree where clear water ran.
+
+There a great sign appeared. A red-backed, terrible serpent,
+
+sent into the light by Zeus himself, darted from beneath the altar
+
+and rushed to the plane tree. There were eight sparrow nestlings,
+
+young chicks huddled beneath the leaves on the highest branch;
+
+their mother was the ninth, who had hatched them.
+
+The serpent ate them as they chirped pitifully;
+
+the mother flew around mourning her dear young,
+
+but the serpent seized her by the wing as she cried out.
+
+When it had eaten the chicks and their mother, the god who showed it
+
+made the serpent conspicuous, turning it to stone.
+
+We stood astonished at what Zeus had done.
+
+Then Calchas spoke among us, interpreting the omen:
+
+‘Why are you silent, long-haired Achaeans? Mighty Zeus
+
+has shown us this great sign, late in appearing but late to fulfill,
+
+whose glory shall never die. As the serpent ate the eight chicks
+
+and their mother, the ninth, so shall we fight here for nine years;
+
+in the tenth we shall take the broad-wayed city.’
+
+That is what he said, and now all is being fulfilled.
+
+Stay here, well-greaved Achaeans, until we take Priam's great city.”
+
+He spoke, and the Argives shouted loudly; the ships roared terribly
+
+under the Achaeans' cry, praising godlike Odysseus.
+
+Then Gerenian Nestor, the horseman, spoke:
+
+“Shame on you—you speak like children, like infants
+
+who know nothing of the work of war. Where are our agreements
+
+and oaths now? Let our counsels and plans, our libations
+
+and right hands pledged in trust, burn in fire.
+
+We quarrel with words and find no remedy, though we have been here long.
+
+Agamemnon, hold the unbending counsel you had before
+
+and lead the Argives through the harsh battle.
+
+Let those who plan apart from the Achaeans wither, one or two at a time;
+
+their plan will not succeed. Before we return to Argos,
+
+we must learn whether the promise of Zeus who bears the aegis
+
+was false or not. For I say that mighty Cronus's son nodded
+
+on the day we boarded our swift ships, carrying death to Troy,
+
+showing favorable signs with lightning on our right.
+
+Let no one hurry home before he has slept beside a Trojan wife
+
+and taken vengeance for Helen's striving and groaning.
+
+If anyone still fiercely desires to go home, let him touch
+
+his black, well-benched ship, so that he may meet death and fate
+
+before the others. And you, king, plan well and listen to another word:
+
+sort the men by tribes and clans, Agamemnon,
+
+so clan may help clan and tribe may help tribe.
+
+If you do this and the Achaeans obey, you will know
+
+which leader is bad and which is good, and which common man is brave:
+
+they will fight in their own divisions. You will know too
+
+whether you will fail to take the city because of your men's weakness
+
+or because of their lack of knowledge in war.”
+
+Agamemnon answered him:
+
+“Old man, you win the assembly again. If only Zeus the father,
+
+Athena, and Apollo would give me ten counselors such as you among the Achaeans,
+
+Priam's city would soon bow and be sacked beneath our hands.
+
+But Zeus, son of Cronus, has given me grief: he throws me into
+
+useless quarrels and disputes. Achilles and I fought over a girl,
+
+and I began it in anger. If we ever agree in one counsel again,
+
+Troy's suffering will no longer be delayed, not even for a little.
+
+Now go to dinner, so that we may join battle.
+
+Let each man sharpen his spear well, set his shield well,
+
+feed his swift-footed horses well, and inspect his chariot carefully,
+
+so that all day we may be tested in hateful Ares.
+
+There will be no pause, not even for a little, unless night comes
+
+to divide the force of men. The shield-strap will sweat
+
+around the chest of one man, his hand will grow weary on the spear;
+
+another's horse will sweat as he strains the polished chariot.
+
+But whoever I see willingly lingering apart from battle
+
+beside the curved ships will not escape the dogs and birds.”
 
 First came the Boeotians, from Hyria and Aulis,
 from Schoenus, Eteon, Thespia, and the vine-rich Graia;

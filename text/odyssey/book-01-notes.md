@@ -12,6 +12,10 @@ research notes, not final commentary.
 | 1.22–43 | Zeus's Aegisthus example | Direct moral argument | Keep Zeus's claim about mortal responsibility distinct from an abstract philosophical maxim. |
 | 1.44–50 | Athena's concern for Odysseus | “wise Odysseus” | Track the epithet and its changing force across the complete poem. |
 | 1.51–100 | Divine plan, Athena's descent, and Telemachus's welcome | Threshold movement | Verify speaker changes, identities, and the exact sequence of Athena's arrival before approval. |
+| 1.101–147 | Ritual welcome and the suitors' imposed feast | Hospitality as household order | Preserve the sequence of hand-washing, food, wine, and song without making the ritual feel decorative. |
+| 1.328–364 | Penelope asks Phemius to change his song | Return-song as present grief | Keep the distinction between the singer's compelled performance and Penelope's private mourning. |
+| 1.365–398 | Telemachus claims speech and authority | “Speech is the concern of every man” | Test the force of *muthos* and *oikos* without importing modern legal language. |
+| 1.170–200 | Antinous and Eurymachus challenge Telemachus; Athena's assumed identity is tested | Public uncertainty and inherited friendship | Collate the exact Greek line range and the Taphian/Temesan geography before approval. |
 
 ## Draft warning
 

@@ -166,6 +166,232 @@ received her spear, and spoke with winged words:
 
 First take food, and afterward tell us what you seek.”
 
+## Extension: the hall and the first assembly
+
+**Source passage:** Book 1, lines 101–200 (working range; verify against copy text)
+
+He led her through the house, and set the spear
+
+against a shining pillar in the spear-stand,
+
+where many other weapons rested, long ago
+
+carried by Odysseus, but now covered from sight.
+
+He brought her to a chair, carved and polished,
+
+beautiful, high-backed, with a woven cloth laid over it;
+
+for himself he drew a smaller seat beside her,
+
+apart from the suitors, lest the stranger be disturbed
+
+by their loud shouting and their insolent feast,
+
+and lest, while eating, he should question him
+
+about his father, whom he had so long desired.
+
+A maid brought water in a golden pitcher,
+
+and poured it over their hands into a silver basin.
+
+Then an honored housekeeper set a polished table
+
+before them. She brought bread, and many dishes,
+
+giving freely from the stores she kept within.
+
+The carver lifted platters of many kinds of meat,
+
+and set beside them cups of gold. The herald
+
+came often, pouring wine among the guests.
+
+The suitors entered then, the proud young men,
+
+and sat in order on the benches and the chairs.
+
+The heralds poured water over their hands;
+
+the serving women filled baskets with bread;
+
+and boys crowned the mixing bowls with wine.
+
+They reached for the food placed before them.
+
+When they had eaten and had driven hunger away,
+
+the singer Phemius took his resonant lyre;
+
+the suitors had compelled him to sing among them.
+
+He struck the opening chord, and began a song
+
+of the hard return of the Achaeans from Troy,
+
+the homeward passage the gods had made bitter.
+
+From her upper room Penelope heard the inspired singer,
+
+and came down the polished stairs—not alone:
+
+two attendants followed close behind her.
+
+When she had drawn near the suitors, she stood
+
+beside the pillar supporting the roof, and held
+
+a shining veil before her face. Then she spoke
+
+through tears to the divine singer:
+
+“Phemius, many other songs you know to delight
+
+the hearts of mortal men, the deeds of gods and heroes,
+
+which singers make famous. Choose one of these,
+
+and let them drink in silence. But do not sing
+
+this sorrowful return. It cuts my heart within me,
+
+for I remember the man I cannot cease to mourn.
+
+His fame was wide through Hellas and midmost Argos.”
+
+Then wise Telemachus answered her:
+
+“Mother, why deny the singer that he wishes?
+
+The singers are not to blame for what has come;
+
+Zeus gives to each man as he himself determines.
+
+He sings the hardest fate of the Danaans.
+
+Let him go on, since men most praise the newest song.
+
+Your heart and spirit should endure it, too:
+
+Odysseus was not the only man to lose the day
+
+of his return from Troy. Many others perished.
+
+Go to your chamber now, and care for what belongs to you:
+
+the loom, the distaff, and the work you give your women.
+
+Speech is the concern of every man, but mine above all;
+
+in this house I hold the power.”
+
+She was astonished, and returned into the house,
+
+keeping her son's wise saying in her heart.
+
+When she had reached her upper room with her attendants,
+
+she wept for Odysseus, her dear husband, until bright-eyed Athena
+
+cast sweet sleep upon her eyelids.
+
+The suitors stirred the shadowed hall with noise,
+
+each one desiring to lie beside her.
+
+Telemachus then addressed them. His voice was steady:
+
+“You suitors of my mother, who carry yourselves with pride,
+
+let us feast in quiet, and take pleasure in listening.
+
+It is a beautiful thing to hear a singer such as this.
+
+At dawn let us go to the assembly, every man,
+
+so I may speak openly and order you away.
+
+Leave this house. Hold your own banquets elsewhere,
+
+and consume your own possessions, taking turns by house.
+
+But if you think it better and more profitable
+
+to consume one man's goods without payment,
+
+then waste them. I will cry to the everlasting gods,
+
+and may Zeus make the debt come due.”
+
+They all fell silent, and looked at him in wonder.
+
+Antinous, son of Eupeithes, answered him:
+
+“Telemachus, surely the gods themselves have taught you
+
+to speak so boldly, and to make your words a law.
+
+May the son of Cronus never grant you kingship
+
+in sea-girt Ithaca, though it is your inheritance.”
+
+Telemachus answered him: “Antinous, if the god wills it,
+
+I would accept that gift. Kingship is no shame.
+
+But if there is another better man in Ithaca,
+
+let him rule; I ask no more than my father's house
+
+and the people who were once his to command.”
+
+Eurymachus, son of Polybus, replied:
+
+“The gods alone know who will rule in Ithaca.
+
+But your possessions remain your own; no one will take them,
+
+while the island stands and the blood in you remains.
+
+Tell us, stranger, from what country have you come?
+
+What city is yours? What family claims you?
+
+You have not arrived on foot; you must have crossed the sea.
+
+Did you come as a trader, or as one who roams the waves,
+
+like pirates who risk their lives upon the deep,
+
+and bring danger to other men?”
+
+Telemachus answered: “Stranger, since you ask me plainly,
+
+I will tell you. Mentes is my name; I am the son
+
+of wise Anchialus, and I rule the oar-loving Taphians.
+
+I have come here in my ship and with my companions,
+
+crossing the dark sea toward men who speak another tongue.
+
+I carry bright iron to Temesa, and my companions carry bronze.
+
+I have moored my ship beyond the city, at Reithron's harbor,
+
+beneath the wooded hill. We claim an ancient friendship,
+
+inherited from our fathers, as old Laertes will confirm.
+
+Go ask him, they say, though he no longer enters the town,
+
+but stays in the country, grieving, with one old woman
+
+who prepares his meals and washes the dirt from his body
+
+when age and weariness have taken him.”
+
 ## Decision log
 
 - **“man of many turnings”** keeps the productive range of *polytropos*—many-
@@ -177,6 +403,11 @@ First take food, and afterward tell us what you seek.”
   stately invocation with a living speaking voice.
 - The extension shifts from divine council to human hospitality without a
   modernizing explanation, preserving the poem's movement through thresholds.
+- The extension treats the hall as a political space: food, song, inheritance,
+  and the right to speak are all part of Telemachus's first public claim.
+- The extension is deliberately marked as a working range: its English line
+  breaks are literary decisions, while exact Greek line mapping remains a
+  required review task before approval.
 - This passage needs Greek-fidelity review against the selected print copy text,
   especially for *polytropos*, the companions' agency, Calypso's epithet, and
   Athena's assumed identity as Mentes.

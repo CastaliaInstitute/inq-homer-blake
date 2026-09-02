@@ -1,9 +1,9 @@
 # Odyssey Book 5, lines 424–493 — Scheria’s river mouth
 
-Source: [PerseusDL canonical Greek](https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a/data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml)  
-Source commit: `ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`  
-Source SHA-256: `246f17cc2e9c3f4e8b97fe7d6fcf56dbc4f34f215d9b1447b2878a6152e0656a`  
-Collation date: 2026-09-02  
+Source: [PerseusDL canonical Greek](https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a/data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml)<br>
+Source commit: `ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`<br>
+Source SHA-256: `246f17cc2e9c3f4e8b97fe7d6fcf56dbc4f34f215d9b1447b2878a6152e0656a`<br>
+Collation date: 2026-09-02<br>
 Review state: translator working pass; source-collated and awaiting literary review.
 
 ## Revised translation pass

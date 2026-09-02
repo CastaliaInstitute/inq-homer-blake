@@ -54,6 +54,10 @@ The working editorial controls are [the translation charter](text/translation-ch
 Translation status is governed by the [review gates](text/review-gates.md);
 the Book 1 openings are intentionally marked as first-pass drafts.
 
+The [48-book control ledger](text/translation-status.csv) and
+[translation workflow](text/translation-workflow.md) make that status
+auditable.
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

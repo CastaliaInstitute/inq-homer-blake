@@ -15,6 +15,20 @@ def path_from_root(path)
   File.expand_path(path, ROOT)
 end
 
+status_manifest = path_from_root("text/translation-status.csv")
+status_rows = CSV.read(status_manifest, headers: true)
+fail!("translation status ledger must contain 48 books") unless status_rows.length == 48
+valid_statuses = %w[outline draft review approved laid-out proofed final]
+valid_reviews = %w[pending pass revise]
+status_rows.each_with_index do |row, index|
+  row_number = index + 2
+  fail!("status ledger row #{row_number} has invalid status") unless valid_statuses.include?(row["status"])
+  %w[greek_review narrative_review verse_review diction_review notes_review production_review].each do |field|
+    fail!("status ledger row #{row_number} has invalid #{field}") unless valid_reviews.include?(row[field])
+  end
+end
+puts "OK translation status ledger: #{status_rows.length} books"
+
 generated_manifest = path_from_root("assets/generated/manifest.csv")
 rows = CSV.read(generated_manifest, headers: true)
 

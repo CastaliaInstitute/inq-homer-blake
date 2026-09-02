@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–331 are recorded in
+text/odyssey/book-06-collation-1-331.md.
+
 ## Translation
 
 Athena went to the land of the Phaeacians, and entered the dream

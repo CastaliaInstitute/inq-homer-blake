@@ -33,6 +33,8 @@ if shutil.which("pdfinfo") is None:
     fail("pdfinfo is required for PDF preflight")
 if shutil.which("pdffonts") is None:
     fail("pdffonts is required for PDF preflight")
+if shutil.which("pdftotext") is None:
+    fail("pdftotext is required for PDF content preflight")
 
 pdfs = sorted(PDF_DIR.glob("*.pdf"))
 if not pdfs:
@@ -61,6 +63,12 @@ for pdf in pdfs:
     release_pdf = "proof" not in pdf.stem
     if release_pdf and any(len(row) >= 6 and row[3].lower() != "yes" for row in rows):
         fail(f"release PDF {pdf.name} contains a non-embedded font")
+    if pdf.stem.endswith("-volume-proof"):
+        extracted = run("pdftotext", str(pdf), "-")
+        if extracted.returncode != 0:
+            fail(f"cannot extract text from {pdf.name}")
+        if "WORKING SYNOPSIS" in extracted.stdout.upper():
+            fail(f"{pdf.name} contains editorial working-synopsis text")
     print(
         f"OK {pdf.relative_to(ROOT)}: {fields.get('Pages', '?')} pages, "
         f"{fields.get('Page size', '?')}, class={'release' if release_pdf else 'sample'}"

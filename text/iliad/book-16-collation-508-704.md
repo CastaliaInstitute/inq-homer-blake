@@ -247,7 +247,7 @@ touching his shining shield with immortal hands.
 | 16.593–637 | Preserve Bathycles, Laogonus the priest, Aeneas and Meriones' exchange, and Patroclus' rebuke against excessive speech. | Named combat and the poem's own argument for action remain in tension. |
 | 16.638–662 | Keep the woodcutters' noise, Sarpedon's unrecognizable body, the flies-and-milk simile, and Zeus' deliberation. | The body becomes both sacred person and contested material object. |
 | 16.663–683 | Render the removal of the armor, Zeus' order, Apollo's washing and anointing, and Sleep and Death's transport to Lycia. | Funeral honor is preserved as a divine logistics operation with human consequences. |
-| 16.684–704 | Retain Patroclus' “blindness,” the stronger will of Zeus, the nine-name pursuit catalogue, and Apollo's threefold repulse. | The unit ends where heroic momentum meets the first unmistakable limit imposed by Apollo. |
+| 16.684–704 | Retain Patroclus' delusion, the stronger will of Zeus, the nine-name pursuit catalogue, and Apollo's threefold repulse. | The unit ends where heroic momentum meets the first unmistakable limit imposed by Apollo. |
 
 **Next review:** lines 705–867, including Apollo's disarming of Patroclus,
 Euphorbus and Hector's assault, and Patroclus' final prophecy.

@@ -4,6 +4,8 @@
 **License:** SIL Open Font License 1.1  
 **Source family:** Cormorant Garamond by Christian Thalmann / Cormorant
 Project, distributed through Google Fonts
+**Static-file source commit:** `bcf5515652e4d99eb3e42e41ed5f4285a315a175`
+in [google-fonts-bower/cormorantgaramond-bower](https://github.com/google-fonts-bower/cormorantgaramond-bower)
 
 The repository carries the exact static font files used by
 `scripts/build_volume_proof.py`, together with `assets/fonts/OFL.txt`:

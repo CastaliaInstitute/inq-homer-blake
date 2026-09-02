@@ -169,6 +169,152 @@ His sword and, leaping through the crowd, struck down
 Antiphates. After him fell Menon,
 Iamenus, and Orestes, one by one.
 
+While they stripped the armor from the fallen,
+The first and greatest companies stood still,
+Uncertain by the trench, though eager to
+Break through the wall and set the ships aflame.
+Then from the left an eagle crossed the sky,
+High in the air, and in his crooked claws
+He carried a great serpent, red and living.
+The snake, though held, had not forgotten war:
+It twisted backward, struck the bird beneath
+The breast beside the throat. The eagle writhed
+Against the pain, and let the serpent fall
+Among the ranks; then, crying, flew away
+Upon the breath of wind.
+
+The Trojans shuddered at the gleaming snake,
+The sign of Zeus who bears the aegis. Then
+Polydamas stood close to Hector: “You
+Rebuke me in the assembly when I speak
+What seems the better course; you say a common
+Man must not pass the council’s bounds. But now
+I say: let us not fight beside the ships.
+This sign has come to those who wished to cross.
+The eagle flew upon the left and held
+The people back; he carried that great snake
+Alive, but could not take it to his home
+And feed it to his children. So, although
+We break the wall and gates by force, we shall
+Not all return along the road we came;
+Many will lie beside the ships. If one
+Among us standing here declared the sign,
+No army would resist him. To my mind
+The meaning is plain: we shall force the wall,
+But shall not all come home.”
+
+Then Hector, helmet-bright, looked darkly at him:
+“Your words no longer please me, Polydamas.
+You know to contrive a better speech than this;
+But if you speak it in earnest, then the gods
+Have taken reason from you. Would you have me
+Forget the will of Zeus, who thunder speaks,
+The will he promised me and sealed with a nod?
+You bid me heed the long-winged birds; I care
+Not whether they fly toward the dawn and sun,
+Or toward the misty darkness on the left.
+Let us obey the purpose of great Zeus,
+Who rules the mortal and immortal kind.
+
+“One omen is the best: to fight for home.
+Why fear the battle and the work of death?
+Though all the rest should fall beside the ships,
+You have no fear of being killed; your heart
+Is neither warlike nor steadfast. But if you
+Hold back from battle, or by words turn one
+Man from the fight, then underneath my spear
+You shall at once lose all the breath of life.”
+
+So speaking, he led on; and all behind
+Followed with a clamor. Zeus, who loves the
+Thunder, raised from Ida a storm of wind
+That drove the dust straight toward the ships,
+And clouded all the Achaeans’ minds, while glory
+Was given to the Trojans and to Hector.
+Trusting the sign and their own strength, they sought
+To break the mighty wall.
+
+They tore the battlements from off the towers,
+Threw down the parapets, and pried up pillars
+That first the Greeks had planted in the earth
+To strengthen their defenses. Dragging these away,
+They hoped to shatter all the Achaean work;
+Yet still the Danaans held fast, and fenced
+The parapets with ox-hide shields, and hurled
+Their weapons at the men below the wall.
+
+The two Ajaxes went from tower to tower,
+Calling commands, and stirring up the strength
+Of all the Greeks. One man they urged with gentle
+Words, another they rebuked, whenever one
+Abandoned wholly the defense: “Friends of Argos,
+Whether you stand among the first, the middle,
+Or those less strong, this labor is for all.
+You know that men are not alike in war.
+Let no man turn toward the ships when he hears
+Our cry; draw courage from your fellow, and Zeus,
+The thunder-bearing Olympian, may grant
+That we drive back the foe, and chase him even
+To the city.”
+
+Thus they called out, and stones flew from both sides,
+As snowflakes fall upon a winter day
+When Zeus has risen, stilling all the winds,
+And pours the flakes upon the nourishing earth,
+Covering the mountain peaks, the headlands,
+The lotus-bearing plains, and all the works
+Of men; it covers the gray sea, the harbors,
+And beaches, and the wave that strikes the shore
+Holds the thick snow upon it. So the stones
+Flew thickly from both hands, and all the wall
+Roared underneath their fall.
+
+Nor could the Trojans and bright Hector then
+Have broken through the gates and their long bar,
+Had Zeus, the counselor, not driven his own son,
+Sarpedon, at the Argives like a lion
+Turned upon cattle. Round before his breast
+He held a rounded shield, beautiful,
+Beaten from bronze, which some smith hammered and
+Then lined with many hides of oxen, sewn
+In circles, fastened with the golden rods.
+Two spears he brandished, moving like a lion
+That hunger for the flesh has long consumed,
+And fearless courage drives against the fold.
+
+Even when shepherds, dogs, and spears guard there,
+He is not ignorant of the attack:
+He either springs and carries off his prey,
+Or, in the foremost, falls beneath a spear.
+So Sarpedon’s heart urged him at the wall
+To tear the battlements away. He called
+To Glaucus, son of mighty Hippolochus:
+
+“Glaucus, why are we honored above all others
+In Lycia—in our seats, our portions, and
+The fuller cups of wine? All men look on us
+As on the gods, and we possess a great
+Estate beside the Xanthus: lovely orchards,
+And wheat-bearing fields. Therefore we must stand
+Among the foremost, meet the burning fight,
+That some Lycian in his close armor say:
+‘Our kings do not rule Lycia without glory.
+They eat the fat sheep and drink excellent,
+Honeyed wine; but their strength too is noble,
+For they fight in the foremost ranks.’
+
+“If fleeing from this war could make us always
+Without old age or death, I would not fight
+Among the first, nor send you into danger
+Where men win glory. But the countless fates
+Of death stand near; no mortal can evade them.
+Come, then: let us give another glory,
+Or let another give that glory to us.”
+
+So he spoke; and Glaucus did not turn away,
+Nor would he refuse. Together they advanced,
+Leading the great Lycian host.
+
 ## Decision log
 
 - The wall is treated as a temporary human structure inside a divine and
@@ -182,5 +328,9 @@ Iamenus, and Orestes, one by one.
   five Trojan companies, Asius's error, the Lapith defense, and the linked
   snow/wasp similes. It remains unapproved pending independent meter and
   Greek-fidelity review.
+- The revision now extends through 12.311, preserving the eagle-and-serpent
+  omen, Hector's rejection and threat, Zeus's dust-storm, the Ajaxes' exhortation,
+  the snow simile, and Sarpedon's account of kingly obligation. This passage too
+  remains unapproved pending independent meter and Greek-fidelity review.
 - This draft needs Greek-fidelity review for the wall's construction history,
   trench and stakes, Lycian assault, hawk omen, and gate breach.

@@ -3,11 +3,12 @@
 **Source passage:** Book 14, lines 1–522 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–399 are incorporated below; independent
+layout. Revised passes for lines 1–522 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
 **Source-collated authority:** [`book-14-collation-1-223.md`](book-14-collation-1-223.md)
-and [`book-14-collation-224-399.md`](book-14-collation-224-399.md)
+[`book-14-collation-224-399.md`](book-14-collation-224-399.md), and
+[`book-14-collation-400-522.md`](book-14-collation-400-522.md)
 
 ## Translation
 
@@ -390,6 +391,133 @@ No wind cries so among the high-branched oaks,
 When anger drives it—such the cry of Troy
 And Achaea.
 
+The cry was terrible as they rushed on one
+Another. Hector cast first at bright Ajax,
+Who faced him; but the two sword-belts across
+The breast of Ajax—one for shield, one for
+The silver-studded sword—saved his flesh.
+Hector was angered that the weapon flew
+In vain, and withdrew among his friends, escaping
+The fates.
+
+But great Telamonian Ajax, as he went,
+Lifted a stone from fragments of the ships
+That rolled beneath the feet of fighting men.
+He struck him near the neck, above the rim
+Of that great shield. As when a tree falls, torn
+Up by the roots beneath the thunderbolt
+Of Father Zeus, and the harsh scent of brimstone
+Rises from it, so Hector’s strength fell quickly
+Into the dust. He let the spear fall from
+His hand; shield, helmet, and his ornamented
+Armor rang around him.
+
+The Greeks rushed on with one great shout, and hoped
+To drag him off, and cast their close-set spears;
+But none could wound him, for the best of Troy
+Surrounded him: Polydamas, Aeneas,
+Agenor, Sarpedon, leader of Lycia,
+And blameless Glaucus. None neglected him.
+They held their rounded shields before his body,
+While lifting arms bore him through the war
+To horses waiting with their car and driver.
+They carried him, groaning, toward the city.
+
+When they came to the ford of broad Xanthus,
+The river born to Zeus, they lifted him
+From the horses, laid him on the ground, and poured
+Water upon him. He breathed again, opened
+His eyes, sat on his knees, and vomited
+The dark blood. Then backward on the earth he fell;
+Black night covered his eyes, and still the missile
+Held fast his heart.
+
+When the Argives saw him carried away,
+They sprang more fiercely at the Trojans and
+Remembered courage. Swift Ajax, son
+Of Oileus, first struck Satnius, son
+Of Enops, whom a water-nymph had borne
+Beside the Satnioeis to the herdsman.
+Ajax struck him in the flank; he turned and fell,
+And Trojans and Achaeans closed around
+His body in a hard and crowded fight.
+
+Polydamas, the son of Panthous, came
+To guard him, and struck Prothoenor, son
+Of Areilycus, in the right shoulder.
+The heavy spear held him; he fell into
+The dust and grasped the earth. Polydamas cried:
+“Surely the spear did not leap forth in vain
+From Panthous’ son; an Argive takes it now
+Into his flesh, and leaning on the spear
+Will descend, I think, into the house of Hades.”
+
+The Greeks grieved at his boast; most deeply Ajax,
+For Prothoenor had fallen near him. Ajax
+Cast his bright spear; Polydamas leapt aside
+And slipped away from death. Archelochus,
+Son of Antenor, received the point where
+The head and neck are joined, the last vertebra.
+It severed both the tendons; head and mouth
+And nostrils struck the earth before his knees.
+
+Ajax called to blameless Polydamas:
+“Consider, tell me truly: was not he
+Worth the life of Prothoenor? He appears
+No common man, nor born of common people;
+He was the brother or the son of horse-
+Taming Antenor, and his lineage was
+Nearest to yours. You knew him well.” The Trojans
+Were seized by grief.
+
+Acamas struck Promachus, a Boeotian,
+Who stood above his brother, and dragged him
+By both his feet. Acamas shouted: “Argives,
+Insatiate in arrows and in threats, this labor
+And misery shall not be ours alone.
+You too shall die here. Remember how
+Promachus sleeps, subdued beneath my spear,
+That vengeance for his brother may not long
+Remain unpaid. Perhaps some man at home
+Will pray he left a kinsman to defend him.”
+
+The Greeks grieved; and Peneleos was stirred.
+He sprang at Acamas, who did not wait,
+And struck Ilioneus, son of Phorbas,
+Rich in sheep, whom Hermes loved and gave great wealth.
+His mother had borne him as her only child.
+Peneleos struck beneath his brow, where eye
+And socket meet; the eye was driven out,
+The spear went through to nape. Ilioneus
+Sat with both hands spread. Peneleos drew
+His sword, cut through his neck, and severed head
+And helmet; the strong spear stood in the eye.
+He lifted it like a poppy, and displayed
+It to the Trojans: “Tell Ilioneus’
+Dear father and his mother to mourn him there.
+Nor shall the wife of Promachus, daughter
+Of Alegenor, greet her husband when
+He comes with all the sons of Achaea from Troy.”
+
+At this, trembling seized the Trojan limbs;
+Each man looked round for some escape from death.
+
+“Tell me, O Muses, who possess Olympus,
+Who first took up the bloody spoils, when famous
+Earth-Shaker turned the battle.” Telamonian
+Ajax first struck Hyrtius, son of Gyrtius,
+Leader of the strong-hearted Mysians. Then
+Antilochus stripped Phalces and Mermes;
+Meriones struck Morys and Hippotion;
+Teucer took Prothoön and Periphetes;
+And Atreus’ son struck Hyperenor in
+The flank. The bronze poured out his entrails, and
+His soul went through the wound; darkness covered
+Both his eyes. Ajax, son of Oileus,
+Took the greatest number, for no fleeing man
+Could keep his pace when Zeus raised terror in
+Their limbs.
+
 ## Decision log
 
 - The battlefield reversal is built from persuasion and timing: Agamemnon's
@@ -406,6 +534,11 @@ And Achaea.
   the golden cloud, Poseidon's rearming order, and the final sound similes.
   This passage remains unapproved pending independent meter and Greek-fidelity
   review.
+- The revision now completes the source-collated Book 14 span through 14.522,
+  preserving Hector's wounding and Xanthus revival, the reciprocal body and
+  kinship grief, Peneleos's counterstroke, the Muse's victor catalogue, and
+  Ajax's final advance. The full book remains unapproved pending independent
+  meter, Greek-fidelity, omission/addition, and editorial review.
 - Poseidon's withdrawal is not reconciliation; it is a tactical submission
   to hierarchy that leaves the Achaeans exposed.
 - This draft needs Greek-fidelity review for the girdle, Sleep's bargain,

@@ -158,15 +158,49 @@ They spoke, leapt down from their chariots, clasped one another's hands, and ple
 their faith. But Zeus, son of Cronus, stole Glaucus' understanding: he exchanged
 golden armor for bronze, the price of a hundred cattle for the price of nine.
 
-Meanwhile Hector entered the city and called to the women:
-“Go to the temples. Pray to Athena, and promise a robe,
-the finest and largest, to hang across her knees. Ask her
-to turn Diomedes from the city, and save Troy's children.”
+Hector reached the Scaean gates and the beech tree, and the wives and daughters
+of the Trojans ran around him, asking after their children, brothers, friends,
+and husbands. He told them all to pray to the gods, for sorrow had fallen heavily
+upon them. When he came to Priam's splendid house, built with polished porticoes,
+he found fifty chambers of hewn stone, set close together, where the king's sons
+slept beside their wedded wives; and across the court stood twelve roofed chambers
+for his daughters and their husbands. There his gentle mother met him, bringing
+Laodice, the fairest of her daughters. She took his hand and called him by name:
 
-The women climbed to the temple, led by Hector's mother.
-The priestess set the robe upon Athena's knees and prayed:
-“Lady, break the spear of Tydeus' son. Save Troy.”
-But Athena did not hear.
+“My child, why have you left the fierce battle? Are the hateful sons of the Achaeans
+pressing hard around the city, and has your heart sent you here from the wall's
+edge to lift your hands to Zeus? Wait, and I will bring you honey-sweet wine,
+that you may pour a libation first to father Zeus and the other immortals, and then
+refresh yourself if you drink. Wine gives great strength to a weary man, and you
+are weary from defending your companions.”
+
+Great-helmed Hector answered: “Do not bring me honeyed wine, revered mother,
+lest you weaken my limbs and make me forget my strength. I am ashamed to pour
+bright wine to Zeus with unwashed hands, and it is not lawful to pray to the dark-
+clouded son of Cronus while stained with blood and filth. Go instead to Athena's
+temple, gathering the old women of the city. Take the robe that seems to you the
+most beautiful and largest in the house, the one most dear to her, and lay it upon
+the knees of the fair-haired goddess. Promise twelve yearling heifers, never yet
+broken to the goad, if she will pity the city, the wives of Troy, and their children,
+and keep the fierce spear of Tydeus' son from sacred Ilium. I will seek Paris and
+call him, if he will listen. Would that the earth might open and swallow him!
+The Olympian has bred him as a great plague to Troy, to Priam, and to his sons;
+if I saw him going down to Hades, I think my spirit might forget its grief.”
+
+His mother went into the perfumed chamber and called her attendants; they gathered
+the old women throughout the city. Hecuba descended to the chamber where lay the
+embroidered robes made by Sidonian women, whom godlike Alexander had brought from
+Sidon across the wide sea by the same route on which he carried Helen, high-born
+daughter of Tyndareus. She lifted one robe, most beautiful in its pattern and the
+largest of all, shining like a star, and lying beneath the others. With it she went,
+and many aged women followed. When they reached Athena's temple on the city's height,
+Theano, fair-cheeked daughter of Cisseus and wife of horse-taming Antenor, opened
+the doors; the Trojans had made her priestess of Athena. All raised their hands with
+the ritual cry. Theano took the robe and laid it upon the knees of the fair-haired
+goddess, praying: “Lady Athena, glorious among goddesses, break Diomedes' spear,
+and make him fall forward before the Scaean gates. Then we will sacrifice twelve
+yearling heifers in your temple, if you will pity the city, the wives of Troy,
+and their little children.” So she prayed, but Pallas Athena turned her face away.
 
 Hector searched the city for Paris. He found him in his chamber,
 polishing his armor, while Helen sat beside him. Hector said:

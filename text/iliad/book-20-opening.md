@@ -9,6 +9,8 @@ Lines 168–287 are recorded in
 text/iliad/book-20-collation-168-287.md.
 Lines 288–406 are recorded in
 text/iliad/book-20-collation-288-406.md.
+Lines 407–503 are recorded in
+text/iliad/book-20-collation-407-503.md.
 
 ## Translation
 

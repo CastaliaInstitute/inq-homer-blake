@@ -8,6 +8,8 @@ Lines 168–287 are recorded in
 text/iliad/book-20-collation-168-287.md.
 Lines 288–406 are recorded in
 text/iliad/book-20-collation-288-406.md.
+Lines 407–503 are recorded in
+text/iliad/book-20-collation-407-503.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -15,7 +17,7 @@ text/iliad/book-20-collation-288-406.md.
 | 20.75–167 | Achilles and Aeneas approach | Fate and rescue | Collated 2026-09-02; preserve Apollo’s Lycaon disguise, Aeneas’s Lyrnessus/Pedasus memory, Athena’s prior aid, Hera’s proposal, Poseidon’s restraint, Heracles’s wall, and the interrupted lion simile. |
 | 20.168–287 | Achilles and Aeneas exchange lineage and spears | Divine/mortal scale | Collated 2026-09-02; preserve the lion simile, Achilles’s challenge, Aeneas’s complete Dardanian genealogy, Boreas’s twelve foals, the five shield folds, gold’s resistance, and the stone boundary before Poseidon’s rescue. |
 | 20.288–406 | Poseidon rescues Aeneas; Achilles resumes the slaughter | Fate and deferred combat | Collated 2026-09-02; preserve Poseidon’s genealogy argument, Hera and Athena’s oath, mist, the Cauconians, Achilles’s tactical command, Apollo’s warning to Hector, Iphition, Demoleon, Hippodamas, and the bull simile. Polydorus begins at line 407. |
-| 20.407–503 | Hector is hidden and Trojans flee | Duel deferred | Check Apollo's mist, Athena, and closing movement. |
+| 20.407–503 | Polydorus dies; Hector is hidden; Achilles resumes the slaughter | Duel deferred | Collated 2026-09-02; preserve Polydorus’s paternal prohibition and exact wounds, Hector’s challenge, Athena’s returning spear, Apollo’s three rescues, every named casualty, and the fire-and-oxen closing similes. Book 20 is source-collated through line 503. |
 
 ## Draft warning
 

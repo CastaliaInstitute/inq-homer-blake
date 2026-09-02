@@ -11,6 +11,8 @@ Lines 167–247 are recorded in
 text/iliad/book-22-collation-167-247.md.
 Lines 248–366 are recorded in
 text/iliad/book-22-collation-248-366.md.
+Lines 367–436 are recorded in
+text/iliad/book-22-collation-367-436.md.
 
 ## Translation
 

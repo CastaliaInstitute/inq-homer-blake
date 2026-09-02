@@ -3,10 +3,12 @@
 **Source passage:** Book 12, lines 1–471 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. A revised pass for lines 1–194 is incorporated below; its independent
+layout. Revised passes for lines 1–471 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
-**Source-collated authority:** [`book-12-collation-1-194.md`](book-12-collation-1-194.md)
+**Source-collated authority:** [`book-12-collation-1-194.md`](book-12-collation-1-194.md),
+[`book-12-collation-195-311.md`](book-12-collation-195-311.md), and
+[`book-12-collation-312-471.md`](book-12-collation-312-471.md)
 
 ## Translation
 
@@ -315,6 +317,154 @@ So he spoke; and Glaucus did not turn away,
 Nor would he refuse. Together they advanced,
 Leading the great Lycian host.
 
+Mnestheus, the son of Peteus, saw them come,
+And shuddered, for they carried ruin toward
+His tower. He searched the wall for one who might
+Defend his friends, and saw the two great Ajaxes,
+Never weary in the war, and Teucer near,
+Newly returned from his shelter. But the din
+Was so immense he could not make his voice
+Be heard above the cries that reached the sky,
+The blows on shields and horse-haired helmets, and
+The gates where every entrance was beset.
+
+At once he sent the herald Thoötes:
+“Run, noble herald, call the two Ajaxes.
+Let both come here; the steep edge of destruction
+Will soon be met. The Lycian leaders rise
+With all the strength they showed in former battles.
+But if the conflict has begun here too,
+Let Telamonian Ajax come alone,
+The strong one, and let Teucer follow him,
+Skilled in the bow.”
+
+The herald did not disobey. He ran
+Beside the wall, stood close to both the Ajaxes,
+And spoke: “Leaders of the Argives in bronze,
+The son of Peteus bids you come, that you
+May meet the labor here, if only for
+A little while. The steep edge of destruction
+Will soon be met; the Lycian leaders rise
+With strength they showed in former battles. Yet,
+If war has begun here also, let the son
+Of Telamon go on alone, and Teucer,
+Skilled in the bow, follow him.”
+
+Then great Telamonian Ajax answered:
+“You and strong Lycomedes remain here,
+And rouse the Danaans to fight with all
+Their strength. I will go there and meet the battle,
+Then swiftly come again when I have brought
+Them aid.”
+
+He spoke and went; his brother and companion,
+Teucer, went with him, while Pandion bore
+The curved bows. When they reached Mnestheus’ tower,
+Where need was greatest, the Lycian leaders
+Were mounting the battlements, like a black storm
+Descending. They joined the fight, and war’s cry rose.
+
+First Telamonian Ajax killed Epicles,
+Companion of Sarpedon, with a stone
+That tore the helmet and crushed the bones of his head.
+Epicles had stood high within the wall;
+No man alive could easily have raised
+That weight in both hands. But Ajax lifted it
+And threw it down; Epicles fell from the tower
+Like one who dives, and life left all his bones.
+
+Then Teucer saw the arm of Glaucus bare,
+Where the armor had slipped, and shot him as he came.
+The arrow checked his battle-joy. Glaucus
+Leapt back unseen, that no Achaean might
+Behold his wound and boast of it aloud.
+
+Sarpedon grieved to see his friend withdraw,
+Yet did not forget the fight. He struck
+Alcmaon, son of Thestor, with his spear;
+Then drew it forth, and Alcmaon fell face-first,
+His ornamented armor clattering round him.
+Sarpedon seized the parapet with both hands
+And dragged it out; the whole work followed him,
+And the wall above lay bare, a road made wide
+For many men.
+
+Ajax and Teucer met him. One shot struck
+The shining strap that circled round the shield
+Upon his breast; but Zeus preserved his son,
+Lest he should fall beside the ships. Ajax
+Leapt at the shield, yet could not pierce it; only
+He drove Sarpedon back a little from
+The parapet. The Lycian did not yield,
+But called among his people: “Why relax
+Your warlike strength? It is hard for me alone,
+Though strong, to break the wall and open here
+A road beside the ships. Come after me;
+The work grows better when many hands are joined.”
+
+He spoke; and, fearing their king’s rebuke, they pressed
+More fiercely round their leader. On the other side
+The Argives strengthened all their ranks within.
+It seemed a mighty labor: neither could
+The Lycians break the wall and make a road,
+Nor could the Danaans drive them back again
+Once they had reached it.
+
+They fought as two men striving over land,
+With measures in their hands, upon a field
+Held in common, each defending an equal
+Strip of earth. So parapets divided them;
+Above the stones they struck each other’s breasts,
+Beneath the ox-hide shields and round bucklers,
+The winged shields. Many were wounded by
+The pitiless bronze: some when they turned and left
+The back exposed, and some straight through the shield.
+The towers and parapets ran red with blood
+Of Greeks and Trojans, poured on either side.
+
+Yet they could not make the Achaeans afraid.
+They held like scales in a laboring woman’s hand,
+Who lifts each side alike—the wool and weight,
+That she may win a wretched wage for children.
+So equal were the battle and the war,
+Until at last Zeus gave the greater glory
+To Hector, Priam’s son, who first sprang inside
+The Achaean wall.
+
+Then Hector cried so all the Trojans heard:
+“Horse-taming Trojans, rise! Break through the wall
+Of Argos, cast the wondrous fire upon
+The ships!” They heard and rushed together. Some
+Climbed the parapets with their sharpened spears;
+But Hector seized a stone before the gates,
+Thick at its base and sharp above. Two men
+Of those alive today could hardly lift
+It from the ground and set it on a wagon;
+But Cronus’ crooked-counseling son made light
+The weight for Hector, and he swung it easily.
+
+As a shepherd carries a ram’s fleece, lifting
+It in one hand, and scarcely feels its weight,
+So Hector bore the stone toward the planks
+That held the lofty double gates. Within,
+Two cross-bars braced them, and a single bolt
+Lay fast across. He planted both his feet,
+And hurled the stone into their middle, so
+The blow would not be weak. It broke the hinges;
+The stone fell inward, and the gates thundered.
+The bars could not restrain them; both the planks
+Burst apart beneath the stroke, one here, one there.
+
+Then bright Hector sprang in, his face like night;
+Dread bronze flashed around him, and in his hands
+He carried two spears. No man could have stopped
+Him as he leapt through, save the gods alone.
+Fire burned in his eyes. He turned among
+The crowd and called the Trojans to cross over.
+They climbed the wall; they poured through the gates.
+The Danaans fled toward the hollow ships,
+And endless tumult rose among them.
+
 ## Decision log
 
 - The wall is treated as a temporary human structure inside a divine and
@@ -334,3 +484,8 @@ Leading the great Lycian host.
   remains unapproved pending independent meter and Greek-fidelity review.
 - This draft needs Greek-fidelity review for the wall's construction history,
   trench and stakes, Lycian assault, hawk omen, and gate breach.
+- The revision now extends through 12.471, preserving Mnestheus's appeal,
+  Thoötes' repeated message, Ajax's delegation, Epicles' death, Glaucus's
+  withdrawal, Sarpedon's parapet assault, the boundary and balance similes,
+  and Hector's stone-and-hinges breach. This passage remains unapproved pending
+  independent meter and Greek-fidelity review.

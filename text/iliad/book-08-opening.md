@@ -192,31 +192,46 @@ beside the ships on the day the Achaeans fight around Patroclus’ body. So fate
 ordained it. I do not care for your anger, even if you reach the furthest boundaries
 of earth and sea, where Iapetus and Cronus sit in Tartarus without the sun’s light.”
 
-The Achaeans reached the ships. The Trojans did not camp
-in the city; Hector ordered fires throughout the field,
-so that no man could escape in the darkness. A thousand fires
-burned, and beside each sat fifty men. Hector stood among them,
-praying to Zeus:
+The sun’s bright light sank into Ocean and drew black night across the grain-giving
+earth. The Trojans, unwilling, lost the day; but the Achaeans welcomed the triple-
+prayed-for darkness. Hector called the Trojan assembly apart from the ships, beside
+the swirling river, where the ground was clear of corpses. They climbed down from
+their horses and listened as Hector leaned upon his eleven-cubit spear, its bronze
+point shining and its golden socket running around it:
 
-“Grant me to take the wall and set fire to the ships.
-Then I will not ask for more, and the Achaeans will flee.”
+“Hear me, Trojans, Dardanians, and allies. I thought that before night fell we would
+destroy the ships and return to windy Ilium, but darkness came and saved the Argives
+and their ships beside the sea. Let us obey the black night. Prepare supper; loose
+the fair-haired horses and set fodder before them. Bring cattle and fat sheep from
+the city, and buy honey-sweet wine and bread from the houses; gather much wood, so
+that all night until early dawn we may burn many fires whose light reaches heaven,
+lest the long-haired Achaeans attempt flight across the broad sea in darkness.
 
-Zeus nodded, though he knew the prayer would one day fail.
-The Trojans ate beside the fires. Their horses stood ready,
-and the camp shone across the plain like a city under stars.
+“Let them not board their ships without a struggle. Let each carry home a wound,
+struck by arrow or sharp spear as he leaps aboard, so that every man may dread to
+bring tearful Ares against horse-taming Troy. Heralds should announce through the
+city that boys at the edge of manhood and gray-haired elders gather upon the towers
+built by the gods; let every woman kindle a great fire in her house, and let a firm
+watch stand, lest an ambush enter while the people are away. Let this speech stand
+sound for now; at dawn I will address the Trojans again. I hope, praying to Zeus and
+the other gods, to drive from here those dogs carried by the fates, driven to our
+ships. Tonight we guard ourselves; at first light we arm and wake sharp Ares beside
+the hollow ships. Tomorrow I shall learn whether strong Diomedes will drive me from
+the ships to the wall, or whether I will kill him with bronze and carry away his
+bloody armor. If only I were immortal and ageless, and honored as Athena and Apollo
+are honored, as this day has brought evil to the Argives!”
 
-In the Achaean camp, Agamemnon called an assembly.
-He wept openly and said: “Friends, Zeus has abandoned us.
-Let us launch the ships and return. Troy is too strong.”
-
-Diomedes rose: “The king speaks in fear. Let us stay.
-The gods may turn again. A brave man does not abandon the field.”
-The people shouted approval. Nestor praised him and advised
-that the dead be guarded, the trench repaired, and the wall held.
-
-They ate and drank. Night settled over both armies,
-but Hector and the Trojans kept watch beneath the fires.
-The Achaeans lay near the ships, fearing the morning.
+The Trojans shouted in answer. They loosed the sweating horses, tied them beside
+their chariots, and brought cattle, sheep, wine, bread, and wood swiftly from the
+city. They made perfect hecatombs to the immortals, but the winds carried the sweet
+smoke from the plain toward heaven; the blessed gods would not share it, for sacred
+Ilium, Priam, and Priam’s strong people were hateful to them. The Trojans, confident
+in the war, sat all night beside their many fires. As stars appear around the bright
+moon when the sky is windless, and every peak, ridge, and hollow lies visible beneath
+the opened heaven, so the fires of the Trojans shone between the ships and the streams
+of Xanthus. A thousand fires burned upon the plain, and beside each sat fifty men in
+the firelight. Their horses cropped white barley and spelt beside the chariots,
+waiting for the bright-throned dawn.
 
 ## Decision log
 

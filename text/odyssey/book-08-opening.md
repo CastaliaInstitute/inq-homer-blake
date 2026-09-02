@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–586 are recorded in
+text/odyssey/book-08-collation-1-586.md.
+
 ## Translation
 
 When dawn appeared, Alcinous called the Phaeacians to assembly.

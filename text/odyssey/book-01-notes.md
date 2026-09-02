@@ -20,7 +20,7 @@ research notes, not final commentary.
 | 1.201–270 | Athena’s prophecy, Telemachus’s household crisis, and the first charge to act | Inherited responsibility becomes chosen action | Collated 2026-09-02; verify the paternity uncertainty, suitors’ geography and abuses, Ilus’s poison, and the gods’ unresolved condition at meter review. |
 | 1.271–327 | Athena’s counsel, Telemachus’s journey, and the first public charge | Inherited responsibility becomes chosen action | Collated 2026-09-02; verify the assembly, twenty-oared ship, Pylos/Sparta sequence, Orestes parallel, and bird-departure at meter review. |
 | 1.328–364 | Penelope’s grief and request to change Phemius’s song | Return-song as present grief | Collated 2026-09-02; preserve the distinction between the singer’s compelled performance, the collective war song, and Penelope’s private mourning at meter review. |
-| 1.365–444 | Telemachus’s public speech and the night before departure | Inherited responsibility becomes chosen action | Verify the compressed speech sequence and the final departure/night transition against the copy text. |
+| 1.365–444 | Telemachus’s public speech, suitors’ challenge, and the night before departure | Inherited responsibility becomes chosen action | Collated 2026-09-02; verify the public economic challenge, kingship exchange, Mentes cover story, Eurycleia’s history, and final departure planning at meter review. |
 
 ## Draft warning
 

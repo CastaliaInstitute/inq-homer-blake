@@ -3,7 +3,7 @@
 **Source passage:** Book 17, lines 1–761 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–104 are incorporated below; independent
+layout. Revised passes for lines 1–208 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
@@ -128,6 +128,120 @@ If only I could hear great Ajax' cry!
 Then we two might return and keep our courage,
 Even against a god, and draw away the dead.”
 
+He weighed the matter in his heart, but then
+The Trojan ranks came on, with Hector leading.
+Menelaus drew back from the corpse, turning
+Again and again, like a long-maned lion
+Whom dogs and men drive from a fold with spears
+And shouts; his brave heart chills within him, and
+Against his will he leaves the yard. So Menelaus
+Went from Patroclus, then turned and stood among
+His friends, looking for great Telamonian Ajax.
+
+At once he saw him on the left of battle,
+Giving his companions heart and urging them
+To fight; Apollo had cast a wondrous fear
+Among them. Menelaus ran and stood
+Near him: “Ajax, dear friend, let us hurry now
+For dead Patroclus, and, if possible,
+Bring him without his armor back to Achilles.
+But Hector has his shining armor.”
+
+He spoke and stirred
+The warlike heart of Ajax. Through the foremost
+Fighters Ajax went, and golden-haired
+Menelaus followed. Hector, after stripping
+Patroclus of the famous armor, dragged the corpse,
+Desiring with sharp bronze to cut his head off
+And give the body to the Trojan women
+And dogs. But Ajax came near, his shield spread out
+Like a tower. Hector drew back among his friends,
+Leaped into his chariot, and gave the armor
+To Trojans, who carried it toward the city,
+A great glory for him.
+
+Ajax spread his broad shield around Menoetius'
+Son, and stood above him like a lion
+Above its cubs, when hunters meet it in
+The forest as it leads its little ones;
+The lion swells with strength and draws its brow
+Down over both its eyes. So Ajax stood
+Around Patroclus. On the other side
+Menelaus stood, enlarging sorrow in him.
+
+Glaucus, Hippolochus' son, leader of
+The Lycians, looked Hector darkly in the face
+And spoke hard words: “Hector, your appearance shines,
+But in the battle you have proved deficient;
+You have an empty name, though you are one
+Who flees. Consider how you may now save
+The city and its people, you alone
+With those born in Ilium. No Lycian will
+Go forth and fight the Danaans around
+The city; there is no gratitude in fighting
+Without end. How could you save a lesser man
+Among the multitude, pitiless one,
+When you have left Sarpedon, guest-friend and ally,
+To be a spoil and prize for Argives? He
+Was great support to you and to the city
+While living, but you did not dare to keep
+The dogs from him. If any Lycian will obey,
+Let us go home; ruin without remedy
+Has come to Troy. If Trojans had the courage
+That enters men who set their fatherland
+Before their labor and their lives, we might
+Drag Patroclus into Ilium. If this dead
+Man came to Priam's city and we dragged him
+From the battle, the Argives would strip the beautiful
+Armor from Sarpedon and carry him
+Into Ilium; his companion has fallen,
+The best of Argives by the ships, whose friends
+Were best in close combat. Yet you did not dare
+To stand before great Ajax, meet his eyes
+Amid the cry, or fight him straight, for he
+Is stronger than you.”
+
+Shining-helmeted Hector answered: “Glaucus,
+Why speak such an over-bold word? I thought
+You greater in mind than all rich Lycia's men;
+Now I despise your judgment, saying I
+Would not stand against monstrous Ajax. I do not
+Fear battle or the thunder of horses;
+But Zeus's will is stronger than the brave,
+Putting them to flight, or urging them to fight.
+Come, dear friend, stand beside me and watch the deed:
+Shall I be weak all day, as you have said,
+Or hold some Danaan back, however eager,
+From guarding Patroclus, who has died?”
+
+He called aloud: “Trojans, Lycians, Dardanians,
+Be men, dear friends, remember furious strength,
+Until I put upon me the blameless armor
+Of Achilles, beautiful armor which,
+When I killed Patroclus, I stripped from him.”
+
+He spoke and left the deadly battle, ran
+And overtook his companions, who had not
+Gone far with Peleus' son's famous armor.
+Apart from tearful battle he exchanged it:
+He gave his own for Ilium, and clothed
+Himself in Peleus' son's immortal armor,
+Which heaven's gods had given to his dear father,
+And Peleus, growing old, had handed down.
+But the son would not grow old in that armor.
+
+When cloud-gathering Zeus saw him putting on
+The armor of godlike Peleus' son, he shook
+His head and spoke within his mighty heart:
+“Poor man, death is not within your thoughts,
+Though it stands near. You wear immortal armor
+Of the best man, before whom other men
+Tremble; his gentle, strong companion you
+Have killed, and stripped his armor head to foot
+Against all order. I will grant you strength;
+But Andromache shall not receive the armor
+Of Peleus' son when you return no more.”
+
 ## Decision log
 
 - Patroclus' body becomes contested territory; the translation keeps burial,
@@ -143,3 +257,8 @@ Even against a god, and draw away the dead.”
   the olive and lion similes, Apollo's Menthes disguise, Hector's return,
   and Menelaus' appeal for Ajax. Meter, Greek-fidelity, omission/addition,
   and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 17 pass through
+  17.208, preserving Menelaus' retreat and appeal, Ajax's tower-shield,
+  Glaucus' rebuke over Sarpedon, Hector's answer, the armor exchange, and
+  Zeus' foreknowledge of Andromache's loss. Meter, Greek-fidelity,
+  omission/addition, and editorial review remain pending.

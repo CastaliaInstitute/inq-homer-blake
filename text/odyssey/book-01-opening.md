@@ -392,6 +392,190 @@ who prepares his meals and washes the dirt from his body
 
 when age and weariness have taken him.”
 
+## Extension: the hidden counsel and the night before departure
+
+**Source passage:** Book 1, lines 201–444 (working range; verify against copy text)
+
+Telemachus answered him, speaking quietly:
+
+“I will not trouble the old man. He has suffered much.
+
+My father left no brother or son behind to take his place.
+
+He is gone, and no one knows where the earth has hidden him.
+
+He may be alive upon the mainland, or on the sea,
+
+or dead beneath it. My mother’s family and the island’s people
+
+press me, and these men consume my house.”
+
+Athena, in the likeness of Mentes, answered him:
+
+“It is not fitting for you to remain a child forever.
+
+You have heard what kind of man your father was,
+
+and how he returned from Troy with honor.
+
+Think how Orestes won renown among all men
+
+when he avenged his father and killed Aegisthus,
+
+the treacherous man who murdered Agamemnon.
+
+You too, my friend, must show your strength and courage,
+
+so those who come after you will praise your name.
+
+As for me, I will return to my ship and my companions.
+
+Tomorrow call the people to assembly and speak before them all.
+
+Order the suitors to leave. Then go to Pylos and Sparta,
+
+and ask about your father, whether any mortal has seen him,
+
+or whether report from Zeus has reached the cities.
+
+If you hear that he lives and is coming home,
+
+endure your grief for one more year, though it cuts you.
+
+But if you learn that he is dead and gone,
+
+return to your homeland, build a mound, and honor him
+
+with all the funeral rites that the dead are owed.
+
+Then give your mother to another husband, if she wishes,
+
+and devise a death for those men who consume your wealth.
+
+You are no longer a child. Have you not heard
+
+how Orestes became famous throughout the world?
+
+Go now, and let your strength be seen.
+
+Your father and your uncle will have something to say
+
+about your name, if you are truly their son.”
+
+Telemachus answered: “All this, stranger, you have spoken
+
+with kindness, as a father speaks to his son.
+
+I will not forget it. Stay, though you are eager to leave,
+
+and bathe; accept a gift, and return to your ship
+
+with joy, carrying a precious thing from me,
+
+such as hosts give to a guest whom they honor.”
+
+Athena, with flashing eyes, answered him:
+
+“Do not hold me here, since I am already eager to go.
+
+Give the gift when I return, and I will take it home.
+
+Choose something beautiful. You will receive as much in return.”
+
+So she vanished like a bird, and was gone.
+
+Telemachus knew then, in his heart, that a god had spoken.
+
+He went among the suitors, no longer walking with lowered eyes.
+
+The renowned singer still sang, while all listened silently.
+
+Telemachus addressed them, and his voice carried:
+
+“You suitors of my mother, who bear yourselves with pride,
+
+let us feast in silence, and take pleasure in the song.
+
+At dawn we will go to the assembly, every man,
+
+so I may tell you plainly to leave this house.
+
+Hold your own feasts elsewhere, and consume your own possessions,
+
+going from house to house by turns. But if you decide
+
+that it is more profitable to consume one man's wealth
+
+without paying, then waste it. I will cry to the gods,
+
+and may Zeus make the debt come due.”
+
+They fell silent and looked at him in wonder.
+
+Antinous, son of Eupeithes, spoke among them:
+
+“The gods themselves must have taught you to speak so boldly,
+
+and made your words stand like a king's. May Zeus never grant you
+
+the kingship in sea-girt Ithaca, though it belongs by birth to you.”
+
+Telemachus answered: “Antinous, if the god should give it,
+
+I would accept the gift. Kingship is no shame.
+
+But if another man is better, let him rule the island.
+
+I ask only to be lord of my own house and possessions,
+
+the house that Odysseus won, and which no one may consume.”
+
+Eurymachus, son of wise Polybus, replied:
+
+“The gods alone know who will rule in Ithaca.
+
+But tell us, stranger, from what country you come?
+
+What city claims you? Who are your parents?
+
+You have not come on foot. Surely you crossed the sea.
+
+Are you a trader, or a wanderer like the pirates
+
+who risk their lives and bring danger to other men?”
+
+Telemachus answered: “Since you ask me plainly, I will tell you.
+
+Mentes is my name, son of wise Anchialus, and I rule the Taphians,
+
+who love the oar. I have come with my ship and companions,
+
+crossing the dark sea toward men of another tongue.
+
+I carry bright iron to Temesa, and my companions carry bronze.
+
+My ship lies beyond the city, at Reithron's harbor,
+
+beneath the wooded hill. Our fathers were friends,
+
+as old Laertes will tell you, though grief keeps him in the country.
+
+But now our guest has departed, and night has come upon us.
+
+I must prepare the ship and call the people to assembly.”
+
+The suitors rose and went to their houses.
+
+Telemachus followed the torch held by the faithful old nurse Eurynome,
+
+who had carried him in her arms when he was newly born.
+
+She opened the door, and he lay down, turning over in his mind
+
+the journey Athena had set before him.
+
+Throughout the night he could not sleep.
+
 ## Decision log
 
 - **“man of many turnings”** keeps the productive range of *polytropos*—many-
@@ -403,6 +587,11 @@ when age and weariness have taken him.”
   stately invocation with a living speaking voice.
 - The extension shifts from divine council to human hospitality without a
   modernizing explanation, preserving the poem's movement through thresholds.
+- The complete Book 1 movement now reaches from divine planning through
+  Telemachus's first public speech and the night's decision to act.
+- The later extension is deliberately marked as a working range: its English
+  line breaks are literary decisions, while exact Greek line mapping remains a
+  required review task before approval.
 - The extension treats the hall as a political space: food, song, inheritance,
   and the right to speak are all part of Telemachus's first public claim.
 - The extension is deliberately marked as a working range: its English line

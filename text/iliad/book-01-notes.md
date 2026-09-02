@@ -15,6 +15,8 @@ research notes, not final commentary.
 | 1.188–222 | Athena restrains Achilles at Hera's command | Visible only to Achilles; violence is averted, not erased | Confirm the sequence and the goddess's promise of restitution against the copy text. |
 | 1.223–305 | Nestor's mediation and the seizure of Briseis | Elders' authority and unequal kingship | Review the compressed genealogy and ensure no omitted speech changes the political logic of the assembly. |
 | 1.348–412 | Achilles appeals to Thetis beside the sea | Short life and earned honor | Preserve the sea-born mother's intimacy while keeping the formulaic language concrete. |
+| 1.493–530 | Thetis asks Zeus to restore Achilles' honor | The nod as irrevocable divine assent | Preserve the physical sign and its political force; verify the exact sequence of kneeling, touch, and promise. |
+| 1.531–611 | Hera's suspicion, Hephaestus's mediation, and divine sleep | Quarrel subsiding into feast and music | Keep the gods' domestic comedy from becoming modern satire; retain the ritual hierarchy and closing stillness. |
 
 ## Draft warning
 

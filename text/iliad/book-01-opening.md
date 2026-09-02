@@ -378,6 +378,144 @@ I will ask him to lift the Trojans' strength, so the Achaeans
 
 may learn how dearly they have wronged you.”
 
+## Extension: Thetis before Zeus and the gods' feast
+
+**Source passage:** Book 1, lines 430–611 (working range; verify against copy text)
+
+At dawn she climbed the great mountain, and found Zeus
+
+apart from the other gods, seated on Ida's highest ridge.
+
+She crouched before him, took his knees in both her hands,
+
+and with her left hand touched his chin, speaking to him:
+
+“Father Zeus, if ever I served you among the deathless gods
+
+in word or deed, grant me this prayer. Honor my son,
+
+who is doomed to die before his time. Agamemnon,
+
+king of men, has dishonored him and taken his prize.
+
+Give honor to Achilles, lord of counsel, and let the Trojans
+
+prevail for a while, until the Achaeans understand
+
+how greatly they have wronged him, whom they cannot replace.”
+
+She spoke, and Zeus the cloud-gatherer did not answer.
+
+He sat a long time in silence. Thetis held his knees
+
+and asked him again: “Promise me plainly, or deny me.
+
+You have no cause for fear. I am the least honored here.”
+
+Then Zeus answered her with a darkening brow:
+
+“You are bringing me a difficult quarrel. Hera will not let me rest.
+
+She is forever accusing me before the immortals.
+
+But go now, before she sees you. I will see to this:
+
+I will incline my head, and that is the strongest sign
+
+among the gods. What I have nodded cannot be revoked,
+
+cannot be called back, and cannot fail to come to pass.”
+
+The son of Cronus bent his dark brows and nodded.
+
+His ambrosial hair fell forward from his immortal head,
+
+and all Olympus trembled beneath the gesture.
+
+Thetis left him and plunged beneath the shining sea.
+
+Zeus returned to the house of heaven. All the gods rose
+
+to greet their father; none dared remain seated.
+
+But Hera of the white arms, who had watched from near him,
+
+spoke at once: “Who has been with you, deceitful one?
+
+You are always pleased to keep your plans concealed from me.
+
+You have never told me freely what you think.”
+
+The father of gods and men answered:
+
+“Do not expect that every thought I hold is yours to know.
+
+Some things are not for you, though you are my wife.
+
+They would be hard to hear, even if you understood them.”
+
+“Terrible one,” Hera replied, “what have I said?
+
+I do not question you too closely. You are free to decide.
+
+But I fear that silver-footed Thetis has bent you to her will,
+
+the daughter of the old sea god. I saw her kneel at dawn.
+
+You have promised honor to Achilles, and death to many
+
+beside the ships. I am certain of it.”
+
+Zeus the cloud-gatherer answered:
+
+“You are always plotting, and you cannot escape my notice.
+
+That will bring you no advantage. You will only be farther
+
+from my heart. Sit down. Be quiet. If I rise against you,
+
+not one of the gods in Olympus will save you.”
+
+Hera fell silent, and sat in fear. The heavenly gods
+
+within the house of Zeus were troubled by her grief.
+
+Then Hephaestus, the famous maker, rose to speak:
+
+“It is not fitting for you to quarrel again over mortals.
+
+We have suffered enough from the clamor of your disputes.
+
+Let us turn to the feast. My mother will remember
+
+the words of my father, and all will be well again.”
+
+He placed a beautiful cup in his mother's hands,
+
+and poured wine for every god in turn, beginning at the right.
+
+Laughter without end went up among the blessed ones
+
+as they saw Hephaestus limping through the hall.
+
+The sun sank, and they feasted until evening came.
+
+No heart lacked its portion, nor any cup its wine.
+
+Apollo struck the lyre; the Muses answered him
+
+with voices joined in an unbroken harmony.
+
+When the light of day had failed, each god went home,
+
+to the house Hephaestus, the glorious craftsman, built for him.
+
+Zeus went to his bed, where he often slept,
+
+and beside him lay Hera of the golden throne.
+
+There the god who gathers the clouds went to sleep.
+
 ## Decision log
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
@@ -393,6 +531,8 @@ may learn how dearly they have wronged you.”
 - The extension is deliberately marked as a working range: its English line
   breaks are literary decisions, while the exact Greek line mapping remains a
   required review task before approval.
+- The divine sequence preserves the poem's change of scale: a private appeal
+  becomes a public dispute, then returns to ritual, music, and sleep.
 - This passage needs Greek-fidelity review against the selected print copy text,
   especially for *mēnis*, *Achaioi*, the priest's ritual vocabulary, and the
   exact sequence of the plague, assembly, seizure of Briseis, and appeal to

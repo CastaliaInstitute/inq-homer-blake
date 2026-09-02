@@ -16,6 +16,7 @@ research notes, not final commentary.
 | 1.328–364 | Penelope asks Phemius to change his song | Return-song as present grief | Keep the distinction between the singer's compelled performance and Penelope's private mourning. |
 | 1.365–398 | Telemachus claims speech and authority | “Speech is the concern of every man” | Test the force of *muthos* and *oikos* without importing modern legal language. |
 | 1.170–200 | Antinous and Eurymachus challenge Telemachus; Athena's assumed identity is tested | Public uncertainty and inherited friendship | Collate the exact Greek line range and the Taphian/Temesan geography before approval. |
+| 1.201–444 | Athena's counsel, Telemachus's public speech, and the night before departure | Inherited responsibility becomes chosen action | Verify the compressed speech sequence, Orestes parallel, and the final departure/night transition against the copy text. |
 
 ## Draft warning
 

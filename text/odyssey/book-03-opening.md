@@ -5,6 +5,8 @@
 **Status:** First-pass literary draft; not yet approved for layout.
 Lines 1–66 are recorded in
 text/odyssey/book-03-collation-1-66.md.
+Lines 67–200 are recorded in
+text/odyssey/book-03-collation-67-200.md.
 
 ## Translation
 

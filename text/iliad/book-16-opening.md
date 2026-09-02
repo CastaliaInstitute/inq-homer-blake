@@ -2,9 +2,9 @@
 
 **Source passage:** Book 16, lines 1–867 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–100, is recorded in
-text/iliad/book-16-collation-1-100.md pending promotion after meter review.
+**Status:** First-pass literary draft; source-collated; not yet approved for
+layout. Revised passes for lines 1–100 are incorporated below; independent
+meter and Greek-fidelity review remains pending.
 Lines 101–220 are recorded in
 text/iliad/book-16-collation-101-220.md.
 Lines 221–353 are recorded in
@@ -18,64 +18,121 @@ text/iliad/book-16-collation-705-867.md.
 
 ## Translation
 
-Patroclus came to Achilles in tears. “You are like a father who refuses
-his child. Let me wear your armor. The Trojans will think you have returned,
-and the Achaeans will breathe. I will drive them from the ships,
-but I will not approach the wall.”
+So they fought around the well-benched ship,
+And Patroclus came before Achilles,
+The shepherd of the people, pouring tears
+Like a dark spring that spills its shadowed stream
+Down the face of a steep rock. When swift-footed
+Achilles saw him, pity touched his heart:
 
-Achilles answered: “I do not refuse you from anger. Take the armor,
-and take the Myrmidons. When the fire is gone from the ships,
-return. Do not chase glory beyond what I have commanded.”
+“Why do you weep, Patroclus, like a girl
+Who runs beside her mother, clutching at her robe,
+And holds her back though she is hastening on,
+Looking up, and weeping till she is taken
+Into her arms? Do you bring news for us—
+For the Myrmidons, or for me alone?
+Have you heard word from Phthia? They say that still
+Menoetius, Actor's son, and Peleus,
+Aeacus' son, live among the Myrmidons.
+We should grieve bitterly if either died.
+Or do you mourn the Argives, how they perish
+Beside the hollow ships through their own fault?
+Speak out; do not hide it in your heart,
+That we may know the matter both together.”
 
-He armed Patroclus in the shining armor. The horses stamped;
-Automedon took the reins. Achilles stood before the troops:
+With a deep sigh Patroclus answered him:
+“Achilles, son of Peleus, greatest far
+Among Achaeans, do not be angry now;
+Such grief has fallen upon the host. The men
+Who once stood foremost lie beside the ships,
+Struck down or wounded. Diomedes is wounded,
+Tydeus' son; Odysseus of the spear,
+And Agamemnon too; Eurypylus
+Has taken an arrow through the thigh. Physicians
+Rich in remedies labor over them,
+Healing their wounds; but you remain unmoved.
 
-“Remember your strength. Do not fight like children. Patroclus will lead.
-When the Trojans see this armor, they will flee from the ships.”
+“May no such anger seize me—your own anger,
+Which you preserve as though it were a virtue.
+Who will be helped by you in aftertime,
+Though you were born of noble blood, if you refuse
+To turn this ruin from the Argives? Hard man!
+Your father was not horseman Peleus, nor
+Was Thetis your mother; gray sea and steep rocks
+Gave birth to you, for your mind is pitiless.
+But if some prophecy troubles you, and your
+August mother has told you a word from Zeus,
+Send me at least, and give me your Myrmidons,
+That I may become a light to the Danaans.
+Put your armor on my shoulders, so the Trojans,
+Taking me for you, may withdraw from war,
+And the war-worn sons of Ares breathe again.
+The respite would be small; and while we are fresh
+And they are weary, we could drive them back
+From ships and huts toward the city.”
 
-Patroclus prayed to Zeus, and the Myrmidons came out like wolves.
-Achilles watched them march, wishing the gods would grant their return.
+So he pleaded, greatly foolish; for he asked
+The evil death already marked for him.
+Swift-footed Achilles, troubled, answered:
 
-Patroclus drove toward the ships. The Trojans saw Achilles' armor
-and fell back. The fire was beaten down. Ajax and his men rejoiced.
-Patroclus killed Pyraechmes and drove the Trojans from the hulls.
+“Ah me, Patroclus, born of Zeus, what words
+Have passed your lips? I do not heed the prophecy
+I know; nor has my mother brought me any word
+From Zeus. But this unbearable grief lies hard
+Upon my heart: when one who is my equal
+Would take the prize from me, and rob me once again
+Of honor that was mine, though he has risen
+Beyond me in authority. That grief
+I carry, having endured it in my heart.
 
-Apollo warned Hector: “Do not meet Patroclus yet. The hour is not ready.”
-Hector left the battle, but the Trojan ranks broke. Sarpedon saw them flee
-and called Glaucus: “We must stand for Lycia. Let us defend our people.”
+“The girl the sons of Achaeans chose my prize,
+Whom I won with my spear when I sacked the walls
+Of a strong city, Agamemnon took
+Back from my hands, as if I were a stranger
+Dishonored and without a name. Let what is past
+Lie quiet; it was not meant that I should rage
+Forever. I declared I would not cease
+My anger till the tumult and the battle
+Reached my own ships.
 
-Patroclus and Sarpedon met. Sarpedon threw first and missed;
-Patroclus struck Thrasymelus, his companion. Sarpedon cast again,
-but Patroclus pierced him beneath the ribs. He fell like an oak.
+“Put my famous armor on your shoulders,
+And lead the war-loving Myrmidons to war,
+If the dark cloud of Troy has covered all
+The ships by force, while Argives pressed against
+The sea's edge possess but little ground,
+And all the city has grown bold against them;
+For they no longer see beside them shine
+The front of my helmet. Fleeing, they would fill
+The channels with their dead, if Agamemnon
+Knew mercy now. But Tydeus' son no longer
+Wields the spear that warded death from Danaans;
+Nor have I heard the son of Atreus call
+From his detested head. Hector, killer of men,
+Shouts orders, and the Trojans hold the field,
+Overcoming Achaeans with their cry.
 
-He called to Glaucus: “Do not leave me. Call the Lycians to defend
-my body. If they strip my armor, the disgrace will be greater than death.”
-Glaucus prayed to Apollo, and the god healed his wound. He rallied
-the Lycians, while Zeus looked at his son and considered saving him.
+“Drive this ruin from the ships with all your force,
+Lest fire consume them and destroy our homeward
+Return. But hold this order in your heart:
+Win honor and great glory for me before
+The Danaans, and bring the lovely girl
+And shining gifts they will return to me.
+When you have driven them from the ships, come back.
+And if the thunder-loving husband of Hera
+Grants you glory, do not wish to fight the Trojans
+Without me; you would lessen my renown.
+Do not, rejoicing in the war and slaughter,
+Lead them toward Ilium, lest some deathless god
+Come down from high Olympus; far above all,
+Apollo loves that city. Turn back once
+You have brought light to the ships, and leave them still
+To fight across the plain.”
 
-Hera warned Zeus: “If you rescue Sarpedon, the other gods will demand
-the same. Let his fate stand. Send Sleep and Death to carry him home.”
-Zeus sent Apollo. The god washed Sarpedon and gave him to the twins,
-who bore him to Lycia. The armies fought over his armor.
-
-Patroclus drove the Trojans toward the city. Achilles' warning faded
-behind the noise of battle. He killed Cebriones, Hector's charioteer,
-and mocked Hector over the body. Hector seized a spear, but Patroclus
-escaped the throw. They fought like fire and wind.
-
-Apollo struck Patroclus from behind, knocked away his helmet,
-and broke the spear in his hands. Euphorbus wounded him;
-Hector came and drove the final spear beneath his belly.
-
-Patroclus said: “Hector, you are proud of my death. But Achilles
-will kill you. He is near, and your day is short.”
-
-Hector answered: “You are no longer protected by Achilles. He is far away,
-and I have taken your life.” He stripped the armor from Patroclus.
-
-Patroclus fell. The Achaeans and Trojans fought over his body.
-Menelaus stood first, killing Euphorbus. Hector wore Achilles' armor,
-but Zeus had already marked the day when it would betray him.
+If only Father Zeus, Athena, and Apollo
+Would let no Trojan escape death—not one
+Of all who stand here—nor an Argive either,
+And we two alone withdraw from ruin,
+And loose Troy's sacred veils.
 
 ## Decision log
 

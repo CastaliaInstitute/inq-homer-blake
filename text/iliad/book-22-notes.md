@@ -12,6 +12,8 @@ Lines 248–366 are recorded in
 text/iliad/book-22-collation-248-366.md.
 Lines 367–436 are recorded in
 text/iliad/book-22-collation-367-436.md.
+Lines 437–515 are recorded in
+text/iliad/book-22-collation-437-515.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -20,7 +22,7 @@ text/iliad/book-22-collation-367-436.md.
 | 22.167–247 | Zeus weighs fates; Athena deceives Hector | Fate and false ally | Collated 2026-09-02; preserve Zeus’s sacrifice-memory, Athena’s permission, hound and fawn, dream, golden scales, death-spirits, Apollo’s departure, Deiphobus’s form and voice, and the invented appeal. |
 | 22.248–366 | Hector and Achilles duel | Oath rejected | Collated 2026-09-02; preserve the body compact, predator imagery, Athena’s spear recovery, Hector’s final glory, throat wound, body pleas, ransom refusal, Paris/Apollo prophecy, and Achilles’s death-timing answer. |
 | 22.367–436 | Hector’s body is dishonored; Priam and Hecuba begin mourning | Grief and rage | Collated 2026-09-02; preserve the Achaeans’ touch, Patroclus remembrance, tendon piercing, ox-hide thongs, dust, Priam’s dung-rolling appeal, and Hecuba’s opening lament. |
-| 22.437–515 | Trojan laments | Three relations of grief | Verify Andromache, Hecuba, Helen, and endpoint. |
+| 22.437–515 | Andromache laments Hector | Household inheritance | Collated 2026-09-02; preserve the interrupted bath, shuttle, collapse, bridal ornaments, Thebes and Eetion, Astyanax’s orphanhood, clothing, and the women’s final groan. Helen’s lament belongs to Book 24. |
 
 ## Draft warning
 

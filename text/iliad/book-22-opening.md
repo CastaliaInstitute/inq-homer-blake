@@ -13,6 +13,8 @@ Lines 248–366 are recorded in
 text/iliad/book-22-collation-248-366.md.
 Lines 367–436 are recorded in
 text/iliad/book-22-collation-367-436.md.
+Lines 437–515 are recorded in
+text/iliad/book-22-collation-437-515.md.
 
 ## Translation
 
@@ -67,9 +69,9 @@ dragged beneath the chariot. Her knees failed. She tore her veil and said:
 The city will be destroyed, and the women carried away. I too will go,
 and my son will be taken from me. You were father and husband to me.”
 
-Hecuba and Helen mourned. Helen said: “You alone were kind to me.
-Your brothers and sisters hated me, but you defended me. Now I hear
-your death and know there is no friend left in Troy.”
+Hecuba and Andromache mourned. Andromache said: “You alone guarded
+the city and its walls. Now our child is orphaned, and the garments
+made for you are useless in the halls.”
 
 Priam and Hecuba tried to stop the people from leaving the gates,
 for Achilles' anger still moved around the corpse. The Achaeans returned

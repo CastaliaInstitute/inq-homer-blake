@@ -15,7 +15,7 @@ These notes accompany the current opening draft and are not final commentary.
 | 2.394–493 | The host sacrifices, reforms, and invokes the Muses before the ship catalogue | Five-year-old ox, named counselors, aegis, muster similes, and catalogue epistemology | Collation recorded in `book-02-collation-394-493.md`; verify every simile and the transition into the contingents. |
 | 2.494–650 | Achaean catalogue: Boeotians through Cretans | Leaders, genealogies, place names, formations, and ship counts | Collation recorded in `book-02-collation-494-650.md`; preserve the catalogue's geography and command hierarchy before approval. |
 | 2.651–785 | Achaean catalogue: Rhodes through the final muster | Heracles’ line, absent commanders, contingent succession, and the ranked horses and heroes | Collation recorded in `book-02-collation-651-785.md`; verify the remaining transition into the Trojan assembly. |
-| 2.786–877 | Trojan and allied forces; armies assemble | Iris’s summons, Trojan contingents, bird and sheep similes, final battle readiness | Verify the Trojan contingents, the closing divine perspective, and all proper names. |
+| 2.786–877 | Trojan and allied forces; armies assemble | Iris’s summons, Trojan contingents, allied command, and final muster | Collation recorded in `book-02-collation-786-877.md`; verify the closing battle image and all proper names before approval. |
 
 ## Draft warning
 

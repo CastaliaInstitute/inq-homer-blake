@@ -950,56 +950,88 @@ angry at Typhoeus, lashes the earth around Arima, where they say
 Typhoeus has his bed. So the earth groaned beneath their feet,
 and they crossed the plain swiftly.
 
-Across the plain the Trojan people gathered also.
-Hector, Priam's son, held the first command,
-great in strength and terrible in flashing bronze.
-With him stood the Dardanians, beneath Aeneas,
-son of Anchises, whom Aphrodite bore to him.
-The men of Zeleia came, rich in silver, under Pandarus;
-the people of Adrastea, Percote, and Practius followed.
+Swift-footed Iris came to the Trojans as a messenger
+from Zeus who bears the aegis, carrying a grievous message.
+They were speaking in assembly at Priam’s gates,
+young and old gathered together. Iris stood near,
+took the voice of Polites, Priam’s son—the swift scout
+who sat atop old Aesyetes’ highest tomb, watching
+for the Achaeans to depart from their ships—and spoke:
 
-From Abydos came Asius, son of Hyrtacides,
-with men from Arisba and the shores of Selleis.
-Hippothous led the Pelasgian spearmen from Larisa.
-Acamas and Pirous led the Thracians, and Euphemus
-the Ciconian fighters. Pirechmes brought the Paeonians
-from Amydon, beside the broad and shining Axios.
+“Old man, your speeches are always dear to you,
+as in peacetime; but war without respite has risen.
+I have entered many battles, yet never saw
+such a people, so many, moving across the plain,
+like leaves or grains of sand, to fight before the city.
+Hector, I charge you above all: do this.
+Many allies dwell throughout Priam’s great city,
+and many tongues belong to these scattered peoples.
+Let each commander signal those he rules,
+and marshal his own citizens and lead them out.”
 
-Pylaemenes led the Paphlagonians from Eneti,
-where the wild mules are born; from Cytorus and Sesamus,
-from Cromna, Aegialus, and the high Erythini,
-they came with their round shields. The Halizonians followed,
-from distant Alybe, where the silver is born,
-under Odius and Epistrophus.
+So she spoke, and Hector understood the goddess.
+He swiftly dissolved the assembly. The gates opened wide;
+the people poured out, footmen and horsemen, and a great tumult rose.
+Before the city stood a steep, isolated, rounded hill,
+which men called Batieia, but immortals knew as the tomb
+of leaping Myrine. There the Trojans and their allies formed apart.
 
-The Mysians, Phrygians, and Maionians came;
-the Carians from Miletus, and the Lycian people,
-from Xanthus, beneath Sarpedon and Glaucus,
-two far-shining leaders. Thus both armies formed,
-and the plain became a field of spears and horses.
+Great Hector, crested in bronze, led the Trojans;
+with him, by far the greatest and best of the armed people,
+eager with their spears. Aeneas, noble son of Anchises,
+led the Dardanians—Aphrodite bore him to Anchises
+in the folds of Ida, when the goddess lay with a mortal.
+He was not alone: Antenor’s two sons, Archelochus
+and Acamas, who knew every art of war, stood beside him.
 
-As when a flock of countless birds descends upon a meadow—
-geese, cranes, or long-necked swans beside the river—
-and the meadow rings with wings, while the birds alight
-in one great folding cloud, so over the plain
-the peoples moved. The dust rose under their feet,
-and the bronze cries went up to heaven.
+The Trojans of Zeleia, rich and drinking the dark water
+of the Aesepus beneath Ida’s lowest foot, followed Pandarus,
+glorious son of Lycaon, to whom Apollo himself gave the bow.
+Adrastus and Amphius, lightly armored sons of Merops
+of Percote, led those who held Adrasteia, Apaesus,
+Pityeia, and steep Mount Tereia. Merops knew prophecy
+better than any man and forbade his sons to enter
+the death-bringing war, but the black Fates drove them on.
 
-The Trojans came on like a flock of sheep in the court
-of a wealthy man, when thousands are being milked;
-their bleating fills the air, and no single voice is heard.
-So the tongues of the host were many. The gods,
-however, gave to each man his own speech and country.
-But the Achaeans advanced in silence, breathing courage,
-each heart resolved to stand beside his fellow.
+Those who held Percote, Practius, Sestus, Abydos,
+and divine Arisba were led by Asius, son of Hyrtacides—
+Asius whom great, fiery horses brought from Arisba,
+beside the stream of Selleis.
 
-Now the other immortals sat apart from men,
-in the folds of cloud upon the summit of Olympus,
-looking upon the war, and Zeus who gathers clouds
-held the scales of fate above the two armies.
-The day had come when all the bronze-clad people
-would move toward battle, and Troy would learn again
-that the anger of the gods is not a light wind.
+Hippothous and Pyleus, offshoots of Ares and sons
+of Pelasgian Lethus, led the spear-famed Pelasgians
+who dwelt in deep-soiled Larisa. Acamas and hero Pirous
+led the Thracians held within the rushing Hellespont;
+Euphemus, son of Troezenus and of Ceyx, led the spearmen
+of the Cicones. Pirechmes brought the Paeonians,
+their crooked bows, from distant Amydon beside broad Axios,
+whose fairest water spreads across the land.
+
+Great-hearted Pylaemenes led the Paphlagonians from Eneti,
+where the race of wild asses is born; from Cytorus and Sesamus,
+from their houses beside the Parthenius, from Cromna,
+Aegialus, and the high Erythini. Odius and Epistrophus
+led the Halizonians from distant Alybe, birthplace of silver.
+
+Chromis and Ennomus the augur led the Mysians;
+but augury could not save Ennomus from black death:
+swift-footed Aeacides struck him down in the river,
+where Achilles was slaughtering Trojans and their allies.
+Phorcys and godlike Ascanius led the Phrygians,
+come from far-off Ascania, eager for battle.
+Mesthles and Antiphus, sons of Talaemenes,
+whom the Gygaean lake bore, led the Maionians
+born beneath Tmolus. Nastes led the Carians,
+barbarous-speaking men from Miletus, Mount Phthira,
+the banks of Maeander, and the steep peaks of Mycale.
+Amphimachus and Nastes, splendid sons of Nomion,
+led them. Nastes went to war wearing gold, like a girl,
+a foolishness that could not ward off his grievous death;
+swift-footed Aeacides killed him in the river,
+and discerning Achilles carried off his gold.
+
+Sarpedon and blameless Glaucus led the Lycians,
+come from far Lycia, from the whirling Xanthus.
 
 ## Decision log
 

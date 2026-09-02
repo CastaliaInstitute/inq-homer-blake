@@ -5,11 +5,12 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 18.1–115 | Irus challenges Odysseus | Comic combat and concealed strength | Verify doorway, wager, blow, and reward. |
-| 18.116–191 | Amphinomus and guest-gift | Recognition deferred | Check bread, meat, and Odysseus' warning. |
-| 18.192–298 | Penelope appears to the suitors | Bride-gifts as counterclaim | Collate Athena's beautification and gifts. |
-| 18.299–371 | Ctesippus and Telemachus | Public threat | Verify ox foot, speech, omen, and Agelaus. |
-| 18.372–428 | Night, grief, and Athena's promise | Bow approaching | Check Penelope, suitors' sleep, and final exchange. |
+| 18.1–117 | Irus challenges Odysseus and is defeated | Comic combat and concealed strength | Verify Arnaeus/Irus, the doorway, goat-belly wager, oath against interference, Echetus threat, measured blow, and courtyard removal. |
+| 18.118–156 | Amphinomus gives the victor bread and wine | Recognition deferred | Check the guest-gift, Odysseus's warning about the returning king, and Athena's fate for Irus. |
+| 18.157–243 | Athena brings Penelope before the suitors | Beauty, grief, and rebuke | Collate Eurynome, the refusal to wash, Autonoe and Hippodameia, the sleep, the ambrosial beautification, and Telemachus's response. |
+| 18.244–305 | Penelope recounts Odysseus's departure and demands bride-gifts | Bride-gifts as counterclaim | Verify the marriage instruction, proper courtship custom, Antinous's order, and the named gifts. |
+| 18.304–372 | Lamps, Melantho's abuse, and Eurymachus's labor challenge | Servant disloyalty and verbal contest | Check the three lamps, the handmaids' departure, Melantho and Eurymachus, and Odysseus's sickle, plough, and war replies. |
+| 18.373–428 | Eurymachus misses Odysseus; Telemachus and Amphinomus close the feast | Public restraint before violence | Verify the stool striking the cupbearer's hand, Telemachus's rebuke, Amphinomus's appeal, and the suitors' departure. |
 
 ## Design anchor
 
@@ -18,6 +19,7 @@ Blake plates: an old beggar's body briefly reveals the king beneath it.
 
 ## Draft warning
 
-Collate every English passage against Murray, *The Odyssey*, Book 18; record
-textual variants, adopted readings, and a signed Greek-fidelity review before
-approval.
+Collate every English passage against the pinned Perseus Greek and Murray,
+*The Odyssey*, Book 18; record textual variants, adopted readings, and a
+signed Greek-fidelity review before approval. The source-collated authority is
+`text/odyssey/book-18-collation-1-428.md`.

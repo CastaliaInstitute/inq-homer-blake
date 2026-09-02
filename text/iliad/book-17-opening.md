@@ -3,7 +3,7 @@
 **Source passage:** Book 17, lines 1–761 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–493 are incorporated below; independent
+layout. Revised passes for lines 1–641 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
@@ -556,6 +556,163 @@ The son of Anchises did not refuse.
 They went straight at the team, their shoulders wrapped
 In dry, hard oxhide; much bronze flashed upon them.
 
+With Hector came Chromius and godlike Aretus;
+Both pressed the team, hoping to kill the two
+And drive away the high-necked horses. Fools!
+They were not destined to leave Automedon
+Unblooded. Automedon prayed to Father Zeus;
+His dark heart filled with courage and with strength.
+He spoke to faithful Alcimedon:
+
+“Do not hold back the horses far from me;
+Let them breathe on your back. I do not think
+That Hector, Priam's son, will check his fury
+Until he mounts the fair-maned horses of Achilles,
+And kills us two, throwing the Argive ranks
+Into a flight—unless he first is taken there.
+
+“Ajax, leaders of Argives, and Menelaus,
+Leave the dead to those who stand around him,
+The best men, to defend him from the ranks;
+But guard us two while we ward off pitiless death.
+For Hector and Aeneas, best of Trojans,
+Have made this tearful battle fierce against us.
+Yet all these things lie on the gods' knees;
+I too will cast my spear, and Zeus will care
+For what remains.”
+
+He hurled the long-shadowed spear. It struck
+Aretus' even shield; the shield gave way,
+And bronze passed beneath the belt into
+The lower belly. As a young man with a sharp
+Axe, striking behind a field-fed ox's horns,
+Cuts through the sinew, and the beast springs forward
+Then falls upon its back, so Aretus sprang
+And fell backward; the spear quivered in his belly
+And loosed his limbs.
+
+Hector cast his shining spear at Automedon;
+Automedon saw it and bent aside. The spear
+Passed behind him, sank into the earth,
+And spent its force of war. The two would now
+Have rushed together with their swords at close
+Quarters, but both Ajaxes, hearing their friend,
+Came through the crowd. Hector, Aeneas, and
+Godlike Chromius recoiled, leaving Aretus
+With his heart torn out.
+
+Automedon, like swift Ares, stripped the dead
+Man of his armor and spoke in triumph:
+“Now surely I have lightened, just a little,
+The grief for Menoetius' fallen son,
+Though one man lies beneath my hand for him.”
+He lifted the blood-stained spoils into
+The chariot, mounted, feet and hands above them,
+Bloodied like a lion after feeding on a bull.
+
+Again the hard and tearful battle broke
+Around Patroclus. Athena came from heaven
+To wake the struggle; Zeus, whose voice is wide,
+Had sent her, for his purpose now had changed.
+As when Zeus stretches a purple rainbow through
+The sky, a sign to men of war or storm
+That makes them cease their labor and afflicts
+The sheep, so she wrapped herself in purple cloud,
+Entered the Achaeans, and stirred every man.
+
+First she urged Menelaus, Atreus' son,
+Mighty in battle, taking Phoenix' shape
+And tireless voice: “Shame and reproach will be yours
+If Troy's swift dogs drag under their wall the friend
+Of noble Achilles. Stand fast with all your strength,
+And stir the army.”
+
+Menelaus answered:
+“Old father Phoenix, ancient in your years,
+If only Athena would give me strength,
+And turn the weapons' rush aside! I would gladly
+Stand by Patroclus and defend him; the dead
+Has struck my spirit deeply. But Hector holds
+A terrible courage, and destroys with bronze;
+Zeus gives him glory.”
+
+The bright-eyed goddess rejoiced that he had asked
+Her first among the gods. She put strength into
+His shoulders and his knees, and in his breast
+The courage of a fly that, driven from a man's
+Skin, will not cease to bite, for human blood
+Is sweet to it. With such courage she filled
+His heart. He came to Patroclus and cast
+His shining spear.
+
+Among the Trojans stood rich and brave Podes,
+Eetion's son, whom Hector honored most,
+His dear companion at the feast. Menelaus
+Struck him beneath the belt as he rushed away;
+The bronze passed through. Podes fell with a crash,
+And Menelaus dragged him from the Trojans
+Into the ranks of his companions.
+
+Apollo stood beside Hector, taking the shape
+Of Phaenops, Asius' son, dearest of
+Hector's guest-friends, living in Abydos.
+In his likeness the Far-Shooter spoke:
+“Hector, who would fear you now among Achaeans,
+When you yield to Menelaus, once a soft-handed
+Spearman? Now he goes alone, bearing the dead
+Away from Troy, and has killed your faithful friend,
+Podes, Eetion's son, first among the brave.”
+
+A black cloud covered Hector's heart. He went
+Through the first ranks in flashing bronze. The son
+Of Cronus took the tasselled, shining aegis,
+Hid Ida in the clouds, and thundered greatly,
+Flashing and shaking it. He granted victory
+To Troy and put the Achaeans to flight.
+
+First Boeotian Peneleus began to flee;
+Polydamas had struck his shoulder as he faced
+The enemy, and the spear grazed bone beneath
+The flesh. Hector wounded Leitus, son
+Of Alectryon, near the wrist, and stopped his fight.
+He looked about and fled, no longer hoping
+To face the Trojans with a spear in hand.
+
+As Hector charged after Leitus, Idomeneus
+Struck him in the corselet, breast beside
+The nipple; the long spear broke within its socket.
+The Trojans cried. Hector cast his spear at him,
+But missed by little. Then he struck Coeranus,
+Meriones' companion and charioteer,
+Who followed him from well-built Lyctus.
+Meriones had left the ships and come on foot;
+Coeranus drove the fleet horses to him,
+Bringing him light and warding off the day,
+But losing his own life beneath man-killing Hector.
+The spear struck under jaw and ear, drove out
+His teeth, and cut the tongue in two. He fell
+From the chariot; reins spilled upon the ground.
+Meriones bent and gathered them, then called:
+“Now lash the horses till you reach the ships;
+You know the Achaeans have no strength remaining.”
+
+Idomeneus lashed the fair-maned horses toward
+The hollow ships, for fear had entered his heart.
+
+Nor did great Ajax or Menelaus escape
+The notice of Zeus, when he gave Troy the victory.
+Great Telamonian Ajax began to speak:
+“Even the most childish man can know that Zeus
+Himself is helping Troy. Every weapon strikes,
+Whether a bad man casts it or a good;
+Zeus directs all. Our weapons fall uselessly.
+Come, let us find the counsel best: how to drag
+The dead away, and return alive, bringing joy
+To friends who look this way in anguish and no longer
+Think Hector's murderous hands can be held back.
+Would some companion quickly carry word
+To Peleus' son; I do not think he has heard—”
+
 ## Decision log
 
 - Patroclus' body becomes contested territory; the translation keeps burial,
@@ -589,3 +746,9 @@ In dry, hard oxhide; much bronze flashed upon them.
   paired Phocian and Trojan recoveries, Apollo's Periphas disguise, and
   Aeneas' renewed attack. Meter, Greek-fidelity, omission/addition, and
   editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 17 pass through
+  17.641, preserving Automedon's prayer and counterstroke, Aretus' death,
+  Athena's Phoenix disguise and fly simile, Podes' recovery, Apollo's
+  Phaenops disguise, Zeus' aegis reversal, Coeranus' chariot sacrifice,
+  and Ajax's interrupted appeal for Achilles. Meter, Greek-fidelity,
+  omission/addition, and editorial review remain pending.

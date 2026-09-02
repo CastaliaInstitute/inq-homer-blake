@@ -231,17 +231,97 @@ The chiefs sat in grief. Diomedes said: “Let us eat and sleep.
 Tomorrow we will fight. A man who trusts his own courage need not
 beg another's help.”
 
-Phoenix remained with Achilles. He said:
+Phoenix remained beside Achilles, and the old horseman spoke with tears rising,
+for he feared the Achaean ships: “If you are set on homecoming, shining Achilles,
+and will not ward the destructive fire from the swift ships because anger has entered
+your heart, how could I remain here without you, my dear child? The old horseman
+Peleus sent me with you on the day he sent you from Phthia to Agamemnon, still a
+child who knew nothing of equal war or public speech, where distinguished men become
+leaders. He sent me to teach you all this: to be a speaker of words and a doer of deeds.
 
-“My son, your father sent me to teach you speech and action.
-I remember when I fled my father after a quarrel over a woman.
-He cursed me, but the gods and your father received me.
-I became nurse to you, and carried you in my arms.
+“For that reason, dear child, I would not willingly be left behind by you, not even
+if a god promised to scrape old age from me and make me young again, as I was when I
+first fled lovely Hellas from quarrels with my father, Amyntor son of Ormenus. He was
+angry over his fair-haired concubine, whom he loved and dishonored my mother. She
+begged me by my knees to sleep with the woman, so that the old man might hate her.
+I obeyed and did it. My father learned of it, cursed me terribly, and called upon the
+Erinyes never to let a son born from me sit upon his knees. Zeus beneath the earth
+and dread Persephoneia fulfilled his curses.
 
-Do not make your heart like stone. The gods themselves accept prayers,
-though men have angered them. The gifts are large, and Agamemnon
-has admitted his error. If he still offends you, fight for us,
-not for him. Your fame will grow when you save the army.”
+“My heart could no longer bear to remain in my angry father’s house. Friends and
+cousins tried to restrain me; many fat sheep, twisting-horned cattle, and shining
+pigs were slaughtered, and much of the old man’s wine was drunk. For nine nights
+they kept watches around me, with fires never going out in the court and before the
+bedroom doors. On the tenth dark night I broke through the tightly fitted doors,
+jumped the courtyard wall, and fled unseen by the guards and serving women. I crossed
+broad Hellas and came to fertile Phthia, mother of sheep, to King Peleus. He welcomed
+me freely and loved me as a father loves his only, late-born son among many possessions.
+He made me rich and gave me a numerous people, and I ruled the Dolopes at the edge of
+Phthia.
+
+“I loved you from my heart, godlike Achilles, and raised you so that you would never
+go to a feast or eat in the halls with another before I had seated you on my knees,
+cut the meat, and poured the wine. Often you drenched the tunic on my breast,
+spilling wine in your painful childhood. For you I suffered much and labored much,
+thinking that the gods had not granted me a child of my own; I made you my son,
+godlike Achilles, so that you might one day ward an unseemly doom from me.
+
+“But tame your great spirit, Achilles; you must not keep a pitiless heart. The gods
+themselves can bend, though their strength, honor, and power are greater. Human beings
+turn them with sacrifices, gentle vows, libations, and the savor of offerings, begging
+when someone has transgressed or gone astray. Prayers are daughters of great Zeus:
+they are lame and wrinkled, and look sideways; yet they follow afterward, caring for
+ruin. Whoever respects them when they draw near is greatly helped, and they hear him
+when he prays. Whoever rejects them and stubbornly refuses them, they go to Zeus and
+ask that ruin follow him, so that, harmed, he may pay the price.
+
+“Achilles, grant the daughters of Zeus their honor; they bend the minds of other good
+men as well. If Agamemnon were not bringing gifts and promising more later, but always
+remained fiercely angry, I would not ask you to cast off your wrath and defend the
+Argives, desperate though they are. But now he gives much at once and has promised much
+for later, and he has sent the best men in all the Achaean army, men who are dearest to
+you. Do not reject their words or despise their feet. It was not wrong to be angry
+before. We have heard the fame of men of old who were turned by great anger, with gifts
+and words.
+
+“I remember an ancient deed, and I will tell it among you all. The Curetes and the
+great-hearted Aetolians fought around lovely Calydon, killing one another. Artemis,
+golden-throned, sent evil upon them because Oineus failed to sacrifice first-fruits
+to her, though the other gods feasted upon hecatombs. Whether he forgot or failed to
+notice, he was deeply mistaken. The archer goddess, enraged, sent a wild boar with
+white tusks that ravaged Oineus’ orchards, throwing great trees to the ground, roots,
+blossoms, and fruit together.
+
+“Meleager, Oineus’ son, killed it after gathering hunters and hounds from many cities;
+it was too great to be brought down by a few mortals, and it sent many to the painful
+pyre. Artemis raised a loud quarrel over the boar’s head and shaggy hide between the
+Curetes and the proud Aetolians. While Meleager fought, the Curetes suffered and could
+not remain outside the walls, though they were many. But when anger entered Meleager—
+the anger that swells even in the breast of a thoughtful man—he lay beside his lovely
+wife Cleopatra, nursing the wrath caused by his mother Althaea’s curses. She had prayed
+to Hades and dread Persephoneia for her brother’s death, beating the nourishing earth
+with her hands and kneeling in tears; the Erinys heard her from Erebus, with her
+pitiless heart.
+
+“Soon the clash and din rose around the gates as towers were struck down. The elders
+of the Aetolians begged Meleager and sent their best priests, promising a great gift:
+in the richest plain of Calydon he might choose a beautiful fifty-ploughland estate,
+half planted in vines and half open for the plow. His father Oineus begged him from
+the threshold, shaking the fitted doors on his knees; his sisters and queenly mother
+begged him, and his closest companions as well. But they could not move his heart
+until the Curetes were already upon the chamber and burning the great city.
+
+“Then his well-girded wife came weeping and told him all the evils that befall people
+when a city is taken: the men are killed, the city is burned, and strangers carry off
+the children and deep-girdled women. His spirit was stirred when he heard of these
+deeds. He rose, put on his radiant armor, and warded the evil day from the Aetolians,
+yielding to his own heart. Yet they did not fulfill the many beautiful gifts they had
+promised; he warded the evil without them.
+
+“Do not let your mind turn toward this, Achilles; do not let some god lead you there.
+It would be worse to ward the evil only when the ships are burning. Go toward the gifts:
+the Achaeans will honor you like a god. If you enter the man-killing battle without
+gifts, you will not have equal honor, even though you drive war away.”
 
 Achilles answered: “Old Phoenix, my heart honors you. Sleep here,
 and come with me when I sail, if you wish. Do not persuade me.”

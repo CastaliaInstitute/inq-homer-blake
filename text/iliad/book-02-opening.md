@@ -84,9 +84,55 @@ to announce the light to Zeus and the other immortals,
 
 he first called the heralds, clear-voiced men,
 
-to summon the army into the place of assembly.
+to summon the long-haired Achaeans to assembly.
 
-They called, and the people gathered quickly.
+They called, and the people gathered swiftly.
+
+First Agamemnon summoned the council of the great-hearted elders
+
+beside Nestor's ship, and made his careful plan:
+
+“Friends, a divine dream came to me through the ambrosial night.
+
+It looked most like Nestor in form, size, and stature;
+
+it stood above my head and spoke: ‘Do you sleep, son of Atreus?
+
+It is not right for a counselor, with peoples entrusted to him,
+
+to sleep all night. Listen quickly: I am a messenger of Zeus,
+
+who, though he is far away, cares greatly for you and pities you.
+
+He commands you to arm the long-haired Achaeans at once.
+
+Now you might take broad-wayed Troy, for the immortals who dwell
+
+in Olympus no longer deliberate apart: Hera has bent them all,
+
+and grief hangs over the Trojans by Zeus's will.’
+
+So it spoke and flew away, and sweet sleep released me.
+
+Come now, if we can, let us arm the sons of the Achaeans.
+
+First I will test them with words, as custom allows,
+
+and order them to flee with their many-oared ships;
+
+you must hold them back, each man speaking from his place.”
+
+He sat, and Nestor, king of sandy Pylos, answered:
+
+“If another Achaean had told us of this dream,
+
+we would call it false and urge a stronger flight.
+
+But the man who claims to be the greatest of the Achaeans
+
+saw it. Come, let us arm the sons of the Achaeans.”
+
+So he spoke, and the council rose and obeyed the shepherd of the people.
 
 As bees stream from a hollow rock in endless clusters,
 
@@ -94,47 +140,87 @@ when spring flowers open across the field,
 
 and some fly in a cloud while others settle in the meadow—
 
-so the long-haired Achaeans came from ships and shelters
+so the many tribes of the Achaeans came from ships and shelters,
 
-to the assembly, pouring beside the shore.
+filing before the deep shore into assembly.
 
-The rumor ran among them, sent by Zeus, and the earth
+Rumor, Zeus's messenger, burned among them and urged them forward.
 
-groaned beneath their feet. Nine heralds shouted,
+The gathering roared, the earth groaned beneath the seated people,
 
-until they found a place where the people might hear.
+and nine heralds shouted until they could quiet the noise enough
 
-Then they sat, and the noise ceased. Agamemnon rose,
+for the god-nourished kings to be heard. The people sat in haste,
 
-holding the scepter, and spoke among them:
+and the clamor ceased. Agamemnon rose, holding the scepter
 
-“Friends, Achaeans, servants of Ares, the son of Cronus
+that Hephaestus made and gave to Zeus, and Zeus to Hermes,
 
-has caught me in a ruinous dream. He stood beside me,
+the messenger who slays Argus; Hermes gave it to Pelops,
 
-like Nestor, and told me we could take the city now.
+the horse-driving king; Pelops left it to Atreus, shepherd of the people,
 
-Yet if we return, we will be the shame of all the world:
+and dying Atreus left it to Thyestes, rich in flocks;
 
-few against many, and the Trojans still unbroken.
+Thyestes left it to Agamemnon to carry, that he might rule
 
-Come, let us test the army. I will say we should flee.
+over many islands and all Argos. Leaning upon it, he spoke:
 
-You must hold them back, each man speaking to his neighbor.”
+“Friends, heroes, Danaans, servants of Ares, Zeus the son of Cronus
 
-He sat, and Nestor rose, the old king from Pylos,
+has bound me in a great and ruinous delusion—cruel Zeus,
 
-the clear speaker who had outlived two generations.
+who once promised and nodded that I would return after sacking
 
-“Friends,” he said, “I will not call you an assembly of men
+well-built Ilium, but now has devised a wicked deception
 
-who have never fought. You have let fear enter your hearts.
+and commands me to return to Argos without glory,
 
-But let us trust the sign that Zeus has sent, and arm.
+having lost so many people. So, it seems, it pleases mighty Zeus,
 
-The first who reaches his ship must not turn back
+who has destroyed the crowns of many cities and will destroy more:
 
-until he has seen the smoke rise from Troy's roofs.”
+his power is greatest. It would be shameful for those yet unborn
+
+to hear that we, so many, fought an unprofitable war
+
+against fewer men and never reached its end.
+
+If Achaeans and Trojans were counted under a faithful truce,
+
+if the Trojans gathered all who live within their city,
+
+and we Achaeans were arranged in tens, each ten choosing a Trojan
+
+to pour the wine, many tens of us would still lack a cupbearer:
+
+so much greater, I say, is our number than theirs.
+
+But allies from many cities stand beside them, spear-bearing men,
+
+who keep me from taking the well-inhabited city of Ilium.
+
+Nine years of great Zeus have already passed;
+
+the timbers of our ships have rotted and the rigging has slackened.
+
+Our wives and little children sit at home awaiting us,
+
+while our work here remains unfinished, for which we came.
+
+Come now, let us all obey what I say: let us flee in our ships
+
+to our dear fatherland. We shall never take broad-wayed Troy.”
+
+So he spoke, and stirred the hearts of all those who had not heard
+
+the council. The assembly moved like the long waves of the Icarian Sea,
+
+when East and South leap upon them from the clouds of Father Zeus;
+
+or as when the West Wind comes upon a deep field of grain,
+
+driving violently over the ears and bowing the standing corn.
 
 The assembly broke. They surged toward the ships,
 

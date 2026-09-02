@@ -9,6 +9,8 @@ Lines 31–79 are recorded in
 text/odyssey/book-02-collation-31-79.md.
 Lines 80–128 are recorded in
 text/odyssey/book-02-collation-80-128.md.
+Lines 129–176 are recorded in
+text/odyssey/book-02-collation-129-176.md.
 
 ## Translation
 

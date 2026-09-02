@@ -3,6 +3,10 @@
 **Source passage:** Book 1, lines 1–21
 
 **Status:** First-pass literary draft; not yet approved for layout.
+The first source-collated revision, covering lines 1–21, is recorded in
+text/odyssey/book-01-collation-1-21.md pending promotion after meter review.
+Lines 22–50 are recorded in
+text/odyssey/book-01-collation-22-50.md.
 
 ## Translation
 

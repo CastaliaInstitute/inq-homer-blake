@@ -10,7 +10,7 @@ commentary.
 | 4.168–305 | Helen and Menelaus recall Odysseus at Troy after the shared mourning | Competing memories | Collated 2026-09-02; verify the drug, Polydamna, the beggar-entry account, the oath, the wooden horse, Anticlus, and the lodging endpoint at meter review. |
 | 4.306–624 | Menelaus recounts Egypt, Proteus, the returning commanders, and Odysseus’ detention | Transforming sea-god and delayed return | Collated 2026-09-02; verify Pharos, Eidothea, the seal ambush, Proteus’ transformations, Egyptian hecatombs, Ajax and Agamemnon, Calypso, Elysium, and the mixing-bowl gift at meter review. |
 | 4.625–767 | The suitors discover Telemachus’ voyage; Penelope learns of the ambush and prays | Threat and protective secrecy | Collated 2026-09-02; verify Noemon’s testimony, the twenty-man ambush, Medon’s warning, Penelope’s grief and Dolios request, Eurycleia’s twelfth-day oath, and the Athena prayer at meter review. |
-| 4.768–847 | Suitors plot; Penelope receives a dream | Threat and dream ambiguity | Verify the ambush, Iphthime, and ivory/horn dream distinction. |
+| 4.768–847 | Suitors prepare the Asteris ambush; Penelope receives Athena’s Iphthime dream | Threat and limited consolation | Collated 2026-09-02; verify the twenty-man ship, Asteris’ two harbors, the phantom’s assurance about Telemachus, and the deliberate non-answer about Odysseus at meter review. |
 
 ## Draft warning
 

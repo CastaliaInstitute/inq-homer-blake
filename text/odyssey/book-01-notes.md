@@ -18,7 +18,8 @@ research notes, not final commentary.
 | 1.148–169 | The suitors’ feast, Phemius’s compelled song, and Telemachus’s private grief | Public consumption and household dispossession | Collated 2026-09-02; preserve the compelled singer, the suitors’ feast, and the return-song’s grief at meter review. |
 | 1.170–200 | Telemachus questions Mentes; Athena’s assumed identity is tested | Public uncertainty and inherited friendship | Collated 2026-09-02; verify the exact question sequence, Taphian/Temesan geography, and prophecy hinge at meter review. |
 | 1.201–270 | Athena’s prophecy, Telemachus’s household crisis, and the first charge to act | Inherited responsibility becomes chosen action | Collated 2026-09-02; verify the paternity uncertainty, suitors’ geography and abuses, Ilus’s poison, and the gods’ unresolved condition at meter review. |
-| 1.271–444 | Athena’s counsel, Telemachus’s public speech, and the night before departure | Inherited responsibility becomes chosen action | Verify the compressed speech sequence, Orestes parallel, and the final departure/night transition against the copy text. |
+| 1.271–327 | Athena’s counsel, Telemachus’s journey, and the first public charge | Inherited responsibility becomes chosen action | Collated 2026-09-02; verify the assembly, twenty-oared ship, Pylos/Sparta sequence, Orestes parallel, and bird-departure at meter review. |
+| 1.328–444 | Penelope’s grief, Telemachus’s public speech, and the night before departure | Inherited responsibility becomes chosen action | Verify the compressed speech sequence and the final departure/night transition against the copy text. |
 
 ## Draft warning
 

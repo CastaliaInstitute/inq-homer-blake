@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–566 are recorded in
+text/odyssey/book-09-collation-1-566.md.
+
 ## Translation
 
 Odysseus answered Alcinous: “You ask me my name and country.

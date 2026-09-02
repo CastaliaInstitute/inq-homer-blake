@@ -202,89 +202,133 @@ and make him fall forward before the Scaean gates. Then we will sacrifice twelve
 yearling heifers in your temple, if you will pity the city, the wives of Troy,
 and their little children.” So she prayed, but Pallas Athena turned her face away.
 
-Hector searched the city for Paris. He found him in his chamber,
-polishing his armor, while Helen sat beside him. Hector said:
+Hector went to the beautiful house of Paris, built by the best craftsmen
+of fertile Troy beside the houses of Priam and Hector. He entered with his
+eleven-cubit spear in his hand, the bronze point shining before him and
+the golden socket running around it. Paris was there, putting on his fine
+armor, shield and breastplate, and bending his curved bow; Argive Helen sat
+among her maidservants, directing their famous work. Hector rebuked him:
 
-“The army is dying outside, and you remain here. You are the cause
-of this war, and yet you do not fight. Rise, before the city burns.”
+“Strange man, you nurse this anger in your heart while the people perish
+around the steep wall. For your sake battle and war have kindled this city;
+you yourself would fight another if you saw him shrinking from the hateful
+war. Rise, before the enemy's fire consumes the town.”
 
-Paris answered: “You speak rightly. I did not stay from anger,
-but from shame. Helen has urged me to return to battle.
-Wait for me; I will follow.”
+Godlike Paris answered: “Hector, you have rebuked me justly, and not beyond
+what is just. I did not sit here from anger toward the Trojans, but because
+I wished to yield to grief. My wife has urged me toward the battle with gentle
+words, and I too think it is better. Wait a little; I will put on my armor,
+or go ahead, and I will soon catch you.”
 
-Helen said to Hector: “Brother, I am a hateful woman,
-and I wish the storm had taken me before I came here.
-Sit and rest. Your labor is too great; you carry the city alone.
-Paris has brought this evil upon us, and I upon myself.”
+Hector did not answer him. Helen spoke to Hector with gentle words:
+“Brother of my husband, dog that I am, full of hateful contrivance! Would that
+the storm had carried me away on the day my mother bore me, to mountain or
+wave-beaten sea, before these deeds were born. But since the gods have appointed
+these evils, would that I had been the wife of a better man, one who knew the
+shame and many reproaches of men. This man has no steady mind now, nor will he
+have one later; I think he will reap what he has sown. Come in and sit upon this
+bench, my brother, since the labor has weighed most heavily upon your heart,
+because of me, hateful as I am, and because of Alexander's ruin. Zeus set this
+evil fate upon us, that we should be sung as a song for generations yet to come.”
 
-Hector answered: “Do not ask me to rest while the army fights.
-I must go. I fear for the women and children of Troy,
-and for you too, though you are the cause of our sorrow.”
+Great-helmed Hector answered: “Do not ask me to sit, Helen, though you love me;
+you will not persuade me. My heart already urges me to defend the Trojans, who
+long for me while I am gone. Stir this man, and let him hurry, so that he may
+find me still within the city. I will go home too, to see my wife and my little
+son; for I do not know whether I shall return to them again, or whether the gods
+will bring me down beneath Achaean hands.”
 
-He turned and went through the streets. His wife Andromache
-met him at the Scaean gate, holding their little son Astyanax.
-The child clung to his nurse and cried at the horsehair crest,
-terrified by the bronze and by the spear that Hector carried.
+He spoke and left. At once he reached his well-inhabited house, but did not find
+Andromache in the hall. She had gone with her child and a richly dressed attendant
+to the great tower, lamenting and grieving. Hector stood at the threshold and asked
+the servants: “Tell me truly: where has white-armed Andromache gone from the house?
+Has she gone to my sisters or my brothers' well-robed wives, or to Athena's temple,
+where the other fair-haired Trojan women seek to appease the dreadful goddess?”
 
-Hector smiled, took off his helmet, and set it shining on the ground.
-He lifted his son, kissed him, and prayed to Zeus:
+The busy housekeeper answered: “Since you command me to tell the truth, she has
+gone neither to your sisters nor to your brothers' wives, nor to Athena's temple
+where the women pray. She heard that the Trojans were worn down and that the
+Achaeans' strength had grown great; she hurried to the wall like a mad woman,
+and her nurse carried the child with her.”
 
-“Grant that this child may be greater than I, and rule Troy.
-Let men say, ‘He is better than his father,’ when he returns
-from battle, bringing the armor of an enemy he has killed.
-Let his mother's heart rejoice.”
+Hector ran out of the house and back through the well-built streets. As he passed
+the gates, where he was about to cross into the plain, his richly gifted wife
+Andromache came running to meet him, daughter of great-hearted Eetion, who dwelt
+beneath wooded Placus in Thebe of Cilicia. She had been Hector's wife. Her attendant
+carried at her breast their little child, beloved Astyanax, whom Hector called
+Scamandrius, while all others called him Astyanax, “lord of the city,” for Hector
+alone defended Ilium.
 
-He placed the boy in Andromache's arms. She wept and spoke:
+Hector smiled silently when he saw the child. Andromache came close, shedding tears,
+took his hand, and called him: “Your own strength will destroy you, pitiless man;
+you have no pity for your little child or for me, soon to be your widow. The Achaeans
+will soon kill you, all rushing upon you together. It would be better for me, if I
+lose you, to go beneath the earth; I shall have no other comfort once you meet your
+fate, only sorrow. I have no father or honored mother. Achilles killed my father,
+and sacked high-gated Thebe, the well-inhabited city of Cilicia. He killed Eetion,
+but did not strip him, for he feared to do that in his heart; he burned him in his
+beautiful armor and raised a mound over him, and the mountain nymphs, daughters of
+aegis-bearing Zeus, planted elms around it. I had seven brothers in the house;
+all went down to Hades on one day, for swift-footed Achilles killed them among
+their shambling cattle and white sheep. He carried away my mother, who ruled beneath
+wooded Placus, with the rest of the spoil, then released her for a measureless ransom;
+but Artemis of the bow struck her down in the house of my father.
 
-“Your strength will kill you. You have no pity for me,
-or for the child who has no other father. Achilles killed
-my father and my seven brothers; he took my mother away.
-You are father, mother, brother, and husband to me.
-Stay here upon the wall. Do not make your child an orphan
-and me a widow. Place the army by the fig tree,
-where the wall is easiest to climb.”
+“Hector, you are now my father, honored mother, brother, and strong husband. Come,
+then, pity me and stay here upon the tower; do not make your child an orphan and your
+wife a widow. Set the army beside the fig tree, where the city is easiest to climb
+and the wall most open to attack. Three times the best of them have tried that place,
+around both Ajaxes, glorious Idomeneus, the Atrids, and the brave son of Tydeus—
+perhaps some prophet told them, or perhaps their own courage drove them on.”
 
-Hector answered: “I know it all. But I would die of shame
-before the Trojans and the women of Troy if I shrank from war.
-My heart forbids it. I have learned to be brave, and always
-to fight among the foremost, winning great honor for my father.
-Yet a day will come when sacred Troy will fall, and Priam,
-and all his people. But I grieve less for them than for you:
-some bronze-clad Achaean will carry you away, and you will weave
-for another woman, or draw water from another's spring.
-Then someone will say, ‘That was the wife of Hector,
-best of the horsemen when Troy fought.’ Those words will deepen
-your grief. May the earth lie over me before I hear your crying.”
+Great-helmed Hector answered: “All this lies within my heart, woman. But I would be
+deeply ashamed before the Trojans and their trailing-robed wives if I shrank from the
+battle like a coward. My spirit does not allow it; I have learned to be brave and to
+fight always among the first Trojans, winning great glory for my father and myself.
+For I know this surely in my mind and heart: the day will come when sacred Ilium,
+Priam, and the people of Priam, strong in the spear, will all be destroyed. But the
+future grief of the Trojans, of Hecuba herself, of lord Priam, and of my many brave
+brothers when they fall in the dust beneath hostile men does not pain me so much as
+yours, when some bronze-clad Achaean leads you away weeping, taking your free day
+from you. In Argos you will weave at another woman's loom, or carry water from
+Messeis or Hypereia, unwilling, and harsh necessity will lie upon you. Then someone
+may see you in tears and say: ‘There is the wife of Hector, who was best in battle
+among the horse-taming Trojans when they fought around Ilium.’ So he will speak,
+and your grief will be new, lacking such a husband to ward off the day of slavery.
+May the piled earth cover me dead before I hear your cry and see you dragged away.”
 
-He reached for his son, but the child had turned toward the nurse,
-afraid of the helmet's horsehair and the bronze's shining face.
-Hector laughed, removed the helmet, and set it on the ground.
-He kissed his son, rocked him, and gave him back to Andromache.
-She smiled through tears. Hector took her hand:
+When he had spoken, glorious Hector reached toward his child; but the boy turned
+back toward the nurse's richly belted breast, crying, frightened by his dear father's
+appearance and by the bronze and the horsehair crest nodding terribly from the top
+of the helmet. His father and honored mother laughed. At once Hector took the helmet
+from his head and set it shining upon the ground. He kissed his beloved son, rocked
+him in his arms, and prayed to Zeus and the other gods:
 
-“Do not grieve beyond measure. No man can send me to Hades
-before my appointed day. No one, coward or brave, escapes fate.
-Return to the house. Care for your weaving, your servants,
-and our child. The war belongs to all the men of Troy,
-but most of all to me.”
+“Zeus and all gods, grant that this child may become, as I am, eminent among the
+Trojans, strong in courage, and rule Ilium by his might. May someone one day say,
+‘He is far better than his father,’ when he returns from battle carrying the bloody
+armor of an enemy he has killed; and may his mother's heart rejoice.”
 
-Andromache went home, turning often to look back at him,
-weeping as she went. The women who followed her wept also,
-for they believed Hector would not return alive.
+He placed the child in his dear wife's arms. She received him into her fragrant
+bosom, smiling through tears. Her husband pitied her, stroked her with his hand,
+and called her by name: “Dear one, do not grieve so deeply. No man can send me to
+Hades before my appointed portion; and no man, coward or brave, has ever escaped
+his fate once he was born. Go home, and tend to your own work, the loom and distaff,
+and command your attendants to keep at their labor. War shall be the concern of all
+the men born in Ilium, but most of all of me.”
 
-Paris came at last, bright in his armor. He called to Hector:
-“I am ready. Do not wait.”
+He spoke and lifted the horsehair helmet. His wife went home, turning often to look
+back and shedding tears; the attendants raised a common lament, believing Hector
+would not return from battle. Paris did not linger in his high house. Once he had
+put on his shining armor, he hurried through the city, bright as a well-fed horse
+that breaks its tether and runs proudly to the river. He soon found his noble brother
+as Hector was turning away from the place where he had spoken with his wife.
 
-Hector answered: “No one can blame you for battle now.
-You are beautiful and swift, but your heart has been slow.
-Come, and let us fight while the city still stands.”
-
-They passed through the gates and entered the battle.
-The Argives retreated, but the Trojans regained courage.
-Helenus, who knew the will of the gods, told Hector and Paris
-to call the champions back into the field. The war gathered
-again around the walls, while Andromache reached her chamber,
-and her women remembered the man who had just left them.
+“Brother,” Paris said, “I have detained you by waiting, and have not come as quickly
+as you commanded.” Hector answered: “No decent man could despise your work in battle,
+for you are strong; but you hold back by choice, and my heart aches when I hear the
+shame the Trojans endure because of you. Come. We shall make amends, if Zeus ever
+grants us to raise a mixing bowl in the halls of heaven after victory.”
 
 ## Decision log
 
@@ -294,6 +338,6 @@ and her women remembered the man who had just left them.
   no single speech resolves their conflict.
 - Astyanax's fear of the helmet gives the war's machinery a child's scale,
   while Hector's prayer reveals the future he cannot secure.
-- This draft needs Greek-fidelity review for Bellerophon's genealogy, the
-  guest-gift values, the temple procession, and every movement of the gate
-  scene before approval.
+- Greek-fidelity records now cover 6.1–118, 6.119–311, 6.312–493, and 6.494–529;
+  final copyediting and layout approval remain pending. This draft still needs
+  final Greek-fidelity review and copyediting before approval.

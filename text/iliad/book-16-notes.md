@@ -2,10 +2,13 @@
 
 These notes accompany the current complete working draft and are not final
 commentary.
+Lines 1–100 are recorded in
+text/iliad/book-16-collation-1-100.md; promotion into the authoritative
+manuscript remains pending meter review.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 16.1–100 | Patroclus asks for armor | Plea and conditional permission | Verify speeches and Achilles' restrictions. |
+| 16.1–100 | Patroclus pleads for the Myrmidons; Achilles grants conditional permission | Plea, grievance, and fatal boundary | Collated 2026-09-02; preserve the wounded leaders, Briseis grievance, ship rescue, and prohibition against pursuing Troy. |
 | 16.101–220 | Myrmidons arm and advance | Borrowed appearance | Check troop names, horses, and prayer. |
 | 16.221–353 | Fire driven from ships | Rescue and momentum | Collate Pyraechmes and Trojan retreat. |
 | 16.354–507 | Sarpedon and Patroclus | Two heroic claims | Verify spear sequence, Glaucus, and Zeus's debate. |

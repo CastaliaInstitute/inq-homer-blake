@@ -2,10 +2,13 @@
 
 These notes accompany the current complete working draft and are not final
 commentary.
+Lines 1–104 are recorded in
+text/iliad/book-17-collation-1-104.md; promotion into the authoritative
+manuscript remains pending meter review.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 17.1–104 | Menelaus kills Euphorbus | First defense of the body | Verify armor, wound, and withdrawal. |
+| 17.1–104 | Menelaus defends Patroclus; Euphorbus falls; Apollo sends Hector back | First defense and divine reversal | Collated 2026-09-02; preserve the cow, olive, and lion similes, Hyperenor's memory, Menthes' disguise, and the appeal for Ajax. |
 | 17.105–208 | Hector takes Achilles' armor | Identity and prize | Check Ajax's call and Hector's motive. |
 | 17.209–344 | Fight around Patroclus | Body as battlefield | Collate Glaucus, Aeneas, and the pulling of the corpse. |
 | 17.345–493 | Automedon and the horses | Grief and chariot | Verify horses, Alcimedon, and Hector's attack. |

@@ -269,29 +269,87 @@ Come, then, let us remember our fierce courage.”
 He leapt from his chariot in his armor; the bronze rang terribly on the king’s
 chest, and fear would have seized even the steadfast.
 
-Now the battle spread. Menelaus killed the Paphlagonian leader Pylaemenes;
-Meriones killed Phereclus, son of Tecton, who knew every craft of Athena
-and made ships for Alexander. Teucer shot Orsilochus and Chromius,
-sons of Diocles, and Ajax struck Amphius, rich in land at Pæson.
-Antilochus, son of Nestor, killed Ablerus; Diomedes killed Axylus,
-son of Teuthras, who lived by the road at Arisbe and welcomed all men,
-for his house stood beside the way. Yet none of those he welcomed
-stood before him to avert his death.
+When the two hosts came together, the ranks advanced without pause.
+Each commander gave orders, but the rest moved silently; you would not think
+so many people possessed voices, for they feared their officers’ commands,
+while the variegated armor flashed as they marched.
+The Trojans raised a cry like sheep in the courtyard of a rich man,
+thousands standing to be milked and bleating without cease
+as they hear the lambs’ voices. So a confused clamor rose through the Trojan host;
+their sound was not one voice or one language, but a mixture of tongues,
+men called from many lands. Ares stirred some, bright-eyed Athena others,
+and Deimos, Phobos, and unwearied Strife—the sister and companion
+of man-slaying Ares. At first Strife’s head is small, but soon she plants it
+in heaven while her feet walk upon the earth; she too then cast mutual hatred
+among them, increasing the groan of men as she moved through the ranks.
 
-As fire consumes a dry forest upon the mountain slopes,
-driven by a wind that turns every tree into a red wave,
-so the two peoples moved across the plain. No man who entered
-that fire knew whether he would return to the bright day.
+When they reached one place, hide struck hide, spears and the strength
+of bronze-clad men struck together, and bossed shields crashed upon shields.
+A great tumult rose: there were groans and shouts of triumph from men
+killing and being killed, and the ground ran with blood.
+As when two winter torrents rushing down the mountains pour their mighty
+waters together into a hollow ravine from great springs, and a shepherd
+hears their thunder far away in the hills, so from the armies’ meeting
+came clamor and pain.
 
-Hector saw the Achaeans pressing forward and urged his men.
-Agamemnon saw his brother's wound forgotten and the army advancing.
-The gods sat apart, but no god's counsel could withdraw
-the oath's broken violence from the hands of mortals.
+Antilochus was first to kill a Trojan champion, Echepolus,
+son of Thalysius. He struck the horsehair crest of his helmet first;
+the bronze point fixed in his forehead and passed through the bone,
+and darkness covered his eyes. He fell like a tower in fierce battle.
+Elephenor, son of Chalcodon and great-hearted leader of the Abantes,
+seized the fallen man by the feet and dragged him out of the missiles,
+eager to strip his armor; but his effort was brief. Agenor saw him,
+and as he bent beside the shield, Agenor stabbed the ribs exposed beneath
+it with his bronze spear and loosed his limbs. So Elephenor’s spirit left him,
+and the Trojans and Achaeans fought terribly over his body, rushing together
+like wolves, while man struck man.
 
-At last the battle darkened toward evening. The slain lay thick,
-and the living still sought armor among them. The earth groaned
-under the feet of men and horses. Night would bring a brief pause,
-but not peace: Troy and Argos had already taken up the sword again.
+Telamonian Ajax struck Simoeisius, the flourishing son of Anthemion,
+whom his mother bore beside the banks of Simoeis as she came down from Ida
+with her parents to see the flocks. Therefore they named him Simoeisius.
+He never repaid his dear parents for their upbringing; his life was short,
+and Ajax’s great-hearted spear brought him down. Ajax struck him in the chest,
+beside the right nipple; the bronze spear came out through the shoulder,
+and he fell in the dust like a smooth poplar grown in a broad wet meadow,
+its branches high at the crown, cut by a chariot-builder with shining iron
+to bend it into a beautiful chariot-rim, and left lying beside the river.
+
+Antiphus, Priam’s son, cast his sharp spear at Ajax but missed,
+and struck Leucus, Odysseus’ excellent companion, as he dragged a corpse
+aside; the dead man fell from his hands and Leucus fell over him.
+Odysseus grew fiercely angry at his companion’s death. Helmeted in bright bronze,
+he advanced through the champions, stood near, and cast his shining spear.
+The Trojans shrank from him, but his shot was not in vain: he struck Democoon,
+Priam’s bastard son, who had come from Abydos beside the swift horses.
+Odysseus struck him at the temple; the bronze point passed through the other side,
+darkness covered his eyes, and his armor clattered as he fell.
+The champions and radiant Hector withdrew; the Argives gave a great shout,
+dragged away the dead, and advanced much farther. Apollo, looking down from Pergamos,
+was angered and called to the Trojans: “Rise, horse-taming Trojans;
+do not yield to the Achaeans. Their flesh is not stone or iron,
+able to withstand the bronze that cuts the flesh. Nor does Achilles,
+son of fair-haired Thetis, fight; he nurses his heart-paining anger
+beside the ships.”
+
+The terrible god spoke from the city, while Athena, glorious daughter of Zeus,
+stirred the Achaeans wherever she saw them slacken. There Fate caught Diores,
+son of Amarynceus: a jagged stone struck him beside the ankle,
+crushing the tendons and bones of his right leg. Peirous, son of Imbrasus,
+leader of the Thracians who came from Aenus, had thrown it.
+Diores fell backward in the dust, stretching both hands to his companions,
+breathing out his spirit. Peirous, who had struck him, rushed forward;
+Thoas the Aetolian stabbed him above the nipple, and the bronze lodged in his lung.
+Thoas came close, pulled the great spear from his chest, drew his sharp sword,
+and struck his belly, taking away his life. He could not strip the armor:
+the Thracians with long spears stood around him, and though he was great,
+strong, and splendid, they drove Thoas back. So the two leaders lay stretched
+beside each other in the dust, one leader of Thracians, one of bronze-clad Epeans,
+and many others were killed around them.
+
+Then no man could blame a person for moving through the middle of battle,
+still unstruck and unwounded by sharp bronze, if Pallas Athena took him by the hand
+and turned the missiles aside; for that day many Trojans and Achaeans lay face-down
+in the dust beside one another.
 
 ## Decision log
 

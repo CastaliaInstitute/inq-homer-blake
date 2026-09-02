@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–347 are recorded in
+text/odyssey/book-07-collation-1-347.md.
+
 ## Translation
 
 Odysseus slept beneath Athena's grove. The goddess went into the city,

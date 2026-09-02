@@ -274,40 +274,177 @@ in the thick forest, they ravaged cattle and sheep in men’s folds until
 sharp bronze killed them in men’s hands; so Aeneas subdued them,
 and they fell like tall firs.
 
-Sarpedon prayed to Apollo for healing, but the god did not answer.
-The Lycian people carried him away, and Glaucus' wound was eased
-when Apollo heard his prayer. He urged the Trojans to defend
-the body, and the fight around Sarpedon grew fierce.
+The war-loving Menelaus pitied the fallen pair, and, helmeted in flashing
+bronze, went through the foremost ranks, brandishing his spear. Ares, thinking
+to bring him down beneath Aeneas' hands, stirred his courage. Antilochus,
+Nestor's great-hearted son, saw him and hurried through the battle, fearing
+for the shepherd of the people lest the labor of the day be lost. The two
+stood face to face, eager to fight, while Antilochus held close beside Menelaus.
+Aeneas, though swift in war, would not wait when he saw the two champions
+standing together. They dragged the dead back among the Achaeans, laid the
+fallen in the hands of their companions, and turned again into the foremost
+line. There they slew Pylæmenes, leader of the great shield-bearing Paphlagonians:
+Menelaus struck him beneath the collarbone, and Antilochus felled Mydon,
+his charioteer, striking the elbow that held the reins. The ivory-white reins
+dropped in the dust; Antilochus sprang upon him with the sword and drove him
+from the well-built car, face and shoulders buried in the sand, until the horses
+were seized and led away among the Achaean ranks.
 
-Hector and the Trojans attacked. The Achaeans did not yield.
-Ajax and Teucer came near; Teucer shot a captain, but Hector
-shattered his bow. Ajax held his shield before his brother,
-and they withdrew together beneath the pressure of the line.
+Hector saw them and came against them shouting, with the Trojan battalions
+behind him. Ares led the way, and shameless Enyo carried the tumult of war;
+Ares swung his enormous spear, now before Hector, now behind him. Diomedes,
+seeing the god, shuddered like a helpless traveler who, standing above a river
+pouring foaming into the sea, beholds the flood and runs backward. He called
+to his friends: “Look how we marvel at noble Hector, both spearman and daring
+warrior! Yet some god always stands beside him, warding off destruction; and
+now that god is Ares, made like a mortal man. Face the Trojans, and give ground
+ever backward. Do not desire to fight the gods by force.”
 
-Sarpedon fell like an oak cut down by the axe. The dust covered him,
-and the armor flashed around his body. Zeus looked upon his son,
-and wanted to save him. Hera warned him:
+The Trojans came close. Hector killed Menesthes and Anchialus, two companions
+in one chariot. Great Telamonian Ajax pitied them, stood near, and cast his
+bright spear at Amphius, son of Selagus, a wealthy man who dwelt in Paesus
+among fields of grain, but fate had led him to fight beside Priam and his sons.
+Ajax struck him beneath the belt; the long shadowing spear fixed in his belly,
+and he fell with a crash. Ajax ran to strip his armor, but Trojan spears poured
+around him, and his shield received them all. He tore the bronze from the dead,
+yet could not take away the beautiful armor: the press of the many and the brave
+drove him back, and he staggered beneath their charge.
 
-“If you take him from death, the other gods will demand the same.
-Let fate stand. Send Apollo to wash him, and let Sleep and Death
-carry him to Lycia, where his people will bury him.”
+Then fate, strong and pitiless, raised against godlike Sarpedon the tall and
+excellent Tlepolemus, son of Heracles. When they had drawn near—son and grandson
+of Zeus who gathers the clouds—Tlepolemus first addressed the Lycian captain:
 
-Zeus listened. He sent a rain of blood upon the field,
-honoring his son before the appointed hour. Apollo came,
-washed Sarpedon in the river, and wrapped him in divine garments.
-Sleep and Death bore him away, swift as twin brothers,
-to the far land where the Lycian people received him.
+“Sarpedon, counselor of the Lycians, what compels you to crouch here before
+the battle, a man unpracticed in war? They lie who call you son of aegis-bearing
+Zeus, for you fall far short of the men said to have sprung from him in earlier
+days. My father Heracles was brave and lion-hearted. He came here once for the
+horses of Laomedon with six ships and few men, and laid Ilium waste, making
+its streets bereaved. But your spirit is poor, and your people waste away.
+You will be no defense to Troy, though you have come from Lycia; beneath my spear
+you shall be subdued and pass through the gates of Hades.”
 
-Meanwhile the Achaeans seized the armor. Patroclus urged
-Eurypylus forward, and he killed Hypsenor, priest of the river.
-The Trojans retreated toward the city, but the gods stirred
-the war again, and the day did not close with victory.
+Sarpedon answered: “Tlepolemus, that man did destroy sacred Ilium through the
+blindness of proud Laomedon, who repaid his good service with an evil word and
+would not give him the horses for which he came from far away. But here, I say,
+you shall find death and the black fate: slain beneath my spear, you shall give
+glory to me, and your spirit to Hades, the lord of the famous horses.”
 
-Diomedes, Odysseus, and the two Ajaxes pressed upon the enemy.
-Hector drove back the men before him. Aeneas returned,
-healed and armed, and the Trojans took heart. The plain filled
-with chariots, horses, and wounded men. Night did not yet come;
-the battle still burned with the force of a god.
+They raised their spears. Both shafts flew wide; then Sarpedon struck the neck
+of Tlepolemus, and the grievous point passed through. Black night covered his eyes.
+Tlepolemus struck Sarpedon's left thigh; the spear drove through and lodged
+against the bone, yet Zeus' son was not wholly overcome. Sarpedon's dear companions
+carried him from the battle, and the long spear dragged after him, for no one
+thought how to draw the ash from his thigh while they hurried under that burden.
+The well-greaved Achaeans bore Tlepolemus away. Odysseus saw him, and his brave
+heart burned. He wondered whether to pursue Zeus' son or take the lives of many
+Lycians, but it was not his portion to kill the mighty son of Zeus. Athena turned
+his spirit toward the Lycian multitude, and he slew Coeranus, Alastor, Chromius,
+Alcander, Halios, Noemon, and Prytanis.
+
+He would have killed more, but Hector, the great-helmed son of Priam, perceived
+the danger and crossed the foremost ranks, bringing dread to the Danaans. Sarpedon,
+son of Zeus, rejoiced at his coming and spoke in grief: “Priam's son, do not leave
+me as prey for the Danaans; defend me, and then let life abandon me here in your
+city. I was not destined to return home and gladden my dear wife and little son.”
+Hector gave him no answer, but rushed past, eager to thrust back the Argives and
+take the life of many. His companions set Sarpedon beneath Zeus' beautiful oak.
+There strong Pelagon, his beloved friend, drew the ash from his thigh. His spirit
+left him, and a mist covered his eyes; then the breath of the North Wind blew upon
+him, and he revived, gasping and faint.
+
+But the Argives, once Ares and bronze-clad Hector had entered the battle, neither
+advanced toward the black ships nor stood to meet them; they continually gave
+ground when they heard that Ares was among the Trojans. Whom did Hector and bronze
+Ares first and last strip of life? Teuthras, horse-driving Orestes, the spearman
+Trechus, Oenomaus, Helenus son of Oenops, and Oresbius with the bright belt—he who
+dwelt beside the Cephissian lake in Hyle, rich in goods, while the other Boeotians
+lived near him on their fertile land.
+
+White-armed Hera saw the Argives falling in the hard battle and spoke to Athena:
+“Shame! Shall our promise to Menelaus be vain—that well-walled Ilium should fall,
+if we let destructive Ares rage so? Let us too put forth our strength.” Athena did
+not refuse. Hera harnessed her swift golden-maned horses; Hebe fitted the curved
+eight-spoked wheels upon the iron axle, and Hera set the golden yoke and reins.
+Athena cast her embroidered robe at her father's feet, put on Zeus' warlike tunic,
+and armed herself with the tasselled aegis, crowned with Fear, Strife, Strength,
+and the dreadful Gorgon head. She set upon her head the four-crested golden helmet,
+fitted for a hundred cities, mounted the flaming car, and took the great spear
+with which she breaks the ranks of heroes who have angered her strong father.
+
+Hera urged the horses on. Of their own accord the gates of heaven groaned—the gates
+held by the Hours, who open and close the dense cloud between Olympus and the sky.
+They found Zeus sitting apart from the other gods on the highest peak. Hera loosed
+the horses at the meeting of Simoeis and Scamander, hid them in deep mist, and the
+river raised ambrosia for them to eat. Hera and Athena went on like shy doves toward
+the place where the best of the Argives stood around horse-taming Diomedes, gathered
+like lions or boars whose strength is not easily broken. Hera cried in the voice of
+Stentor, whose bronze voice equaled the voices of fifty men: “Shame, Argives—cowards
+in beautiful bodies! While noble Achilles walked among you, the Trojans never dared
+to leave the Dardanian gates, so greatly they feared his terrible spear. Now they
+fight far from the city beside the hollow ships.” Her cry awakened the courage of all.
+
+Athena found Diomedes beside his horses and chariot, cooling the wound Pandarus had
+made with his arrow. Sweat tormented him beneath the broad shield-strap, and his arm
+grew weary as he wiped the dark blood away. The goddess touched the yoke and said:
+“Little did Tydeus beget a son like himself! Tydeus was small in body, but a fighter.
+When I forbade him to fight or to burst into the tumult, and he came as messenger to
+Thebes among the Cadmeans, I told him to feast quietly in the halls. Yet his strong
+spirit challenged the young men and defeated them all, for I stood beside him. I stand
+beside and guard you too. Fight the Trojans freely. Has long weariness weakened your
+limbs, or does fear hold you? You are no son of Tydeus, the battle-wise Oeneid.”
+
+Diomedes answered: “I know you, goddess, daughter of aegis-bearing Zeus, and will
+hide nothing. Neither fear nor cowardice holds me; I remember still the commands you
+gave me—not to fight the blessed gods openly. But if Aphrodite, daughter of Zeus,
+comes into the battle, I may wound her with the sharp bronze. Therefore I withdraw
+and bid the other Argives gather here: I know Ares rules the fight.”
+
+Athena replied: “Diomedes, dear to my heart, fear neither Ares nor any other immortal;
+I am your defense. Drive your sure-hoofed horses straight at Ares. Strike him close;
+do not dread that mad, shifting god, who lately boasted to Hera and me that he would
+fight for the Trojans and aid the Argives, but now mingles with the Trojans and has
+forgotten his promise.” She thrust Sthenelus from the chariot and drew him back with
+her hand; he sprang away. The goddess mounted beside Diomedes, and the beech axle
+groaned beneath the weight of a god and a great man. Pallas Athena took the reins
+and drove first against Ares.
+
+Ares was stripping the armor from huge Periphas, best of the Aetolians, when Athena
+put on the helmet of Hades that the mighty god might not see her. As soon as Ares,
+the bane of mortals, saw Diomedes, he left Periphas where he had first slain him and
+came straight against the horse-tamer. Ares thrust over the yoke and reins, eager to
+take the mortal's life; Athena caught the spear and drove it aside, so that it flew
+in vain. Diomedes then thrust with his bronze spear; Athena guided it beneath the
+belly, where the belt was fastened. He struck Ares, tore the beautiful flesh, and
+withdrew the spear. The brazen god cried as loudly as nine or ten thousand men cry
+when war's quarrel brings them together. A shudder seized Achaeans and Trojans alike.
+
+As dark air appears from clouds when a hot wind rises from a stormy quarter, so
+bronze Ares appeared to Diomedes, rising among the clouds toward the broad heaven.
+Swiftly he reached Olympus, sat beside Zeus, and showed the immortal blood running
+from his wound. “Father Zeus,” he lamented, “do you not see these violent deeds?
+We gods suffer always from one another's will, bringing favor to mortal men. We all
+fight because you begot this senseless, ruinous daughter, whose mind is forever set
+on lawless deeds. The other gods in Olympus obey you and bow beneath your will, but
+you restrain her neither in word nor deed because you yourself fathered this destructive
+child. She has now driven arrogant Diomedes against the immortals: first he wounded
+Cypris at the wrist, and then rushed upon me like a god. My swift feet saved me;
+else I should have suffered long among the dreadful dead, or lived powerless beneath
+the blows of bronze.”
+
+Zeus looked at him darkly: “Do not sit beside me and whimper, you turncoat. You are
+the god I hate most among those who hold Olympus. Strife, war, and battle are always
+dear to you. You have your mother's unyielding, unmanageable temper—Hera's; even I
+can scarcely master her with words. I think her counsels have brought you this pain.
+Yet I will not endure your suffering long, for you are my child, and your mother bore
+you to me. Had you been born from another god, destructive one, you would long ago
+have been lower than the sons of Heaven.”
+
+He commanded Paeon to heal him. Paeon spread pain-soothing medicines upon the wound,
+and it closed at once, for Ares was not fashioned mortal. As curdling fig-juice quickly
+thickens white milk when stirred, so quickly the medicine healed the furious god.
+Hebe washed him and dressed him in shining garments; he sat beside Zeus in glory.
+Hera of Argos and Athena of Alalcomenae returned to the great house of Zeus, having
+stopped murderous Ares from his slaughter of men.
 
 ## Decision log
 

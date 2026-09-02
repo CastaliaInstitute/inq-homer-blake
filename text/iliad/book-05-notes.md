@@ -9,8 +9,8 @@ commentary.
 | 5.166–460 | Aeneas and Pandarus confront Diomedes; Aphrodite and Apollo intervene; Ares is summoned | Chariot strategy, divine wound, Dione’s exempla, Apollo’s image, and the escalation from mortal to divine combat | Collation recorded in `book-05-collation-166-460.md`; preserve the correct sequence of rescue and commission. |
 | 5.461–560 | Ares rallies the Trojans; Sarpedon rebukes Hector; Aeneas kills Crethon and Orsilochus | Threshing-floor and cloud images, command, shame, and genealogy | Collation recorded in `book-05-collation-461-560.md`; preserve the transition from divine pressure to renewed human ranks. |
 | 5.330–500 | Diomedes' continued aristeia | War under divine pressure | Verify combat order and Athena's interventions. |
-| 5.501–698 | Sarpedon and Tlepolemus | Heroic mortality | Check genealogies, speeches, and the wound sequence. |
-| 5.699–909 | Sarpedon's death and battlefield continuation | Zeus, Sleep, and Death | Verify the armor struggle, Apollo's role, and the book ending. |
+| 5.561–698 | Menelaus and Antilochus; Tlepolemus and Sarpedon | Heroic mortality | Collation recorded in `book-05-collation-561-909.md`; preserve the genealogies, speeches, wounds, and named Lycian deaths. |
+| 5.699–909 | Sarpedon’s battlefield continuation; Hera, Athena, Diomedes, and Ares | Divine intervention and mortal battle | Collation recorded in `book-05-collation-561-909.md`; preserve the armor struggle, the divine return, Ares’ wounding, and Zeus’ rebuke. |
 
 ## Draft warning
 

@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–640 are recorded in
+text/odyssey/book-11-collation-1-640.md.
+
 ## Translation
 
 We came to the river Ocean, where the Cimmerian people live,

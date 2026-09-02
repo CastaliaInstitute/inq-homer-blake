@@ -1,1 +1,12 @@
 volume,page_number,page_type,epic,book,source_range,text_file,image_file,caption_id,proof_status,notes
+iliad-proof,1,title,Iliad,1,,text/iliad/book-01-opening.md,,,verified-sample,"Title page in output/pdf/inq-homer-book-1-proof.pdf"
+iliad-proof,2,verse,Iliad,1,1.1-16,text/iliad/book-01-opening.md,,,verified-sample,"Verse page in output/pdf/inq-homer-book-1-proof.pdf"
+iliad-proof,3,plate,Iliad,1,1.1-16,,assets/generated/iliad/book-01-apollo-v1.png,generated-iliad-01,verified-sample,"Concept-resolution plate; not final"
+iliad-proof,4,notes,Iliad,1,,text/iliad/book-01-opening.md,,,verified-sample,"Proof notes and release status"
+odyssey-proof,1,title,Odyssey,1,,text/odyssey/book-01-opening.md,,,verified-sample,"Title page in output/pdf/inq-homer-odyssey-book-1-proof.pdf"
+odyssey-proof,2,verse,Odyssey,1,1.1-21,text/odyssey/book-01-opening.md,,,verified-sample,"Verse page in output/pdf/inq-homer-odyssey-book-1-proof.pdf"
+odyssey-proof,3,plate,Odyssey,1,1.1-21,,assets/generated/odyssey/book-01-athena-v1.png,generated-odyssey-01,verified-sample,"Concept-resolution plate; not final"
+odyssey-proof,4,notes,Odyssey,1,,text/odyssey/book-01-opening.md,,,verified-sample,"Proof notes and release status"
+historical-proof,1,title,Iliad,1,,,,,verified-sample,"Title page in output/pdf/inq-homer-historical-plate-proof.pdf"
+historical-proof,2,plate,Iliad,1,1.1-16,,assets/source/iliad/met-337355-dp-14470-001.jpg,source-iliad-plate-02,verified-sample,"Historical scan; role-level credit required"
+historical-proof,3,plate,Iliad,18,18.1-end,,assets/source/iliad/met-337355-dp-15151-001.jpg,source-iliad-plate-31,verified-sample,"Historical scan; role-level credit required"

@@ -29,6 +29,20 @@ status_rows.each_with_index do |row, index|
 end
 puts "OK translation status ledger: #{status_rows.length} books"
 
+page_map = path_from_root("design/page-map.csv")
+page_rows = CSV.read(page_map, headers: true)
+fail!("page map is empty") if page_rows.empty?
+page_rows.each_with_index do |row, index|
+  row_number = index + 2
+  fail!("page map row #{row_number} has no page_type") if row["page_type"].nil? || row["page_type"].empty?
+  %w[text_file image_file].each do |field|
+    file = row[field]
+    next if file.nil? || file.empty?
+    fail!("missing page-map #{field} #{file} (row #{row_number})") unless File.file?(path_from_root(file))
+  end
+end
+puts "OK page map: #{page_rows.length} rows"
+
 generated_manifest = path_from_root("assets/generated/manifest.csv")
 rows = CSV.read(generated_manifest, headers: true)
 

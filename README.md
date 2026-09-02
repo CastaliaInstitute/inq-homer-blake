@@ -59,6 +59,9 @@ The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status
 auditable.
 
+Rendered-page traceability is maintained in the [page map](design/page-map.csv)
+under the rules in [page-map-rules.md](design/page-map-rules.md).
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

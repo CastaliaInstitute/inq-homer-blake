@@ -54,3 +54,7 @@ the Book 1 openings are intentionally marked as first-pass drafts.
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.
+
+The first original plate candidate is documented in the
+[Apollo prompt record](assets/generated/prompts/iliad-book-01-apollo-v1.md);
+it is concept-review only until a print-resolution master is approved.

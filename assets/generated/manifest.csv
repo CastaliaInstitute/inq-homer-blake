@@ -1,1 +1,2 @@
 epic,book,passage,working_title,creator,source_type,model_version,prompt_file,generated_on,reference_ids,curation_status,final_file,credit_line,notes
+Iliad,1,"1.1–1.16",Apollo descends upon the Achaean camp,CastaliaInstitute,generated,"Built-in image generation; version not exposed",assets/generated/prompts/iliad-book-01-apollo-v1.md,2026-09-02,,concept-review,assets/generated/iliad/book-01-apollo-v1.png,"Original plate candidate by CastaliaInstitute; not by William Blake.","1050 × 1498 px; approximately 150 dpi at 7 × 10 in; regenerate/upscale before print approval."

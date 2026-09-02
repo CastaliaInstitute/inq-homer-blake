@@ -579,6 +579,107 @@ before another evil first befall thee.”
 **Continuation:** line 552 begins Priam’s meal and the night’s rest;
 this unit ends after the first shared mourning in Achilles’s shelter.
 
+## Translation — source-collated lines 552–635
+
+Godlike aged Priam answered him: “Do not make me sit,
+nurseling of Zeus, while Hector lies uncared for in the shelter.
+Release him quickly, that I may see him with my eyes;
+receive the abundant ransom we have brought thee;
+enjoy it, and mayest thou return to thy native land,
+since thou hast first allowed me to live and look upon the sun.”
+
+Swift-footed Achilles looked darkly upon him and answered:
+“Stir me no further now, old man. I myself know well
+that I must release thy Hector; from Zeus there came to me
+my mother, daughter of the ancient lord of the sea.
+And I know thee too, Priam; thou dost not escape my mind:
+some god has led thee to the swift ships of the Achaeans.
+No mortal, not even one in the first strength of youth,
+would dare to come into our army; he could not escape
+the watchmen’s eyes, nor easily move the bar across our gate.
+Therefore trouble my heart no further in its grief,
+lest, old man, I leave thee not even here within my shelter,
+though thou art my suppliant, and transgress the commands of Zeus.”
+
+He spoke; the old man feared and obeyed his word.
+Then Peleus’ son sprang like a lion from the shelter,
+not alone: Automedon and Alcimus followed him,
+the two companions whom Achilles honored most
+after Patroclus, who had fallen. They loosed the horses
+and the mules from beneath the yoke, and brought within
+the herald, the old man’s clear-voiced companion;
+they set him down upon a seat, and from the polished wagon
+they lifted the immeasurable ransom for Hector’s head.
+But they left two robes and one well-woven tunic,
+that he might wrap the dead man and carry him home.
+
+Achilles called the serving-women and commanded them
+to wash the body and anoint it, carrying it aside,
+so that Priam might not see his son. For, seeing Hector,
+the old man’s wounded heart might fail to restrain his anger,
+and Achilles’ heart might rise again, and he might kill him,
+transgressing the commands of Zeus. When the serving-women
+had washed him and anointed him with oil, they cast around him
+a beautiful robe and tunic. Achilles himself lifted him
+from the bier and laid him upon it; his companions
+raised him and placed him upon the polished wagon.
+
+Then Achilles groaned and called his beloved companion by name:
+“Be not angry with me, Patroclus, if thou hearest in Hades,
+that I have released noble Hector to his dear father;
+for he has given me no unworthy ransom. Of these gifts also
+I will divide with thee whatever portion is fitting.”
+
+So speaking, noble Achilles went again into the shelter,
+and sat upon the richly worked seat from which he had risen,
+against the farther wall; then he spoke to Priam:
+“Thy son is released, old man, as thou didst command;
+he lies upon the bier. At the rising of the bright dawn
+thou shalt see him thyself and carry him away. But now
+let us remember food.
+
+“For even fair-haired Niobe remembered food, though twelve children
+perished within her house—six daughters and six sons in the flower
+of youth. Apollo, with his silver bow, killed the sons,
+angered with Niobe; and Artemis, the archer, killed the daughters,
+because Niobe had compared herself with fair-cheeked Leto,
+saying that Leto bore two children, while she herself had borne many.
+Though they were only two, they destroyed them all.
+For nine days they lay in their blood, and no one was there to bury them;
+the Son of Cronus had turned the people into stone. On the tenth day
+the gods of heaven buried them. Yet she remembered food,
+when she had grown weary with shedding tears.
+And now, somewhere among the rocks, in the lonely mountains,
+on Sipylus, where they say the goddess-nymphs have their beds,
+the nymphs who dance around Achelous, there, though she is stone,
+she still digests the sorrows given by the gods.
+
+“Come, then, noble old man; let us also take food.
+Afterward thou shalt weep again for thy beloved son,
+when thou hast brought him into Ilium; and he shall bring thee
+many tears.”
+
+Swift Achilles sprang up and slaughtered a white-fleeced sheep.
+His companions flayed it and prepared it properly;
+they cut the meat with skill, spitted it, and roasted it carefully,
+then drew all the portions away. Automedon took the bread
+and set it out in handsome baskets upon the table;
+Achilles divided the meat. They reached their hands
+toward the ready food set before them.
+
+When they had put away their desire for drink and food,
+Dardanian Priam wondered at Achilles—how great he was,
+and what a man he seemed, for he resembled the immortal gods.
+And Achilles wondered at Dardanian Priam in turn,
+beholding his noble face and hearing his words.
+When they had taken their fill of looking upon each other,
+godlike aged Priam spoke first:
+“Tell me now, nurseling of Zeus, and tell me quickly, that already
+we may find sweet sleep and rest ourselves in slumber.”
+
+**Continuation:** line 636 begins Priam’s account of sleepless grief;
+this unit ends after the shared meal and mutual wonder.
+
 ## Working synopsis
 
 The games ended, and the Achaeans returned to their ships.

@@ -2,9 +2,8 @@
 
 **Source passage:** Book 24, lines 1–804 (complete working-book draft)
 
-**Status:** First source-collated literary revision through lines 1–551;
-independent meter and Greek-fidelity review remains pending. Lines 552–804
-remain in their Greek-collation files pending promotion.
+**Status:** First source-collated literary revision through lines 1–804;
+independent meter and Greek-fidelity review remains pending.
 Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
 Lines 229–386 are recorded in
@@ -776,6 +775,110 @@ So he spoke; and they parted, making room for the wagon.
 
 **Continuation:** line 719 begins Andromache’s lament;
 this unit ends as Priam brings Hector through the city gate.
+
+## Translation — source-collated lines 719–804
+
+When they had brought him into the glorious house, they laid him
+upon the pierced bier, and set beside him singers,
+leaders of the dirge, to begin the song of mourning.
+They sang the lament, and the women groaned around them.
+
+White-armed Andromache began the wailing among them,
+holding in her hands the head of Hector, slayer of men:
+
+“Hector, thou hast died young, and left me widowed here
+within our halls; and our child is still a little one,
+our child, whom thou and I, unhappy parents, bore.
+I do not think he shall come into his youth; before that time
+this city from its height shall be utterly destroyed.
+For thou art dead, who wast its guardian, and didst defend it,
+and keptest safe its reverend wives and little children;
+soon they shall be carried away in the hollow ships,
+and I among them. And thou, my child, shalt follow me,
+where thou shalt do disgraceful labor before a pitiless lord;
+or some Achaean, seizing thee by the hand, shall hurl thee
+from the tower to a bitter death, in anger because Hector killed
+his brother, or his father, or his son—so many Achaeans
+bit the vast earth beneath Hector’s hands.
+
+“For thy father was not gentle in the grievous battle.
+Therefore the people mourn him throughout the city;
+thou hast made thy parents a lament and sorrow not to be forgotten,
+Hector; but for me, most of all, grievous pains remain.
+For when thou wert dying, thou didst not stretch thy hands to me
+from the bed, nor speak a thoughtful word which I might remember,
+shedding tears through the nights and days.”
+
+So she spoke in tears, and the women groaned around her.
+Then Hecuba began the loud, unceasing lament:
+
+“Hector, dearest of all my children to my heart,
+while thou wert living, thou wert beloved by the gods;
+and even in death they have cared for thee. For all my other sons
+swift-footed Achilles sold, whoever he took beyond the barren sea,
+to Samos, Imbros, and Lemnos veiled in mist.
+But when he took thy life with his long-pointed bronze,
+many times he dragged thee round the tomb of his companion,
+Patroclus, whom thou hadst killed; yet he could not raise him again.
+And now thou liest fresh and dewy in our halls,
+like one whom silver-bowed Apollo, moving gently,
+has struck and killed with his soft arrows.”
+
+So she spoke in tears, and stirred an unending cry.
+Then Helen, third among them, began her lament:
+
+“Hector, dearest of all my brothers by marriage,
+my husband is Alexander, beautiful as a god,
+who brought me here to Troy—would that I had died before!
+This is now the twentieth year since I came from my country
+and left it; yet never have I heard from thee a harsh word,
+nor one that cut me with reproach. If another in the halls
+rebuked me—one of thy brothers, or sisters, or the wives
+of thy well-robed brothers, or thy mother, or thy father,
+who was always gentle as a father—thou wouldst restrain him
+with words, through thy own gentleness and gentle speech.
+Therefore I mourn thee and myself together, with a grieving heart;
+for no one else remains in spacious Troy who is gentle to me
+or a friend. They all look upon me and shudder.”
+
+So she spoke in tears, and the countless people groaned.
+Then old Priam spoke among them:
+
+“Bring wood now, ye Trojans, from the city, and fear not
+the Achaeans’ close ambush in your hearts. Achilles charged me,
+when he sent me away from the black ships, not to suffer harm
+until the twelfth dawn should come.”
+
+So he spoke; and beneath the wagons they yoked oxen and mules,
+then swiftly gathered together before the city.
+For nine days they brought an immeasurable store of wood.
+But when the tenth dawn, the light-bringer, appeared,
+they carried forth bold Hector, shedding tears,
+set the dead man upon the highest part of the pyre,
+and cast the fire upon him.
+
+When early-born, rose-fingered Dawn appeared,
+the people gathered around the pyre of glorious Hector.
+When they had gathered and assembled together, first they quenched
+all the fire wherever the strength of flame had reached,
+pouring bright wine over it. Then his brothers and companions
+gathered the white bones, mourning, and hot tears flowed down
+their cheeks. They lifted them and laid them in a golden chest,
+wrapping them in soft purple robes.
+Swiftly they placed the chest within a hollow grave,
+and covered it above with great stones, closely set.
+They raised the mound with speed, while watchers sat around it,
+guarding on every side, lest the well-greaved Achaeans
+should attack before the mourning had been completed.
+
+When they had raised the mound, they returned again;
+then, gathered well together, they held a splendid feast
+within the house of Priam, the king whom Zeus had nourished.
+Thus they tended the tomb of Hector, breaker of horses.
+
+**Book 24 working translation complete:** lines 1–804 are now represented
+in linked source-defined units; independent meter, Greek-fidelity, and layout
+review remain pending.
 
 ## Working synopsis
 

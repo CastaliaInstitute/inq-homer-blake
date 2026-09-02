@@ -53,12 +53,12 @@ proofs:
   - file: output/pdf/inq-homer-iliad-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [504, 720]
-    pages: 137
+    pages: 346
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [504, 720]
-    pages: 75
+    pages: 120
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: cover_design_sample

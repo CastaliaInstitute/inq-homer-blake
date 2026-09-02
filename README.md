@@ -80,6 +80,9 @@ The [hardcover cover specification](design/cover-specification.md) records the
 custom-template dependency, casewrap safety rules, and one-page cover-spread
 requirements for each volume.
 
+The [font lock](design/font-lock.md) records the redistributable Cormorant
+Garamond files, OFL 1.1 license, checksums, and proof typography settings.
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

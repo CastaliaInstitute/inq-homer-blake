@@ -25,6 +25,8 @@ jobs:
         run: scripts/preflight_assets.rb
       - name: Run provenance preflight
         run: ruby scripts/preflight_provenance.rb
+      - name: Run font license preflight
+        run: ruby scripts/preflight_fonts.rb
       - name: Run translation structure preflight
         run: scripts/preflight_translation.rb
       - name: Run source-lock preflight

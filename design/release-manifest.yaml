@@ -28,12 +28,12 @@ volumes:
     translation_status: book_01_working_draft
 
 typography:
-  status: provisional
-  verse_face: "Baskerville or licensed open-source equivalent"
-  display_face: "Baskerville Semibold or licensed open-source equivalent"
-  notes_face: "Baskerville Italic or licensed open-source equivalent"
-  license_evidence: pending_font_selection
-  point_sizes_and_leading: pending_type_lock
+  status: locked_for_architecture_proof
+  verse_face: "Cormorant Garamond Regular"
+  display_face: "Cormorant Garamond SemiBold"
+  notes_face: "Cormorant Garamond Italic"
+  license_evidence: design/font-lock.md
+  point_sizes_and_leading: design/typography.md
 
 color:
   working_space: sRGB
@@ -58,7 +58,7 @@ proofs:
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [504, 720]
-    pages: 71
+    pages: 74
     assembly: scripts/build_volume_proof.py
 
 release_gates:

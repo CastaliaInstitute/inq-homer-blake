@@ -5,7 +5,8 @@ commentary. The first source-collated revision is recorded in
 [`book-12-collation-1-194.md`](book-12-collation-1-194.md); it restores the
 wall's prophetic frame, the five divisions, the Lapith defense, and the
 line-level logic of the opening assault. Lines 195–311 are continued in
-[`book-12-collation-195-311.md`](book-12-collation-195-311.md).
+[`book-12-collation-195-311.md`](book-12-collation-195-311.md), and lines
+312–471 in [`book-12-collation-312-471.md`](book-12-collation-312-471.md).
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -14,7 +15,7 @@ line-level logic of the opening assault. Lines 195–311 are continued in
 | 12.108–194 | Asius and the Lapith gate defense | Chariot error and rooted resistance | Collated 2026-09-02; preserve the oak, snow, and wasp/bee similes. |
 | 12.195–311 | Omen debate, wall assault, and Sarpedon's appeal to Glaucus | Contradictory readings of divine signs | Collated 2026-09-02; retain Hector's “one omen” aphorism, the dust-storm, and the kingship obligation. |
 | 12.312–382 | Trojans press the wall | Similes of cutting and storm | Check battlement and defensive sequence. |
-| 12.383–471 | Hawk and serpent; Hector breaches gate | Omen rejected, wall broken | Verify omen interpretation, stone, hinges, and ending. |
+| 12.383–471 | Ajax/Teucer defense and Hector breaches gate | Incremental wall failure | Collated 2026-09-02; retain Glaucus' concealment, parapet removal, hinges, bars, and inward fall. |
 
 ## Draft warning
 

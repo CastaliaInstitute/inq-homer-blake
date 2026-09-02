@@ -43,6 +43,7 @@ Run `scripts/validate_manifests.sh` before committing manifest changes and
 `scripts/preflight_assets.rb` before promoting an image record to `final`.
 These checks also run automatically in GitHub Actions for pushes and pull
 requests.
+The latest verified run is recorded in [CI verification](preflight/ci-verification.md).
 
 See [PROJECT.md](PROJECT.md) for the production brief and
 [CONTRIBUTING.md](CONTRIBUTING.md) for text, image, and provenance conventions.

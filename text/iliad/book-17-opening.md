@@ -9,6 +9,8 @@ Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
 Lines 209–344 are recorded in
 text/iliad/book-17-collation-209-344.md.
+Lines 345–493 are recorded in
+text/iliad/book-17-collation-345-493.md.
 
 ## Translation
 

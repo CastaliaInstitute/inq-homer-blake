@@ -134,8 +134,63 @@ the line. They crossed the stakes and trench in flight; many Trojans also fell b
 their hands, while the Achaeans held by the ships, calling to one another and lifting
 their hands to every god.
 
-Hera replied in anger: “Let him threaten. We are his family,
-but he does not command our hearts.” Still they turned back.
+Hera pitied the Danaans and said to Athena: “Daughter of aegis-bearing Zeus,
+shall we no longer care for the dying Argives, who will perish by one man’s assault,
+while Hector, son of Priam, rages beyond endurance?” Athena answered: “Would that
+he might lose his strength beneath Argive hands and die in his own land! But my
+father’s mind is mad and cruel, always opposing my will. He remembers nothing of
+how often I saved his son Heracles from Eurystheus’ labors. If I had known this day
+when he sent Heracles to fetch the hound from Hades, he would never have escaped
+the steep waters of Styx. Now he hates me, but has fulfilled Thetis’ prayer, who
+kissed his knees and clasped his beard to honor city-sacking Achilles. There will
+be a day when he calls his gray-eyed daughter dear again. Harness the horses; I
+will arm in Zeus’ house and see whether Hector rejoices when we appear in the fight,
+or whether his flesh feeds dogs and birds beside the Achaean ships.”
+
+Hera harnessed her golden-maned horses, while Athena cast her embroidered robe at
+her father’s feet, clothed herself in Zeus’ battle-tunic, and took the great spear
+with which she breaks the ranks of heroes. Hera urged the team on. The gates of
+heaven opened of themselves, gates held by the Hours, who open and close the dense
+cloud over Olympus; through them the goddesses drove. But Zeus saw them from Ida
+and was fiercely angry. He sent golden-winged Iris with a message: “Go quickly and
+turn them back. Do not let them come against the battle. I will lame their swift
+horses beneath the chariot, throw them from the car, and break their chariot; even
+after ten years their wounds would not heal if struck by my lightning. Then Athena
+will learn what it means to fight her father. I am less angry with Hera, for she
+always contradicts whatever I say.”
+
+Iris met them at Olympus and said: “Where are you hastening? The son of Cronus does
+not permit you to aid the Argives. He threatens to lame your horses, throw you from
+the car, and strike your chariot; even ten years would not heal the wounds. He says
+he is less angry with Hera, but calls you, Athena, a shameless dog if you dare raise
+your mighty spear against Zeus.”
+
+Hera answered: “Daughter of aegis-bearing Zeus, I will no longer let us fight the
+father for mortal men. Let one die and another live, whoever happens to meet his
+fate; let Zeus judge Trojans and Danaans according to his own heart.” She turned
+the horses back. The Hours unhitched them, tied them beneath ambrosial mists, and
+leaned the chariot against the shining wall. Hera and Athena sat upon golden chairs
+among the other gods, hearts wounded.
+
+Zeus drove from Ida to Olympus, where Earth-shaker Poseidon unharnessed his horses
+and placed the chariot beside the altar. Zeus sat on his golden throne, and Olympus
+shook beneath his feet. He saw Hera and Athena sitting apart and spoke: “Why are
+you so grieved? You did not tire of destroying Trojans in the man-making battle.
+Such is my strength and my unconquered hands that all the gods on Olympus could not
+turn me. Yet your limbs trembled before you saw war and its terrible work. If I had
+struck your horses with lightning, you would not have returned to Olympus for ten
+circling years.”
+
+The goddesses muttered together, devising evil for Troy. Athena sat silent, angry
+with her father; Hera could not contain her resentment: “Most terrible son of Cronus,
+we know your strength is not weak. Yet we pity the spear-bearing Danaans, who will
+perish in an evil fate. We will keep away from the war, if you command, but we will
+give the Argives counsel, lest they all perish beneath your anger.” Zeus answered:
+“Tomorrow you will see the mighty Cronus’ son destroy many Argives, if you wish,
+for strong Hector will not cease from war until swift-footed Peleus’ son rises
+beside the ships on the day the Achaeans fight around Patroclus’ body. So fate has
+ordained it. I do not care for your anger, even if you reach the furthest boundaries
+of earth and sea, where Iapetus and Cronus sit in Tartarus without the sun’s light.”
 
 The Achaeans reached the ships. The Trojans did not camp
 in the city; Hector ordered fires throughout the field,

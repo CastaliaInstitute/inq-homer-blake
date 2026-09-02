@@ -129,71 +129,85 @@ the corselet, and the guard; he drew the clotted blood from the wound
 and laid soothing medicines upon it—medicines given by Cheiron
 to his father, Asclepius, long ago.
 
-Then Agamemnon moved through the ranks. He praised the brave,
-and rebuked the hesitant, for kings must kindle courage.
-He spoke to the Cretans, to the men of Athens and Argos,
-to those who loved battle and those who stood unwilling:
+When the Trojans’ ranks came on again, no one could have seen
+divine Agamemnon sleeping, shrinking, or refusing the fight;
+he hurried into the battle that gives men glory. He left his horses
+and bronze-decorated chariot apart, in the care of Eurymedon,
+son of Ptolemy’s son Peiraeus, charging him to bring them near
+when weariness seized his limbs after commanding so many.
+On foot he moved among the ranks. Whoever he saw eager,
+he stood beside and encouraged:
 
-“Friends, remember the oath. The gods are not blind.
-Those who fight with all their strength will receive honor;
-those who hide behind the others will return without a name.”
+“Argives, do not let your fierce courage slacken. Father Zeus
+will not help a lie; those who first harmed the oath will have
+their tender flesh eaten by vultures, while we will carry their wives
+and little children aboard the ships when we take the city.”
 
-The armies met. No herald could stop them now.
-The chariots rolled, the dust rose, and bronze struck bronze.
-Men fell on every side. Antilochus killed Echepolus;
-Elephenor dragged the dead man's armor away, but Agenor
-struck him beneath the ribs, and the Achaeans lost their man.
+But those he saw shrinking from the hateful war he rebuked:
+“Argives, soft with arrows, objects of shame—do you not respect yourselves?
+Why stand amazed like fawns that, after running over a great plain,
+stand still, their courage gone? Will you wait for the Trojans
+to come close to the ships drawn stern-first beside the gray sea,
+to see whether Cronus’ son will extend his hand over you?”
 
-Then war gathered itself into countless separate deaths.
-One man cast a spear; another caught it on the shield.
-Here the son of a king fell; there a nameless soldier
-left the light. The dust drank blood. The earth was trampled,
-and Zeus watched the promise of the war grow heavier.
+So he went through the ranks, and came among the Cretans.
+They armed around wise Idomeneus: Idomeneus stood in the front ranks,
+like a boar in strength, while Meriones urged the rearward lines.
+Agamemnon rejoiced to see them and spoke gently to Idomeneus:
 
-Ajax killed Simoeisius, son of Anthemion, whose mother
-had borne him beside the banks of Simoeis. He had not lived
-long enough to repay his parents' care. Like a slender poplar
-grown in a watered meadow, he fell beneath the spear.
+“Idomeneus, I honor you above the swift Achaeans,
+in war, in every other work, and at the feast, when the best
+of the Argives mix the bright wine in the bowl. Though the other
+long-haired Achaeans drink their measured portion, your cup always
+stands full, as mine does, to drink whenever your heart commands.
+Rise to war as you have always claimed to be.”
 
-Antiphus, Priam's son, cast at Ajax and struck Leucus,
-Odysseus' companion, who was dragging a body from the field.
-The corpse fell from his hands. Odysseus was filled with anger.
-He advanced into the foremost ranks, and the Trojans retreated.
+The Cretan leader answered: “Atreus’ son, I will remain your faithful
+companion, as I first promised and nodded. Urge the other long-haired
+Achaeans on, so that we may fight at once; the Trojans have spilled
+the oaths, and death and grief will follow them, since they first
+damaged the covenant.”
 
-Democoon fell beneath his spear. Odysseus struck him at the temple,
-and the bronze passed through. The Trojans shuddered and withdrew,
-but Hector drove them forward again, like a winter flood
-that leaps a bank and carries away the shepherd's flock.
+Agamemnon passed on gladly and came to the two Ajaxes.
+They armed themselves, and a dense cloud of footmen followed.
+As when a goatherd sees from a watchpoint a cloud coming over the sea
+under the West Wind’s sound—black as pitch from far away,
+bringing a mighty storm, and he shudders and drives the sheep
+into a cave—so the dark, shield-and-spear-bristling ranks moved
+with the divinely reared young men beside the Ajaxes into war.
 
-The Achaeans fought in ordered silence. The Trojans cried aloud,
-each man calling the name of a brother or a friend. The sound
-of battle filled the plain, and neither side could see the end.
+Agamemnon rejoiced and addressed them: “Ajaxes, leaders of the Argives,
+you need no urging; I do not command you. You yourselves drive
+your people to fight with all their strength. Would that Zeus,
+Athena, and Apollo gave every heart such courage! Then Priam’s city
+would soon bow to our hands, taken and sacked.”
 
-Diomedes entered the fight like a winter torrent,
-when rain has swollen the mountain streams and the old banks
-cannot hold them. No wall, no bridge, no field remains secure.
-He struck Astynous and Hypeiron, took the life of one
-with a spear, of the other with a sword, and stripped their arms.
+He left them and found Nestor, the clear-voiced speaker of the Pylians,
+arranging and urging his companions to fight: great Pelagon, Alastor,
+Chromius, Haimon, lord Bias, and shepherd of the people. He placed
+the horsemen first with horses and chariots, and many excellent footmen
+behind them as a wall of war; the cowards he drove into the middle,
+so that even unwilling men would fight under compulsion.
+To the horsemen he first gave orders: keep your horses in check,
+do not let them plunge into the crowd, do not trust in horsemanship
+and courage to rush alone before the others or fall back—your line
+will be weaker. When a man reaches another chariot from his own,
+let him reach with his spear; thus the older warriors destroyed cities
+and walls, holding this thought and courage in their breasts.
 
-He came upon Abas and Polyidus, sons of Eurydamas,
-who had read dreams but not their own death. Diomedes killed them.
-Then he overthrew Xanthus and Thoon, twin sons of Phaenops,
-whose old father had no other children to comfort his age.
+Agamemnon rejoiced to see the old man: “Elder, would that your knees
+followed the spirit in your dear breast and your strength remained firm!
+But age wears you down. Would that another man had your years,
+and you could belong among the younger.”
 
-Diores fell, struck in the ankle by a stone. Peirous, his killer,
-was pierced beneath the navel by Thoas; his entrails spilled,
-and he fell in the dust. The two armies drew together around them,
-like wolves, with no thought of flight.
+Gerenian horseman Nestor replied: “Atreus’ son, I too would wish
+to be as I was when I killed godlike Ereuthalion. But the gods
+do not give everything to men at once. If I were young then,
+or if strength were still firm in my limbs, I would stand
+among the horsemen and lead them. Now you should urge the young men;
+I will follow with my counsel, and they will obey as is right.”
 
-The sons of Antenor—Archelochus, Acamas, and Iphidamas—
-entered the fight. Iphidamas had been raised in Thrace,
-and had married a bride but left her bed to answer Troy's call.
-Agamemnon struck him beneath the belt; the spear entered deep.
-The old father looked upon the son and mourned in silence.
-
-Coon, the eldest, came against Agamemnon. He wounded him
-below the elbow and called his brothers to carry Iphidamas away.
-Agamemnon killed Coon and drove on, though blood ran down his arm.
+The son of Atreus went on, rejoicing in his heart.
 
 The battle spread. Menelaus killed Pylæmenes; Meriones killed
 Phereclus, maker of ships. Teucer shot Orsilochus and Chromius,

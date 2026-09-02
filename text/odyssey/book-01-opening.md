@@ -17,6 +17,8 @@ Lines 201–270 are recorded in
 text/odyssey/book-01-collation-201-270.md.
 Lines 271–327 are recorded in
 text/odyssey/book-01-collation-271-327.md.
+Lines 328–364 are recorded in
+text/odyssey/book-01-collation-328-364.md.
 
 ## Translation
 

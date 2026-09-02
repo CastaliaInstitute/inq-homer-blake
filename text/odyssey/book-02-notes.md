@@ -4,7 +4,7 @@ These notes accompany the current opening draft and are not final commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 2.1–30 | Telemachus calls the first assembly since Odysseus's departure | Public body and inherited seat | Verify the assembly protocol and the significance of the scepter. |
+| 2.1–30 | Telemachus calls the first assembly since Odysseus’s departure | Public body and inherited seat | Collated 2026-09-02; verify the assembly protocol, Athena’s grace, hounds, spear, and the significance of the inherited seat at meter review. |
 | 2.31–79 | Telemachus names the suitors' consumption of his house | “Livelihood” and “house” | Keep *oikos* material, familial, and political at once. |
 | 2.80–128 | Antinous tells the story of Penelope's woven shroud | “Wove” and “unwove” | Preserve the repeated craft action and the suitors' possessive framing. |
 | 2.129–176 | Telemachus refuses to expel his mother | Piety, shame, and threatened divine appeal | Distinguish filial obligation from legal helplessness. |

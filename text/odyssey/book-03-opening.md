@@ -9,6 +9,8 @@ Lines 67–200 are recorded in
 text/odyssey/book-03-collation-67-200.md.
 Lines 201–328 are recorded in
 text/odyssey/book-03-collation-201-328.md.
+Lines 329–418 are recorded in
+text/odyssey/book-03-collation-329-418.md.
 
 ## Translation
 

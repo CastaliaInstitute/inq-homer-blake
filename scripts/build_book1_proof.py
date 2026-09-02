@@ -118,7 +118,7 @@ story += [Spacer(1, 0.22 * inch), Paragraph(
     "Working draft: Iliad 1.1-16. Greek base text: Monro and Allen, Homeri Opera. "
     "Not approved for final layout.", styles["Caption"]), PageBreak()]
 
-image_path = ROOT / "assets/generated/iliad/book-01-apollo-v1.png"
+image_path = ROOT / "assets/generated/iliad/book-01-apollo-v2.png"
 story += [Image(str(image_path), width=5.55 * inch, height=7.92 * inch),
           Paragraph("Apollo descending upon the Achaean camp. Original concept plate by "
                     "CastaliaInstitute; informed by Blake's visionary line but not by "
@@ -130,7 +130,7 @@ story += [Paragraph("PROOF NOTES", styles["BookHead"]),
                     "verse page, full-page plate, and caption treatment. The plate is "
                     "deliberately marked as original work and is not credited to William "
                     "Blake. Before production approval, lock the typeface licenses, expand "
-                    "the page map, replace the concept-resolution image, and complete the "
+                    "the page map, lock the print profile, and complete the "
                     "six translation review gates.", styles["Small"]),
           Spacer(1, 0.3 * inch),
           Paragraph("Preflight status", styles["BookHead"]),

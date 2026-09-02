@@ -13,6 +13,8 @@ Lines 345–493 are recorded in
 text/iliad/book-17-collation-345-493.md.
 Lines 494–641 are recorded in
 text/iliad/book-17-collation-494-641.md.
+Lines 642–761 are recorded in
+text/iliad/book-17-collation-642-761.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -21,7 +23,7 @@ text/iliad/book-17-collation-494-641.md.
 | 17.209–344 | Glaucus and Aeneas lead the renewed struggle around Patroclus | Body as battlefield and reciprocal debt | Collated 2026-09-02; preserve the named fighters, pulling of the corpse, storm, and Zeus' darkened field. |
 | 17.345–493 | Automedon and the horses | Grief and chariot | Collated 2026-09-02; preserve the oxhide, pillar, and hawk similes, the horses' mourning, Zeus's intervention, Alcimedon's genealogy, and the line-493 attack boundary. |
 | 17.494–641 | Apollo shifts the battle | Divine imbalance | Collated 2026-09-02; preserve Aretus, Podes, Coeranus, Athena and Apollo's disguises, the purple-rainbow and fly similes, Zeus's aegis, and Ajax's interrupted appeal. |
-| 17.642–761 | Achaeans recover the body | Collective rescue | Verify Zeus, horses, night, and closing image. |
+| 17.642–761 | Achaeans recover the body | Collective rescue | Collated 2026-09-02; preserve Zeus's clearing of the mist, the lion/eagle/boar/fire/mule/river/bird similes, Antilochus's grief, the named messengers, and the armor-strewn close. |
 
 ## Draft warning
 

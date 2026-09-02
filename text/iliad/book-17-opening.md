@@ -13,6 +13,8 @@ Lines 345–493 are recorded in
 text/iliad/book-17-collation-345-493.md.
 Lines 494–641 are recorded in
 text/iliad/book-17-collation-494-641.md.
+Lines 642–761 are recorded in
+text/iliad/book-17-collation-642-761.md.
 
 ## Translation
 

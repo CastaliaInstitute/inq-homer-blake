@@ -17,8 +17,9 @@ research notes, not final commentary.
 | 1.188–222 | Athena restrains Achilles at Hera's command | Visible only to Achilles; violence is averted, not erased; threefold gifts remain future compensation | Collation recorded in `book-01-collation-188-305.md`; confirm the sequence and divine promise against the copy text. |
 | 1.223–305 | Achilles's oath and Nestor's mediation | Staff, Zeus-given law, Hector's future violence, elder authority, and unequal kingship | Collation recorded in `book-01-collation-188-305.md`; review the political logic of the assembly before approval. |
 | 1.306–430 | Briseis is removed; Achilles appeals to Thetis beside the sea | Witness, ritual aftermath, short life, earned honor, and the complete account of the grievance | Collation recorded in `book-01-collation-306-430.md`; preserve the sea-born mother's intimacy while keeping the formulaic language concrete. |
-| 1.493–530 | Thetis asks Zeus to restore Achilles' honor | The nod as irrevocable divine assent | Preserve the physical sign and its political force; verify the exact sequence of kneeling, touch, and promise. |
-| 1.531–611 | Hera's suspicion, Hephaestus's mediation, and divine sleep | Quarrel subsiding into feast and music | Keep the gods' domestic comedy from becoming modern satire; retain the ritual hierarchy and closing stillness. |
+| 1.430–492 | Chryseis is returned and Apollo is appeased | Complete ritual sequence, fair wind, and Achilles's isolation | Collation recorded in `book-01-collation-430-611.md`; verify the ritual details and the transition to the twelfth dawn. |
+| 1.493–530 | Thetis asks Zeus to restore Achilles's honor | Kneeling, touch, promise, and the nod as irrevocable divine assent | Collation recorded in `book-01-collation-430-611.md`; preserve the physical sign and its political force. |
+| 1.531–611 | Hera's suspicion, Hephaestus's mediation, and divine sleep | Quarrel subsiding into feast, song, and closing stillness | Collation recorded in `book-01-collation-430-611.md`; keep the gods' domestic conflict from becoming modern satire. |
 
 ## Draft warning
 

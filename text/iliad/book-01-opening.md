@@ -622,139 +622,307 @@ and I think I shall persuade him.”
 
 **Source passage:** Book 1, lines 430–611 (working range; verify against copy text)
 
-At dawn she climbed the great mountain, and found Zeus
+Meanwhile Odysseus reached sacred Chryse,
 
-apart from the other gods, seated on Ida's highest ridge.
+bringing the holy hecatomb. When they entered the deep harbor,
 
-She crouched before him, took his knees in both her hands,
+they furled the sails, laid them in the black ship,
 
-and with her left hand touched his chin, speaking to him:
+lowered the mast into its rest, and rowed swiftly to anchorage.
 
-“Father Zeus, if ever I served you among the deathless gods
+They cast out the anchors and made fast the stern-lines;
 
-in word or deed, grant me this prayer. Honor my son,
+then they stepped ashore through the breakers,
 
-who is doomed to die before his time. Agamemnon,
+and brought out the hecatomb for the far-shooting god.
 
-king of men, has dishonored him and taken his prize.
+Chryseis too came down from the seafaring ship.
 
-Give honor to Achilles, lord of counsel, and let the Trojans
+Wise Odysseus led her to the altar, placed her in her dear father's hands,
 
-prevail for a while, until the Achaeans understand
+and spoke: “Chryses, Agamemnon, king of men, sent me
 
-how greatly they have wronged him, whom they cannot replace.”
+to bring your child and sacrifice this holy hecatomb to Phoebus
 
-She spoke, and Zeus the cloud-gatherer did not answer.
+for the Danaans, so that we may appease the lord
 
-He sat a long time in silence. Thetis held his knees
+who has brought such grievous sorrows upon the Argives.”
 
-and asked him again: “Promise me plainly, or deny me.
+He placed her in her father's hands, and the old man received his child
 
-You have no cause for fear. I am the least honored here.”
+with joy. The Achaeans then set the well-built hecatomb
 
-Then Zeus answered her with a darkening brow:
+around the altar of the far-shooter, washed their hands,
 
-“You are bringing me a difficult quarrel. Hera will not let me rest.
+and lifted the barley for the rite. Chryses prayed aloud,
 
-She is forever accusing me before the immortals.
+his hands raised to heaven:
 
-But go now, before she sees you. I will see to this:
+“Hear me, god of the silver bow, who guard Chryse,
 
-I will incline my head, and that is the strongest sign
+holy Cilla, and rule Tenedos in strength.
 
-among the gods. What I have nodded cannot be revoked,
+You heard me before when I prayed; you honored me
 
-cannot be called back, and cannot fail to come to pass.”
+and struck the Achaean people with a great blow.
+
+Grant me this wish once more: defend the Danaans now
+
+from their shameful plague.”
+
+So he prayed, and Phoebus Apollo heard him.
+
+When they had prayed and scattered the barley, they drew back the heads,
+
+cut the throats, flayed the victims, and cut out the thighs.
+
+They wrapped them in fat, laid raw flesh upon them,
+
+and the old man burned them on split wood, pouring bright wine over them;
+
+young men stood beside him with five-pronged forks in their hands.
+
+When the thighs had burned and they had tasted the inward parts,
+
+they cut the rest into pieces, pierced it on spits,
+
+roasted it carefully, and drew all the meat away.
+
+When the work was finished and the feast prepared,
+
+they ate, and no man's heart lacked an equal portion.
+
+When they had satisfied hunger and thirst, the young men filled the mixing bowls,
+
+and poured the wine into every cup, beginning on the right.
+
+All day the young Achaeans appeased the god with song,
+
+singing the beautiful paean and praising the far-shooter;
+
+and he rejoiced to hear them.
+
+When the sun had set and darkness came, they slept beside the ship.
+
+When rose the early-born, rosy-fingered Dawn,
+
+they sailed back toward the wide Achaean camp.
+
+The far-shooter sent them a fair wind. They raised the mast,
+
+spread the white sails, and the wind filled the middle canvas.
+
+The purple wave roared around the speeding ship's stern,
+
+and she ran across the sea, cutting her road through the water.
+
+When they reached the broad camp of the Achaeans,
+
+they hauled the black ship high upon the mainland sand,
+
+set long props beneath it, and scattered to their huts and ships.
+
+But godlike Achilles, swift of foot, remained beside his swift ships,
+
+holding his wrath. He never went to the assembly that brings men glory,
+
+never went out to battle; his dear heart wasted where he sat,
+
+longing for the battle-cry and the war.
+
+When the twelfth dawn had appeared, all the everlasting gods
+
+went together to Olympus, with Zeus leading them.
+
+Thetis did not forget her son's command. She rose from the sea
+
+and climbed like mist through the great heavens to Olympus.
+
+She found the wide-seeing son of Cronus sitting apart from the others
+
+on the highest peak of many-ridged Olympus. She sat before him,
+
+clasped his knees with her left hand, touched his chin with her right,
+
+and supplicated Zeus, the son of Cronus:
+
+“Father Zeus, if ever among the immortals I helped you
+
+by word or deed, fulfill this wish for me.
+
+Honor my son, who is doomed to die before all others.
+
+Agamemnon, king of men, has dishonored him;
+
+he took his prize and keeps it for himself.
+
+But honor him, Olympian Zeus, counselor of the gods;
+
+give the Trojans strength until the Achaeans honor my son
+
+and increase his standing.”
+
+She spoke. Zeus, gatherer of clouds, did not answer.
+
+He sat long in silence. Thetis held fast to his knees
+
+and asked him once more:
+
+“Give me an unfailing promise and incline your head,
+
+or refuse me—there is no fear in you—so I may know
+
+how utterly I am dishonored among the gods.”
+
+Zeus groaned heavily and answered:
+
+“Ah, what a difficult task you set me: Hera will quarrel with me
+
+when she taunts me with reproachful words.
+
+Even without this, she is always scolding me before the immortals,
+
+and says that I aid the Trojans in battle.
+
+Go back now, before Hera notices. I will remember this
+
+and bring it to fulfillment. To make you trust me,
+
+I will nod with my head; there is no greater sign among the immortals.
+
+What I confirm with a nod cannot be revoked, denied,
+
+or left unfulfilled.”
 
 The son of Cronus bent his dark brows and nodded.
 
-His ambrosial hair fell forward from his immortal head,
+His immortal hair streamed forward from his head,
 
-and all Olympus trembled beneath the gesture.
+and he shook great Olympus beneath him.
 
-Thetis left him and plunged beneath the shining sea.
+So they took counsel and parted. Thetis plunged into the deep sea
 
-Zeus returned to the house of heaven. All the gods rose
+from bright Olympus, while Zeus went to his own house.
 
-to greet their father; none dared remain seated.
+All the gods rose from their seats together when their father approached;
 
-But Hera of the white arms, who had watched from near him,
+none dared remain seated to meet him.
 
-spoke at once: “Who has been with you, deceitful one?
+Hera of the white arms had not failed to see him. She knew
 
-You are always pleased to keep your plans concealed from me.
+that the silver-footed Thetis, daughter of the old man of the sea,
 
-You have never told me freely what you think.”
+had shared his counsels. At once she spoke with taunting words:
 
-The father of gods and men answered:
+“Who was it now, crafty one, who shared your secret counsel?
 
-“Do not expect that every thought I hold is yours to know.
+You always love to think in secret, apart from me,
 
-Some things are not for you, though you are my wife.
+and never willingly tell me what you have decided.”
 
-They would be hard to hear, even if you understood them.”
+The father of gods and men answered her:
 
-“Terrible one,” Hera replied, “what have I said?
+“Hera, do not hope to know all my thoughts.
 
-I do not question you too closely. You are free to decide.
+They will be difficult for you, though you are my wife.
 
-But I fear that silver-footed Thetis has bent you to her will,
+No one else, god or man, will learn first the thought
 
-the daughter of the old sea god. I saw her kneel at dawn.
+that I wish to keep apart from everyone.”
 
-You have promised honor to Achilles, and death to many
+Ox-eyed, revered Hera answered:
 
-beside the ships. I am certain of it.”
+“Most terrible son of Cronus, what have you said?
 
-Zeus the cloud-gatherer answered:
+I neither ask you nor question you; sit quietly and think
 
-“You are always plotting, and you cannot escape my notice.
+whatever you wish. But I fear terribly that silver-footed Thetis,
 
-That will bring you no advantage. You will only be farther
+daughter of the old man of the sea, came to you at dawn,
 
-from my heart. Sit down. Be quiet. If I rise against you,
+sat beside you, and clasped your knees.
 
-not one of the gods in Olympus will save you.”
+I think you promised her truly to honor Achilles
 
-Hera fell silent, and sat in fear. The heavenly gods
+and destroy many Achaeans beside their ships.”
 
-within the house of Zeus were troubled by her grief.
+Zeus, gatherer of clouds, answered:
 
-Then Hephaestus, the famous maker, rose to speak:
+“Strange one, you are always thinking and never escape my notice.
 
-“It is not fitting for you to quarrel again over mortals.
+Yet you will accomplish nothing; you will only become farther from my heart.
 
-We have suffered enough from the clamor of your disputes.
+And that will be worse for you. Sit down in silence and obey my word,
 
-Let us turn to the feast. My mother will remember
+lest all the gods on Olympus fail to help you when I stretch
 
-the words of my father, and all will be well again.”
+my invincible hands against you.”
 
-He placed a beautiful cup in his mother's hands,
+Hera fell silent, afraid, and sat with her heart subdued.
 
-and poured wine for every god in turn, beginning at the right.
+The heavenly gods within Zeus's house were troubled.
 
-Laughter without end went up among the blessed ones
+Then Hephaestus, famous for his craft, rose to speak,
 
-as they saw Hephaestus limping through the hall.
+bringing comfort to his dear, white-armed mother:
 
-The sun sank, and they feasted until evening came.
+“This will be a disastrous and unbearable thing
 
-No heart lacked its portion, nor any cup its wine.
+if you two quarrel so over mortal men,
 
-Apollo struck the lyre; the Muses answered him
+and bring disorder among the gods. There will be no joy
 
-with voices joined in an unbroken harmony.
+in the good feast, because the worse thing has prevailed.
 
-When the light of day had failed, each god went home,
+I urge my mother—and she knows this herself—to bring comfort
 
-to the house Hephaestus, the glorious craftsman, built for him.
+to our dear father Zeus, so that he will not scold her again
 
-Zeus went to his bed, where he often slept,
+and disturb our feast.”
 
-and beside him lay Hera of the golden throne.
+He leapt up and placed a beautiful double cup
 
-There the god who gathers the clouds went to sleep.
+in his mother's hands, and spoke again:
+
+“Endure, my mother, and bear it, though you love me dearly,
+
+lest I see you struck before my eyes and be unable to help you.
+
+It is hard to stand against the Olympian. Once before,
+
+when I came eager to defend you, he seized me by the foot
+
+and hurled me from the threshold of heaven.
+
+All day I fell, and at sunset I landed in Lemnos,
+
+with little life remaining. There the Sintian men cared for me at once.”
+
+He spoke, and the white-armed goddess Hera smiled,
+
+smiling, she accepted the cup from her son's hand.
+
+He poured sweet nectar for all the other gods in turn,
+
+drawing it from the mixing bowl. Unquenchable laughter rose
+
+among the blessed gods when they saw Hephaestus bustling through the hall.
+
+So they feasted all day until the sun went down,
+
+and no heart lacked its equal portion—not Apollo's beautiful lyre,
+
+nor the Muses' lovely answering song.
+
+When the sun's bright light had set, each god went to his own house,
+
+where famous, lame-footed Hephaestus had built a dwelling
+
+with his knowing mind. Zeus, Olympian lord of the thunderbolt,
+
+went to the bed where he had slept before whenever sweet sleep came upon him.
+
+He climbed into it and slept; beside him lay Hera of the golden throne.
 
 ## Decision log
 
@@ -762,6 +930,7 @@ There the god who gathers the clouds went to sleep.
 - 2026-09-02: Collation pass revised Agamemnon's and Achilles's exchange through 1.187; restored Clytemnestra, Agamemnon's safety claim, the ship-and-hecatomb order, Achilles's non-injury catalogue, and the distinction between *geras* and *timē*.
 - 2026-09-02: Collation pass revised Athena's intervention and the assembly's close through 1.305; restored the private divine staging, Zeus-appointed judges in the staff oath, Nestor's strength/rank distinction, and Achilles's conditional warning.
 - 2026-09-02: Collation pass revised Briseis's removal and Achilles's appeal through 1.430; restored the purification and sacrifice, the heralds' exoneration, the public witness language, the full grievance narrative, Briareus's rescue of Zeus, and the twelve-day delay.
+- 2026-09-02: Collation pass completed the first working revision through 1.611; restored the Chryse ritual, twelfth-day transition, Zeus's nod, Hera's suspicion, Hephaestus's mediation, and the feast's song-and-sleep closure.
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
   than a generic irritation.

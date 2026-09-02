@@ -12,6 +12,8 @@ Lines 273–428 are recorded in
 text/iliad/book-23-collation-273-428.md.
 Lines 429–612 are recorded in
 text/iliad/book-23-collation-429-612.md.
+Lines 613–718 are recorded in
+text/iliad/book-23-collation-613-718.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -20,7 +22,8 @@ text/iliad/book-23-collation-429-612.md.
 | 23.192–272 | Pyre is completed and mound raised | Public memorial | Collated 2026-09-02; preserve Boreas and Zephyrus, Iris, fire and wine, bone distinction, temporary mound, assembly, and the five announced chariot prizes. |
 | 23.273–428 | Chariot race | Skill, accident, and prizes | Collated 2026-09-02; preserve Patroclus’s horses, five drivers and lineages, Nestor’s turning-post counsel, Phoenix, Apollo and Athena’s interventions, Eumelus’s crash, and Antilochus’s narrow-road maneuver. |
 | 23.429–612 | Chariot-race settlement | Skill, justice, and restraint | Collated 2026-09-02; preserve Menelaus’s restraint, Idomeneus and Ajax, Diomedes’s victory, Antilochus’s pass, Eumelus’s pity-prize, Asteropaeus armor, oath, mare, dew simile, and reconciliation. Boxing begins after line 612. |
-| 23.613–897 | Weapons, archery, stone, and awards | Games as communal grief | Verify contest order, prizes, and endpoint. |
+| 23.613–718 | Prize close, boxing, and wrestling opening | Contest and memory | Collated 2026-09-02; preserve Nestor’s cup and contest memories, Epeius and Euryalus, boxing prizes, fish simile, Ajax and Odysseus, and wrestling values. Foot race follows after line 718. |
+| 23.719–897 | Foot race, weapons, archery, stone, and awards | Games as communal grief | Verify contest order, prizes, and endpoint. |
 
 ## Draft warning
 

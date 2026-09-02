@@ -1,0 +1,13 @@
+# Print preflight checklist
+
+- [ ] Final trim, bleed, binding, and spine width confirmed against the
+      current printer specification.
+- [ ] Interior pages use the approved 7 × 10 inch grid and safe margins.
+- [ ] Full-bleed pages extend 0.125 inch beyond every trimmed edge.
+- [ ] Images are high resolution, embedded, and converted to the approved
+      print color profile.
+- [ ] Every historical and generated plate has a manifest record and caption.
+- [ ] Front matter, book divisions, page numbers, and contents are complete.
+- [ ] Interior and cover PDFs open without missing fonts or transparency
+      warnings.
+- [ ] A rendered proof has been reviewed at 100% and on paper.

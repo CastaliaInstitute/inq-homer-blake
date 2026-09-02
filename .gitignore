@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*.tmp
+
+# Large working assets and generated exports
+assets/processed/*
+*.pdf
+*.psd
+*.tif
+*.tiff
+*.zip
+!preflight/

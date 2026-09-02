@@ -6,7 +6,7 @@ commentary.
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
 | 11.1–209 | Agamemnon’s aristeia and Zeus’ timing | Dawn, armor, fire, and divine restraint | Collation recorded in book-11-collation-1-209.md; preserve the armor catalogue, named deaths, and Iris’ condition for Hector. |
-| 11.210–303 | Agamemnon is wounded and Hector advances | Turning point | Check Coon, withdrawal, and divine timing. |
+| 11.210–303 | Iphidamas, Coon, Agamemnon’s wound, and Hector’s advance | Turning point | Collation recorded in book-11-collation-210-303.md; preserve the wound simile, withdrawal command, and Hector’s release. |
 | 11.304–482 | Diomedes, Odysseus, and the wounded | Isolation and aid | Collate Paris, Socus, Ajax, and rescue order. |
 | 11.483–617 | Nestor sends Patroclus | Witness and appeal | Verify Machaon, chariot, and Nestor's counsel. |
 | 11.618–768 | Commanders' crisis and battle at the ships | Strategic collapse | Check wounded leaders and Hector's pressure. |

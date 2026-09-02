@@ -127,10 +127,60 @@ But when he is struck with spear or arrow and leaps into his horses, then Zeus w
 give you power to kill until you reach the ships, until the sun goes down and holy
 darkness comes.”
 
-Agamemnon continued. He killed many men, but at last Coon,
-son of Antenor, wounded him in the arm and dragged his brother away.
-Agamemnon killed Coon, yet the wound weakened him. He climbed
-into his chariot and left the field. Hector saw him go, and advanced.
+Hector leapt from his chariot, shook his sharp spears, and went everywhere through
+the army urging battle, raising the hateful fight. The ranks wheeled and stood
+opposite one another, while the Argives strengthened their own lines. The battle
+was set, and Agamemnon sprang first, eager to fight far before all the rest.
+
+Tell me now, Muses who hold the halls of Olympus, who first came against Agamemnon,
+whether Trojan or famous ally. It was Iphidamas, son of Antenor, noble and great,
+raised in fertile Thrace, mother of sheep. His mother’s father Cisseus had brought
+him up in his house when he was small; when he reached glorious manhood, Cisseus
+kept him there and gave him his daughter. After marrying her, Iphidamas came from
+the bridal chamber with fame, bringing twelve curved ships; he left them at Perkote
+and had come on foot to Ilium. He now faced Agamemnon.
+
+When they came close, Agamemnon’s spear missed and turned aside, but Iphidamas struck
+below the belt of the breastplate and leaned his weight upon the blow. The spear did
+not pierce the many-colored belt; it turned like lead against silver. Agamemnon seized
+it with his broad hand, tugged like a lion, and pulled it from Iphidamas’ grasp; then
+he struck his neck with the sword and loosened his limbs. Iphidamas fell there and
+slept the bronze sleep, far from his bride, for whom he had given much and received
+no joy: first a hundred cattle, then a thousand goats and sheep, which he promised
+to her father’s household.
+
+Agamemnon stripped his armor and carried it through the Achaean crowd. But when
+Coon, eldest son of Antenor and distinguished among men, saw his brother fall, grief
+covered his eyes. He stood beside Agamemnon unseen and struck him in the middle of
+the arm below the elbow; the spear point passed through. The lord of men shuddered,
+but did not leave the battle. He rushed upon Coon with his wind-raised spear, while
+Coon dragged his brother Iphidamas by the foot and called to all the best men. As he
+dragged him beneath the bossed shield, Agamemnon struck him with the bronze spear and
+loosened his limbs; then he stood beside him and cut off his head. Thus the two sons
+of Antenor fulfilled their fate beneath the hand of the son of Atreus and entered
+the house of Hades.
+
+Agamemnon moved through the other ranks with spear, sword, and great stones, while
+the blood still rose warm from his wound. But when the wound dried and the blood
+stopped, sharp pains entered the king’s strength, like the pain a woman in labor
+feels when the daughters of Hera, the harsh birth-powers, send the cutting pangs.
+The pain entered Agamemnon’s strength. He leapt into his chariot and ordered his
+driver to take him toward the hollow ships, for his heart was troubled. He called
+aloud to the Danaans: “Friends, leaders and masters of the Argives, now defend the
+seafaring ships against this hateful battle. Zeus the counselor has not allowed me
+to fight the Trojans all day.” His driver lashed the long-maned horses; they flew
+willingly toward the ships, foam on their chests and dust beneath them, carrying
+the king away from the battle, exhausted by war.
+
+When Hector saw Agamemnon leaving, he called loudly to Trojans, Lycians, and Dardanians
+who fight at close quarters: “Be men, my friends, and remember your warlike strength.
+The best man has gone; Zeus the son of Cronus has given me great glory. Drive your
+single-hoofed horses straight against the strong Danaans and win a greater glory.”
+He roused the spirit of each man, and rushed upon the Achaeans like a hunter setting
+white-toothed dogs against a wild boar or lion. Hector, son of Priam, equal to deadly
+Ares, drove the great-hearted Trojans upon the Achaeans. He himself went among the
+foremost, falling upon the battle like a fierce wind that leaps upon the violet sea
+and stirs it up.
 
 The battle broke over the Achaeans. Hector drove them toward the wall.
 Diomedes struck Agastrophus, but Paris wounded him in the foot

@@ -47,3 +47,6 @@ See [PROJECT.md](PROJECT.md) for the production brief and
 The working editorial controls are [the translation charter](text/translation-charter.md),
 [the design specification](design/specification.md), and the two
 [volume plans](volumes/).
+
+Translation status is governed by the [review gates](text/review-gates.md);
+the Book 1 openings are intentionally marked as first-pass drafts.

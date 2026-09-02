@@ -11,6 +11,9 @@
       and review status.
 - [ ] `scripts/validate_manifests.sh` and `scripts/preflight_assets.rb` pass.
 - [ ] Front matter, book divisions, page numbers, and contents are complete.
+- [ ] The page map accounts for every text page, plate, caption, and blank page.
+- [ ] Typefaces, licenses, color profile, margins, and folio rules are locked
+      in the release manifest.
 - [ ] Interior and cover PDFs open without missing fonts or transparency
       warnings.
 - [ ] A rendered proof has been reviewed at 100% and on paper.

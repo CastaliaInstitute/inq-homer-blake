@@ -20,12 +20,12 @@ volumes:
     title: "The Iliad"
     interior_pdf: pending_full_volume_assembly
     cover_pdf: pending_page_count_and_spine_calculation
-    translation_status: book_01_working_draft
+    translation_status: working drafts; source-collated units in development
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: pending_full_volume_assembly
     cover_pdf: pending_page_count_and_spine_calculation
-    translation_status: book_01_working_draft
+    translation_status: working drafts; Books 1–6 source-collated units in development
 
 typography:
   status: locked_for_architecture_proof
@@ -53,12 +53,12 @@ proofs:
   - file: output/pdf/inq-homer-iliad-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [504, 720]
-    pages: 66
+    pages: 137
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [504, 720]
-    pages: 74
+    pages: 75
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: cover_design_sample

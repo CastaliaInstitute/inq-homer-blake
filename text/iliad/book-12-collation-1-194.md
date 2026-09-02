@@ -4,8 +4,9 @@
 [`text/source-lock.md`](../source-lock.md).
 
 **Collation status:** translator working pass; exact Greek checked 2026-09-02.
-This record supplements the compressed working manuscript until the revised
-passage is promoted into the interior text file.
+This record is the line-level authority for the revised passage now incorporated
+in `book-12-opening.md`; the book remains a draft until the literary review
+gates are completed.
 
 ## Revised translation pass
 
@@ -194,5 +195,5 @@ Iamenus, and Orestes, one after another, down upon the earth.
 | 12.154–194 | Keep the snow simile, the wasp/bee simile, and the Lapith counterstroke. | These images carry the chapter's pressure from massed missiles to stubborn defense; no modern military paraphrase. |
 
 **Next review:** line-by-line check of 12.195–311, including Sarpedon's wall
-assault, Glaucus' wound, and Ajax/Teucer's defense; then promote this pass into
-`book-12-opening.md` after meter review.
+assault, Glaucus' wound, and Ajax/Teucer's defense; then extend the incorporated
+verse pass after meter review.

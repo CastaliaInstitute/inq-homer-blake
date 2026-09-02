@@ -207,13 +207,76 @@ or if strength were still firm in my limbs, I would stand
 among the horsemen and lead them. Now you should urge the young men;
 I will follow with my counsel, and they will obey as is right.”
 
-The son of Atreus went on, rejoicing in his heart.
+The son of Atreus went on, rejoicing in his heart. He found
+Peteus’ son Menestheus standing, and around him the Athenians,
+masters of the war-cry. Nearby stood many-counseled Odysseus,
+and around him the unshaken ranks of the Cephallenians.
+Their people had not yet heard the battle-cry; their newly gathered
+phalanxes waited, watching for another Trojan tower to advance
+and begin the fight. Agamemnon rebuked them:
 
-The battle spread. Menelaus killed Pylæmenes; Meriones killed
-Phereclus, maker of ships. Teucer shot Orsilochus and Chromius,
-and Ajax struck Amphius. Nestor's son Antilochus brought down
-Ablerus; Diomedes killed Axylus, who had welcomed strangers
-beside his road, but none of them could save him now.
+“Son of Peteus, Zeus-nourished king, clever in evil tricks,
+why shrink back and wait for others? You should stand among the first,
+meet the burning encounter, and hear my feasts announced first,
+when we prepare a feast for the elders. There you gladly eat
+roasted meat and drink honey-sweet wine as long as you wish;
+now you would gladly see ten Achaean towers fighting before you.”
+
+Many-counseled Odysseus looked darkly at him: “Atreus’ son,
+what word escaped the fence of your teeth? How can you say
+we slacken war when we stir sharp Ares against the horse-taming Trojans?
+You will see, if you wish, and if it matters to you, Telemachus’ dear father
+mingling with the front ranks of the horse-taming Trojans.
+Your words are wind.”
+
+Agamemnon smiled, knowing the man was angry, and took back his speech:
+“God-born son of Laertes, many in counsel, I do not rebuke or command you.
+I know your heart thinks gentle plans, the same plans I do. Let those words
+be healed later, if any harm was spoken; may the gods make all of it wind.”
+He left them and found Tydeus’ high-hearted son Diomedes standing
+among his horses and close-fitted chariots, with Sthenelus beside him,
+son of Capaneus. Agamemnon rebuked him:
+
+“Son of Tydeus, why shrink back, why watch the bridges of battle?
+It was not dear to Tydeus to shrink so, but to fight far before his friends,
+as those who saw him labor said. I never met him, but so they tell me.
+He entered Mycenae as a guest with godlike Polynices, gathering a people,
+when they campaigned against the sacred walls of seven-gated Thebes.
+They begged us for famous allies, and we agreed; but Zeus turned us back,
+showing signs against our will. When they had gone and reached deep-reeded
+Asopus, the Achaeans sent Tydeus as messenger. He went and found many
+Cadmeans feasting in the house of mighty Eteocles. Though a guest and alone
+among many Cadmeans, horseman Tydeus was not afraid; he challenged them
+to contests and won them all easily—for Athena helped him.
+The angry Cadmeans set an ambush on his return, fifty young men led by two:
+Maeon, like an immortal, and Polyphontes, son of Autophonus.
+Tydeus gave them all a shameful death, sending Maeon home alone,
+because he trusted the gods’ signs. Such was Tydeus, the Aetolian;
+but he fathered a son worse than himself in war, though better in council.”
+
+Strong Diomedes said nothing, ashamed before the honored king.
+But Sthenelus, glorious son of Capaneus, answered: “Son of Atreus,
+do not lie when you know the truth. We boast that we are better than our fathers.
+We took seven-gated Thebes with fewer men, bringing an army beneath its wall,
+trusting the gods’ signs and Zeus’s help; our fathers perished through their folly.
+Do not place our fathers’ honor on the same scale as ours.”
+
+Diomedes looked beneath his brows: “Friend, sit silent and obey my word.
+I do not resent Agamemnon, shepherd of the people, for urging the well-greaved
+Achaeans to fight. Glory will follow him if the Achaeans sack the Trojans
+and take sacred Ilium; great grief will follow him if the Achaeans are destroyed.
+Come, then, let us remember our fierce courage.”
+He leapt from his chariot in his armor; the bronze rang terribly on the king’s
+chest, and fear would have seized even the steadfast.
+
+Now the battle spread. Menelaus killed the Paphlagonian leader Pylaemenes;
+Meriones killed Phereclus, son of Tecton, who knew every craft of Athena
+and made ships for Alexander. Teucer shot Orsilochus and Chromius,
+sons of Diocles, and Ajax struck Amphius, rich in land at Pæson.
+Antilochus, son of Nestor, killed Ablerus; Diomedes killed Axylus,
+son of Teuthras, who lived by the road at Arisbe and welcomed all men,
+for his house stood beside the way. Yet none of those he welcomed
+stood before him to avert his death.
 
 As fire consumes a dry forest upon the mountain slopes,
 driven by a wind that turns every tree into a red wave,

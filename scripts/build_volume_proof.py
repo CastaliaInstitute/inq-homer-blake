@@ -8,6 +8,7 @@ interior proof until line-level review is complete.
 """
 
 from pathlib import Path
+import csv
 import re
 import sys
 from xml.sax.saxutils import escape
@@ -18,11 +19,12 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import BaseDocTemplate, Frame, PageBreak, PageTemplate, Paragraph, Spacer
+from reportlab.platypus import BaseDocTemplate, Frame, Image, PageBreak, PageTemplate, Paragraph, Spacer
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "output/pdf"
 FONT_DIR = ROOT / "assets" / "fonts"
+PLATE_MANIFEST = ROOT / "design/plate-manifest.csv"
 
 for name, filename in {
     "Cormorant": "CormorantGaramond-Regular.ttf",
@@ -125,6 +127,52 @@ def book_translation(path):
     return lines
 
 
+def forward_block(path):
+    paragraphs = []
+    for block in path.read_text(encoding="utf-8").split("\n\n"):
+        lines = [line.strip() for line in block.splitlines() if line.strip()]
+        if not lines or lines[0].startswith("# ") or lines[0].startswith("*"):
+            continue
+        paragraphs.append(escape(" ".join(line.lstrip('# ').strip() for line in lines)))
+    return paragraphs
+
+
+def plate_for(epic, book_number):
+    with PLATE_MANIFEST.open(newline="", encoding="utf-8") as handle:
+        records = list(csv.DictReader(handle))
+    candidates = [
+        record for record in records
+        if record["epic"].lower() == epic.lower()
+        and int(record["book"]) == int(book_number)
+        and record["curation_status"] in {"concept-review", "source-review"}
+    ]
+    # Prefer a new, manifest-listed concept over a historical reference when
+    # both exist for a book; all inserted plates remain visibly provisional.
+    candidates.sort(key=lambda record: (record["source_type"] != "generated", record["final_file"]))
+    return candidates[0] if candidates else None
+
+
+def plate_block(record):
+    asset = ROOT / record["final_file"]
+    if not asset.is_file():
+        raise ValueError(f"plate manifest asset is missing: {record['final_file']}")
+    width = float(record["width_px"])
+    height = float(record["height_px"])
+    max_width = PAGE_W - 2 * MARGIN_X
+    max_height = PAGE_H - MARGIN_Y - 1.15 * inch
+    scale = min(max_width / width, max_height / height)
+    image = Image(str(asset), width=width * scale, height=height * scale)
+    caption = escape(record["caption"])
+    credit = escape(record["credit_line"])
+    return [
+        PageBreak(),
+        image,
+        Spacer(1, 0.12 * inch),
+        Paragraph(f"PLATE — {caption}", styles["Small"]),
+        Paragraph(f"{credit} Concept-review placement only.", styles["Small"]),
+    ]
+
+
 def build(epic, title, out_name):
     paths = sorted((ROOT / "text" / epic).glob("book-*-opening.md"))
     if len(paths) != 24:
@@ -137,7 +185,10 @@ def build(epic, title, out_name):
              Paragraph("7 x 10 inch hardcover / 80# coated paper target", styles["Small"]),
              Spacer(1, 2.2 * inch),
              Paragraph("Translation status: first-pass draft; Greek-fidelity and editorial gates remain open.", styles["Small"]),
-             PageBreak()]
+             PageBreak(), Paragraph("FORWARD", styles["Book"])]
+    for paragraph in forward_block(ROOT / "volumes" / epic / "forward.md"):
+        story.extend([Paragraph(paragraph, styles["Verse"]), Spacer(1, 8)])
+    story.append(PageBreak())
     for index, path in enumerate(paths, 1):
         book_number = path.stem.split("-")[1]
         story.append(Paragraph(f"BOOK {int(book_number)}", styles["Book"]))
@@ -145,6 +196,9 @@ def build(epic, title, out_name):
         for line in book_translation(path):
             story.extend([Paragraph(line, styles["Verse"]), Spacer(1, 1.4)])
         story.append(Paragraph(f"Source range: Book {int(book_number)}. Full-book provisional draft. Not approved for final layout.", styles["Small"]))
+        record = plate_for(epic, int(book_number))
+        if record:
+            story.extend(plate_block(record))
         if index != len(paths):
             story.append(PageBreak())
     doc = BaseDocTemplate(str(out), pagesize=(PAGE_W, PAGE_H), leftMargin=MARGIN_X,

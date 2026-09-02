@@ -16,6 +16,7 @@ import re
 
 ROOT = Path(__file__).resolve().parents[1]
 PDF_DIR = ROOT / "output/pdf"
+RELEASE_MANIFEST = ROOT / "design/release-manifest.yaml"
 TRIM = (504, 720)  # 7 x 10 inches in points
 COVER_PROOF = (1152, 828)  # 16 x 11.5 inches with a 0.5 in spine placeholder
 
@@ -40,6 +41,15 @@ pdfs = sorted(PDF_DIR.glob("*.pdf"))
 if not pdfs:
     fail("no PDFs found under output/pdf")
 
+manifest_pages = {}
+manifest_file = None
+for line in RELEASE_MANIFEST.read_text(encoding="utf-8").splitlines():
+    if line.startswith("  - file: "):
+        manifest_file = line.split(": ", 1)[1].strip()
+    elif manifest_file and line.startswith("    pages: "):
+        manifest_pages[manifest_file] = int(line.split(": ", 1)[1].strip())
+        manifest_file = None
+
 for pdf in pdfs:
     info = run("pdfinfo", str(pdf))
     if info.returncode != 0:
@@ -55,6 +65,14 @@ for pdf in pdfs:
         fail(f"{pdf.name} is not {label}: {fields.get('Page size', 'unknown')}")
     if fields.get("Encrypted", "").strip().lower() != "no":
         fail(f"{pdf.name} is encrypted")
+    manifest_key = str(pdf.relative_to(ROOT))
+    if manifest_key in manifest_pages:
+        actual_pages = int(fields.get("Pages", "0").strip())
+        if actual_pages != manifest_pages[manifest_key]:
+            fail(
+                f"{pdf.name} page count {actual_pages} disagrees with release manifest "
+                f"({manifest_pages[manifest_key]})"
+            )
 
     fonts = run("pdffonts", str(pdf))
     if fonts.returncode != 0:

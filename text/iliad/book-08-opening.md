@@ -60,51 +60,55 @@ in the bronze. While the old man cut the traces with his sword, Hector’s swift
 horses came through the uproar carrying their driver, and the old man would have
 lost his life had Diomedes not seen him and called loudly to Odysseus.
 
-Agamemnon raised his hands to Zeus:
+Hector urged the Trojans: “Fools, who devised this wall, weak and useless!
+It will not hold back my strength; our horses will easily leap the trench.
+When I reach the hollow ships, remember the fire: I will burn them and kill
+the Argives beside them, choking in the smoke.” He called to his horses—Xanthus,
+Podargus, Aethon, and divine Lampus—and told them to repay the rich fodder and
+wine Andromache, daughter of Eetion, had given them in former days. If they drove
+swiftly, he said, they might seize Nestor’s shield, all gold in its hoops and boss,
+and Diomedes’ wrought breastplate, made by Hephaestus; then the Achaeans might board
+their ships that very night.
 
-“Father, if you ever heard a prayer from an Achaean,
-grant us escape. Let the army live, though you will not give
-us victory. Do not let Hector drive us into the sea.”
+Hera shook her throne in anger and said to Poseidon: “Earth-shaker, do you feel no
+pity for the dying Danaans, who carry many beautiful gifts to Helice and Aegae? If
+we who aid the Argives wished, we could drive back the Trojans and hold off Zeus.”
+Poseidon answered: “Bold Hera, what word is this? I would not fight Zeus, who is far
+stronger than all of us.”
 
-Zeus heard. He thundered, and the Argives took courage,
-but they still retreated. Hector called the Trojans forward:
+Hector’s men and horses filled the space between the ships and the trench, penned
+in by the deep cut ground. Hector, favored by Zeus, would have set fire to the ships,
+but Hera put a new thought into Agamemnon’s mind. He took a great purple cloak,
+went through the huts and ships, and stood upon Odysseus’ black ship, midway between
+the tents of Ajax and Achilles. With his voice carrying both ways he cried:
 
-“Do not stop to strip the dead. Whoever leaves the line
-to gather armor shall die beside the ships. Tonight we camp
-in the open field, and the Argives will not sleep in safety.”
+“Shame, Argives, beautiful in form but evil in reproach! Where are your boasts,
+when on Lemnos you claimed that each man could face a hundred or two hundred
+Trojans? Now we are not worth even one Hector, who will soon burn the ships.
+Father Zeus, have you blinded some great king, robbing him of honor? I never passed
+your beautiful altar with a many-oared ship without burning the fat and thighs of
+oxen, eager to destroy well-walled Troy. Grant me at least this prayer: let the
+Argives escape and not perish, though you allow the Trojans to overcome them.”
 
-The Trojans seized the bodies and stripped the fallen.
-The Achaeans crossed their trench and reached the wall.
-Nestor's horses stumbled. His chariot broke, and he stood alone.
-Diomedes saw him and called:
+The father pitied him, shedding a tear, and nodded that the people should live and
+not be destroyed. At once he sent the most perfect of flying birds, an eagle carrying
+a fawn in its talons. He dropped it beside Zeus’ beautiful altar where the Achaeans
+made sacrifice. When they saw the bird from Zeus, they leapt more fiercely against
+the Trojans and remembered their courage.
 
-“Old king, climb into my chariot. Leave your horses.
-We must reach the line before Hector takes you.”
+No one among the many Danaans dared drive his horses from the trench and fight before
+Diomedes. He was first to kill a helmeted Trojan, Agelaus son of Phradmon, striking
+him between the shoulders as he turned his horses; the spear passed through his chest,
+and his armor rang as he fell. Agamemnon and Menelaus followed, then the two Ajaxes,
+Idomeneus and Meriones, Eurypylus, and Teucer ninth, drawing his recurved bow.
+Ajax carried his shield before him; each time Teucer shot and felled a man, he slipped
+back beneath it like a child beneath its mother. Teucer first killed Orsilochus,
+Ormenus, Ophelestes, Daitor, Chromius, Lycophontes, Amopaon, and Melanippus.
 
-Nestor mounted. Diomedes drove straight at Hector,
-though Zeus' thunder rolled above them. Hector saw the chariot
-and told his men to stand. The two champions cast their spears;
-Diomedes struck Eniopeus, Hector's charioteer, in the chest.
-The man fell, and Hector mourned him, but seized the reins.
-
-Diomedes hurled again, hoping to reach Hector. Zeus broke
-the spear's point and made it fall before the chariot.
-Diomedes understood the warning. Nestor said:
-
-“Turn back. No man can fight the son of Cronus today.”
-
-Diomedes answered: “I hate to hear such words. If Hector boasts,
-he will say that fear drove me away.”
-
-Nestor replied: “You will not be called a coward. The gods
-themselves have made this day his. Live, and fight tomorrow.”
-
-They withdrew. Hector shouted: “Diomedes, why do you run?
-You feared my spear before; now you fear my chariot too.
-Go, and tell the women of Argos how Hector drove you.”
-
-Diomedes turned three times, wishing to answer, but thunder
-struck from Ida. Nestor cried: “Do not resist the god.”
+Agamemnon rejoiced and called: “Teucer, dear head, son of Telamon, lord of the people,
+shoot so, and become a light to the Danaans and to your father, who raised you from
+childhood and cared for you though you were born outside his marriage. Give him fame,
+though he is far away; I tell you how it shall be fulfilled.”
 
 The Argives reached the wall and gathered behind it.
 Hera and Athena watched from Olympus, grieving. Zeus saw them

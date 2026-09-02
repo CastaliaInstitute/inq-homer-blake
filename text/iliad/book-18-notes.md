@@ -14,6 +14,8 @@ Lines 468–540 are recorded in
 text/iliad/book-18-collation-468-540.md.
 Lines 541–606 are recorded in
 text/iliad/book-18-collation-541-606.md.
+Lines 607–617 are recorded in
+text/iliad/book-18-collation-607-617.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -21,7 +23,7 @@ text/iliad/book-18-collation-541-606.md.
 | 18.148–242 | Achilles appears at the wall | Fire and terror | Collated 2026-09-02; preserve Iris’s secret dispatch, the Ajax-shield limitation, Athena’s aegis and fire, the smoke/trumpet similes, the twelve Trojan deaths, and Hera’s forced sunset. |
 | 18.243–367 | Trojans counsel; Achaeans mourn | Burial deferred | Collated 2026-09-02; preserve Polydamas’s full retreat counsel, Hector’s refusal, Athena’s delusion, the lion-and-cubs lament, the burial vow, the twelve children, the washing ritual, and Hera’s interrupted reply. |
 | 18.368–606 | Hephaestus forges the shield | World-image | 18.368–606 collated 2026-09-02; preserve the twenty self-moving tripods, Charis, Eurynome, the golden attendants, Thetis’s full commission, the forge materials, fivefold shield, complete cosmology, two cities, embodied war figures, plowland, harvest, vineyard, cattle, sheepfold, and Daedalus’s dance. Oceanus remains at 18.607–617. |
-| 18.607–617 | Reconciliation and arming begins | Grief becomes vengeance | Check gifts, Briseis, nectar, horses, and endpoint. |
+| 18.607–617 | Oceanus closes the shield; Thetis carries the armor from Hephaestus | Divine craft becomes mortal equipment | Collated 2026-09-02; preserve the outer Oceanus rim, corselet, fitted helmet, golden crest, tin greaves, Hephaestus’s presentation, and Thetis’s hawk-like descent. The reconciliation and arming sequence belongs to Book 19. |
 
 ## Design anchor
 

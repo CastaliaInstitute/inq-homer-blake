@@ -680,6 +680,103 @@ we may find sweet sleep and rest ourselves in slumber.”
 **Continuation:** line 636 begins Priam’s account of sleepless grief;
 this unit ends after the shared meal and mutual wonder.
 
+## Translation — source-collated lines 636–718
+
+“That we may take our fill of sweet sleep and rest in slumber.
+For never yet have my eyes closed beneath their lids
+since by thy hands my son gave up his life;
+but always I groan, and in the court I digest
+countless griefs, rolling myself in the dust and dung.
+Now I have tasted food and poured the dark wine down my throat;
+before this I had tasted nothing.”
+
+Achilles commanded his companions and the serving-women
+to set two beds beneath the porch, and spread upon them
+beautiful purple coverlets; over these to lay rugs,
+and woolen cloaks above, that they might wrap themselves.
+The women went out from the chamber, carrying torches,
+and quickly, busied, spread the two beds.
+
+Then swift-footed Achilles spoke half in jest:
+“Lie outside, dear old man, lest one of the Achaeans enter,
+some counselor who sits beside me as they sit and devise
+the counsels that are lawful. If such a man should see thee
+through the swift black night, he would at once report it
+to Agamemnon, shepherd of the people; and the release
+of the dead might then be delayed. Come, tell me this truth:
+how many days dost thou intend to mourn noble Hector,
+that I may stay here myself and hold the people back?”
+
+Godlike aged Priam answered: “If thou wilt grant us to bury
+noble Hector, thou wouldst make thyself most gracious to me
+by doing as I say. Thou knowest how we are enclosed within the city,
+and how far the wood must be brought down from the mountain;
+the Trojans are very much afraid. For nine days we would mourn him
+within our halls; on the tenth we would bury him, and give a feast
+to the people; on the eleventh we would make his burial mound;
+and on the twelfth, if need should be, we would fight.”
+
+Swift-footed noble Achilles answered: “These things too shall be,
+old Priam, as thou commandest. I shall hold back the battle
+for as long a time as thou hast asked.”
+So speaking, he took the old man’s right wrist,
+that he might not fear within his heart.
+
+There, in the forecourt, the herald and Priam slept,
+both holding prudent counsels in their hearts;
+but Achilles slept in the recess of the well-built shelter,
+and beside him lay fair-cheeked Briseis.
+All the other gods and men, the horse-harnessed warriors,
+slept through the night, mastered by gentle sleep;
+but sleep did not seize gracious Hermes, who pondered
+within his heart how he might send King Priam from the ships,
+unseen by the sacred guards who kept the gates.
+
+He stood above the old man’s head and spoke:
+“Old man, thou hast no care for danger, sleeping thus among
+the enemy, after Achilles has spared thee. Thou hast now released
+thy beloved son, and given much for him; but while thou livest,
+thy sons who remain might give three times as much in ransom,
+if Agamemnon, son of Atreus, should learn of thee,
+and all the Achaeans should learn of it.”
+
+He spoke; and the old man was afraid, and woke the herald.
+Hermes himself yoked the horses and the mules,
+and swiftly drove them through the army; no one knew him.
+When they reached the ford of the fair-flowing, eddying Xanthus,
+whom immortal Zeus himself begot, Hermes then descended
+and went away toward high Olympus. Dawn, clothed in saffron,
+was spreading over all the earth; and they drove their horses
+into the city with lamentation and groaning.
+The mules carried the dead man. No other man or woman
+among the beautiful-girdled Trojans knew them;
+but Cassandra, like golden Aphrodite in her beauty,
+having climbed upon Pergamos, saw her beloved father standing
+in the chariot, and the herald who called the city;
+then she saw Hector lying upon the bed upon the mules.
+She cried aloud, and her voice went throughout the city:
+
+“Behold, ye Trojans and Trojan women, and go forth to meet Hector,
+if ever, while he lived, ye rejoiced when he returned from battle;
+for he was a great joy to the city, and to all the people!”
+
+So she spoke; nor did any man or woman remain within the city,
+for unbearable grief had reached them all. They met the dead man
+near the gates. First his beloved wife and his august mother
+rushed to the smooth-running wagon, tearing at their hair,
+and touched his head; the crowd stood round them, weeping.
+And now they would have mourned Hector there the whole day,
+until the sun had gone down, shedding tears before the gates,
+had not the old man spoken from the chariot to the people:
+
+“Make way for me, that I may pass among the mules;
+after I have brought him home, ye shall have your fill of weeping.”
+
+So he spoke; and they parted, making room for the wagon.
+
+**Continuation:** line 719 begins Andromache’s lament;
+this unit ends as Priam brings Hector through the city gate.
+
 ## Working synopsis
 
 The games ended, and the Achaeans returned to their ships.

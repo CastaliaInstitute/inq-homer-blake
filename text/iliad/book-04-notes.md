@@ -5,9 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 4.1–72 | Zeus, Hera, and Athena decide the oath must fail | Divine debate | Verify the gods' motives and the transition to Athena. |
-| 4.73–147 | Pandarus shoots Menelaus | Arrow, armor, and wound | Collate the equipment terms and Athena's deflection of death. |
-| 4.148–219 | Agamemnon and Machaon tend Menelaus | Kingship and healing | Check speeches, medical vocabulary, and wound sequence. |
+| 4.1–170 | Zeus, Hera, and Athena break the truce; Pandarus wounds Menelaus; Machaon treats him | Divine debate, bow construction, arrow trajectory, oath language, wound anatomy, and healing | Collation recorded in `book-04-collation-1-170.md`; preserve the divine mechanics and medical sequence before approval. |
 | 4.220–421 | Armies enter the general battle | Paired deaths and similes | Verify each named combatant and the order of encounters. |
 | 4.422–544 | Battle intensifies toward evening | Fire and flood imagery | Check the closing battlefield transition and exact endpoint. |
 

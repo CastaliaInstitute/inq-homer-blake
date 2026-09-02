@@ -6,70 +6,128 @@
 
 ## Translation
 
-The gods sat in council on the golden floor of heaven.
-Zeus, father of gods and men, began to tease Hera:
+The gods sat beside Zeus, speaking in council on the golden floor;
+among them royal Hebe poured nectar, and they received it in golden cups,
+looking toward Priam’s city. The son of Cronus tried to provoke Hera,
+speaking with cutting words: “Two goddesses have aided Menelaus—
+Argive Hera and Athena of Alalcomenae. They sit apart and rejoice,
+but smiling Aphrodite always stands close to him and wards off the Fates;
+even now she saved him when he thought he would die. Yet the victory
+belongs to war-loving Menelaus. Let us consider what shall be done:
+shall we stir dreadful war again, or place friendship between both peoples?
+If this were pleasing to all, Priam’s city might still be inhabited,
+and Menelaus might lead Argive Helen home.”
 
-“Two cities have a champion: Menelaus, favored by Athena,
-has won the single combat. Let the Argives take Helen home,
-and Troy surrender the wealth that came with her.
-So the long war will end, and we may return to peace.”
+Athena and Hera muttered; seated close together, they planned evil for Troy.
+Athena was silent, angry with her father, and fierce resentment held her.
+Hera could not contain her anger: “Most terrible son of Cronus,
+what have you said? Do you want to make my labor fruitless,
+the sweat I spent in toil, while my horses were worn out gathering
+the people for Priam and his sons? Do it—but none of the other gods
+will praise you.”
 
-Hera replied, her white arms folded in anger:
+Cloud-gathering Zeus answered in deep displeasure: “Strange woman,
+what have Priam and his sons done to you, that you rage without rest
+to destroy well-built Ilium? If you could enter through the gates
+and walls and devour Priam, his sons, and the other Trojans raw,
+then your anger might be healed. Do as you wish; let this quarrel
+between us not become a great dispute later. I say this also:
+when I desire to destroy a city where your beloved people live,
+do not delay my anger, but let me act. For I gave way to you,
+though unwillingly; of all the cities beneath the sun and starry sky,
+holy Ilium, Priam, and his well-speared people were most dear to me.
+Never did my altar lack its equal feast, libation, or savor of sacrifice;
+that honor was our portion.”
 
-“Three cities are dear to me beyond all others—Argos,
-Sparta, and Mycenae of the broad streets. You may destroy them
-when they offend you; I will not stand against your strength.
-But do not command me now. I will not yield to you in this.
-The woman whom the Trojans keep is my enemy, and Troy must fall.”
+Ox-eyed Hera replied: “Three cities are most dear to me—Argos,
+Sparta, and broad-wayed Mycenae. Destroy them when they anger you;
+I will not stand before you or begrudge it. But my labor must not be
+made fruitless. I too am a goddess, born from the same source as you;
+Cronus of crooked counsel bore me eldest, and I am called your wife,
+while you rule among all the immortals. Let us yield to one another,
+you to me and I to you; the other gods will follow. Now command Athena
+to go quickly into the grievous battle of Trojans and Achaeans,
+and see whether the Trojans will first harm the illustrious Achaeans,
+in violation of the oaths.”
 
-They might have quarreled there, but Zeus spoke again:
+Her father and the father of gods did not disobey. He spoke winged words
+to Athena: “Go quickly among Trojans and Achaeans. See whether the Trojans
+will first harm the illustrious Achaeans in violation of the oaths.”
+So he urged Athena, already eager; she shot down from Olympus’ peaks,
+like the bright star that Cronus’ son sends as a sign to sailors or a great army,
+from which many sparks leap. In its likeness Pallas Athena rushed to earth
+and leapt into the midst; wonder seized the horse-taming Trojans
+and well-greaved Achaeans. Each man said to the one beside him:
+“Will dreadful war rise again, or will Zeus establish friendship between them?”
 
-“What harm has Priam done to you? Why do you pursue
-his city without rest? If you desire it, enter the gates,
-and consume the people with your own hand. Do not be silent.”
+Athena entered the Trojan crowd in the likeness of Laodocus,
+son of Antenor, a strong spearman, seeking godlike Pandarus.
+She found Lycaon’s blameless, powerful son standing among the dense ranks
+of shield-bearing men who had followed him from the streams of Aesepus.
+Standing near, she spoke: “Would you obey me, Lycaon’s son?
+Would you dare shoot a swift arrow at Menelaus? You would win favor
+and glory from all the Trojans, above all from King Alexander.
+He would be the first to give you shining gifts if he saw Menelaus,
+son of Atreus, struck by your arrow and climbing onto the grievous pyre.
+Shoot glorious Menelaus; vow to Apollo, famous archer of Lycia,
+that when you return to sacred Zeleia you will sacrifice a splendid hecatomb
+of first-born lambs.”
 
-Hera answered: “Go yourself, and do what you threaten.
-You are the eldest, and your power is greatest. Yet all the gods
-would hate the act, if you spared that hateful city.”
+The goddess persuaded the foolish man. He took down his polished bow,
+made from the horns of a wild goat that he himself had struck beneath the breast
+as it sprang from rock; the animal fell backward upon the stone.
+Its horns grew sixteen palms; a horn-worker joined and polished them,
+and set a golden tip upon them. Pandarus laid the bow carefully,
+and his excellent companions held their shields before him, lest the warlike
+sons of the Achaeans leap forward before Menelaus was struck.
+He opened the lid of his quiver and drew an arrow not yet shot,
+the source of black pain. Quickly he fitted the bitter arrow to the string,
+and vowed again to Apollo. He drew together the notch and ox-hide string;
+the great bow bent in a circle, twanged, the string cried loudly,
+and the sharp arrow leapt through the host eager to fly.
 
-Zeus looked at her with dark brows and said:
-“You are relentless. Very well. I will send Athena down.
-Let her break the oath and make the Trojans strike first.”
+Yet the blessed gods had not forgotten you, Menelaus. First Athena,
+the spoil-taking daughter of Zeus, stood before you and turned away
+the deadly arrow, as a mother brushes a fly from her child asleep.
+She guided it to the place where the golden clasps of the belt held fast,
+where the double breastplate met. The bitter arrow struck the fitted belt,
+passed through the decorated belt and elaborate corselet,
+and pierced the guard that protected the skin from spears—the guard
+that saved him most, though the arrow passed beyond it and grazed his flesh.
+Dark blood immediately ran from the wound. As a Maeonian or Carian woman
+stains ivory with purple to adorn a horse’s cheek—kept in a chamber,
+desired by many riders, an ornament and glory for horse and charioteer—
+so your well-formed thighs and beautiful legs, Menelaus, were stained with blood.
 
-Athena flew from Olympus. She entered the Trojan ranks,
-wearing the likeness of Laodocus, son of Antenor,
-and searched for Pandarus, the archer, son of Lycaon.
-She found him among the men, proud of his great bow,
-and bent beside him with a whisper:
+When Agamemnon saw the dark blood running from the wound, he trembled;
+war-loving Menelaus trembled too, but when he saw the sinew and arrow-barbs
+outside, his heart gathered itself again. Agamemnon groaned heavily,
+holding Menelaus’ hand, while his companions lamented:
 
-“Would you win glory today? Shoot Menelaus, the king.
-The Trojans would honor you, and Paris above all others.
-If your arrow reached him, he would heap gifts upon you.”
+“Dear brother, I cut the oath that set you alone before the Achaeans
+to fight the Trojans, and the Trojans have struck you and trampled
+the faithful oath. Yet the oath, the blood of lambs, the unmixed libations,
+and the right hands we trusted will not be in vain. Even if Olympus’ lord
+does not fulfill it at once, he will fulfill it later, and they will pay dearly,
+with their heads, wives, and children. I know this in my heart:
+the day will come when holy Ilium, Priam, and Priam’s well-speared people
+are destroyed, when Zeus himself, dwelling in the upper air, shakes
+his dark aegis over them in anger at this deceit. These things will not fail;
+but my grief for you, Menelaus, will be terrible if you die and fulfill
+the appointed end of life.”
 
-Pandarus opened the polished bow made from a wild goat's horns.
-He strung it, drew the cord, and chose a shaft smooth-feathered,
-newly cut, and eager for flight. He prayed to Apollo,
-then aimed at Menelaus. He saw the king standing alone,
-protected by no shield, and loosed the arrow.
+Menelaus answered: “Take heart, and do not alarm the army. The wound is not
+deadly; the arrow’s sharp point did not remain, and the belt and corselet
+held it back.”
 
-Athena turned the point aside from the place where death lies,
-and struck it from the belt, where the golden armor held it.
-The shaft pierced the woven guard and drew blood. Menelaus
-stood red beneath his bronze, like ivory stained with purple,
-or like a fillet a woman has dyed for a king's horse.
-
-Agamemnon saw the blood and trembled. He took his brother's hand:
-
-“Brother, you are wounded; the oath is broken, and soon you die.
-I would rather go down myself. If you are lost, the army loses heart.
-The Trojans will drag you through dust, and our labor ends in shame.”
-
-Menelaus replied: “Do not fear. The wound is not mortal.
-The belt stopped the point, then the guard and shining armor.”
-
-The healer Machaon came, and cut away the belt and corselet.
-He drew out the clotted blood, and laid bitter medicine
-upon the wound, given to his father by Cheiron long ago.
+Agamemnon summoned Talthybius: “Call Machaon, son of Asclepius,
+the blameless healer, to see whether he can heal Menelaus.”
+Talthybius went through the ranks and found Machaon, a good physician,
+standing among the shield-bearing men who had followed him from Tricca.
+He brought him before Menelaus. Machaon cut away the shining belt,
+the corselet, and the guard; he drew the clotted blood from the wound
+and laid soothing medicines upon it—medicines given by Cheiron
+to his father, Asclepius, long ago.
 
 Then Agamemnon moved through the ranks. He praised the brave,
 and rebuked the hesitant, for kings must kindle courage.

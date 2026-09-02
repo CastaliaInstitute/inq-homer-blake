@@ -10,7 +10,8 @@ commentary.
 | 24.229–386 | Ransom inventory; eagle omen; Hermes meets Priam | Treasures, omen, and divine disguise | Collated 2026-09-02; verify the inventory, cart construction, eagle, and line-386 question at meter review. |
 | 24.387–551 | Priam supplicates Achilles; fathers remember grief | Supplication and shared mourning | Collated 2026-09-02; verify Hermes’s camp threshold, the physical gesture, father parallel, and two jars at meter review. |
 | 24.552–635 | Hector released; washing, meal, and Niobe exemplum | Ritual release and measured hospitality | Collated 2026-09-02; verify the held-back garments, Patroclus address, Niobe sequence, and sleep request at meter review. |
-| 24.636–804 | Hector's funeral and laments | Ritual closure | Verify Cassandra, Andromache, Hecuba, Helen, and pyre. |
+| 24.636–718 | Priam’s mourning schedule; night rest; Hermes and dawn return | Time, secrecy, and return | Collated 2026-09-02; verify the nine-day timetable, Xanthus crossing, Cassandra’s summons, and gate passage at meter review. |
+| 24.719–804 | Hector’s three laments; pyre and mound | Ritual closure | Collate Andromache, Hecuba, Helen, and the funeral sequence. |
 
 ## Draft warning
 

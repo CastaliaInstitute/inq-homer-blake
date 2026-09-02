@@ -13,6 +13,8 @@ Lines 387–551 are recorded in
 text/iliad/book-24-collation-387-551.md.
 Lines 552–635 are recorded in
 text/iliad/book-24-collation-552-635.md.
+Lines 636–718 are recorded in
+text/iliad/book-24-collation-636-718.md.
 
 ## Translation
 

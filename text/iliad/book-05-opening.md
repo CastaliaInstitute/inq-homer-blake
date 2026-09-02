@@ -167,26 +167,54 @@ he wounded the soft top of her hand with his sharp spear. The bronze pierced
 the ambrosial robe the Graces had made; immortal ichor flowed, for the gods
 eat no grain or drink dark wine. Aphrodite cried out and dropped her son.
 
-Iris led her away in the chariot of Ares. The goddess mounted,
-her horses dark with fear; she climbed Olympus and knelt
-beside her mother Dione. Dione embraced her and said:
+Iris gave Aphrodite the horses of Ares. Aphrodite climbed into the chariot,
+her heart in grief; Iris sat beside her, took the reins, and lashed the team.
+Swiftly they reached Olympus, the steep seat of the gods. Iris halted the horses,
+unharnessed them, and laid ambrosial food before them. Aphrodite fell on her knees
+before her mother Dione, who embraced and stroked her, asking which Uranian god
+had done this rash deed as though she had been caught doing evil.
 
-“Endure, child. The gods have suffered at mortal hands before.
-Otus and Ephialtes bound Ares; Hera was struck by Amphitryon;
-Hades himself was pierced by Heracles. Mortal strength
-may touch the deathless when a god permits it.”
+Aphrodite answered: “The high-hearted son of Tydeus, Diomedes, wounded me,
+because I was carrying my dear son Aeneas from the battle; he is dearest to me.
+This is no longer a war only between Trojans and Achaeans—the Danaans now fight
+the immortals.” Dione told her to endure: many who dwell in Olympus have suffered
+hard pain from men. Ares endured when the Aloadae, Otus and Ephialtes,
+bound him in bronze bonds for thirteen months, until Hermes secretly rescued him;
+Hera endured when Amphitryon’s strong son shot her in the right breast;
+Hades endured the swift arrow Heracles shot at him in Pylos, sending him
+in pain to Zeus’s house, the arrow lodged in his shoulder. Paeon poured
+pain-soothing medicines upon Hades, for he was not mortal. Dione rebuked
+the violent archer who harmed the gods, and said that Athena had set Diomedes
+against Aphrodite: foolishly he did not know that a man who fights immortals
+does not return long from war, nor do children greet him at his knees.
+She wiped the ichor from Aphrodite’s hand; the hand healed and the pain eased.
 
-Apollo carried Aeneas from the battlefield, covering him
-with a dark cloud. He set him in Pergamus, and Artemis healed
-the wound. Apollo made a likeness of Aeneas, and the Trojans
-and Achaeans fought around it, while he called to Ares:
+Hera and Athena watched and teased Zeus with sharp words. Athena began:
+“Father Zeus, will you be angry if I speak? Cypris has surely urged one of the
+Achaean women to follow the Trojans she loves, and while caressing one of our
+well-robed Achaean women she has scratched her delicate hand upon a golden brooch.”
+The father of gods and men smiled and called golden Aphrodite near:
+“My child, warlike deeds are not given to you; pursue instead the lovely works
+of marriage. Let swift Ares and Athena attend to these.”
 
-“Ares, turn this man of conflict against Diomedes.
-Draw back the gods who protect the Argives, and strengthen Hector.”
+While they spoke, Diomedes rushed again at Aeneas, knowing Apollo himself
+held his hands above the hero. Yet he did not fear the great god; he still desired
+to kill Aeneas and strip away his famous armor. Three times he charged to kill him;
+three times Apollo struck his shining shield aside. At the fourth, like a god,
+Apollo shouted: “Beware, son of Tydeus, and draw back. Do not think like the gods;
+there is no equal race between immortals and men who walk the earth.”
+Diomedes withdrew a little, avoiding the anger of the far-shooter.
+Apollo set Aeneas apart in sacred Pergamus, where his temple stood;
+Leto and Artemis healed and honored him in the great sanctuary.
+Apollo made an image like Aeneas in form and armor, and around that image
+Trojans and Achaeans beat one another, striking rounded ox-hide shields.
+Then Phoebus called fierce Ares:
 
-Ares descended in the shape of Acamas and shouted to the Trojans.
-Hector rallied them. Sarpedon rebuked him for standing apart,
-and Hector led the men forward. The ranks closed again.
+“Ares, destroyer of mortals, wall-breaker, will you not go into battle
+and draw this man, Diomedes, out? He would fight even father Zeus now.
+First he wounded Cypris near the wrist, then he rushed against me like a god.”
+So Apollo seated himself on the height of Pergamus, while Ares entered the crowd
+in the likeness of Acamas, leader of the Thracians, urging the Trojans.
 
 Diomedes mounted the chariot with Athena. They charged.
 Ares threw his spear, but Athena turned it aside. Diomedes cast,

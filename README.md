@@ -76,6 +76,10 @@ The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.
 
+The unified [plate manifest](design/plate-manifest.csv) joins historical and
+generated plates at the production level, including source type, caption,
+credit, dimensions, profile state, and provenance record.
+
 The first original plate candidate is documented in the
 [Apollo prompt record](assets/generated/prompts/iliad-book-01-apollo-v1.md);
 it is concept-review only until a print-resolution master is approved.

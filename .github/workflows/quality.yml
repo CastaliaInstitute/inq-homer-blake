@@ -20,7 +20,7 @@ jobs:
               rows = CSV.read(file)
               abort("malformed CSV: #{file}") unless rows.all? { |row| row.length == rows.first.length }
             end
-          ' assets/source/manifest.csv assets/generated/manifest.csv
+          ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
       - name: Run PDF geometry preflight

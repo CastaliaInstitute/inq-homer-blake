@@ -19,5 +19,7 @@ check_header "assets/source/manifest.csv" \
   "epic,book,passage,creator,creator_role,work_title,date,collection_or_source_url,image_url,object_number,accessed,rights_status,local_file,credit_line,notes"
 check_header "assets/generated/manifest.csv" \
   "epic,book,passage,working_title,creator,source_type,model_version,prompt_file,generated_on,reference_ids,curation_status,final_file,credit_line,notes"
+check_header "design/plate-manifest.csv" \
+  "plate_id,epic,book,passage,source_type,creator,creator_role,provenance_url,rights_status,caption,credit_line,final_file,width_px,height_px,color_profile,curation_status,prompt_or_source_record"
 
 printf 'Manifest headers are valid.\n'

@@ -61,6 +61,29 @@ CSV.read(source_manifest, headers: true).each_with_index do |row, index|
 end
 puts "OK source manifest and acquired files"
 
+plate_manifest = path_from_root("design/plate-manifest.csv")
+plate_rows = CSV.read(plate_manifest, headers: true)
+allowed_plate_sources = %w[blake-original historical-reference generated]
+plate_rows.each_with_index do |row, index|
+  row_number = index + 2
+  %w[plate_id epic book passage source_type creator creator_role provenance_url rights_status caption credit_line final_file width_px height_px color_profile curation_status prompt_or_source_record].each do |field|
+    fail!("plate manifest row #{row_number} is missing #{field}") if row[field].nil? || row[field].empty?
+  end
+  fail!("plate manifest row #{row_number} has invalid source_type") unless allowed_plate_sources.include?(row["source_type"])
+  fail!("plate manifest row #{row_number} provenance_url must use HTTPS") unless row["provenance_url"].start_with?("https://")
+  file = row["final_file"]
+  fail!("missing plate asset #{file} (row #{row_number})") unless File.file?(path_from_root(file))
+  width_output, status = Open3.capture2("sips", "-g", "pixelWidth", "-g", "pixelHeight", path_from_root(file))
+  fail!("cannot inspect plate #{file}") unless status.success?
+  width = width_output[/pixelWidth:\s*(\d+)/, 1].to_i
+  height = width_output[/pixelHeight:\s*(\d+)/, 1].to_i
+  fail!("plate manifest dimensions do not match #{file} (row #{row_number})") unless width == row["width_px"].to_i && height == row["height_px"].to_i
+  if row["curation_status"] == "final"
+    fail!("final plate #{file} must have a tagged color profile") if row["color_profile"] == "unprofiled"
+  end
+end
+puts "OK plate manifest: #{plate_rows.length} records"
+
 rows.each_with_index do |row, index|
   row_number = index + 2
   file = row["final_file"]

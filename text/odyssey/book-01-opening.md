@@ -10,35 +10,49 @@ Tell me of the man of many turnings, Muse,
 
 who wandered far, after he had brought down Troy's
 
-sacred citadel. Many were the people whose cities
+sacred citadel; who saw the cities of many men
 
-and minds he saw, and many the griefs he carried
+and learned their minds, and suffered many griefs
 
-across the sea within his heart, struggling to save
+upon the sea within his heart, striving to save
 
-his life and bring his companions home. Yet he could
+his life and bring his companions home. Yet still
 
-not rescue them, though he desired it deeply:
+he could not save them, though he longed to do so:
 
-their own blind recklessness destroyed them,
+their own blind folly brought them to destruction,
 
-for they consumed the cattle of the Sun,
+for they devoured the cattle of the Sun,
 
-and the god took from them the day of returning.
+and he took from them the day of their returning.
 
 Begin wherever you will, goddess born of Zeus;
 
-give us this story also.
+give us this story also. All the others now,
 
-Now all the others who had escaped the steep ruin
+who had escaped the steep destruction of the war,
 
-were home, beyond the war and the sea. Odysseus alone,
+were home, beyond the battle and the sea. He alone,
 
-still longing for his wife and the day of his return,
+still longing for his wife and for the day of return,
 
-was held in a hollow sea-girt chamber by the nymph
+was held in hollow caves by the lady nymph,
 
 Calypso, shining among the deathless ones.
+
+But when the circling years had brought the hour
+
+the gods had spun for him to reach his home,
+
+to Ithaca, nor even there escape from toil
+
+among his friends, the gods took pity on him all,
+
+save Poseidon; he, unrelenting, nursed his wrath
+
+against godlike Odysseus, till he touched
+
+the land he loved.
 
 ## Extension: the council of the gods
 
@@ -589,6 +603,10 @@ Throughout the night he could not sleep.
   modernizing explanation, preserving the poem's movement through thresholds.
 - The complete Book 1 movement now reaches from divine planning through
   Telemachus's first public speech and the night's decision to act.
+- The opening was revised on 2026-09-02 against Odyssey 1.1–21 of the locked
+  Greek copy text: the cities-and-minds pairing, the companions' agency, the
+  delayed return appointed by the gods, and Poseidon's exceptional hostility
+  are now all represented in the English.
 - The later extension is deliberately marked as a working range: its English
   line breaks are literary decisions, while exact Greek line mapping remains a
   required review task before approval.

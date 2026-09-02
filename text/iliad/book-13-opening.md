@@ -190,6 +190,185 @@ Of Hector’s shield and drove him back with force.
 Hector withdrew from both the fallen men;
 The Achaeans dragged them from the fight.
 
+Poseidon’s heart was angered when his friend,
+His grandson’s comrade, fell. He went among
+The huts and ships, and roused the Danaans,
+Making the Trojans grieve. Idomeneus,
+Famous for spear, came from a man just brought
+Back from the battle, wounded beneath the knee.
+His friends had carried him within; the chief
+Had given him to healers, yet his heart
+Still longed to enter war.
+
+Then Earth-Shaker, assuming Thoas’ voice—
+Thoas, Andraemon’s son, who ruled Pleuron
+And steep Calydon, and whose people honored
+Him like a god—called out: “Where are the threats
+With which the sons of Achaea threatened Troy?”
+
+The Cretan answered: “Thoas, no man here,
+So far as I can tell, is wholly guilty.
+We know the work of war; no man is held
+By helpless fear, nor does his cowardice
+Persuade him to enter this evil battle.
+Perhaps it is the will of Cronus’ son
+That here, far from our Argos, nameless, we
+Should perish. But you, Thoas, who were brave
+Before us, and rouse every man who yields,
+Do not cease urging each.”
+
+The god replied in that borrowed voice:
+“May he who leaves the battle never come
+Again from Troy, but feed the dogs, and be
+Their music, who abandons it today.
+Take up your arms and come; we must make haste,
+That we two may give help. Joined strength is good
+Even among the wretched; and you know
+How to fight in the ranks of the brave.”
+
+So speaking, he returned into the labor
+Of mortal men. Idomeneus reached his hut,
+Put on his beautiful armor, and took spears.
+He went out like the flash that Cronus’ son
+Grasps from bright Olympus, shaking it as sign
+To mortals; so his bronze flashed round him as
+He ran.
+
+Near the hut Meriones, his swift companion,
+Met him, and came to fetch a bronze spear. Then
+Idomeneus, strong in battle, asked:
+“Meriones, dear son of Molus, why
+Have you left war and come here? Are you wounded,
+And does some point torment you? Or do you bring
+A message? I have no desire to sit
+Within the hut; I long to join the fight.”
+
+Thoughtful Meriones replied: “Counselor
+Of the bronze-clad Cretans, I have come
+To see whether a spear remains for me
+To carry. Mine broke when I struck the shield
+Of overbearing Deiphobus.”
+
+Idomeneus answered: “If you wish, you’ll find
+One spear—or twenty-one—against the wall,
+Bright weapons stripped from Trojans I have slain.
+I am not one to fight my enemies
+From far away. Therefore I have spears,
+Bossed shields, helmets, breastplates, shining bronze.”
+
+Meriones replied: “I too have spoils
+Beside my hut and black ship, but they lie
+Too far to fetch. I have not lost my courage;
+Whenever battle rises, I stand first.
+Another Greek may fail to know me there,
+But you have seen me.”
+
+“I know your courage,” Idomeneus said.
+“Why tell me this? If now the best were chosen
+To lie in ambush by the ships, then courage
+Would show most clearly, and the coward stand
+Apart from the brave. The coward changes color;
+His heart will not allow him to sit still,
+But shifts him foot to foot; his heart beats hard
+As he imagines death, and his teeth chatter.
+The brave man’s color does not change; he is
+Not greatly frightened when he takes his place,
+But prays to enter quickly into grief.
+
+“There your courage and hands could not be hidden.
+Though missile struck you, or a spear reached you,
+It would not find you from behind, but meet
+Your breast or belly as you went among
+The foremost. Come, let us no longer stand
+Talking like children, lest some man rebuke us.
+Go to the hut and take the mighty spear.”
+
+Meriones, the equal of swift Ares,
+Took up the bronze, and went beside his friend,
+Intent upon the work of war. As Ares
+Goes into battle, and his dear son Fear,
+Strong and unflinching, follows him, who makes
+The boldest warrior tremble—so they went,
+Armored in burning bronze.
+
+Then Meriones asked: “Son of Deucalion,
+Where do you mean to plunge into the crowd—
+The right wing, the middle, or the left? I do
+Not think the long-haired Greeks are short of war.”
+
+Idomeneus replied: “Others defend
+The middle ships: the Ajaxes, and Teucer,
+Best of the Achaeans with the bow, and good
+In close combat. They will hold back Hector,
+However eager; hard it is for him
+To conquer their hands and courage, and to set
+The ships aflame, unless the son of Cronus
+Himself should cast a burning torch among them.
+Great Ajax yields to no man, if he is mortal
+And eats Demeter’s grain. Bronze or huge stones
+May break him; even Achilles, breaker
+Of ranks, cannot surpass him in close fight,
+Though no one runs as swiftly as Achilles.
+We two shall hold the left, and quickly learn
+Whether we give another glory, or
+Another gives that glory to us.”
+
+Meriones led on until they came
+To the appointed place. When the men beheld
+Idomeneus, his comrade, and the armor
+Elaborate upon them, all moved near.
+The battle rose around the sterns like storms
+That race beneath shrill winds upon a day
+When dust lies thick upon the roads; the gusts
+Lift one great cloud of earth. So fighting met,
+And every heart was bent on killing through
+The crowd with sharpened bronze. The deathly war
+Stood bristling with long spears that cut the flesh;
+Bronze flashed on helmets, breastplates newly polished,
+And bright shields. No man whose heart was not
+Of stone could look upon that labor without grief.
+
+The sons of Cronus, each apart in thought,
+Prepared bitter pain for heroic men.
+Zeus wished the Trojans and their Hector glory,
+Honoring swift Achilles; yet he did not
+Desire the Greeks to perish utterly
+Before the city, but to glorify
+Thetis and her strong-hearted son. Poseidon,
+Stealing from the gray sea, roused the Argives,
+Angered to see them mastered, and resentful
+Of Zeus. One blood was theirs, one homeland; Zeus
+Was born the elder, and knew more. Therefore
+Poseidon would not help them openly,
+But moved among the army in a man’s shape,
+Stirring them secretly.
+
+Between the hosts they stretched the boundary
+Of bitter strife, a cord that could not break,
+Yet loosened many men’s knees. There the grizzled
+Idomeneus called out to all the Greeks,
+And sprang among the Trojans, putting fear
+Into their hearts.
+
+He killed Othryoneus, newly come
+From Cabesus to the fame of war. He had
+Asked Priam for Cassandra, fairest daughter,
+Without a bride-price, promising to drive
+The sons of Achaea from the city. Priam
+Had nodded and accepted; trusting that promise,
+Othryoneus fought. Idomeneus aimed
+His shining spear and struck him in the chest.
+As he fell, the Cretan mocked him: “Will you now
+Marry Priam’s daughter? We will give her you
+Without a bride-price, if you follow me
+Back from the city. I too would promise this,
+If you had come and asked the daughter of
+Agamemnon. But take her now beside
+The ships: here is the wedding made.”
+
+He spoke, and sprang to strip the armor from
+The fallen man.
+
 ## Decision log
 
 - Poseidon's intervention is kept hidden inside a mortal guise, making
@@ -203,5 +382,10 @@ The Achaeans dragged them from the fight.
   renewed courage, the hidden exhortation, Hector's river-stone image, and the
   first ship-front deaths. The passage remains unapproved pending independent
   meter and Greek-fidelity review.
+- The revision now extends through 13.370, preserving Poseidon's Thoas disguise,
+  the Cretan spear exchange, the ambush test of courage, the left-wing
+  deployment, the opposed divine purposes, and Othryoneus's fatal marriage
+  promise. This passage remains unapproved pending independent meter and
+  Greek-fidelity review.
 - This draft needs Greek-fidelity review for Poseidon's disguise, all
   leaders and deaths, the ship-front geography, and Hector's speeches.

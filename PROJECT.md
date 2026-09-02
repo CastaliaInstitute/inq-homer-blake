@@ -2,15 +2,24 @@
 
 ## Goal
 
-Produce two cohesive illustrated volumes at a 7 × 10 inch trim size:
+Produce a two-volume hardcover edition of Homer at a 7 × 10 inch trim size,
+printed on 80# coated paper:
 
 1. Homer's _Iliad_
 2. Homer's _Odyssey_
 
-The visual program should investigate Blake's Homeric and classical imagery,
-using historical Blake material where a relevant public-domain work exists and
-newly made plates to complete the visual sequence. New work must remain
-explicitly distinguished from historical Blake material.
+The translation is new work. Its principal formal model is Henry Wadsworth
+Longfellow's translation of Dante's _Divine Comedy_: primarily unrhymed
+iambic pentameter, with a stately cadence, direct syntax, recurring epithets,
+and ceremonious but readable diction. Longfellow is a model of form and tone,
+not a source text; the translation must remain governed by Homeric Greek.
+
+The visual program should use William Blake's historical Homeric and classical
+imagery wherever a relevant public-domain work exists. Where historical Blake
+material does not provide sufficient coverage, new illustrations may be made
+informed by Blake's line, symbolism, anatomy, and visionary intensity. New
+work must remain explicitly distinguished from historical Blake material and
+must not be credited to Blake.
 
 ## Editorial scope
 
@@ -26,9 +35,20 @@ Each plate manifest record must include:
 - caption and credit line;
 - final file, dimensions, and color profile.
 
+## Translation principles
+
+- Work from a documented Greek copy text and retain the poem's complete
+  narrative and book divisions.
+- Favor unrhymed iambic pentameter and audible blank-verse movement.
+- Keep Homeric ritual, mythological, geographic, and martial vocabulary
+  legible in English.
+- Use notes to record departures, uncertainties, and significant choices.
+
 ## Initial questions to resolve
 
-- Which English translations will serve as the copy texts for each volume?
+- Which Greek edition will serve as the copy text for each volume?
+- How closely should the line and paragraph architecture follow Longfellow's
+  _Divine Comedy_?
 - Which Homeric subjects and classical references are represented in Blake's
   surviving work or relevant historical editions?
 - What target number of plates best supports the pacing of forty-eight books?

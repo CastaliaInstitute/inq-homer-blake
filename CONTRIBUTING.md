@@ -13,7 +13,10 @@ Store the prompt, model/version, generation date, reference-image identifiers,
 curation notes, and post-processing steps. Filenames must distinguish new
 generated work from historical Blake plates.
 
-## Text
+## Translation
 
-Do not silently modernize a translation's spelling or punctuation. Any
-normalization must be reproducible and recorded in source metadata.
+The translation must be made from a documented Greek source. Longfellow's
+translation of Dante's _Divine Comedy_ is a formal reference, not a substitute
+for Homer. Record significant departures, uncertainties, and normalization in
+source metadata; do not silently alter the translation's spelling or
+punctuation.

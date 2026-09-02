@@ -1,25 +1,30 @@
 # iNQ Homer Blake
 
-An iNQ project to create an illustrated English edition of Homer's
-_Iliad_ and _Odyssey_, pairing documented public-domain work by William Blake
-with clearly identified original plates where additional visual coverage is
-needed.
+An iNQ project to create a new English translation of Homer in the manner of
+Henry Wadsworth Longfellow's translation of Dante's _Divine Comedy_: unrhymed
+iambic pentameter, ceremonial diction, and a grave, flowing narrative line.
+The two-volume edition will be illustrated with William Blake's historical
+work where appropriate, supplemented by clearly identified new plates in
+conversation with Blake's visual language.
 
 ## Volumes
 
 - `iliad` — _The Iliad_, Homer
 - `odyssey` — _The Odyssey_, Homer
 
-## Editorial principles
+## Editorial and production principles
 
-- Preserve the poems from verified public-domain copy texts.
-- Record the translation, edition, and source passage for every excerpt.
+- Translate directly from a verified Greek source while treating Longfellow's
+  _Divine Comedy_ as the principal formal and tonal model.
+- Preserve Homer's twenty-four-book structure in each epic.
+- Record the Greek edition, translation decisions, and source passage for every
+  translated section.
 - Reproduce Blake's historical work only with full provenance and plate-level
   captions.
 - Label newly generated or commissioned images as new work; never present
   them as Blake originals.
-- Design to a 7 × 10 inch trim size with print-safe margins and high-resolution
-  image assets.
+- Produce two 7 × 10 inch hardcover volumes with 80# coated paper and
+  print-safe margins and high-resolution image assets.
 
 ## Repository layout
 

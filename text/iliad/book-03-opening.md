@@ -106,46 +106,105 @@ Hector sent two heralds toward the city to fetch lambs
 and call Priam, while Agamemnon sent Talthybius to the hollow ships
 to bring a lamb. Talthybius did not disobey the godlike king.
 
-Helen stood upon the wall of Troy. The old men sat near
-the tower, men who had left the fighting to the younger hands,
-but whose voices were clear as cicadas in the leaves.
-When they saw her, they murmured among themselves:
+Iris then came as a messenger to white-armed Helen,
+in the likeness of the wife of Antenor’s son, Helicaon,
+Laodice, fairest of Priam’s daughters. She found Helen
+in the chamber, weaving a great double-folded purple cloth,
+and embroidering upon it the many labors of the horse-taming
+Trojans and bronze-clad Achaeans—the sufferings they endured
+for her at the hands of Ares. Standing near, swift-footed Iris said:
 
-“It is no wonder that Greeks and Trojans suffer so long
-for such a woman. Her face is like the face of the immortals.
-Yet let her go; she is a grief, and we must not keep her.”
+“Come, dear bride, and see the wondrous deeds of the horse-taming
+Trojans and bronze-clad Achaeans, those who once carried
+tearful Ares against one another in the hateful field,
+greedy for war. Now they sit in silence, leaning on their shields;
+their long spears stand planted beside them. Alexander and
+war-loving Menelaus will fight over you with their long spears;
+the victor will call you beloved wife.”
 
-Priam called her tenderly from the wall:
+So the goddess stirred in Helen’s heart a sweet desire
+for her former husband, her city, and her parents. At once,
+veiling herself in bright white linen, she left the chamber,
+shedding tender tears; she was not alone, for two attendants
+followed her, Aethra, daughter of Pittheus, and ox-eyed Clymene.
+Soon they reached the Scaean Gates.
 
-“Come near, dear child, and show me this man: who is he,
-that Achaean, so tall and broad beneath his armor?
-I see many of them, but never such a commanding form.
-He must be a king.”
+Around Priam sat Panthous, Thymoetes, Lampus, Clytius,
+Hicetaon, an offshoot of Ares, Ucalegon, and wise Antenor—
+the city’s elders, long since released from war by age,
+but excellent speakers, like cicadas in the forest,
+perched in trees and sending out their lily-clear voices.
+Such were the Trojan leaders seated on the tower.
+When they saw Helen coming onto the wall, they murmured softly:
 
-Helen answered: “I honor you, and I fear you, father-in-law.
-Would that death had taken me before I crossed the sea
-with your son; for I have brought this shame upon myself,
-and upon the sons of men. That is Agamemnon there,
-wide-ruling son of Atreus, a good king and strong warrior.
-When I was still in Argos, I called him brother.”
+“There is no blame if Trojans and well-greaved Achaeans
+suffer long for such a woman. Terribly she resembles
+an immortal goddess. Yet even so, let her return in the ships;
+let her not remain here as a grief to us and our children.”
 
-The old king asked about the next man, smaller in stature,
-but wide in shoulders, moving through the ranks like a ram.
-“That is Odysseus,” Helen said, “the man of many counsels.
-He is short to see, but when he rises among the people,
-his words fall thick as winter snow, and no mortal man
-would contend with him in speech.”
+Priam called Helen by name: “Come here, dear child, sit before me,
+so that you may show me your former husband, your kinsmen, and friends.
+You are not to blame in my eyes; the gods are to blame,
+who brought this tearful war upon the Achaeans. Name for me this man,
+that enormous Achaean, so strong and tall. There are others taller
+in head, but I have never seen one so stately; he looks like a king.”
 
-“Who is that tall Achaean, so immense in arms and body?”
-“That is Ajax, a tower of the Argives, and beside him
-stand the Cretans, with Idomeneus, whose head is like a god's.
-Often Menelaus brought him into our house in Crete.”
+Helen, divine among women, answered: “You are worthy of honor
+and dreadful to me, dear father-in-law. Would that evil death
+had pleased me when I followed your son here, leaving my chamber,
+my kin, my darling child, and my beloved companions. It did not;
+therefore I waste away in tears. I will tell you whom you ask about.
+That is Atreus’ son, wide-ruling Agamemnon, both a good king
+and a strong spearman; once, if ever, he was my brother-in-law.”
 
-Then the old king asked for Castor and Polydeuces,
-his daughter's brothers, whom Helen could not see.
-She thought they had not come with the army. But the earth
-already covered them in Lacedaemon, and they slept there,
-though the living still remembered their former strength.
+The old man admired him: “Happy Atreus’ son, born under good fate,
+blessed! Many sons of the Achaeans obey you. Once I entered
+vine-rich Phrygia and saw the greatest number of Phrygian men,
+with their dappled horses, the armies of Otreus and godlike Mygdon,
+camped beside the banks of Sangarius. I too was numbered among
+their allies, on the day the man-like Amazons came; but even they
+were not as many as the bright-eyed Achaeans.”
+
+Then the old man saw Odysseus: “Tell me of this man, dear child.
+He is shorter in head than Atreus’ son, but broader in shoulders
+and chest. His armor lies on the earth, while he moves through
+the ranks like a ram among a great flock of white sheep.”
+
+Helen, daughter of Zeus, answered: “That is Laertes’ son,
+many-counseled Odysseus, raised in rocky Ithaca and skilled
+in every kind of trick and close-woven counsel.”
+
+Wise Antenor replied: “Woman, your word is wholly true.
+Once divine Odysseus came here with war-loving Menelaus
+as your embassy. I welcomed them in my house and entertained them;
+I learned the nature and the close counsel of both. When they stood
+among the gathered Trojans, Menelaus surpassed him in broad shoulders;
+but when both sat, Odysseus was the more majestic. When they wove
+speeches and plans before all, Menelaus spoke swiftly, few words,
+but very clear, since he was not a man of many words and was younger.
+When many-counseled Odysseus rose, he stood with eyes fixed on the ground,
+holding the scepter neither forward nor backward, but stiffly,
+like a man ignorant of the world—you might have called him angry
+and foolish. Yet when he sent his great voice from his chest,
+and words like winter snow, no mortal could contend with Odysseus;
+we no longer marveled at his appearance.”
+
+The old man saw Ajax and asked: “Who is that other Achaean,
+so strong and tall, the foremost of the Argives in head and broad shoulders?”
+Helen, trailing her robe, answered: “That is towering Ajax,
+the bulwark of the Achaeans. On the other side stands Idomeneus
+among the Cretans, like a god; around him gather the Cretan leaders.
+Often war-loving Menelaus welcomed him in our house when he came
+from Crete. I see all the other bright-eyed Achaeans, whom I could
+recognize and name, but I cannot see the two commanders of the people,
+Castor, breaker of horses, and Polydeuces, good with the fists,
+my own brothers, born from the same mother as I. Either they did not
+come with the lovely Lacedaemonian army, or they came here in the ships,
+but now will not enter the battle, fearing the shame and many reproaches
+that are mine.”
+
+So she spoke, but the life-giving earth already held them in Lacedaemon,
+in their dear native land.
 
 At last Idaeus brought the victims from the city.
 Priam climbed down, and Agamemnon met him between the lines.

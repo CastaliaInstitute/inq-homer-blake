@@ -184,75 +184,141 @@ among the Argives go without honor.”
 
 **Source passage:** Book 1, lines 101–430 (working range; verify against copy text)
 
+Agamemnon, anger still black around his heart,
+
+rose and spoke to Calchas first:
+
+“Prophet of evil, never have you spoken good to me.
+
+You love to prophesy what brings the army sorrow;
+
+you have never spoken a good word or brought it to pass.
+
+And now among the Danaans you declare that the far-shooter
+
+deals them pain because I would not accept the shining ransom
+
+for Chryseis, because I desired to keep her in my house.
+
+I prefer her even to Clytemnestra, my wedded wife;
+
+she is not less than Clytemnestra in form, in stature,
+
+in mind, or in the work of her hands. Still, I will give her back,
+
+if that is better. I would rather keep my people safe than see them die.
+
+But make ready another prize for me at once, so that I alone
+
+among the Argives do not go without my honor—you all see
+
+that my prize is being carried elsewhere.”
+
 Achilles, swift of foot, looked at him darkly and answered:
 
-“Son of Atreus, most grasping of all men, how shall the Greeks
+“Son of Atreus, most glorious and most greedy of all men,
 
-give you a prize? There is no common store of treasure left;
+how shall the great-hearted Achaeans give you a prize?
 
-the cities we have taken have been divided and their spoils
+We know of no common stores lying in abundance here:
 
-are already in men's hands. To gather them again would be shame.
+the spoils from the cities we took have been divided,
 
-But send the girl away, and when we take Troy at last,
+and it would not be fitting to gather the people together
 
-we will repay you threefold and fourfold, if Zeus permits.”
+and make them give those portions back. Send this girl
+
+to the god now; and when we take Troy's well-built city,
+
+we shall pay you three and four times over, if Zeus grants it.”
 
 Agamemnon, king of men, replied:
 
-“Do not, for all your valor, speak to me as if I were a fool.
+“Do not, godlike Achilles, though you are good, hide your thought
 
-Would you keep your own prize while I sit empty-handed?
+and try to deceive me; you will not slip past me or persuade me.
 
-No: if the great-hearted Achaeans give me none,
+Do you want to keep your own prize while I sit here without one,
 
-I will take one myself—from you, or Ajax, or Odysseus—
+and command me to give this girl away? If the great-hearted Achaeans
 
-and let the man I visit with my hand be bitter.
+give me a prize, making it fit my desire, so be it. But if they do not,
 
-But first let the dark ship carry Chryseis home;
+I myself will take one—yours, Ajax's, or Odysseus's—and carry it away.
 
-then choose and bring another girl into my tent.”
+The man I visit will be angry; we shall settle that another time.
 
-Achilles answered him, his voice already sharpened:
+For now, haul the black ship down to the shining sea,
 
-“Shameless man, wrapped in your own profit, who would follow you
+gather rowers in proper number, put the hecatomb aboard,
 
-to war, or stand in battle for your sake? I did not come
+and send fair-cheeked Chryseis. Let one of the counselors lead:
 
-to fight the Trojans for any quarrel of my own.
+Ajax, Idomeneus, godlike Odysseus—or you, son of Peleus,
 
-They never harmed me. From Phthia I followed you,
+most terrible of men—so that you may appease the far-shooter
 
-and here I bear the burden while you sit behind the army,
+by performing the holy rites.”
 
-gathering the prizes we win with blood. Yet my reward,
+Achilles, looking darkly at him, answered:
 
-small as it is, is always the first thing you threaten.
+“Ah, clothed in shamelessness and bent on gain—who among the Achaeans
 
-I will not remain here to pile up wealth for you.
+will follow you freely, whether to march or fight in battle?
 
-I will sail home. Better to return in my curved ships
+I did not come here to fight the spear-famed Trojans for my own sake:
 
-than stay dishonored and heap treasure in your hands.”
+they have never wronged me. They never drove off my cattle or my horses;
 
-“Go, then,” the king replied, “if your heart commands it.
+they never in Phthia, rich in soil and men, destroyed my harvest—
 
-I do not beg you to stay. I have others here to honor me,
+there are shadowed mountains and the sounding sea between us.
 
-and Zeus above all. You are the most hateful of kings:
+No: we followed you, great shameless one, to win honor for Menelaus
 
-you love the quarrel and the battlefield, but not the work
+and for you, dog-face, from the Trojans—though you neither notice nor care.
 
-of standing beside the army when orders must be borne.
+And now you threaten to take from me the prize for which I labored,
 
-Go home and rule your Myrmidons. I care nothing for your wrath.
+which the sons of the Achaeans gave me. I never receive a prize equal to yours
 
-But this I tell you plainly: when bright-eyed Athena
+when the Achaeans sack a well-inhabited Trojan city;
 
-has taken Briseis from your hut, I will come myself
+my hands bear the greater burden of the furious war.
 
-and take her, so that every man may know my power.”
+But when the division comes, your prize is far larger,
+
+while I carry a small but cherished portion to my ships,
+
+after I have grown weary fighting. Now I will go to Phthia:
+
+it is far better to sail home in my curved ships
+
+than to remain here dishonored and heap up wealth and treasure for you.”
+
+“Go, then, if your heart urges you; I do not beg you to stay for my sake.
+
+There are others here who will honor me, and Zeus above all,
+
+the counselor. You are the most hateful of the kings he nourishes.
+
+Strife, wars, and battles are always dear to you.
+
+If you are mighty, some god has given you that gift.
+
+Go home with your ships and companions, rule your Myrmidons;
+
+I care nothing for your wrath, nor do I count it as a threat.
+
+But this I tell you: as Phoebus Apollo takes Chryseis from me,
+
+I will send her away in my ship with my companions;
+
+then I myself will go to your hut and take fair-cheeked Briseis,
+
+your prize, so that you may know how much stronger I am than you,
+
+and that every other man may fear to call himself my equal.”
 
 Then grief and anger gathered in Achilles' chest.
 
@@ -545,6 +611,7 @@ There the god who gathers the clouds went to sleep.
 ## Decision log
 
 - 2026-09-02: Collation pass separated the tenth-day assembly (1.53–67) from Calchas's speech (1.68–100); restored Apollo's *mēnis*, Calchas's request for protection in word and hand, and Achilles's reference to lambs and unblemished goats.
+- 2026-09-02: Collation pass revised Agamemnon's and Achilles's exchange through 1.187; restored Clytemnestra, Agamemnon's safety claim, the ship-and-hecatomb order, Achilles's non-injury catalogue, and the distinction between *geras* and *timē*.
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
   than a generic irritation.

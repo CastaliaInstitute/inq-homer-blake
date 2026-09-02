@@ -217,37 +217,191 @@ brought beneath a man’s yoke; I will pour gold over her horns and offer her to
 So they prayed, and Pallas Athena heard them. They set out like two lions through
 the black night, through slaughter, among corpses, armor, and dark blood.
 
-Hector too called a spy. He promised a chariot and fine armor
-to the man who would enter the Achaean camp. Dolon, son of Eumedes,
-volunteered. He put on a wolf-skin, took a bow, and ran across the field.
+Hector did not let the bold Trojans sleep either. He summoned all the leaders and
+masters of the people and devised a careful plan: “Who will promise to perform this
+work for a great gift? His reward will be sufficient. I will give a chariot and two
+long-necked horses, the best beside the swift ships of the Achaeans, to the man who
+dares approach the ships, learn whether they are guarded as before, or whether,
+defeated by our hands, the Achaeans are planning flight and do not wish to watch
+through this terrible fatigue-filled night.”
 
-Odysseus and Diomedes saw him. They crouched among the corpses.
-Dolon passed, believing he had escaped notice. Diomedes sprang,
-and Dolon stopped, trembling. He begged:
+All fell silent. But among the Trojans was Dolon, son of the herald Eumedes, a man
+rich in gold and bronze, ugly in appearance but swift of foot, the only son among
+five sisters. He spoke to the Trojans and Hector: “Hector, my heart and proud spirit
+urge me to approach the swift ships and learn what is there. Raise the scepter for
+me and swear that you will give me the horses and decorated chariot that carry the
+blameless son of Peleus. I will not be a useless spy for you; I will go straight
+through the army until I reach Agamemnon’s ship, where the best men are likely now
+deliberating whether to flee or fight.”
 
-“Take my armor, but do not kill me. I will tell you everything.
-Hector sent me. He promised great gifts, but no Trojan knows
-what he will do with a man once the danger has passed.”
+Hector took the scepter in his hands and swore: “Let Zeus himself, loud-thundering
+husband of Hera, witness that no other Trojan will mount those horses; I say you
+alone will have the glory of them.” He swore falsely and roused Dolon. At once Dolon
+slung his curved bow around his shoulders, wrapped himself in the hide of a gray wolf,
+set a marten-skin cap upon his head, took a sharp spear, and went from the camp toward
+the ships. He would not return from the ships to carry his message to Hector.
 
-Odysseus asked him about the camp: Where were the guards?
-Which men were newly arrived, and which were farthest from Hector?
-Dolon named the Thracians, who had just come, with their king Rhesus.
-He said their horses were whiter than snow, and their chariot shone.
+When he had left the horses and men behind and gone some distance, godlike Odysseus
+saw him approaching and said to Diomedes: “There is a man coming from the camp. I do
+not know whether he is a spy for our ships or a plunderer of the dead. Let us first
+let him pass a little way across the plain; then we can spring upon him and seize him.
+If his feet outrun us, drive him from the camp toward the ships with your spear, so
+that he cannot escape toward the city.”
 
-Diomedes cut off his head. Odysseus took the bow and wolf-skin,
-and they went through the darkness toward the Thracian tents.
+They spoke and crouched beside the road among the corpses. Dolon ran past them in
+reckless haste. When he had gone as far as the tails of mules, which are better than
+oxen at dragging a well-made plow through deep fallow, the two sprang out. Hearing
+the noise, he stopped, thinking his companions were returning from the Trojans at
+Hector’s command. But when they were a spear’s cast or less away, he recognized
+hostile men, and his swift knees carried him into flight.
 
-The men lay asleep, each beside his armor. The horses stood tied.
-Diomedes killed twelve men; Odysseus dragged the bodies aside.
-Rhesus slept last. Diomedes struck him with the sword, and the king died.
-They cut the reins and led away the famous horses. Athena warned them:
+As two sharp-toothed dogs, trained for the hunt, chase a fawn or hare without rest
+through a wooded place while the creature runs before them crying, so the son of
+Tydeus and city-sacking Odysseus pursued him without cease. When he was nearly about
+to reach the guards fleeing toward the ships, Athena put strength into Diomedes, so
+that no other bronze-clad Achaean might strike first and claim the glory, leaving him
+second. Diomedes sprang with his spear and called: “Stop, or I will reach you with my
+spear; you will not long escape a steep death from my hand.” He threw and deliberately
+missed. The spear’s polished point passed over Dolon’s right shoulder and fixed itself
+in the ground. Dolon stopped, struck with terror, his teeth chattering, his skin pale
+with fear. The two panting men reached him and seized his hands.
 
-“Do not linger. You have done enough. Return before another god wakes them.”
+Dolon cried through his tears: “Take me alive, and I will ransom myself. At home I
+have bronze, gold, and much-worked iron; my father would give you an immeasurable
+ransom if he heard that I was alive among the Achaean ships.”
 
-They drove the horses across the field and reached the Achaean camp.
-The chiefs welcomed them, but Nestor asked what they had found.
-Diomedes told the story. They thanked Athena, and the men slept again,
-though the night had changed the fortunes of the army.
+Resourceful Odysseus answered: “Take courage; let death not be in your heart. Tell me
+plainly: why have you come alone toward the ships through the dark night, when other
+mortals sleep? Were you plundering the corpses, or did Hector send you to spy out
+everything among the hollow ships, or did your own spirit drive you?”
+
+“Hector led me here,” Dolon said, his limbs trembling. “He promised to give me the
+single-hoofed horses of the great son of Peleus and the chariot worked with bronze.
+He ordered me to go quickly through the black night to the hostile men and learn
+whether the swift ships were still guarded as before, or whether the Achaeans,
+overcome by terrible fatigue and defeated by our hands, were planning flight and
+did not wish to watch through the night.”
+
+Odysseus smiled: “So your heart was reaching after great gifts—the horses of the
+warrior Aeacides? They are difficult for mortal men to master or drive, except for
+Achilles, whose mother is immortal. Now tell us plainly: where did you leave Hector,
+shepherd of the people? Where are his armor and horses? How are the other Trojans’
+guards and beds arranged? What do they plan among themselves—will they remain here
+by the ships, away from the city, or withdraw into the city after defeating the
+Achaeans?”
+
+Dolon answered: “I will tell you all of this exactly. Hector is among the counselors,
+deliberating beside the sacred tomb of Ilus, far from the uproar. The guards you ask
+about are not assigned and set apart to protect the army. The Trojans whose fires
+are burning must keep awake and urge one another to watch. But the far-called allies
+sleep; they have handed the guard to the Trojans, for their children and wives are
+not close by.”
+
+Odysseus asked: “How do they sleep—mixed among the horse-taming Trojans or apart?
+Tell me, so that I may know.”
+
+Dolon answered: “Toward the sea lie the Carians, Paeonians with bent bows, Leleges,
+Caucones, and godlike Pelasgians. Toward Thymbra are the Lycians, haughty Mysians,
+horse-fighting Phrygians, and Maeonians with their horses. But why do you question
+me about each one? If you intend to enter the Trojan crowd, the Thracians lie apart,
+newly arrived and farthest from the others. Their king is Rhesus, son of Eioneus.
+I saw his horses: the fairest and largest, whiter than snow and swift as the winds.
+His chariot is beautifully worked in gold and silver, and he brought golden armor,
+immense and a wonder to behold—not armor for mortal men, but armor that seemed fit
+for immortal gods. Now take me to the swift ships, or bind me here in a pitiless bond
+until you return and test whether I have spoken truly.”
+
+Diomedes looked at him grimly: “Do not put flight into your heart, Dolon, though you
+have brought good news and fallen into our hands. If we released you now, you could
+come again to the swift ships to spy or fight against us. But if you lose your life
+under my hands, you will no longer be a trouble to the Argives.”
+
+Dolon reached toward Diomedes’ beard to beg, but Diomedes sprang and struck the
+middle of his neck with his sword, severing both tendons. Dolon’s head fell into
+the dust while he was still speaking. Odysseus and Diomedes took from him the
+marten-skin cap, wolf-hide, back-bent bow, and long spear. Odysseus lifted them
+high in his hand to Athena, the goddess of spoil: “Hail, goddess. We will give
+these first among all the immortals in Olympus; but now send us again to the
+horses and beds of the Thracian men.”
+
+He raised the spoils and placed them upon a tamarisk, marking the place with broken
+reeds and flowering branches, so that they would not miss it when they returned
+through the black night. They went onward through armor and dark blood and quickly
+reached the end of the Thracian men. The Thracians slept, overcome by fatigue; their
+beautiful weapons lay in order beside them, three ranks deep, and each man had a
+pair of horses beside him. Rhesus slept in the middle, and his swift horses were
+tied at the outer edge of his chariot by the reins.
+
+Odysseus saw him first and pointed him out to Diomedes: “There is the man, Diomedes,
+and there are the horses Dolon told us about. Do not stand here uselessly in your
+armor. Loosen the horses—or kill the men, and I will attend to the horses.”
+
+Athena, bright-eyed, breathed strength into Diomedes. He struck among the sleeping
+men, and an ugly groan rose from those cut down; the ground reddened with blood.
+As a lion leaps upon unwatched sheep or goats with evil intent, so the son of Tydeus
+went through the Thracians until he had killed twelve. Odysseus, standing behind him,
+dragged each man struck by Diomedes aside by the foot, thinking that the horses with
+their beautiful manes might pass easily and not grow afraid when they trampled the
+dead, since they were not yet used to the slaughter.
+
+When Diomedes reached the king, he took away his sweet life as he gasped for breath;
+a bad dream had stood above him through the night, sent by Athena’s counsel. Odysseus
+loosed the horses from the chariot and tied them together with the reins. He did not
+drive them out of the camp, fearing that, unaccustomed to the dead, they might shy.
+While Odysseus was loosening the single-hoofed horses, gathering them with the reins,
+and driving them out of the crowd by flicking his bow because he had not thought to
+take the bright whip from the decorated chariot, Diomedes stood wondering what bold
+deed he should do next—drag away the chariot where the beautiful armor lay, or lift
+it high and carry it out, or take the lives of still more Thracians.
+
+As he considered, Athena stood close beside him and spoke: “Remember the return,
+son of great-hearted Tydeus, to the hollow ships, lest another god awaken the Trojans
+and you come back in fear.” Diomedes understood the goddess’ voice, quickly mounted
+the horses, and Odysseus struck them with his bow. They flew toward the swift ships.
+Apollo, god of the silver bow, saw Athena following the son of Tydeus and, angered,
+plunged among the Trojan crowd and roused Hippocoon, a noble cousin of Rhesus. When
+he sprang from sleep and saw the deserted place where the swift horses had stood and
+the men dying in the harsh slaughter, he groaned and called his companion by name.
+Then clamor and measureless uproar rose among the Trojans as they rushed together,
+marveling at the terrible deed those men had done before going to the hollow ships.
+
+When the two reached the place where they had killed Hector’s spy, Odysseus halted
+the swift horses. Diomedes leaped to the ground, placed the bloody spoils in
+Odysseus’ hands, mounted again, and lashed the horses. They flew willingly toward
+the hollow ships, for that was dear to their hearts.
+
+Before the words were finished, Nestor heard the thunder of swift horses and called:
+“Friends, leaders and masters of the Argives, shall I tell a falsehood or speak the
+truth? My ears are struck by the pounding of swift-footed horses. If only Odysseus
+and mighty Diomedes were driving horses from the Trojans in this way! Yet I fear
+terribly that the best of the Argives have suffered beneath the Trojan uproar.”
+
+Before he could finish, the men themselves arrived. They climbed down from the
+horses, and the chiefs greeted them with right hands and gentle words. Nestor first
+asked renowned Odysseus, great glory of the Achaeans: “Tell me how you took these
+horses. Did you enter the Trojan crowd and take them, or did some god meet you and
+give them to you? They shine like rays of the sun. I mingle with the Trojans often,
+though I am an old warrior and do not remain idle beside the ships, but I have never
+seen or imagined horses like these. I think a god gave them to you on meeting you,
+for Zeus the cloud-gatherer loves you both, and so does Athena, daughter of aegis-
+bearing Zeus.”
+
+Resourceful Odysseus answered: “A god who wished it could easily give even better
+horses, old man, for these are far superior. These are Thracian horses newly arrived;
+the good Diomedes killed their king and twelve of his best companions. The thirteenth
+was the spy near the ships, the man whom Hector and the other splendid Trojans sent
+to scout our army.”
+
+With that he drove the single-hoofed horses across the trench, laughing aloud, and
+the other rejoicing Achaeans followed. When they reached Diomedes’ well-built hut,
+they tied the horses with carefully cut straps at the manger where Diomedes’ swift
+horses stood eating tender wheat. Odysseus placed Dolon’s bloody spoils in the stern
+of the ship, intending to prepare them as a sacred offering for Athena. They stepped
+into the sea and washed the sweat from their legs, shoulders, and thighs. When the
+sea’s wave had cleansed their heavy sweat and cooled their hearts, they entered the
+polished bathing tubs, washed, and anointed themselves richly with oil. Then they
+sat down to supper, and from a full mixing bowl they poured sweet wine as a libation
+to Athena.
 
 ## Decision log
 

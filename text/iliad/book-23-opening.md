@@ -7,6 +7,8 @@ The first source-collated revision, covering lines 1–108, is recorded in
 text/iliad/book-23-collation-1-108.md pending promotion after meter review.
 Lines 109–191 are recorded in
 text/iliad/book-23-collation-109-191.md.
+Lines 192–272 are recorded in
+text/iliad/book-23-collation-192-272.md.
 
 ## Translation
 

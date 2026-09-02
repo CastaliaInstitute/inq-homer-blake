@@ -6,12 +6,14 @@ Lines 1–108 are recorded in
 text/iliad/book-23-collation-1-108.md.
 Lines 109–191 are recorded in
 text/iliad/book-23-collation-109-191.md.
+Lines 192–272 are recorded in
+text/iliad/book-23-collation-192-272.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
 | 23.1–108 | Achilles mourns and Patroclus appears in a dream | Grief as ritual labor | Collated 2026-09-02; preserve the Myrmidon circuits, Thetis’s grief, Hector’s promised dishonor, funeral animals, washing refusal, shore sleep, soul’s River-exclusion, shared urn, and household history. |
 | 23.109–191 | The pyre is built and kindled | Grief as ritual labor | Collated 2026-09-02; preserve Dawn, Meriones and Ida timber, procession, Spercheius hair vow, meal interruption, hundred-foot pyre, sacrifices, twelve Trojan sons, Hector’s exclusion, Aphrodite’s oil, and Apollo’s cloud. |
-| 23.192–272 | Pyre is completed and mound raised | Public memorial | Collate fire, wine, bones, urn, and tomb. |
+| 23.192–272 | Pyre is completed and mound raised | Public memorial | Collated 2026-09-02; preserve Boreas and Zephyrus, Iris, fire and wine, bone distinction, temporary mound, assembly, and the five announced chariot prizes. |
 | 23.273–428 | Chariot race | Skill, accident, and prizes | Verify drivers, Athena's intervention, and dispute. |
 | 23.429–612 | Boxing, wrestling, and foot race | Contest and laughter | Check competitors and Odysseus' fall. |
 | 23.613–897 | Weapons, archery, stone, and awards | Games as communal grief | Verify contest order, prizes, and endpoint. |

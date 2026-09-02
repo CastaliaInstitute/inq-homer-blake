@@ -23,6 +23,8 @@ jobs:
           ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
+      - name: Run provenance preflight
+        run: ruby scripts/preflight_provenance.rb
       - name: Run translation structure preflight
         run: scripts/preflight_translation.rb
       - name: Run source-lock preflight

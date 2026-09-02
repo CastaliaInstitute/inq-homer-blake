@@ -11,7 +11,7 @@ commentary.
 | 24.387–551 | Priam supplicates Achilles; fathers remember grief | Supplication and shared mourning | Collated 2026-09-02; verify Hermes’s camp threshold, the physical gesture, father parallel, and two jars at meter review. |
 | 24.552–635 | Hector released; washing, meal, and Niobe exemplum | Ritual release and measured hospitality | Collated 2026-09-02; verify the held-back garments, Patroclus address, Niobe sequence, and sleep request at meter review. |
 | 24.636–718 | Priam’s mourning schedule; night rest; Hermes and dawn return | Time, secrecy, and return | Collated 2026-09-02; verify the nine-day timetable, Xanthus crossing, Cassandra’s summons, and gate passage at meter review. |
-| 24.719–804 | Hector’s three laments; pyre and mound | Ritual closure | Collate Andromache, Hecuba, Helen, and the funeral sequence. |
+| 24.719–804 | Hector’s three laments; pyre and mound | Ritual closure | Collated 2026-09-02; verify the three voices, ten-day pyre sequence, bone chest, mound, watchers, and final feast at meter review. |
 
 ## Draft warning
 

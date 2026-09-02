@@ -1,6 +1,7 @@
 .DS_Store
 *.swp
 *.tmp
+tmp/
 
 # Large working assets and generated exports
 assets/processed/*
@@ -10,3 +11,6 @@ assets/processed/*
 *.tiff
 *.zip
 !preflight/
+!output/
+!output/pdf/
+!output/pdf/*.pdf

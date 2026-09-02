@@ -61,3 +61,6 @@ designer, artist, and engraver.
 The first original plate candidate is documented in the
 [Apollo prompt record](assets/generated/prompts/iliad-book-01-apollo-v1.md);
 it is concept-review only until a print-resolution master is approved.
+
+The first [Book 1 interior proof](output/pdf/inq-homer-book-1-proof.pdf) tests
+the 7 × 10 page architecture and is a sample, not a release PDF.

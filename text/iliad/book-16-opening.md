@@ -13,6 +13,8 @@ Lines 354–507 are recorded in
 text/iliad/book-16-collation-354-507.md.
 Lines 508–704 are recorded in
 text/iliad/book-16-collation-508-704.md.
+Lines 705–867 are recorded in
+text/iliad/book-16-collation-705-867.md.
 
 ## Translation
 

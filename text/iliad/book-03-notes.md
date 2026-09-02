@@ -5,8 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 3.1–37 | Armies advance; Paris challenges the Achaeans | Bird and mist similes | Verify the images, order of movement, and Paris's arms. |
-| 3.38–120 | Hector rebukes Paris and proposes the single combat | “Settlement” and “oath” | Preserve the political force of the proposal and Hector's moral anger. |
+| 3.1–120 | Armies advance; Paris challenges the Achaeans; Hector and Menelaus propose the truce | Crane, mist, lion, serpent, axe, and ritual images; public terms of single combat | Collation recorded in `book-03-collation-1-120.md`; preserve the political force of the proposal and the distinct speech registers. |
 | 3.121–244 | Helen identifies the Achaean chiefs from the wall | Memory, shame, and recognition | Collate each champion's description and the Dioscuri passage. |
 | 3.245–301 | Priam and Agamemnon swear the truce | Ritual vocabulary | Verify victims, libation, invocations, and the terms of the oath. |
 | 3.302–382 | Paris and Menelaus fight | Broken weapon and failed vengeance | Check armor order, spear impacts, and divine intervention. |

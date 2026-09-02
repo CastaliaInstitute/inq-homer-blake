@@ -61,7 +61,40 @@ def footer(canvas, doc):
 
 def book_translation(path):
     content = path.read_text()
-    match = re.search(r"## Translation\s*\n(.*?)(?=\n## Decision log|\Z)", content, re.S)
+    # Some volume-facing files intentionally retain a compact synopsis while
+    # their complete, source-collated translation is kept in a single
+    # authority file. Use that authority for the assembled proof, but only
+    # when the opening explicitly identifies itself as compact and the
+    # authority has the required revised-translation section.
+    if "compact translation" in content.lower():
+        authorities = []
+        for candidate in sorted(path.parent.glob(f"{path.stem.replace('-opening', '')}-collation-*.md")):
+            authority = candidate.read_text(encoding="utf-8")
+            if "## Revised translation pass" in authority:
+                range_match = re.search(r"collation-(\d+)-(\d+)\.md$", candidate.name)
+                if range_match:
+                    authorities.append((int(range_match.group(1)), int(range_match.group(2)), authority))
+        source_range = re.search(r"Source passage:.*?Book \d+, lines\s+1\D+(\d+)", content, re.S)
+        authorities.sort(key=lambda item: item[0])
+        covers_book = bool(source_range and authorities and authorities[0][0] == 1)
+        if covers_book:
+            expected_end = int(source_range.group(1))
+            cursor = 1
+            for start, end, _ in authorities:
+                if start != cursor:
+                    covers_book = False
+                    break
+                cursor = end + 1
+            covers_book = covers_book and cursor - 1 == expected_end
+        if covers_book:
+            bodies = []
+            for _, _, authority in authorities:
+                match = re.search(r"^## Revised translation pass\s*\n(.*?)(?=^## Decision|\Z)", authority, re.S | re.M)
+                if match:
+                    bodies.append(match.group(1).strip())
+            if len(bodies) == len(authorities):
+                content = "## Translation\n" + "\n\n".join(bodies)
+    match = re.search(r"## Translation[^\n]*\n(.*?)(?=\n## Decision log|\Z)", content, re.S)
     if not match:
         raise ValueError(f"{path} lacks a Translation section")
     lines = []

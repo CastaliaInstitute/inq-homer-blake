@@ -3,7 +3,7 @@
 **Source passage:** Book 15, lines 1–746 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–548 are incorporated below; independent
+layout. Revised passes for lines 1–661 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
 **Source-collated authority:** [`book-15-collation-1-217.md`](book-15-collation-1-217.md)
@@ -511,6 +511,135 @@ Perkote. While the ships were still away,
 He lived apart; but when they reached the land,
 He came to Troy and shone among its spearmen.
 
+When the curved ships had come, Melanippus
+Returned to Ilium, and beside the house
+Of Priam made his dwelling; Priam honored him
+As he would honor any of his sons.
+But Hector called him by his name and said:
+
+“Will you, Melanippus, rest? Have you no shame
+Within you for your cousin who has fallen?
+Do you not see the Achaeans carrying off
+The armor of Dolops? Come with me. No room
+Remains for fighting from afar with Argives:
+We must either slay them, or take steep Troy
+And all her people.”
+
+He spoke, and led the way; Melanippus,
+Godlike, followed at his side. Great Ajax
+Urged the Argives: “Be men, friends, and set shame
+Within your hearts; respect each other in
+The hard encounter. When men remember
+Their fellows, more are saved than slain; but flight
+Of cowards brings no glory and no strength.”
+
+He spoke; and they desired to drive the danger
+Away, and took his words into their hearts,
+Fencing the ships with bronze. Then Zeus awoke
+The Trojans' courage. Menelaus called
+To young Antilochus: “No Achaean is
+Younger than you, or swifter on his feet,
+Or braver in the fight. Leap forth, and strike
+Some Trojan down.”
+
+He sprang among the foremost,
+Looked round, and cast his shining spear. The Trojans
+Drew back before it, yet the spear did not
+Fly vainly: Melanippus, Hicetaon's son,
+Returning from the battle, took the bronze
+Below the breast, beside the nipple. Down
+He fell; black darkness covered both his eyes.
+
+Antilochus leaped upon him as a hound
+Upon a wounded fawn, when from its lair
+The hunter strikes it, loosening its limbs.
+So on Melanippus, exulting in war,
+He sprang to strip the armor. Hector saw,
+And came running through the battle to oppose him.
+
+Antilochus, though swift and practiced, did not
+Await him. Like a beast that has done a deadly
+Deed and flees the crowd that gathers after it
+Has killed a dog or herdsman by the herd,
+So fled the son of Nestor. Hector and
+The Trojans poured their groaning shafts behind him,
+Until he turned and stood among his friends.
+
+Then like flesh-eating lions Troy rushed on
+The ships, fulfilling Zeus's will. He roused
+Their courage, bewitched the Argives' hearts,
+And took their glory from them. For he wished
+To grant the greater glory to brave Hector,
+That he might cast the fire of heaven upon
+The curved ships, and complete the dreadful prayer
+Of Thetis. Zeus desired to see himself
+The bright flame of a burning vessel; then
+He would drive Troy in flight away from the ships,
+And give the Danaans their glory back.
+
+For this he roused great Hector beside the ships—
+Though Hector needed no such urging—raging
+Like spear-fighting Ares, or a fire
+That tears through mountain forest. Foam stood round
+His mouth; beneath his terrible brows his eyes
+Flashed, and his helmet shook above his temples.
+Zeus from the upper air defended him,
+Honoring Hector, granting him alone
+The glory, though his day would soon be brief;
+For Pallas Athena had already raised
+The destined hour beneath the hands of Peleus' son.
+
+Hector sought the place where men stood thickest,
+And where the finest armor flashed; yet there
+He could not break them. Joined as a tower,
+Or as a cliff beside the gray sea, they waited
+Unmoved for all the shrieking roads of wind,
+For waves that thundered on the rock. So stood
+The Danaans, holding Troy, and did not yield.
+
+But Hector, bright with fire on every side,
+Leaped into them as a wave falls on a ship,
+A storm-wave lifted underneath the clouds
+When wind drives hard; the ship is hidden under foam,
+The sail roars, and the sailors tremble, carried
+But a short distance from the jaws of death.
+So in the Achaeans' breasts their hearts were broken.
+
+As when a savage lion falls upon
+The cattle in a marsh, thousands grazing wide,
+And the herdsman has not yet learned to fight
+The beast for the death of one horned ox—he walks
+Beside the first and last, but leaps upon
+The middle, and the whole herd recoils—so then
+The Achaeans fled in terror before Hector
+And father Zeus.
+
+Hector alone struck down Periphetes,
+Mycenaean, beloved son of Copreus,
+Who once had served as herald, in the might
+Of Heracles, before Eurystheus, king.
+His son surpassed his father far in excellence,
+In feet, in war, in judgment; foremost among
+Mycenae's men he had been shaped. But then
+He turned in flight, and stumbled on the rim
+Of the long shield he carried against the spears.
+His feet were caught; he fell upon his back;
+The helmet rang around his temples. Hector
+Saw him at once, ran near, and drove his spear
+Into his breast beside his grieving friends.
+They could not help him: Hector's terror held them.
+
+The Argives drew inward; the first ships enclosed
+Them round, and Troy poured over them. They withdrew
+By force from those that stood in the foremost line,
+But stayed together near the huts; they did not
+Scatter through the camp. Shame and fear restrained them;
+They called continually from man to man.
+Then Nestor, Gerenian guardian of the Greeks,
+Kneeled and entreated each by his parents' names:
+
+“Be men, dear friends, and set shame within your hearts.”
+
 ## Decision log
 
 - Zeus' reversal is rendered as a chain of commands that does not erase
@@ -537,3 +666,9 @@ He came to Troy and shone among its spearmen.
   Lycopyhron's death, Teucer's broken bow, both rallying speeches, the named
   deaths, Phyleus' guest-gift breastplate, and Melanippus' recall. Meter,
   Greek-fidelity, omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated pass through 15.661,
+  preserving Melanippus' recall and death, Antilochus' bounded courage,
+  Zeus' stated purpose for the ship-fire, Hector's storm and lion similes,
+  Periphetes' complete identity and fall, and the Achaean movement inward
+  toward Nestor's renewed summons. Meter, Greek-fidelity, omission/addition,
+  and editorial review remain pending.

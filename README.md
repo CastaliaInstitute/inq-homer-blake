@@ -76,6 +76,10 @@ The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.
 
+The active Greek editions and their reproducibility state are recorded in the
+[source lock](text/source-lock.md); this separates byte-pinned Iliad drafting
+text from the catalog-locked Odyssey record pending a byte-level snapshot.
+
 The unified [plate manifest](design/plate-manifest.csv) joins historical and
 generated plates at the production level, including source type, caption,
 credit, dimensions, profile state, and provenance record.

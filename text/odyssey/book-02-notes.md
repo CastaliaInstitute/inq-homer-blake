@@ -12,5 +12,5 @@ These notes accompany the current opening draft and are not final commentary.
 
 ## Draft warning
 
-Collate every English line against Allen, *Homeri Opera*, Book 2; record the
+Collate every English line against Murray, *The Odyssey*, Book 2; record the
 textual apparatus and a signed Greek-fidelity review before approval.

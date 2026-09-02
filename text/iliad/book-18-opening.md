@@ -13,6 +13,8 @@ Lines 368–467 are recorded in
 text/iliad/book-18-collation-368-467.md.
 Lines 468–540 are recorded in
 text/iliad/book-18-collation-468-540.md.
+Lines 541–606 are recorded in
+text/iliad/book-18-collation-541-606.md.
 
 ## Translation
 

@@ -12,13 +12,15 @@ Lines 368–467 are recorded in
 text/iliad/book-18-collation-368-467.md.
 Lines 468–540 are recorded in
 text/iliad/book-18-collation-468-540.md.
+Lines 541–606 are recorded in
+text/iliad/book-18-collation-541-606.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
 | 18.1–147 | Antilochus reports Patroclus' death | Grief as bodily action | Collated 2026-09-02; preserve the dust, women’s lament, full Nereid catalogue, Achilles’s conditional vow, and Thetis’s departure for Hephaestus. The river-hair offering is not present in this source range. |
 | 18.148–242 | Achilles appears at the wall | Fire and terror | Collated 2026-09-02; preserve Iris’s secret dispatch, the Ajax-shield limitation, Athena’s aegis and fire, the smoke/trumpet similes, the twelve Trojan deaths, and Hera’s forced sunset. |
 | 18.243–367 | Trojans counsel; Achaeans mourn | Burial deferred | Collated 2026-09-02; preserve Polydamas’s full retreat counsel, Hector’s refusal, Athena’s delusion, the lion-and-cubs lament, the burial vow, the twelve children, the washing ritual, and Hera’s interrupted reply. |
-| 18.368–606 | Hephaestus forges the shield | World-image | 18.368–540 collated 2026-09-02; preserve the twenty self-moving tripods, Charis, Eurynome, the golden attendants, Thetis’s full commission, the forge materials, fivefold shield, complete cosmology, two cities, and embodied war figures. Continue checking every scene, metal, figure, and Oceanus rim. |
+| 18.368–606 | Hephaestus forges the shield | World-image | 18.368–606 collated 2026-09-02; preserve the twenty self-moving tripods, Charis, Eurynome, the golden attendants, Thetis’s full commission, the forge materials, fivefold shield, complete cosmology, two cities, embodied war figures, plowland, harvest, vineyard, cattle, sheepfold, and Daedalus’s dance. Oceanus remains at 18.607–617. |
 | 18.607–617 | Reconciliation and arming begins | Grief becomes vengeance | Check gifts, Briseis, nectar, horses, and endpoint. |
 
 ## Design anchor

@@ -3,12 +3,13 @@
 **Source passage:** Book 13, lines 1–837 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–584 are incorporated below; independent
+layout. Revised passes for lines 1–837 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
 **Source-collated authority:** [`book-13-collation-1-205.md`](book-13-collation-1-205.md),
 [`book-13-collation-206-370.md`](book-13-collation-206-370.md), and
-[`book-13-collation-371-584.md`](book-13-collation-371-584.md)
+[`book-13-collation-371-584.md`](book-13-collation-371-584.md), and
+[`book-13-collation-585-837.md`](book-13-collation-585-837.md)
 
 ## Translation
 
@@ -580,6 +581,230 @@ For a short while he twisted; then Meriones
 Came near and drew the spear from out his flesh,
 And darkness covered both his eyes.
 
+Menelaus aimed at Helenus; his arrow
+Struck the hollow of Menelaus’ breastplate,
+And sprang away, as beans or chickpeas leap
+From a broad shovel in the breath of wind.
+Menelaus cast his spear and pierced the hand
+That held the polished bow; the bronze went through.
+Helenus withdrew among his friends,
+His wounded hand hanging. Agenor drew out
+The ash spear and bound that hand with wool,
+Soft from the sheep.
+
+Then Peisander came straight against the king,
+For fate was leading him to death and to
+The victory of Menelaus. The spear
+Of Menelaus turned aside; Peisander
+Struck at the broad shield, but the bronze could not
+Pass through it; the shaft broke at its socket.
+He rejoiced, hoping for victory. Then
+Menelaus drew his silver-studded sword
+And sprang upon him. Peisander raised beneath
+His shield a battle-axe, bronze, long and bright,
+With olive haft. They struck together: he
+Cut through the horsehair crest atop the helm;
+Menelaus struck his forehead above
+The brow. The bones cracked; bloody eyes fell down
+Into the dust before his feet. He twisted,
+And Menelaus set his foot upon
+His chest, stripped off the armor, and cried out:
+
+“At last you leave the ships, you overweening
+Trojans, insatiable in shame and insult,
+You evil dogs who dishonored me, and did
+Not fear the anger of loud-thundering Zeus,
+The god of guests, who will one day destroy
+Your steep city. You carried off my wife,
+My lawful wife, and much property, though she
+Had welcomed you; and now beside the ships
+You burn to cast destructive fire, and kill
+The Achaean heroes. But your warlike hunger
+Will be restrained.
+
+“Father Zeus, they say that you are wiser than
+All gods and men, and everything comes from you.
+Yet see how you favor these insolent Trojans,
+Whose strength is never satisfied. All things
+Have their fill: sleep, love, and sweet song and dance,
+And each of these a man desires more deeply
+Than war. But Troy can never have her fill
+Of battle.”
+
+He stripped the blood-stained armor, gave it to
+His friends, and went among the foremost. Then
+Harpalion, son of King Pylamenes,
+Sprang at him. He had followed his dear father
+To Troy, and would not see his native land.
+He struck the middle of the shield, but could
+Not drive the bronze through; drawing back, he looked
+Around him, fearing some man might reach his flesh.
+Meriones sent a bronze-headed arrow
+And struck him in the right buttock; it passed
+Beneath the bone, and through the bladder.
+Harpalion sat within his friends’ arms,
+Breathing his life away, like a worm stretched
+Upon the earth; the dark blood soaked the ground.
+Paphlagonians lifted him into a car
+And bore him sorrowing toward sacred Ilium.
+His father followed, weeping; no ransom could
+Restore his son.
+
+Paris was angered at his guest-friend’s death,
+And sent a bronze-tipped arrow. Euchenor,
+Rich and noble, son of seer Polyidus,
+Had known the fate his father told him: either
+At home to die of grievous sickness, or
+Among the ships beneath the Trojan hand.
+He boarded, fleeing both the hateful illness
+And fear of it; but Paris struck him under
+The jaw and ear, and darkness took his limbs.
+
+The battle burned. Hector, dear to Zeus, did not
+Know that the Argives on the left were now
+Destroying those he led. They might have won
+The glory, for Poseidon roused them there;
+But Hector stayed beside the ships of Ajax
+And Protesilaus, where the wall was low
+Above the gray sea, and the fighting fiercest.
+There Boeotians, Ionians trailing robes,
+Locrians, Phthians, and Epeians rushed
+To save the ships, but could not drive away
+Bright Hector, flame-like, from the line.
+
+Mnestheus led Athenians, with Pheidas,
+Stichius, and good Bias; Phyleides
+Meges, Amphion, and Dracius led
+The Epeians; Medon and Podarces
+The Phthians. Medon, Oileus’ bastard son,
+And Ajax’s brother, lived far from Phylace,
+For he had killed a kinsman of his stepmother.
+Podarces was son of Iphiclus,
+Son of Phylacus. The Phthians fought
+In armor before their ships.
+
+Swift Ajax, son of Oileus, no longer
+Stood apart from Telamonian Ajax.
+They stood together like two wine-dark oxen
+That draw one plow across an even field;
+The sweat rose round their horns beneath the yoke,
+And only the bright plow divided them
+As they cut one furrow to its end.
+
+Many good comrades followed Telamonian Ajax,
+Taking his shield when toil and sweat reached down
+To his knees. But no Locrians followed Ajax,
+For they had no heart for close and hand-to-hand
+Combat: no bronze helmets with horsehair crests,
+No rounded shields, no ash spears. They trusted
+Bows and the carefully twisted wool of sheep,
+And came to Troy with arrows, breaking ranks
+From far behind the bronze-armed Trojans.
+So some fought frontward with elaborate arms,
+While others, unseen behind, shot dense arrows
+And scattered Troy’s courage.
+
+The Trojans would have drawn away from ships
+And huts to windy Ilium, had not bold
+Polydamas stood near Hector and said:
+“You are hard to persuade by another’s words.
+Because the god has given you the work of war,
+You wish in counsel too to know the most.
+But no man takes all gifts: one man receives
+The war, another dancing, another song
+And lyre; and Zeus puts a far-seeing mind
+Within another, from which many profit,
+And he himself most of all.
+
+“The battle’s crown burns round you. Those who crossed
+The wall stand scattered; some have dropped their arms,
+And some fight at the ships, the fewer against
+The many. Withdraw, and call the leaders here,
+That we may plan: whether we fall among
+The many-benched ships, if the god grants power,
+Or come away unharmed. I fear the Greeks
+May find again the strength they had yesterday;
+Beside the ships there remains one man who is
+Insatiable of war, and will not wholly
+Refrain.”
+
+The counsel pleased him. Hector leapt from his car
+And spoke: “Hold all the best men here; I go
+To meet the battle, and will quickly return
+When I have given orders.” He went through
+The Trojans like a snow-covered mountain, shouting;
+The others hastened to Polydamas. Hector
+Sought Deiphobus, Helenus, Adamas,
+And Asius; none was safe. Some lay beside
+The ships, some within the wall, their lives gone out
+Beneath the Argive spears.
+
+At last he found his brother Alexander,
+The beautiful, beside the tearful fight,
+Encouraging the Trojans. Hector stood
+Near him and spoke with shame: “Paris, beautiful
+In form, woman-mad deceiver, where are now
+Deiphobus, Helenus, Adamas, and Asius?
+Where is Othryoneus? Ilium falls
+From its foundations; and your own steep death
+Is certain.”
+
+The godlike man replied: “Since you delight
+To blame the blameless, I will leave the battle
+More often yet; my mother did not bear me
+Without some courage. Since you brought the fight
+Beside the ships, we have not ceased to fight
+The Danaans, and those you seek are dead.
+Deiphobus and Helenus are gone,
+Both pierced through the hand; but Cronus’ son preserved
+Them from their end. Lead where your heart commands;
+We follow gladly, and our strength will not
+Fail while strength remains. Yet no man can contend
+Beyond his power.”
+
+He turned his brother’s mind, and both went where
+The battle raged around Cebriones,
+Polydamas, Phalces, Orthaetus,
+Polyphates, Palmys, Ascanias,
+And Morys, leaders from fertile Ascania.
+They came like storm-winds sent beneath the thunder
+Of Zeus, and met the sea with a great roar;
+Wave followed wave and foamed upon the water.
+So Troy came on in ranks, bronze flashing, leaders
+Among them. Hector led like murderous Ares,
+Holding his many-layered shield before him.
+He tested all the ranks, stepping before them
+To see if they would yield beneath the shield;
+But still the Greeks did not give way.
+
+Ajax strode wide and called him: “Come, madman, come!
+Why frighten Argives? We are not strangers to
+The war; beneath the scourge of Zeus we have
+Been overcome. You hope to take our ships,
+But we too have hands to guard them. Soon your city,
+Well-peopled, might be taken by our hands;
+And for yourself the time is near when, fleeing,
+You will pray that your horses outrun hawks,
+And carry you in dust back to the town.”
+
+As Ajax spoke, an eagle flew upon
+The right; the Greeks cried out, encouraged by
+The sign. Bright Hector answered: “Ox-like fool,
+Speaker of empty words, would that I were always
+The son of Zeus, and Hera had borne me,
+Honored like Athena and Apollo—as surely
+As this day brings destruction to the Argives,
+And you among them, if you stand and meet
+My long spear, which shall stain your tender flesh,
+And feed the dogs and birds with fat and blood,
+Falling beside the Achaean ships.”
+
+So he led on; the Trojans followed with a cry
+Unlike a mortal sound. The Argives answered,
+And did not forget their courage, but awaited
+The leaders. The two armies’ voices reached
+The upper air and the bright rays of Zeus.
+
 ## Decision log
 
 - Poseidon's intervention is kept hidden inside a mortal guise, making
@@ -603,5 +828,11 @@ And darkness covered both his eyes.
   Idomeneus's genealogy, the Aeneas encounter, Ascalaphus and Deiphobus, and
   Antilochus's defense. This passage remains unapproved pending independent
   meter and Greek-fidelity review.
+- The revision now completes the source-collated Book 13 span through 13.837,
+  preserving Menelaus's guest-right reckoning, Harpalion and Euchenor, the
+  ship-front contingents, the two Ajaxes' oxen simile, Polydamas's counsel,
+  Paris's defense, the storm-and-wave movement, and the closing eagle and
+  opposed challenges. The full book remains unapproved pending independent
+  meter, Greek-fidelity, omission/addition, and editorial review.
 - This draft needs Greek-fidelity review for Poseidon's disguise, all
   leaders and deaths, the ship-front geography, and Hector's speeches.

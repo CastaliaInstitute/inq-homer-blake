@@ -9,6 +9,8 @@ Lines 68–167 are recorded in
 text/odyssey/book-04-collation-68-167.md.
 Lines 168–305 are recorded in
 text/odyssey/book-04-collation-168-305.md.
+Lines 306–624 are recorded in
+text/odyssey/book-04-collation-306-624.md.
 
 ## Translation
 

@@ -182,12 +182,120 @@ Ares, drove the great-hearted Trojans upon the Achaeans. He himself went among t
 foremost, falling upon the battle like a fierce wind that leaps upon the violet sea
 and stirs it up.
 
-The battle broke over the Achaeans. Hector drove them toward the wall.
-Diomedes struck Agastrophus, but Paris wounded him in the foot
-with an arrow. Diomedes cried to Odysseus, and they stood together.
-Odysseus was left alone when the men around him fell. He fought
-until Socus pierced his shield and tore his side. Odysseus killed Socus,
-but blood ran down his body. He called for help, and the Ajaxes came.
+Then Hector cut down the leaders of the Danaans, and after them the multitude, as
+the West Wind drives the South Wind before a deep storm, rolling a great wave and
+scattering foam beneath the wandering blast. The heads of the people fell beneath
+Hector. Disaster and helpless deeds would have come, and the Achaeans would have
+fallen fleeing among the ships, if Odysseus had not called to Diomedes: “Son of Tydeus,
+what has happened to us that we have forgotten our warlike courage? Come here, dear
+friend, and stand beside me. It will be a reproach to us if Hector takes the ships.”
+
+Diomedes answered: “I will stay and endure, but our joy will be brief, since Zeus,
+the cloud-gatherer, wishes to give strength to the Trojans rather than to us.” He
+struck Thymbraeus from his horses through the left breast, while Odysseus killed
+Molion, his godlike companion. They left the two where they lay and went through
+the crowd, exulting like two boars that fall upon the hunting dogs; the Trojans died
+before them, and the Achaeans, fleeing gladly, drew breath from glorious Hector.
+
+They seized a chariot and the two best sons of Merops of Percote. Their father knew
+all the arts of prophecy and had forbidden his sons to enter the man-destroying war,
+but they did not obey him; the black fates of death led them. Diomedes, famous with
+the spear, stripped them of life and their splendid armor, while Odysseus killed
+Hippodamus and Hypeirochus. From Ida the son of Cronus watched and stretched the
+battle evenly; the two sides killed one another.
+
+The son of Tydeus struck Agastrophus the Paeonian in the hip. His horses were not
+near enough for him to escape, and his spirit had made a great mistake; his driver
+held them far away while he went on foot among the foremost, until he lost his life.
+Hector saw him quickly through the ranks and sprang against them, crying aloud, with
+the Trojan lines following. Diomedes shuddered when he saw him and called to Odysseus:
+“This mighty Hector is rolling disaster upon us. Let us stand and ward him off.”
+
+He cast his long-shadowed spear and struck the crown of Hector’s helmet. The bronze
+glanced from the metal and did not reach his beautiful flesh, for Apollo’s triple-
+layered helmet held it back. Hector sprang far away, fell upon his knees, and leaned
+upon his broad hand; black night covered his eyes. While Diomedes ran far through
+the foremost fighters after his spear, Hector recovered his breath, leapt into his
+chariot, drove into the crowd, and escaped black death.
+
+Diomedes cried after him: “You have escaped death again, dog. The evil came close,
+but Phoebus Apollo saved you, the god to whom you will surely pray when you go among
+the crash of spears. I will finish you later, if some god stands beside me. Now I
+will go after whomever I can reach.” He stripped the famous Paeonian of his life.
+
+Alexander, husband of fair-haired Helen, stretched his bow against Diomedes, shepherd
+of the people, leaning against the pillar of the ancient tomb of Dardanian Ilus. While
+Diomedes stripped Agastrophus’ breastplate, many-colored shield, and heavy helmet,
+Paris drew the bow’s horn and shot. His arrow did not leave his hand in vain: it struck
+the instep of Diomedes’ right foot and fixed itself in the ground. Paris sprang from
+his hiding place and laughed sweetly: “You are hit; my arrow did not fly in vain. I
+wish I had struck your belly and taken your life; then the Trojans would have breathed
+from their trouble, like bleating goats before a lion.”
+
+Diomedes, unafraid, answered: “Archer, foul boaster, watcher of girls, if you dared
+test me face to face in armor, your bow and thick arrows would not help you. You have
+scratched my foot and boast as though you had done something. I do not care, as if a
+woman or foolish child had struck me; a coward’s arrow is a dull thing. But an arrow
+from me, even a little one, is sharp and quickly makes a man lie dead. His wife tears
+her cheeks on both sides, his children are orphans, and he reddens the earth with his
+blood while birds gather more thickly around him than women.”
+
+As he spoke, renowned Odysseus came near and stood before him. Diomedes sat behind
+him, pulled the swift arrow from his foot, and a grievous pain ran through his flesh.
+He leapt into his chariot and ordered the driver toward the hollow ships, for his
+heart was troubled.
+
+Odysseus was left alone with his spear; none of the Argives stayed beside him, for
+fear seized them. He grieved and spoke to his proud heart: “What shall I do? It is a
+great evil if I flee in fear of the crowd, but worse if I am taken alone. Cronus’ son
+has frightened the other Danaans away. Yet why does my heart reason like this? I know
+that cowards leave the battle; whoever is best in war must stand firmly, whether he
+has been struck or has struck another.”
+
+While he considered, the Trojan ranks came upon him and hemmed him in, bringing a
+disaster into their own midst. As strong young hounds rush around a wild boar that
+comes out of the forest sharpening his white tusk between his curved jaws, leaping
+around him while he stands fast despite their danger, so the Trojans rushed around
+Odysseus, dear to Zeus. He struck Deïopites above the shoulder with his sharp spear,
+then killed Thoön and Ennomus. When Chersidamas sprang from his horses, Odysseus
+struck him beneath the bossed shield at the navel; he fell in the dust and grasped
+the earth.
+
+Odysseus left them and struck Charops, son of Hippasus and own brother of Socus.
+Socus, equal to a god, came to protect him and stood close, saying: “Much-praised
+Odysseus, insatiable for trickery and toil, today you will boast over the two sons
+of Hippasus, killing such men and carrying away their armor, or today you will lose
+your spirit, struck by my spear.” He struck Odysseus’ even shield; the mighty spear
+passed through the shining shield and the elaborate breastplate and tore all the
+flesh from his side, but Pallas Athena did not allow it to reach his entrails.
+
+Odysseus knew that the wound was not yet fatal. He stepped back and said: “Poor man,
+your steep death has surely reached you. You have stopped me from fighting the
+Trojans, but I say that today death and black fate will be yours; struck by my spear,
+you will give me glory, and your soul to Hades.” Socus turned and fled, but when he
+turned his back Odysseus planted the spear between his shoulders; it passed through
+his chest, and he fell with a crash.
+
+Odysseus exulted: “Socus, son of Hippasus, death’s end has reached you; you have not
+escaped it. Your father and queenly mother will not close your eyes in death; the
+raw-eating birds will drag you, spreading their thick wings around you. But if I die,
+the noble Achaeans will give me burial.” He pulled Socus’ heavy spear from his flesh
+and bossed shield; blood rushed out from the wound and troubled his heart.
+
+When the great-hearted Trojans saw Odysseus’ blood, they all rushed upon him with
+shouts. He backed away and called to his companions. Three times he shouted as loudly
+as a man’s head can hold; three times Menelaus, dear to Ares, heard him cry. He
+quickly called to Ajax son of Telamon: “Godlike Ajax, lord of the people, the cry of
+enduring Odysseus has reached me, like the cry of a man surrounded alone by Trojans.
+Let us go through the crowd; it is better to defend him. I fear that, isolated among
+the Trojans, this excellent man may suffer, and the Danaans will feel a great loss.”
+
+He led the way, and Ajax, a man equal to the gods, followed. They found Odysseus,
+dear to Zeus, surrounded by Trojans like red wolves around a wounded antlered stag;
+the stag flees while the warm blood and strength remain, but when the swift arrow
+overcomes him, the flesh-eating wolves tear him apart in the shadowed hills. A god
+had driven the wolves upon him; but the wolves scattered when Ajax came, and he stood
+beside Odysseus as a lion stands over its cubs.
 
 Nestor carried Machaon away from the battle. Achilles saw the chariot
 and sent Patroclus to ask who was wounded. Nestor said:

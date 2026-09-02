@@ -3,7 +3,7 @@
 **Source passage:** Book 16, lines 1–867 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–507 are incorporated below; independent
+layout. Revised passes for lines 1–704 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 101–220 are recorded in
 text/iliad/book-16-collation-101-220.md.
@@ -602,6 +602,195 @@ From flesh. At once the Myrmidons held back
 The horses, snorting, eager to escape,
 Their masters' chariot left behind.
 
+When Glaucus heard the cry, a dreadful grief
+Came over him; his heart was shaken, though
+He could not yet give help. He pressed his arm,
+For a wound tormented him—the wound Teucer
+Had given him before the high-built wall,
+Defending his friends from destruction. He prayed:
+
+“Hear me, lord, whether in rich Lycia
+Or Troy; you hear the man in trouble everywhere.
+I bear this wound; sharp pains run through my arm,
+The blood will not dry, and my shoulder grows heavy.
+I cannot hold my spear, nor go against
+The enemy. The best of men has fallen,
+Sarpedon, Zeus's son; yet Zeus himself
+Defends him not. But you, lord, heal this wound,
+Quiet the pain, and give me strength, that I
+May call the Lycians, urge them on, and fight
+Myself around the dead.”
+
+He prayed; Apollo heard. At once he stilled
+The pain, dried black blood from the wound,
+And poured strength into Glaucus' heart. He knew
+The god had heard him, and rejoiced.
+
+First he went among the Lycian leaders,
+Urging them to fight around Sarpedon; then
+With long strides sought Polydamas and Agenor,
+And came beside Aeneas and bronze-clad Hector:
+
+“Hector, you have forgotten the allies
+Who waste their lives, far from their friends and land,
+For you, while you do not come to their aid.
+Sarpedon lies here, leader of the shields
+Of Lycia, who ruled his land by judgment,
+Strength, and the spear. Bronze Ares, under
+Patroclus, has overcome him. Come, dear friends,
+Stand by us; let your hearts be shamed. Do not let
+The Myrmidons strip off his armor, dishonor
+The dead, for all the Danaans we killed
+Beside the ships.”
+
+He spoke; an unbearable grief seized Troy,
+For Sarpedon had been the city's support,
+Though foreign there, and many followed him.
+They went against the Danaans, eager for war;
+Hector led them, enraged for Sarpedon.
+
+But Patroclus' shaggy heart aroused
+The Achaeans. He spoke to both the Ajaxes:
+“Ajaxes, let it be dear to you to guard us
+As you have done before—or better still.
+Here lies the man who first leaped on our wall,
+Sarpedon. If we could seize and dishonor him,
+Strip off his armor, kill one of those who guard
+The dead with pitiless bronze!”
+
+They desired to drive the danger off.
+Trojans and Lycians, Myrmidons and Greeks
+Strengthened their ranks and joined with dreadful cries
+Around the dead; the armor rang aloud.
+
+Zeus stretched hateful night across the fight,
+That war's hard labor might surround his son.
+The Trojans drove the bright-eyed Achaeans back;
+Epigeus had been struck, not least among
+The Myrmidons, Agacles' godlike son.
+Once he ruled Budeion; but after killing
+His noble cousin fled to Peleus and
+Silver-footed Thetis, who sent him out
+With Achilles to horse-rich Ilium.
+
+As Epigeus touched the dead, bright Hector struck
+His head with a stone; his skull split within
+The heavy helm; face downward on the corpse
+He fell, and death poured round him.
+
+Patroclus grieved, and sprang through the foremost
+Fighters like a hawk that scatters jackdaws.
+So upon Lycians and Trojans you rushed,
+Angered for your companion. With a stone
+You struck Sthenelaus, Ithaemenes' son,
+Upon the neck and shattered the tendons.
+The foremost fighters and bright Hector gave ground,
+As far as a long javelin reaches when a man
+Tests it in war; so far the Trojans fled.
+
+Glaucus, first among shield-bearing Lycians,
+Turned and killed great-hearted Bathycles,
+Chalcon's beloved son, a wealthy man
+Among the Myrmidons. Bathycles caught
+Him in pursuit; Glaucus turned suddenly,
+And struck the middle of his chest. He fell.
+Greeks grieved; Trojans rejoiced around him.
+Yet Achaeans remembered strength, and carried
+Their courage straight against the enemy.
+
+Meriones took Laogonus, brave son
+Of Onetor, priest of Idaean Zeus,
+Honored among his people as a god.
+He struck beneath the jaw and ear; life swiftly
+Left his limbs, and hateful darkness took him.
+
+Aeneas cast his bronze spear at Meriones,
+But Meriones saw it and bent away.
+The long spear planted itself behind him,
+Its butt-end quivering in the earth. There Ares
+Robbed it of force; it sank, having leaped
+Vainly from Aeneas' hand. Aeneas said:
+“Though you are a dancer, my spear would have stilled
+You had it found you.” Meriones replied:
+“Though you are strong, you cannot quench the spirit
+Of every man who comes against you. You too
+Are mortal. If sharp bronze struck you, though you
+Trust in your strength, you would give glory and life
+To Hades of the famous horses.”
+
+Menoetius' son rebuked him: “Why speak such things?
+The Trojans will not leave the dead for taunts;
+The earth will hold one of us first. War's end
+Lies in the hands; words belong to counsel.
+We must fight.” He led; Meriones followed.
+The sound of woodcutters rose in mountain valleys;
+So from the earth rose crash of bronze and hide,
+Of shields and double-edged swords striking spears.
+
+No man, however wise, could know divine
+Sarpedon now; arrows, blood, and dust concealed him.
+The fighters crowded round the dead as flies
+Buzz around full milk-pails in spring, the vessels wet.
+Nor did Zeus turn his shining eyes away.
+He watched and pondered Patroclus' death:
+Should Hector kill him beside Sarpedon, strip
+The armor from his shoulders—or heap still more
+Grievous labor on the many? This seemed best:
+That Patroclus drive the Trojans and bronze-clad
+Hector back to Troy, and take the lives of many.
+First he put cowardice into Hector's heart.
+Hector climbed his chariot and turned to flee,
+Calling the Trojans; for he knew Zeus's balance.
+
+Nor did the Lycians stay. Fear seized them all
+When they saw their king among the dead,
+His heart struck through. Many had fallen on him
+When Cronus' son drew out the fierce quarrel.
+They took the bronze armor from Sarpedon; then
+Menoetius' son sent it to his friends
+To carry to the hollow ships. Zeus spoke to Apollo:
+
+“Go, dear Phoebus, cleanse the dark blood from him;
+Lift Sarpedon from the arrows, carry him,
+And wash him in the river's streams. Anoint him
+With ambrosia, clothe him in immortal garments.
+Then send him with swift guides, Sleep and Death,
+Twin brothers, who will set him down in Lycia,
+Rich land of broad peoples. There his brothers
+And friends shall prepare the body, with mound
+And pillar; that is honor for the dead.”
+
+Apollo did not disobey. Down from Ida
+He went into the dreadful battle, lifted
+Sarpedon from the arrows, carried him far,
+Washed him, anointed him, and clothed him in
+Immortal garments. Then he sent him with
+The twins, Sleep and Death, who swiftly set him down
+In broad Lycia.
+
+But Patroclus ordered horses and Automedon,
+And chased the Trojans and Lycians, deluded.
+Had he kept Peleus' son's command, he would
+Have escaped black death. But Zeus's will is stronger
+Than the will of men: it frightens even the brave,
+Takes victory away with ease, then gives
+The courage back to fight.
+
+Whom did you first kill, Patroclus, and whom last,
+When gods called you to death? Adrestus first,
+Autonous, Echeclus, Perimus, Megas' son,
+Epistor, Melanippus; then Elasus,
+Mulius, Pylartes—these you took, while all
+The others turned and fled.
+
+The Achaeans would have taken steep-gated Troy
+Under Patroclus' hands, so fiercely he raged,
+If Phoebus had not stood upon the wall,
+Planning his death and aiding Troy. Three times
+Patroclus climbed the high wall at the corner;
+Three times Apollo thrust him back, touching
+His shining shield with immortal hands.
+
 ## Decision log
 
 - Patroclus' borrowed armor is rendered as a social force: it changes what
@@ -623,4 +812,10 @@ Their masters' chariot left behind.
   complete first battle sequence, Sarpedon's challenge, Zeus and Hera's
   deliberation, the deaths of Thrasymelus and Pedasus, Automedon's repair,
   and Sarpedon's final appeal to Glaucus. Meter, Greek-fidelity,
+  omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 16 pass through
+  16.704, preserving Glaucus' healing and rebuke, the struggle around
+  Sarpedon's body, Epigeus and Bathycles, the Aeneas–Meriones exchange,
+  Zeus' deliberation, Apollo's washing and transfer, Patroclus' pursuit
+  catalogue, and Apollo's threefold repulse. Meter, Greek-fidelity,
   omission/addition, and editorial review remain pending.

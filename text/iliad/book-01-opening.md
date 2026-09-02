@@ -376,7 +376,9 @@ But I swear a great oath: by this staff, which will never again
 
 put forth leaf or branch, since bronze cut it from the mountain
 
-and stripped its bark, and now heralds carry it in their hands—
+and stripped its bark, and now judges carry it in their hands,
+
+judges who keep the laws that come from Zeus—
 
 so surely shall a day come when all the Achaeans
 
@@ -418,13 +420,19 @@ in rank, and more men obey him.”
 
 Achilles cut him off: “No coward would endure your words.
 
-I will not battle you for a girl. Take what you have given me;
+Let others take your commands; do not command me:
 
-you will never take another thing from me while I am here.
+I do not think I shall obey you any longer. And mark this well:
 
-But if you lay hands on anything else that is mine,
+I will not fight you with my hands for the girl's sake,
 
-let every man see it. Now we have done. This quarrel is finished.”
+nor you, nor any other man, since you have taken her from me.
+
+But of all the other things I have beside my swift black ship,
+
+you shall carry off none against my will. Come—try it,
+
+so that these men may see: your black blood will run around my spear.”
 
 They broke the assembly. Achilles went to his ships
 
@@ -612,6 +620,7 @@ There the god who gathers the clouds went to sleep.
 
 - 2026-09-02: Collation pass separated the tenth-day assembly (1.53–67) from Calchas's speech (1.68–100); restored Apollo's *mēnis*, Calchas's request for protection in word and hand, and Achilles's reference to lambs and unblemished goats.
 - 2026-09-02: Collation pass revised Agamemnon's and Achilles's exchange through 1.187; restored Clytemnestra, Agamemnon's safety claim, the ship-and-hecatomb order, Achilles's non-injury catalogue, and the distinction between *geras* and *timē*.
+- 2026-09-02: Collation pass revised Athena's intervention and the assembly's close through 1.305; restored the private divine staging, Zeus-appointed judges in the staff oath, Nestor's strength/rank distinction, and Achilles's conditional warning.
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
   than a generic irritation.

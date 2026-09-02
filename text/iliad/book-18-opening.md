@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–367, is incorporated
+The first source-collated revision, covering lines 1–467, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -345,6 +345,110 @@ Swift-footed Achilles. Then Zeus spoke to Hera:
 You roused swift-footed Achilles. Surely the long-haired
 Achaeans were born from you yourself.”
 
+So they spoke. Silver-footed Thetis came
+To Hephaestus' house, imperishable, starry,
+Conspicuous among immortals—a bronze house
+The crooked-footed smith had made for himself.
+She found him sweating as he moved among
+The bellows, working urgently; he made
+Twenty tripods to stand around the wall
+Of his well-founded hall. Beneath each base he set
+Golden wheels, that they might move of themselves
+Into the gods' assembly, then return—
+A wonder to behold. They lacked only handles;
+He fitted these, fastening every bond,
+Working with all the craft his knowing heart possessed.
+
+As Thetis came, Charis of the lovely veil,
+Whom the famed smith had made his wife, saw her approach.
+She took her hand and called her by name:
+“Why have you come, Thetis, long-robed goddess,
+Honored and dear? You seldom visit us.
+Come farther in; I will set friendship's gifts before you.”
+
+She led her inward, seated her upon
+A silver-studded throne, beautiful, with footstool.
+Then she called Hephaestus, famous for his craft:
+“Hephaestus, come; Thetis has need of you.”
+
+The crippled smith answered: “Then a goddess terrible
+And honored must be here, one who saved me when
+Pain came upon me after my shameless mother
+Cast me far away, wishing to hide me, lame.
+I would have suffered grievously if Eurynome
+And Thetis had not caught me in their arms—
+Eurynome, daughter of Ocean turning back.
+With them I lived nine years, forging ingenious works
+Within their hollow cave: curved clasps, spiral brooches,
+Cups, and necklaces; around us Ocean's stream,
+Immeasurable, roared and foamed. No god or man
+Knew me there, but only Thetis and Eurynome,
+Who saved my life. Since Thetis has come here,
+I owe the fair-haired goddess a full return.
+Set gifts of welcome before her while I put away
+My bellows and my tools.”
+
+The huge and wondrous smith rose from the anvil,
+Limping; his thin legs moved with difficulty.
+He set the bellows away and gathered up
+His tools into a silver chest. With a sponge
+He wiped his face and hands, his strong neck and
+His hairy breast; then put a tunic on,
+Took up a heavy staff, and limped outside.
+Two golden maidens hurried beneath their lord,
+Like living young women. In their breasts they had
+Mind, voice, and strength; from gods they had learned
+The works of gods. They moved beneath his steps
+Until he came where bright-throned Thetis sat.
+He took her hand and called her by her name:
+
+“Why have you come, Thetis, long-robed goddess,
+Honored and dear? You seldom visit us.
+Tell me your purpose; my heart commands me to fulfill it,
+If I can, and if the thing lies within completion.”
+
+Thetis answered with tears: “Hephaestus, is there
+Among Olympian goddesses one who has endured
+Such grievous sorrows as Zeus, Cronus' son,
+Has given me? Of all the sea-born sisters he gave
+Me to a mortal, Aeacides Peleus;
+Against my will I endured the marriage bed.
+Now he lies in his house, broken by old age.
+And I have further sorrow: when he gave me a son
+To bear and raise, a hero beyond all others,
+Who sprang like a young tree, I raised him as
+A garden plant and sent him on curved ships
+To Ilium to fight the Trojans; but I shall not
+Receive him home again to Peleus' house.
+While he lives and sees the sun, he suffers;
+I cannot help him, though I go to him.
+
+“The maiden the Achaeans gave him as his prize,
+Agamemnon took from him. For her my son
+Consumed his heart in grief; while Troy drove Greeks
+Back to the sterns and kept them past the ships.
+The elders of Argos pleaded, naming splendid gifts;
+He refused to ward off ruin. Yet he clothed
+Patroclus in his armor and sent him out,
+Giving him a great host; all day they fought
+Around the Scaean Gates, and would have taken Troy
+Had not Apollo, after doing much harm,
+Killed Menoetius' brave son among the foremost,
+And given glory to Hector.
+
+“Therefore I come to your knees: if you are willing,
+Give my short-lived son a shield, a helmet,
+Beautiful greaves fitted at the ankles, and a corselet.
+His own were lost with his faithful friend, subdued
+By Trojans; he lies upon the earth in grief.”
+
+The famous smith answered: “Take courage; let not
+These things trouble you. Would that I could hide him
+From death's grievous noise when his fate comes,
+As surely as beautiful armor shall be his,
+Such as another man, among the many generations,
+Will wonder at when he looks upon it.”
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -370,4 +474,10 @@ Achaeans were born from you yourself.”
   Hector's refusal, Athena's delusion, Achilles' lament and burial vow,
   the tripod washing and nine-year ointment, and the closing address from
   Zeus to Hera. Meter, Greek-fidelity, omission/addition, and editorial
+  review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 18 pass through
+  18.467, preserving Hephaestus' starry bronze house, the self-moving
+  tripods, Charis, Eurynome, the smith's rescue and golden attendants,
+  Thetis' account of Peleus and Achilles, the armor commission, and the
+  promise of wonder. Meter, Greek-fidelity, omission/addition, and editorial
   review remain pending.

@@ -102,3 +102,9 @@ test the 7 × 10 page architecture and are samples, not release PDFs.
 
 The [historical plate proof](output/pdf/inq-homer-historical-plate-proof.pdf)
 tests role-level captions for acquired Flaxman/Blake and Flaxman/Piroli scans.
+
+The deterministic [volume-proof assembly contract](design/volume-proof.md)
+and the two assembled [Iliad volume proof](output/pdf/inq-homer-iliad-volume-proof.pdf)
+and [Odyssey volume proof](output/pdf/inq-homer-odyssey-volume-proof.pdf)
+demonstrate the complete 24-book interior architecture while the editorial and
+production locks remain in development.

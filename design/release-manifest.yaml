@@ -50,6 +50,16 @@ proofs:
   - file: output/pdf/inq-homer-historical-plate-proof.pdf
     class: provenance_sample
     page_size_pt: [504, 720]
+  - file: output/pdf/inq-homer-iliad-volume-proof.pdf
+    class: architecture_sample
+    page_size_pt: [504, 720]
+    pages: 66
+    assembly: scripts/build_volume_proof.py
+  - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
+    class: architecture_sample
+    page_size_pt: [504, 720]
+    pages: 71
+    assembly: scripts/build_volume_proof.py
 
 release_gates:
   full_translation: incomplete

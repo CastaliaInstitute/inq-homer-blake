@@ -15,7 +15,8 @@ research notes, not final commentary.
 | 1.101–147 | Athena’s descent, Telemachus’s welcome, and the suitors’ imposed feast | Hospitality as household order | Collated 2026-09-02; preserve the sequence of hand-washing, food, wine, and song without making the ritual feel decorative. |
 | 1.328–364 | Penelope asks Phemius to change his song | Return-song as present grief | Keep the distinction between the singer's compelled performance and Penelope's private mourning. |
 | 1.365–398 | Telemachus claims speech and authority | “Speech is the concern of every man” | Test the force of *muthos* and *oikos* without importing modern legal language. |
-| 1.170–200 | Antinous and Eurymachus challenge Telemachus; Athena's assumed identity is tested | Public uncertainty and inherited friendship | Collate the exact Greek line range and the Taphian/Temesan geography before approval. |
+| 1.148–169 | The suitors’ feast, Phemius’s compelled song, and Telemachus’s private grief | Public consumption and household dispossession | Collated 2026-09-02; preserve the compelled singer, the suitors’ feast, and the return-song’s grief at meter review. |
+| 1.170–200 | Telemachus questions Mentes; Athena’s assumed identity is tested | Public uncertainty and inherited friendship | Collated 2026-09-02; verify the exact question sequence, Taphian/Temesan geography, and prophecy hinge at meter review. |
 | 1.201–444 | Athena's counsel, Telemachus's public speech, and the night before departure | Inherited responsibility becomes chosen action | Verify the compressed speech sequence, Orestes parallel, and the final departure/night transition against the copy text. |
 
 ## Draft warning

@@ -11,6 +11,8 @@ Lines 51–100 are recorded in
 text/odyssey/book-01-collation-51-100.md.
 Lines 101–147 are recorded in
 text/odyssey/book-01-collation-101-147.md.
+Lines 148–200 are recorded in
+text/odyssey/book-01-collation-148-200.md.
 
 ## Translation
 

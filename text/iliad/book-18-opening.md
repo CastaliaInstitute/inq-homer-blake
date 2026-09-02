@@ -3,6 +3,8 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
+The first source-collated revision, covering lines 1–147, is recorded in
+text/iliad/book-18-collation-1-147.md pending promotion after meter review.
 
 ## Translation
 

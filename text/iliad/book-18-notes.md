@@ -2,10 +2,12 @@
 
 These notes accompany the current complete working draft and are not final
 commentary.
+Lines 1–147 are recorded in
+text/iliad/book-18-collation-1-147.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 18.1–147 | Antilochus reports Patroclus' death | Grief as bodily action | Verify lament, hair offering, and Thetis' arrival. |
+| 18.1–147 | Antilochus reports Patroclus' death | Grief as bodily action | Collated 2026-09-02; preserve the dust, women’s lament, full Nereid catalogue, Achilles’s conditional vow, and Thetis’s departure for Hephaestus. The river-hair offering is not present in this source range. |
 | 18.148–242 | Achilles appears at the wall | Fire and terror | Check Iris, Athena, cloud, and Trojan response. |
 | 18.243–367 | Trojans counsel; Achaeans mourn | Burial deferred | Collate Polydamas, Hector, bull sacrifice, and promise. |
 | 18.368–606 | Hephaestus forges the shield | World-image | Verify every scene, metal, figure, and Oceanus rim. |

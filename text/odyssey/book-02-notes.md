@@ -6,7 +6,7 @@ These notes accompany the current opening draft and are not final commentary.
 |---|---|---|---|
 | 2.1–30 | Telemachus calls the first assembly since Odysseus’s departure | Public body and inherited seat | Collated 2026-09-02; verify the assembly protocol, Athena’s grace, hounds, spear, and the significance of the inherited seat at meter review. |
 | 2.31–79 | Telemachus names the suitors’ consumption of his house | “Livelihood” and “house” | Collated 2026-09-02; keep *oikos* material, familial, and political at once, with the scepter, public appeal, and repayment clause at meter review. |
-| 2.80–128 | Antinous tells the story of Penelope's woven shroud | “Wove” and “unwove” | Preserve the repeated craft action and the suitors' possessive framing. |
+| 2.80–128 | Antinous tells the story of Penelope’s woven shroud | “Wove” and “unwove” | Collated 2026-09-02; preserve the repeated craft action, three-year delay, fourth-year exposure, Athena’s gift, and the suitors’ possessive framing at meter review. |
 | 2.129–176 | Telemachus refuses to expel his mother | Piety, shame, and threatened divine appeal | Distinguish filial obligation from legal helplessness. |
 | 2.177–207 | Eagles and Halitherses' interpretation | Omen as public evidence | Verify the direction of flight and the prophet's degree of certainty. |
 | 2.208–241 | Mentor's rebuke and Leocritus's refusal | Civic silence and failed kingship | Verify the speech boundaries and the assembly's legal vocabulary. |

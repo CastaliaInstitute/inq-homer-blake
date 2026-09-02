@@ -10,6 +10,7 @@ research notes, not final commentary.
 | 1.7–8 | Agamemnon and Achilles brought into conflict | “broke apart in strife” | Test whether the line gives enough force to the causative movement without over-explaining it. |
 | 1.12–16 | Apollo's anger follows the priest's dishonor | “deadly sickness” | Confirm the chosen disease term against the final Greek edition and note any textual variant. |
 | 1.37–52 | Apollo's epithets, bow, arrows, and nine-day plague | “silver bow,” “covered quiver” | Check formulaic consistency across the complete *Iliad*. |
+| 1.17–52 | Chryses' appeal, Apollo's response, and the first camp deaths | restored ransom, wreath, staff, bow, and animal-to-human escalation | Collation recorded in `book-01-collation-17-52.md`; verify apparatus and second-reader response before approval. |
 | 1.53–100 | Calchas's prophecy and Agamemnon's demand for honor | Public procedural exchange | Distinguish *timē* as social honor from the material prize that embodies it. |
 | 1.101–187 | *geras* (prize) and *timē* (honor) drive the quarrel | “prize,” “honor,” and “dishonor” | Verify that the English keeps the material and social registers distinct rather than treating them as synonyms. |
 | 1.188–222 | Athena restrains Achilles at Hera's command | Visible only to Achilles; violence is averted, not erased | Confirm the sequence and the goddess's promise of restitution against the copy text. |

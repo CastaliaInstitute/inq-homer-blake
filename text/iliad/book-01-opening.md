@@ -78,7 +78,13 @@ he struck; afterward he turned his bitter arrows
 
 against the men. Through all the camp the pyres
 
-burned without rest. For nine days the shafts went forth.
+burned without rest.
+
+## Extension: the tenth day and Achilles' assembly
+
+**Source passage:** Book 1, lines 53–67
+
+For nine days the shafts of the god went forth.
 
 On the tenth, Achilles called the people to assembly.
 
@@ -102,7 +108,7 @@ he requires, that he may lift this death from the army.”
 
 ## Extension: Calchas speaks
 
-**Source passage:** Book 1, lines 53–100
+**Source passage:** Book 1, lines 68–100
 
 He sat, and Calchas rose among them, Thestor's son,
 

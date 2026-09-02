@@ -3,6 +3,9 @@
 **Source passage:** Book 14, lines 1–522 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
+The first source-collated revision, covering lines 1–223, is recorded in
+[`book-14-collation-1-223.md`](book-14-collation-1-223.md) pending promotion
+after meter review.
 
 ## Translation
 

@@ -9,6 +9,8 @@ Lines 109–191 are recorded in
 text/iliad/book-23-collation-109-191.md.
 Lines 192–272 are recorded in
 text/iliad/book-23-collation-192-272.md.
+Lines 273–428 are recorded in
+text/iliad/book-23-collation-273-428.md.
 
 ## Translation
 

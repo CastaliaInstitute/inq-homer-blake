@@ -2,7 +2,12 @@
 
 **Source passage:** Book 11, lines 1–848 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+
+**Source-collated authority:** [Book 11, lines 1–848](book-11-collation-618-848.md)
+
+The compact translation below is retained for the current volume architecture;
+the collation files are the editorial authority for line-level revision.
 
 ## Translation
 

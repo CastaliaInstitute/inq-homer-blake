@@ -20,12 +20,12 @@ volumes:
     title: "The Iliad"
     interior_pdf: pending_full_volume_assembly
     cover_pdf: pending_page_count_and_spine_calculation
-    translation_status: working drafts; source-collated units in development
+    translation_status: working drafts; source-collated authorities cover all 24 books; six review gates pending
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: pending_full_volume_assembly
     cover_pdf: pending_page_count_and_spine_calculation
-    translation_status: working drafts; Books 1–6 source-collated units in development
+    translation_status: working drafts; source-collated authorities cover all 24 books; six review gates pending
 
 typography:
   status: locked_for_architecture_proof

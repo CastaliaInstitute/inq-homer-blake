@@ -17,6 +17,12 @@ The edition is an important visual precedent for the project, but the book
 must not imply that Blake authored Flaxman's compositions. Confirm the exact
 plate, state, scan, and reproduction permissions before using any image.
 
+The first acquired scans are Plate 2, “Minerva Repressing the Fury of
+Achilles,” whose scan is signed “Blake sculp.”, and Plate 31, “Thetis Bringing
+the Armour to Achilles,” whose scan is signed “Piroli sculp.” The manifest
+therefore credits the engraver plate by plate rather than assigning Blake
+credit to the whole book.
+
 ## Plate strategy
 
 1. **Historical plates:** Use eligible plates from the 1805 Flaxman/Blake

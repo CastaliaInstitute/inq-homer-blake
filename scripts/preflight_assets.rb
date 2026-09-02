@@ -38,7 +38,11 @@ CSV.read(source_manifest, headers: true).each_with_index do |row, index|
   %w[creator creator_role work_title collection_or_source_url rights_status credit_line].each do |field|
     fail!("source manifest row #{row_number} is missing #{field}") if row[field].nil? || row[field].empty?
   end
+  if row["local_file"] && !row["local_file"].empty?
+    fail!("missing source asset #{row['local_file']} (row #{row_number})") unless File.file?(path_from_root(row["local_file"]))
+  end
 end
+puts "OK source manifest and acquired files"
 
 rows.each_with_index do |row, index|
   row_number = index + 2

@@ -5,7 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 5.1–42 | Divine council and Hermes' mission | Command across divine levels | Verify the council's sequence and Calypso's genealogy. |
+| 5.1–42 | Divine council and Hermes’ mission | Command across divine levels | Collated 2026-09-02; verify Athena’s indictment, Zeus’ counter-question, Telemachus’ protection, Hermes’ commission, twenty-day raft, Phaeacian welcome, and the fated homecoming at meter review. |
 | 5.43–147 | Calypso receives the command and releases Odysseus | Love, captivity, and oath | Check the argument between goddess and messenger and the oath formula. |
 | 5.148–261 | Raft construction and departure | Heroic craft | Collate tools, timber count, provisions, clothing, and wind. |
 | 5.262–350 | Poseidon raises the storm | Four winds and wreck | Verify the storm's order and the destruction of the raft. |

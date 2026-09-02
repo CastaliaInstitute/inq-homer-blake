@@ -2,8 +2,8 @@
 
 **Source passage:** Book 24, lines 1–804 (complete working-book draft)
 
-**Status:** First source-collated literary revision through lines 1–228;
-independent meter and Greek-fidelity review remains pending. Lines 229–804
+**Status:** First source-collated literary revision through lines 1–386;
+independent meter and Greek-fidelity review remains pending. Lines 387–804
 remain in their Greek-collation files pending promotion.
 Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
@@ -250,6 +250,167 @@ So speaking, he opened the beautiful lids of the chests.
 
 **Continuation:** line 229 begins Priam’s ransom inventory and departure;
 this unit ends with his resolve to enter the Achaean camp.
+
+## Translation — source-collated lines 229–386
+
+From them he drew twelve beautiful robes,
+twelve cloaks of single fold, and as many rugs,
+as many shining coverlets, and tunics for them all.
+Ten talents of fine gold he weighed and carried forth;
+two tripods he brought, and four great cauldrons;
+and from the chamber came a cup of surpassing beauty,
+which Thracian men had given him, when he went among them
+as envoy—a noble treasure. Yet the old king spared it not,
+for all his heart was set on ransoming his beloved son.
+
+Then he drove all the Trojans from the porch with shameful words:
+“Away, ye blemished cowards! Is there no mourning in your houses,
+that ye have come to trouble me? Do ye rejoice that Zeus the Son
+of Cronus has given me this sorrow, and destroyed my best son?
+Ye shall learn it too: the Achaeans will find it easier now
+to kill you, when he is dead. But I—before I see the city
+laid waste and ravaged with the sword, may I descend
+into the house of Hades!”
+
+With his staff he drove them out; they went before the old man,
+hastening at his rebuke. He called his sons together,
+and scolded Helenus, Paris, noble Agathon,
+Pammon, Antiphonus, the brave-voiced Polites,
+Deiphobus, Hippothoon, and godlike Agavus:
+“Make haste, my evil children, hateful as ye are!
+Would that ye all had perished in Hector’s place beside
+the swift ships! Ah me, most utterly unfortunate,
+who fathered sons of excellence in spacious Troy,
+yet none remains, neither godlike Mestor, nor horse-loving Troilus,
+nor Hector, who seemed a god among mankind, and was no son
+of mortal man, but seemed the child of some divinity.
+The War-god slew the others; these are left—our shame:
+false speakers, dancers, masters of the chorus-step,
+thieves of the lambs and kids that belong to their own people.
+Will ye not swiftly harness the cart for me, and load on it
+all these things, that we may set out upon the road?”
+
+He spoke; and they, afraid of their father’s rebuke,
+lifted the smooth-running mule-cart, beautiful, newly made,
+and bound its wicker basket firmly upon it. From the peg
+they took the mule-yoke, boxwood, rounded at its center,
+well fitted to its handles; then they carried out the yoke-band,
+nine cubits long, with the yoke itself. They laid it well
+upon the polished pole’s first step, and cast the ring
+upon its pin; three times on either side they tied it fast
+around the knob, then drew it tight in order beneath the tongue.
+They brought from the chamber to the polished wagon
+countless gifts, the ransom set upon Hector’s head;
+and yoked the strong-hoofed mules, whose harness once had been
+a shining gift the Mysians gave to Priam. The old king
+brought up the horses which he himself had raised and fed
+beside the polished manger. Within the lofty house
+the herald and Priam, both holding wise thoughts, yoked them.
+
+Then Hecuba, her heart oppressed, came near, carrying wine,
+sweet as honey, in her right hand, within a golden cup,
+that they might pour before their going. She stood before
+the horses and spoke, calling the old king by name:
+“Pour now to Father Zeus, and pray that thou mayest return
+home again from the men who hate thee, since thy heart drives thee
+toward the ships, though I am unwilling. Pray to the dark-clouded
+Son of Cronus on Ida, who looks upon all Troy;
+ask him for a swift eagle, his beloved messenger,
+whose strength is greatest among birds, appearing on the right,
+that thou mayest see it with thine own eyes, and go to the ships
+of the swift-footed Danaans, trusting in the sign.
+But if wide-seeing Zeus will not grant his own messenger,
+then, though thy desire be fierce, I would not send thee
+to the ships of the Argives.”
+
+Godlike Priam answered: “Wife, I will not disobey thee;
+it is good to lift one’s hands to Zeus, and see whether he may pity.”
+He called a housekeeper and bade her pour pure water over his hands.
+The attendant stood near, bearing the basin and pitcher together.
+The old man washed, received the cup from his wife,
+then stood within the court, poured wine while gazing upward,
+and prayed aloud: “Father Zeus, most glorious and greatest,
+who rulest from Ida, grant that I may come to Achilles,
+beloved and pitiful, and send a swift eagle, thy own
+most cherished messenger, whose strength is greatest among birds,
+appearing upon the right, that I may see it with my eyes,
+and go to the ships of the swift-footed Danaans,
+trusting in the sign.”
+
+So he prayed; and Zeus, the counsellor, heard him. At once
+he sent an eagle, the most perfect of winged birds,
+the dark hunter, whom men also call the dusky one.
+As broad as the high-roofed door of a rich man’s chamber,
+strongly fitted with its shining panels, were its wings
+on either side. It flashed upon the right across the city.
+Those who saw it rejoiced, and every heart within them
+was eased. The old man, hastening, climbed upon his chariot;
+he drove out from the doorway and the echoing court.
+The mules drew first the four-wheeled wagon—Idaeus,
+the thoughtful herald, guided them; and behind, the horses,
+which the old king followed, urging them with the whip,
+swiftly through the city. All his friends followed with him,
+lamenting loudly, as though he were already going to death.
+
+When they had descended from the city and reached the plain,
+the sons and sons-in-law turned back toward Ilium;
+but the two did not escape the notice of wide-seeing Zeus.
+When he saw the old man upon the plain, he pitied him,
+and quickly spoke to his own beloved son, Hermes:
+“Hermes, for thou lovest most of all to be a companion
+to mortal men, and hearest any man whom thou desirest,
+go now, and lead Priam to the hollow ships of the Achaeans,
+so that none of the other Danaans may see or know of him
+before he comes to Peleus’ son.”
+
+He spoke; nor did the messenger, the Slayer of Argus, disobey.
+At once he bound beneath his feet the beautiful immortal sandals,
+golden, ambrosial, which carried him over wet sea and boundless land,
+together with the breath of wind. He took the wand with which
+he charms the eyes of mortal men, whom he wishes, and wakes again
+those who are sleeping. Holding it in his hands, the mighty Slayer
+of Argus flew; and soon he reached Troy and the Hellespont.
+He went upon the road in the likeness of a young prince,
+just entering the first bloom of youth, when that youth is loveliest.
+
+When they had driven past the great tomb beyond the city of Ilium,
+they stopped the mules and horses, that they might drink from the river;
+for dusk had already spread itself upon the earth. Then the herald,
+seeing Hermes near them, recognized him and spoke to Priam:
+“Dardanid, take thought; I see a man, and soon, I fear,
+he will destroy us both. Come, let us flee upon the horses,
+or clasp his knees and supplicate him, if perhaps he may pity us.”
+
+So he spoke; and terror poured through the old man’s mind;
+the hairs stood straight upon his bending limbs. But the gracious god
+came near, took the old man’s hand, and asked him:
+“Father, how dost thou guide these horses and mules through
+the immortal night, when other mortals sleep? Hast thou no fear
+of the Achaeans breathing fury, though they are near thee,
+hostile and fierce? If one of them should see thee carrying
+such precious treasures through the swift black night,
+what thought would then possess thee? Thou art not young thyself,
+and this companion is an old man too—hardly able to ward off
+the first who should begin a quarrel. But I will do thee no harm,
+and even from another I would shield thee; for thou art like
+my beloved father.”
+
+Then godlike aged Priam answered: “My dear child, in all this
+thou hast spoken truly. Yet some god has stretched a hand above me,
+and sent such a traveler to meet me—one whose form and beauty
+are fortunate, and whose mind is wise, and whose parents are blessed.”
+
+Then the messenger, the Slayer of Argus, answered him:
+“Yes, old man, all this thou hast spoken according to fate.
+But come, tell me this truth, and do not hide it:
+are ye sending these many beautiful and precious treasures
+to foreign men, that they may remain safe for thee elsewhere?
+Or are all of you already abandoning sacred Ilium,
+in fear, since such a man, thy son, the best of all,
+has fallen—and he lacked nothing in the battle against the Achaeans?”
+
+**Continuation:** line 387 begins Hermes’s answer and the final approach
+to Achilles’s shelter; this unit ends at the question to Priam.
 
 ## Working synopsis
 

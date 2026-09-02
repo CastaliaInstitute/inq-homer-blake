@@ -297,17 +297,93 @@ overcomes him, the flesh-eating wolves tear him apart in the shadowed hills. A g
 had driven the wolves upon him; but the wolves scattered when Ajax came, and he stood
 beside Odysseus as a lion stands over its cubs.
 
-Nestor carried Machaon away from the battle. Achilles saw the chariot
-and sent Patroclus to ask who was wounded. Nestor said:
+Many powerful Trojans followed Odysseus, but Ajax came close carrying a shield like
+a tower. He stood beside him, and the Trojans scattered in different directions.
+Menelaus, dear to Ares, led Odysseus from the crowd by the hand until the driver
+drove the horses near. Ajax sprang among the Trojans and struck Doryclus, a bastard
+son of Priam, then Pandocus, Lysander, Pyrus, and Pylarte. As a swollen river rushes
+down from the mountains after Zeus’ rain, carrying many dry oaks and pines into the
+sea and casting heaps of driftwood upon the shore, so shining Ajax pursued them over
+the plain, cutting down horses and men.
 
-“Machaon is hurt. Bring him to your tent, and let the healer tend him.
-The army is collapsing. Achilles remains apart, though we need him.
-Perhaps you could persuade him to return, or enter the fight yourself
-wearing his armor, so the Trojans may fear the sight.”
+Hector did not yet hear of this, for he was fighting on the left beside the banks of
+the Scamander, where most heads were falling and an unquenchable cry rose around
+Nestor and warlike Idomeneus. Hector mingled with them, doing terrible deeds with
+spear and chariot and destroying the ranks of young men. The godlike Achaeans would
+not have given ground if Alexander, husband of fair-haired Helen, had not stopped
+Machaon, shepherd of the people, by striking him in the right shoulder with a
+three-pointed arrow. The Achaeans, breathing fury, feared that the battle might turn
+and they might take him.
 
-Patroclus ran back. He passed the wounded Eurypylus, who begged:
-“Take me to your tent. Draw the arrow from my thigh, wash the blood,
-and bind me with medicine. I learned from Achilles how to heal.”
+Idomeneus called to noble Nestor: “Come, son of Neleus, great glory of the Achaeans;
+mount your chariot, and let Machaon climb beside you. Drive the single-hoofed horses
+to the ships as quickly as possible. A healer is worth many other men: he can cut out
+arrows and apply gentle medicines.”
+
+Nestor obeyed. He mounted his chariot, and Machaon, the blameless son of the healer
+Asclepius, climbed beside him. Nestor lashed the horses, and they flew willingly
+toward the hollow ships, for that was dear to their hearts.
+
+But Cebriones, standing beside Hector, saw the Trojans in confusion and spoke:
+“Hector, we are fighting the Danaans at the farthest edge of the harsh battle, while
+the other Trojans and their horses are mixed together. Telamonian Ajax is driving them;
+I know him well, for his broad shield surrounds his shoulders. Let us drive our horses
+there, where horsemen and footmen, bringing hateful strife against one another, are
+destroying each other and the cry is unquenchable.”
+
+He lashed the long-maned horses with the ringing whip. They carried the swift chariot
+through Trojans and Achaeans, trampling corpses and shields; the axle and the rims
+around the chariot were splashed with blood from the horses’ hooves and wheels. Hector
+longed to enter the human crowd and break it, yet he was wary of Telamonian Ajax.
+
+Father Zeus then sent fear upon Ajax. Astonished, he stood and threw his seven-hide
+shield behind him, looking around like a wild beast and shifting one knee after the
+other. As dogs and countrymen drive a tawny lion from the middle of a fold through
+the whole night, preventing it from taking the fat of the cattle, and the lion presses
+forward but accomplishes nothing because burning spears leap against it, so Ajax went
+away from the Trojans with a wounded heart, for he greatly feared the Achaean ships.
+
+As a slow ass beside a field forces its way through the boys, though many sticks are
+broken over it, and the boys beat it with childish strength but drive it out only
+after it has eaten its fill, so the proud Trojans and their many allies kept thrusting
+their spears into great Ajax’s shield. Sometimes he remembered his warlike strength,
+turned, and held back the horse-taming Trojans; sometimes he turned again to flee.
+He kept all the others from reaching the swift ships, while he stood between Trojans
+and Achaeans. Spears thrown by bold hands stuck in his great shield, some in its face,
+and many fell midway into the ground before touching his white flesh.
+
+When Euryplus, glorious son of Euaemon, saw him pressed by the dense missiles, he
+stood beside Ajax and cast his bright spear. He struck Apisaon, shepherd of the people,
+under the liver, and instantly loosened his knees; Euryplus sprang upon him and
+stripped the armor from his shoulders. But Alexander saw him removing Apisaon’s armor,
+drew his bow against Euryplus, and struck him in the right thigh. The arrow-shaft broke
+inside, and the thigh grew heavy. Euryplus retreated among his companions to escape
+death and called aloud to the Danaans: “Friends, leaders and masters of the Argives,
+turn and stand against this evil day, and defend Ajax, who is being crushed by arrows.
+I do not think he will escape this harsh battle; stand firmly around great Ajax.”
+
+Though wounded, he spoke. The men stood close to him, leaning their shields together
+and raising their spears; Ajax came to meet them, turning his face back toward his
+companions.
+
+The two sides fought like a burning fire. Meanwhile Nestor’s horses carried him,
+sweating, and Machaon, shepherd of the people. Swift-footed Achilles saw them from
+the stern of his great ship, standing there and watching the terrible battle and the
+tearful struggle. At once he called to his companion Patroclus, his voice carrying
+beside the ship. Patroclus heard from the shelter and came out like Ares, and the
+beginning of evil came upon him.
+
+The strong son of Menoetius spoke first: “Why do you call me, Achilles? What do you
+need of me?”
+
+Achilles answered: “Dear son of Menoetius, beloved of my heart, now I think the
+Achaeans will stand around my knees begging; the need has become intolerable. Go,
+dear Patroclus, ask noble Nestor whom he is carrying wounded from the battle. From
+behind he looks like Machaon, son of Asclepius, but I could not see the man’s face,
+for the horses rushed past me in front.”
+
+Patroclus obeyed his beloved companion and ran beside the huts and ships of the
+Achaeans.
 
 Patroclus obeyed, while Hector drove the Argives to their ships.
 The dust rose, and the sea shone behind the fleeing men.

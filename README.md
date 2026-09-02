@@ -52,6 +52,11 @@ The working editorial controls are [the translation charter](text/translation-ch
 [the design specification](design/specification.md), and the two
 [volume plans](volumes/).
 
+The [illustration placeholder deck](design/illustration-placeholders.md)
+assigns every book a source-aware plate slot and a prompt for original or
+commissioned artwork; these remain placeholders until exact line ranges,
+provenance, rights, and print masters are locked.
+
 Translation status is governed by the [review gates](text/review-gates.md);
 the Book 1 openings are intentionally marked as first-pass drafts.
 

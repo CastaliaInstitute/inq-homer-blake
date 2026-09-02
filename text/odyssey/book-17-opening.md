@@ -2,100 +2,136 @@
 
 **Source passage:** Book 17, lines 1–606 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+
+**Source-collated authority:** [Book 17, lines 1–606](book-17-collation-1-606.md).
+The compact translation below is retained for the current volume architecture;
+the collation file is the editorial authority for line-level revision.
 
 ## Translation
 
-Telemachus and Theoclymenus reached the city. Telemachus sent the seer
-to the house of Eurymachus, where he would be received as a guest.
-He went to the palace, and his mother ran toward him. She asked
-about his journey, and he told her Menelaus' report: Odysseus lived,
-but no one knew when he would return.
+At dawn Telemachus bound his sandals, took his spear,
+And said to Eumaeus: “I go into the city,
+That my mother may see me. She will not cease from tears
+Until she looks upon me. Lead the wretched stranger there;
+Let him beg his meal. I cannot bear all men’s burdens,
+Though he may be angry; I love to speak the truth.”
 
-Penelope wept. The old nurse Eurycleia embraced Telemachus,
-and the women gathered around him. The suitors came with gifts,
-pretending friendship, while Antinous spoke in a smooth voice:
+Odysseus answered: “A beggar is better off in town
+Than in the fields. Lead me when the fire has warmed me.
+These rags are poor protection against the cold.”
+Telemachus went ahead, planting harm in the suitors' hearts.
+At the house Eurycleia saw him first and wept;
+The women kissed his head and shoulders. Penelope came
+Like Artemis or golden Aphrodite, clasped her son,
+And cried: “You have come, sweet light. I thought I would never
+See you again. Tell me what you learned.”
 
-“You have returned. We feared you were lost. Let us hold a feast.
-Your mother should choose the best of us and end this delay.”
+“Do not stir my grief,” said Telemachus. “Wash, put on clean robes,
+And pray upstairs to every god, promising complete hecatombs
+If Zeus fulfills his vengeance. I will go to the assembly,
+And bring a stranger who followed me from Pylos.
+Peiraeus has taken him home to honor him until I return.”
+Penelope washed and prayed. Telemachus went to the assembly,
+Where Mentor, Antiphus, and Halitherses, his father's old friends,
+Sat apart from the suitors. Peiraeus brought the stranger
+And asked that the gifts from Menelaus be sent to his house.
+Telemachus hesitated: if the suitors killed him and divided
+His father's wealth, Peiraeus should keep them; if he prevailed,
+Bring them joyfully to the palace.
 
-Telemachus answered: “You cannot force her. She will decide as she wishes.
-I will not send her from the house. Feast if you desire, but do not ask
-me to provide the cattle and wine you have consumed.”
+Penelope, seated by the door and turning fine thread,
+Asked about her husband. Telemachus said Nestor welcomed him
+As a father welcomes a son, but knew nothing of Odysseus.
+Menelaus had heard from the truthful Old Man of the Sea
+That Odysseus was alive, held by Calypso on an island,
+Without ship, oarsmen, or companions to carry him home.
+He had returned by the gods' fair wind.
 
-Theoclymenus warned him: “I saw a sign. A shadow covered the walls;
-the suitors' blood will fill the house.” The suitors laughed at the seer.
+Theoclymenus said: “Menelaus did not know clearly,
+But I will tell you truly: Odysseus is already in his native land,
+Sitting or creeping, learning these evil deeds, and preparing
+Destruction for every suitor. I read the omen on the ship.”
+Penelope prayed that his word might be fulfilled.
 
-Odysseus and Eumaeus left the hut. Eumaeus walked ahead;
-the disguised king followed with his staff. Athena had changed him
-into the old beggar again. They reached the road to the palace.
+The suitors played at quoit and javelin, then came to supper.
+Eumaeus and Odysseus left the country. The swineherd led him
+Like a miserable old beggar, with a staff and ragged bag.
+They reached the city spring, surrounded by poplars,
+With an altar to the nymphs. There Melanthius, son of Dolios,
+Met them, driving the goats chosen for the suitors' feast.
 
-A goatherd named Melanthius met them. He insulted Odysseus:
-“Where do you lead this glutton? Let him beg at another door.
-If he came to my table, I would break his ribs.” He kicked Odysseus,
-but the king did not move. He thought of striking him dead,
-then chose to wait.
+“A bad man leads a worse,” he said. “Where drag you this glutton,
+This beggar who will soil every door? If he were mine,
+I would make him clean the stalls and gather leaves for the kids.
+But he prefers to beg, and many footstools will break his bones.”
+He struck Odysseus on the hip. The king stood firm,
+Considering whether to kill him or endure. Eumaeus prayed
+To the spring nymphs that Odysseus might return and make
+This man vanish. Melanthius laughed and went toward the city.
 
-Eumaeus rebuked the goatherd: “May the gods punish you.
-You have forgotten your master, who fed you when you were young.”
+Near the palace gate lay Argos, once Odysseus' hound.
+In youth he had been swift and strong; now, neglected,
+He lay on dung, covered with ticks. Argos lifted his head,
+Recognized his master after twenty years, and moved his tail.
+He could not approach. Odysseus turned aside and hid his tears.
+When Eumaeus had crossed the threshold, death's darkness seized
+The dog. He had seen Odysseus again.
 
-The palace dog Argos lay upon a heap of dung, old and full of ticks.
-He had once been swift, bred for the hunt, but Odysseus left
-before the dog reached manhood. No one cared for him now.
+Odysseus stood by the doors, begging from the suitors.
+They gave a little, but Antinous said: “Why stand here?
+Go elsewhere; you are shameless.” Odysseus replied:
+“You look like a king, but your mind is not gentle.
+I too once had a wealthy house and gave to wanderers.
+Zeus destroyed it, and sent me with raiders toward Egypt.
+My men plundered; Egyptians came at dawn and killed many.
+I was given to a Cypriot, and have come here through suffering.”
 
-Argos raised his head and recognized Odysseus. His ears moved;
-he struggled to come near, but he could not. Odysseus turned away,
-so Eumaeus would not see his tears. The dog died when he had seen
-his master again, after twenty years.
+Antinous seized a footstool and struck his right shoulder.
+Odysseus stood like a rock. He returned to the threshold and said:
+“If gods and avenging powers exist for beggars,
+May Antinous meet death before his marriage.”
+Antinous threatened to have the young men drag him out.
+The suitors nevertheless rebuked the blow: perhaps a god
+Had come in a stranger's likeness to observe their insolence.
+Telemachus held his grief and bowed his head. Penelope heard
+And prayed that Apollo would strike Antinous.
 
-Eumaeus entered the hall and ate with Telemachus. Odysseus remained
-at the doors, begging from the suitors. They gave little. Antinous
-threw a stool and struck his shoulder.
+Penelope called Eumaeus: “Bring the stranger. I would ask
+Whether he has seen or heard of Odysseus; he looks like one
+Who has wandered far.” Eumaeus said the stranger's story
+Would charm her heart: he claimed to be an old guest-friend
+Of Odysseus, born in Crete, who had heard that the king lived
+In Thesprotis and was bringing treasures home.
 
-Odysseus stood firm and said: “You struck a beggar for no reason.
-May the gods return this blow upon you before your wedding day.”
+“Call him,” said Penelope. “My household's food and wine
+Are consumed by men who come each day to sacrifice our cattle,
+Sheep, and goats. If Odysseus returned, he and his son
+Would quickly repay their violence.” Telemachus sneezed,
+And the house rang. Penelope smiled: “Call him now. If he speaks
+The truth, I will give him cloak and tunic.”
 
-Antinous laughed. “Leave the hall, or my stool will not be the last.”
-The suitors watched, uneasy, while Telemachus sat silent, holding his grief.
-
-Penelope heard that the stranger had been beaten. She told Eumaeus:
-“Bring him to me. I will ask whether he knows anything of Odysseus.
-Perhaps he has traveled and heard his name.”
-
-Odysseus answered: “Let night fall. I will speak when the suitors leave.
-I fear the men who rule this hall.” Eumaeus carried the message.
-
-Penelope sat among the women, weaving and thinking. She said:
-“Never has such a stranger come to my house. He walks like a king,
-though his clothes are torn. Perhaps he knows my husband.”
-
-The suitors continued their feast. Ctesippus, a man without measure,
-threw an ox's foot at Odysseus, saying: “Take this guest-gift.”
-Odysseus moved aside, and the foot struck the wall. Telemachus rose:
-
-“Ctesippus, you are fortunate that your weapon missed. If it had struck,
-I would have killed you here. You are not feasting in your own house.”
-
-The suitors laughed, but some understood the threat. Amphinomus gave
-Odysseus bread and wine. The disguised king said inwardly:
-“May you escape the day that approaches, if your heart is innocent.”
-
-Telemachus told Eumaeus to return to the hut at dawn. “My mother
-will ask for the stranger tonight. Do not tell her that he is my father.
-We must keep the plan hidden.”
-
-The suitors went home. Odysseus remained beneath the roof,
-looking at the men who had consumed his house. Athena stood near him,
-and the night moved toward recognition.
+Eumaeus told Odysseus. The disguised king refused for the moment:
+“I know the truth about her husband, but I fear the suitors,
+Whose violence reaches the sky. Let her wait until sunset,
+Then ask me beside the fire; my clothes are miserable.”
+Penelope accepted the answer, saying the stranger was not foolish.
+Eumaeus bent toward Telemachus: “I go to guard our swine and wealth.
+Take care; many Achaeans plan harm.” Telemachus told him to return
+At dawn with fine sacrificial beasts. The swineherd went out
+Among the swine, while the feasters turned to song and dancing.
 
 ## Decision log
 
-- The palace is crossed in three bodies—Telemachus returning openly,
-  Eumaeus serving faithfully, and Odysseus entering as a beggar—so identity
-  becomes a problem of who may be seen by whom.
-- Argos recognizes the king without speech; the dog's death gives the
-  household's memory a bodily witness before human recognition occurs.
-- Antinous' stool and Ctesippus' foot make violence increasingly public,
-  while Telemachus' restraint marks the edge of the coming reckoning.
-- This draft needs Greek-fidelity review for Theoclymenus' omen,
-  Melanthius, Argos, guest-gifts, suitor speeches, and the night instructions.
+- The production-facing opening preserves the book's three crossings:
+  Telemachus returns openly, Eumaeus escorts the beggar, and Odysseus enters
+  the hall before human recognition.
+- Theoclymenus's prophecy is reported to Penelope rather than invented as a
+  second omen. Melanthius's spring abuse and Argos's death remain distinct
+  episodes before Antinous's footstool blow.
+- Penelope summons the stranger, but Odysseus postpones the interview until
+  sunset. The book does not import the later footstool assault, the scar, or
+  the palace battle.
+- This draft requires independent Greek-fidelity review, literary review,
+  meter review, notes review, and production sign-off before promotion beyond
+  `draft`.

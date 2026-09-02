@@ -5,6 +5,10 @@
 **Status:** First-pass literary draft; not yet approved for layout.
 The first source-collated revision, covering lines 1–100, is recorded in
 text/iliad/book-16-collation-1-100.md pending promotion after meter review.
+Lines 101–220 are recorded in
+text/iliad/book-16-collation-101-220.md.
+Lines 221–353 are recorded in
+text/iliad/book-16-collation-221-353.md.
 
 ## Translation
 

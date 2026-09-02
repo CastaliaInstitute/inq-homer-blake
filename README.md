@@ -76,6 +76,10 @@ PDF geometry and release-font requirements are checked by
 `scripts/preflight_pdfs.py`; the tracked PDFs remain architecture samples until
 the full-volume and cover gates are complete.
 
+The [hardcover cover specification](design/cover-specification.md) records the
+custom-template dependency, casewrap safety rules, and one-page cover-spread
+requirements for each volume.
+
 The [shared glossary](text/glossary.md) records recurring Homeric terms and
 translation choices. Image records include role-level attribution for
 designer, artist, and engraver.

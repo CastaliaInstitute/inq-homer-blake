@@ -269,6 +269,162 @@ Horsehair crests touched with bright ridges as they stood.
 Before them Patroclus and Automedon,
 Of one accord, armed themselves to lead the host.
 
+Achilles rose and entered his hut. From a chest
+He took the beautiful cup Thetis had set
+There, silver-footed, when she brought it aboard,
+With shirts, wind-sheltering cloaks, and woven rugs.
+No other man had drunk burning wine from it,
+Nor had Achilles poured a god a libation
+From that cup, save to Father Zeus. He took
+It from the chest, cleansed it first with sulfur,
+Then washed it in pure streams, and washed his hands.
+He drew the dark wine, stood amid the yard,
+And poured it, looking upward toward the sky.
+Zeus, who delights in thunder, did not fail
+To hear him:
+
+“Lord Zeus of Dodona, Pelasgian, dwelling
+Far off, guardian of stormy Dodona,
+Where Selloi, your interpreters, live round you,
+Unwashed of foot, and sleep upon the ground—
+Once you heard my prayer, and honored me,
+Humbling the Achaean people greatly;
+Grant me this prayer also. I remain here
+Beside the ships, but send my companion out
+To fight among the many Myrmidons.
+Send glory with him, wide-seeing Zeus, and make
+His heart courageous, that Hector may know
+Whether my friend alone has learned to fight,
+Or whether his hands rage invincibly only
+When I enter the tumult of Ares.
+When he has driven the war-cry from the ships,
+Let him return unharmed to me, with all
+His armor and his close-fighting companions.”
+
+So prayed Achilles; and the counselor heard.
+The father granted one half, denied the other:
+Patroclus would drive battle from the ships,
+But would not come safe home from that battle.
+
+When he had poured the offering and prayed to Zeus,
+Achilles went inside and set the cup
+Within the chest; then came and stood before
+His hut, still longing in his heart to see
+The terrible encounter of the Trojans
+And Achaeans.
+
+The men, in arms together with Patroclus,
+Marched forth; and, bold within their hearts, they fell
+Upon the Trojans. At once they poured like wasps
+Beside a road, whom foolish children tease,
+Delighting in their sport, while the insects keep
+Their homes beside the path, making one evil
+For many. If a traveler passing near
+Disturbs them without meaning, all at once
+The strong-hearted wasps fly forward to defend
+Their young. So from the ships the Myrmidons
+Streamed forth, and an unquenchable cry rose.
+
+Patroclus lifted up his voice: “Companions
+Of Peleus' son Achilles, be men, friends,
+And remember your furious strength, that we may
+Honor the son of Peleus, best by far
+Among the Argives here, and his companions,
+The best in close combat. Let Agamemnon,
+Son of Atreus, learn his blindness—he honored
+Not the best of the Achaeans.”
+
+Thus he stirred
+The courage of them all. Together they fell
+Upon the Trojans, and the ships around them
+Rang terribly beneath the Achaean shout.
+
+When the Trojans saw Menoetius' brave son,
+Himself and his companion shining in the armor,
+Every heart shook, and every rank was moved.
+They hoped that swift-footed Peleus' son
+Had laid his anger by the ships and chosen
+Friendship once more; each looked for some escape
+From steep and sudden death.
+
+Patroclus first cast his shining spear
+Into the densest crowd, beside the stern
+Of great Protesilaus' ship. He struck
+Pyraechmes, leader of the horse-armored Paeons,
+Who came from broad Amydon beside the Axius.
+The spear drove through his right shoulder; backward
+He fell into the dust with a groan. His people
+Scattered around him, for Patroclus cast
+Fear among them by killing their first fighter.
+He drove them from the ships and quenched the fire.
+The half-burned ship remained; the Trojans fled
+With a god's tumult, and Danaans poured
+Among the hollow vessels. An uproar rose
+That would not cease.
+
+As Zeus, the gatherer of lightning, drives
+A heavy cloud from a mountain's high peak,
+And watchtowers, ridges, valleys all appear
+While heaven opens into boundless sky,
+So Danaans, having driven the hostile fire
+From the ships, drew breath a little. Yet the war
+Gave them no rest. The Trojans did not flee
+Headlong from the black ships before the Achaeans,
+But still resisted, yielding them only
+Under compulsion.
+
+When the battle-line broke, man took his man.
+First Menoetius' son, as Areilycus
+Turned, struck his thigh with the sharp spear; bronze
+Passed through, and shattered bone. Face downward
+Areilycus fell. Menelaus struck
+Thoas in the bare chest beside his shield,
+And loosed his limbs. Meges watched Amphiclus
+Rush toward him, and struck the upper leg,
+Where muscle is thickest in a man's body;
+The point split sinew, and darkness covered him.
+
+Antilochus, Nestor's son, struck Atymnius
+Within the flank; the bronze passed through, and he fell.
+Maris stood beside his brother's body,
+And sprang at Antilochus in rage. But godlike
+Thrasymedes thrust before he could strike,
+And pierced his shoulder; the spear severed muscle,
+Passed through the bone, and Maris fell with a crash.
+Darkness covered his eyes. Thus the two friends
+Of Sarpedon, the spear-fighting sons
+Of Amisodarus, went down to Erebus—
+The man who raised the unconquerable Chimera,
+A great evil for many.
+
+Ajax, Oileus' son, sprang upon Cleobulus,
+Still living, stunned among the confusion.
+He struck his neck with the sword's hilt and loosed
+His strength; the blade grew warm with blood, and death
+And the strong portion of fate seized his eyes.
+
+Peneleus and Lycon rushed together;
+Their spears went wide, and each cast his shaft in vain.
+Then they met again with swords. Lycon struck
+The boss of Peneleus' horse-haired helmet,
+But his sword broke around the shaft. Peneleus
+Cut Lycon's neck beneath the ear; the blade
+Went through, and only skin held on the head
+While all the limbs gave way.
+
+Meriones, running swiftly, caught Acamas
+As he climbed to his horses, and struck his shoulder.
+He fell from the chariot; mist covered his eyes.
+Idomeneus struck Erymas in the mouth
+With pitiless bronze. The spear passed beneath
+The brain, shattering the white bones; teeth sprang out,
+Both eyes filled with blood, and blood broke from
+His mouth and nostrils. Black death covered him.
+
+So each Danaan leader took a man, as wolves
+Fall on lambs or kids when scattered mountain flocks
+Have lost their shepherd—
+
 ## Decision log
 
 - Patroclus' borrowed armor is rendered as a social force: it changes what

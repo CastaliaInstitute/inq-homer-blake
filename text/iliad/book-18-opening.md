@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–242, is incorporated
+The first source-collated revision, covering lines 1–367, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -232,6 +232,119 @@ To turn back into Oceanus' streams against
 Its will. The sun went down; divine Achaeans ceased
 From war's fierce force and from the equal battle.
 
+The Trojans withdrew, unyoked their swift horses,
+And gathered in council before the evening meal.
+They stood upright; none dared sit, for trembling held
+Them all since Achilles, long absent from the fight,
+Had shown himself. Prudent Polydamas alone
+Could see before him and behind; Hector's companion,
+Born with him in one night, one strong in speech,
+The other in the spear, he addressed the assembly:
+
+“Consider, friends. Let us go into the city;
+Do not await bright dawn here on the plain beside
+The ships, far from the wall. While this man raged
+Against Agamemnon, Achaeans were easier;
+I was glad to sleep beside the ships, hoping
+To take the curved vessels. But now I fear
+Swift-footed Peleus' son; his spirit overmasters him.
+He will not stay where Troy and Achaeans divide
+The strength of Ares; he will fight for city
+And women. Come within the city and believe me.
+Tonight immortal night has stopped him; if tomorrow
+He finds us here, roused with his armor, one among us
+Will know him well. Gladly will reach holy Ilium
+The man who escapes; many Trojans will the dogs
+And vultures eat—would that the word might pass
+From ear into the deed!
+
+“If we heed my counsel,
+Though our hearts grieve, we will hold the assembly
+Through night, and shut the towers, gates, and long-fitted
+Doors within the city. At dawn we arm and stand
+Upon the towers. Then he will find it hard,
+Coming from ships to fight around our wall.
+He will return to ships when he has tired
+His high-necked horses driving beneath the city;
+His spirit will not let him rush within,
+Nor will he take it. Before that, white dogs
+Will eat him.”
+
+Crest-bright Hector answered darkly: “These words
+No longer please me when you tell us to go back.
+Have you not had enough of being penned within
+The towers? Once men called Priam's city rich
+In gold and bronze; now our beautiful treasures
+Are gone, possessions sold to Phrygia and
+Fair Maeonia, since Zeus has grown angry.
+
+“Now Cronus' son has granted me the glory to win
+Beside the ships and drive Achaeans to the sea;
+Do not, fool, bring such thoughts before the people.
+No Trojan will obey you, nor will I permit it.
+Let every man obey as I command: take food
+Throughout the camp, remember watch, and stay awake.
+Let any Trojan overly proud of possessions
+Give them out for the common feast; it is better
+One of our own should enjoy them than Achaeans.
+At dawn we arm and wake sharp Ares beside
+The hollow ships. If godlike Achilles has risen,
+It will be worse for him if he desires it so;
+But I will not flee the bitter fight. I stand
+Face to face, whether he carries strength away,
+Or I carry it. Enyalios is common to all:
+The killer may himself be killed.”
+
+The Trojans shouted their approval, poor fools;
+Athena had taken their wits away. They praised
+Hector, who counseled evil; no one remembered
+The excellent counsel of Polydamas.
+
+They ate throughout the camp. All night Achaeans
+Mourned Patroclus. The son of Peleus led
+The loud lament, laying his man-killing hands
+Upon his friend's breast, groaning like a bearded lion
+Whose cubs a hunter has snatched from the forest.
+Too late the lion comes, searching ravines along
+The man's tracks, possessed by bitter anger.
+
+Achilles groaned among the Myrmidons:
+“Ah me, I spoke a vain word when I encouraged
+Menoetius in his halls, promising to bring
+His glorious son back to Opous, after sacking
+Ilium, and give him his share of spoil. Yet Zeus
+Fulfills not every thought of men. For both of us
+It is fated to stain this earth in Troy;
+Nor shall horse-driving Peleus receive me home,
+Nor Thetis; earth herself will hold me here.
+
+“Patroclus, since I go beneath the earth after you,
+I will not bury you till I have brought here
+The armor and the head of Hector, your slayer.
+Before your pyre I will cut the throats of twelve
+Glorious Trojan children, furious because you died.
+Until then lie beside the curved ships, while Trojan
+And deep-bosomed Dardanian women mourn you,
+Shedding tears through night and day—women whose rich
+Cities we took by force and our long spear.”
+
+He ordered his companions to set a great tripod
+Upon the fire, to wash Patroclus quickly
+Of blood-stained mortal dust. They set the bath-tripod,
+Poured water in, and kindled wood beneath it.
+Fire surrounded the belly; water warmed
+Within the shining bronze. When it boiled, they washed
+The body, anointed it with oil, and filled
+The wounds with ointment aged nine years. They laid
+Him on the bier, covered him from head to foot
+With soft linen, and over it a white sheet.
+
+All night the Myrmidons lamented around
+Swift-footed Achilles. Then Zeus spoke to Hera:
+“You have accomplished your purpose, ox-eyed Hera;
+You roused swift-footed Achilles. Surely the long-haired
+Achaeans were born from you yourself.”
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -252,3 +365,9 @@ From war's fierce force and from the equal battle.
   secret summons, Athena's aegis and fire, the trumpet panic, the twelve
   Trojan deaths, the recovery of Patroclus, and Hera's forced sunset. Meter,
   Greek-fidelity, omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 18 pass through
+  18.367, preserving the Trojan council, Polydamas' retreat counsel,
+  Hector's refusal, Athena's delusion, Achilles' lament and burial vow,
+  the tripod washing and nine-year ointment, and the closing address from
+  Zeus to Hera. Meter, Greek-fidelity, omission/addition, and editorial
+  review remain pending.

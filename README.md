@@ -70,3 +70,6 @@ it is concept-review only until a print-resolution master is approved.
 The first [Iliad Book 1 interior proof](output/pdf/inq-homer-book-1-proof.pdf)
 and matching [Odyssey Book 1 interior proof](output/pdf/inq-homer-odyssey-book-1-proof.pdf)
 test the 7 × 10 page architecture and are samples, not release PDFs.
+
+The [historical plate proof](output/pdf/inq-homer-historical-plate-proof.pdf)
+tests role-level captions for acquired Flaxman/Blake and Flaxman/Piroli scans.

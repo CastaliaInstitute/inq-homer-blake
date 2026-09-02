@@ -436,47 +436,187 @@ so that these men may see: your black blood will run around my spear.”
 
 They broke the assembly. Achilles went to his ships
 
-with Patroclus and his faithful companions. The king sent men
+with Patroclus and his companions. Agamemnon hauled a swift ship
 
-to lead away fair-cheeked Briseis. Reluctantly they came,
+down to the sea, chose twenty rowers, and put aboard
 
-and stood there in silence, afraid of the prince.
+the hecatomb for the god. He led fair-cheeked Chryseis aboard,
 
-Achilles knew them and said: “Come nearer. You bear no blame.
+and set wise Odysseus as captain. They climbed in and sailed
 
-I know who sent you. Take her, and lead her away.
+the wet roads of the sea; meanwhile Agamemnon ordered the army
 
-Let them be witnesses before the blessed gods, and before men,
+to cleanse itself. They washed and cast the filth into the sea,
 
-of the day when the king will need me to save the army.”
+then sacrificed perfect hecatombs of bulls and goats to Apollo
 
-So they led Briseis from the sheltering hut. She went unwillingly.
+beside the shore of the barren sea; the smoke curled upward to heaven.
 
-Achilles withdrew to the shore and looked upon the gray sea,
+But the king did not cease from the quarrel he had first threatened.
 
-stretching his hands toward his mother, Thetis, born of the sea:
+He called Talthybius and Eurybates, his heralds and eager servants:
 
-“Since you bore me to a short life, surely Olympian Zeus,
+“Go to the hut of Achilles, son of Peleus; take fair-cheeked Briseis
 
-who thunders above, should give me honor. Yet he gives me none.
+by the hand and lead her here. If he will not give her, I myself
 
-Agamemnon, son of Atreus, has dishonored me and taken my prize.”
+will come with more men and take her—and that will be worse for him.”
 
-His mother heard him from the deep, where she sat beside her father.
+They went unwillingly along the barren shore and came to the huts
 
-She rose through the breaking water like mist, sat near her son,
+and ships of the Myrmidons. They found Achilles sitting beside
 
-and touched him with her hand: “Why do you weep, my child?
+his hut and black ship. He was not glad to see them. They stood,
 
-Tell me; do not hide the grief that has entered your heart.”
+afraid and ashamed before the king, and said nothing.
 
-He answered her, and told her all. Then Thetis said:
+Achilles knew why they had come and spoke first:
 
-“I will go to Olympus at dawn, and clasp the knees of Zeus.
+“Hail, heralds, messengers of Zeus and of men. Come nearer.
 
-I will ask him to lift the Trojans' strength, so the Achaeans
+You are not to blame; Agamemnon is to blame, who sent you
 
-may learn how dearly they have wronged you.”
+for the girl. Patroclus, beloved companion, bring her out
+
+and give her to them. Let these two be witnesses before the blessed gods,
+
+before mortal men, and before the harsh king himself, if ever again
+
+there is need of me to ward disgraceful death from the others.
+
+For he sacrifices with a mind bent on destruction; he does not know
+
+how to think at once of what is before him and what is behind,
+
+so that the Achaeans beside the ships might fight in safety.”
+
+Patroclus obeyed his beloved companion. He led fair-cheeked Briseis
+
+from the hut and gave her to the heralds, who returned to the Achaean ships.
+
+The woman went unwillingly. Achilles sat apart from his companions,
+
+weeping, on the shore of the gray sea, and looked out across the boundless water.
+
+He stretched both hands toward his dear mother and prayed:
+
+“Mother, since you bore me though I was doomed to a short life,
+
+at least Olympian Zeus, the high-thundering one, should have granted me honor;
+
+but now he has honored me not even a little. Agamemnon,
+
+son of Atreus, wide-ruling, has dishonored me: he has taken my prize,
+
+and keeps it for himself.”
+
+His mother heard him from the depths of the sea, seated beside her old father.
+
+Swiftly she rose from the gray sea like a mist, sat before her weeping son,
+
+caressed him with her hand, and called him by name:
+
+“Child, why do you weep? What grief has come into your heart?
+
+Speak out; do not hide it within you. Let us both know.”
+
+With a heavy groan Achilles answered:
+
+“You know it. Why should I tell it all to you, who know it already?
+
+We went to sacred Thebes, the city of Eetion; we sacked it
+
+and brought everything here. The sons of the Achaeans divided it fairly
+
+among themselves, but they chose fair-cheeked Chryseis for Agamemnon.
+
+Then Chryses, priest of far-darting Apollo, came to the swift ships
+
+of the bronze-clad Achaeans to ransom his daughter, bringing
+
+immeasurable gifts and holding in his hands the wreath and golden staff
+
+of the far-shooting god. He begged all the Achaeans,
+
+and above all the two sons of Atreus, commanders of the people.
+
+All the other Achaeans approved: they urged reverence for the priest
+
+and acceptance of the shining ransom. But Agamemnon's heart did not consent;
+
+he sent the old man away harshly and laid a strong command upon him.
+
+The old man went back in anger, and Apollo heard his prayer,
+
+for he loved him dearly. He shot a deadly arrow among the Argives,
+
+and the people died one after another as the god's shafts moved everywhere
+
+through the wide camp of the Achaeans. Then the prophet who knew the god's will
+
+spoke among us. I was the first to order that the god be appeased.
+
+But anger seized the son of Atreus; he rose at once and threatened me—
+
+and the threat is now fulfilled. The Achaeans are sending Chryseis
+
+to Chryse in the swift ship, with gifts for the lord;
+
+and heralds have just taken from my hut Briseis,
+
+the girl the sons of the Achaeans gave me. Now, if you can,
+
+protect your son: go to Olympus and supplicate Zeus. If ever
+
+you helped his heart by word or deed—for many times in my father's house
+
+I heard you boast that you alone among the immortals saved the dark-clouded
+
+son of Cronus from disgrace, when Hera, Poseidon, and Athena
+
+wanted to bind him. You came and loosed him, goddess,
+
+quickly calling to high Olympus the Hundred-Handed One,
+
+whom the gods call Briareus and men Aegaeon, stronger even than his father;
+
+he sat beside the son of Cronus in glory, and the blessed gods feared him
+
+and did not bind Zeus. Remind him of this, sit beside him, and clasp his knees,
+
+if he will somehow help the Trojans, drive the Achaeans back to their ships
+
+and the sea, and let them be cut down, so that all may profit by their king;
+
+so that Agamemnon may learn what madness he committed when he dishonored
+
+the best of the Achaeans.”
+
+Thetis answered him, weeping:
+
+“Ah, my child, why did I raise you, bearing such bitter grief?
+
+Would that you could sit beside the ships without tears and without pain,
+
+since your portion of life is short and not long at all.
+
+But now you are short-lived and more miserable than all men;
+
+for an evil destiny I bore you in my halls. I will go myself
+
+to Olympus, to Zeus who delights in thunder, and tell him these things,
+
+to see if he will listen. But for now sit beside your swift ships,
+
+hold your wrath against the Achaeans, and withdraw altogether from war.
+
+For Zeus went yesterday to Ocean and the blameless Ethiopians to feast,
+
+and all the gods went with him. On the twelfth day he will return to Olympus;
+
+then I will go to his bronze-floored house, clasp his knees,
+
+and I think I shall persuade him.”
 
 ## Extension: Thetis before Zeus and the gods' feast
 
@@ -621,6 +761,7 @@ There the god who gathers the clouds went to sleep.
 - 2026-09-02: Collation pass separated the tenth-day assembly (1.53–67) from Calchas's speech (1.68–100); restored Apollo's *mēnis*, Calchas's request for protection in word and hand, and Achilles's reference to lambs and unblemished goats.
 - 2026-09-02: Collation pass revised Agamemnon's and Achilles's exchange through 1.187; restored Clytemnestra, Agamemnon's safety claim, the ship-and-hecatomb order, Achilles's non-injury catalogue, and the distinction between *geras* and *timē*.
 - 2026-09-02: Collation pass revised Athena's intervention and the assembly's close through 1.305; restored the private divine staging, Zeus-appointed judges in the staff oath, Nestor's strength/rank distinction, and Achilles's conditional warning.
+- 2026-09-02: Collation pass revised Briseis's removal and Achilles's appeal through 1.430; restored the purification and sacrifice, the heralds' exoneration, the public witness language, the full grievance narrative, Briareus's rescue of Zeus, and the twelve-day delay.
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
   than a generic irritation.

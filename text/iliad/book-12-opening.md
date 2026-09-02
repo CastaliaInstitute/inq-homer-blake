@@ -2,7 +2,10 @@
 
 **Source passage:** Book 12, lines 1–471 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** First-pass literary draft; not yet approved for layout. A revised,
+source-collated pass for lines 1–194 is recorded in
+[`book-12-collation-1-194.md`](book-12-collation-1-194.md) pending promotion
+after meter review.
 
 ## Translation
 

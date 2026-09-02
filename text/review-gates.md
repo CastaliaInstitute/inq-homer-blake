@@ -6,10 +6,10 @@ the book's decision log.
 
 | Gate | Question | Evidence required |
 |---|---|---|
-| Greek fidelity | Does the English preserve the sense, agency, tense, and imagery of the Greek? | Line-level source notes and a list of disputed readings |
-| Narrative | Does every event, transition, and speech remain present and intelligible? | Scene outline checked against the Greek book |
-| Verse | Does the line sustain the project's flexible blank-verse cadence without mechanical padding? | Read-aloud pass and revision notes |
-| Diction | Are register, epithets, names, ritual terms, and metaphor consistent? | Glossary and cross-book concordance |
+| Greek fidelity | Does the English preserve the sense, agency, tense, sequence, imagery, and ambiguity of the Greek with every source unit mapped? | Complete source map, adopted readings, and omissions/additions report with no unexplained gaps |
+| Narrative | Does every event, transition, speech, simile, catalogue, formula, epithet, and ritual act remain present and intelligible? | Structural inventory checked against the Greek book |
+| Verse | Does the line sustain Longfellow's patient blank-verse discipline without mechanical padding? | Metrical report showing at least 85% naturally five-stress lines, all outliers logged, plus read-aloud revisions |
+| Diction | Are register, epithets, names, kinships, divine titles, ritual terms, governing source terms, and metaphors consistent? | Glossary, exception log, and cross-book concordance |
 | Notes | Do notes illuminate genuine difficulty without becoming a second translation? | Note audit and source citations |
 | Production | Does the approved text fit the page system without editorial compromise? | Proof PDF, page map, and sign-off |
 

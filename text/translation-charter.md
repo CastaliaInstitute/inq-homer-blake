@@ -14,6 +14,13 @@ principal formal reference. The target is flexible unrhymed iambic pentameter:
 a grave, processional line whose cadence can carry long narrative movement.
 The model governs tone, meter, and dignity, not wording or content.
 
+This project adopts the repository-wide `LONGFELLOW_TRANSLATION_STANDARD.md`.
+For Homer, one Greek hexameter may occupy one or two English pentameter lines;
+no formula, epithet, catalogue item, ritual act, simile, speech, or narrative
+event may be removed merely to force one-to-one lineation. Approved books must
+meet the standard's measurable source-mapping, completeness, meter, read-aloud,
+glossary, and sign-off thresholds.
+
 ## House rules
 
 - Preserve the twenty-four-book structure of both epics.

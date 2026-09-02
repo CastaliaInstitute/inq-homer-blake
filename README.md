@@ -59,6 +59,10 @@ The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status
 auditable.
 
+The translation structure gate verifies that every non-outline ledger row has
+its manuscript file, source passage, translation section, decision log, and
+appropriate unresolved-review warning.
+
 Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
 [*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions
 behind the current drafts.

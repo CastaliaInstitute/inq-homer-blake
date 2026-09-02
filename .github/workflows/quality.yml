@@ -23,5 +23,7 @@ jobs:
           ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
+      - name: Run translation structure preflight
+        run: scripts/preflight_translation.rb
       - name: Run PDF geometry preflight
         run: python3 scripts/preflight_pdfs.py

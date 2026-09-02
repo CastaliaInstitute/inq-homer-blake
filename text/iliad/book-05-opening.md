@@ -216,52 +216,63 @@ First he wounded Cypris near the wrist, then he rushed against me like a god.”
 So Apollo seated himself on the height of Pergamus, while Ares entered the crowd
 in the likeness of Acamas, leader of the Thracians, urging the Trojans.
 
-Diomedes mounted the chariot with Athena. They charged.
-Ares threw his spear, but Athena turned it aside. Diomedes cast,
-and the weapon entered below the ribs of Ares. The god cried out
-as loudly as nine thousand or ten thousand men cry in battle.
-The Trojans and Achaeans shook at the sound.
+The Trojans’ ranks were urged forward by fierce Ares, who had taken
+the form of swift Acamas, leader of the Thracians. He called to Priam’s sons:
+“Sons of Priam, Zeus-nourished king, how long will you let the Achaeans
+kill your people? Will you wait until they fight around your well-built gates?
+Aeneas lies there, a good companion whom we honored like Hector.
+Come, let us save him from the tumult.” His words stirred every heart.
 
-Ares rose like a dark storm and went to Olympus. He complained
-to Zeus: “You allow Athena to drive mortals against the gods.
-She has filled Diomedes with madness. He would fight his father
-if he stood before him. I am wounded, and my blood runs immortal.”
+Then divine Sarpedon rebuked Hector: “Hector, where has the courage gone
+you once possessed? You said you could hold the city without its people
+or allies, alone with brothers and sons-in-law. Now I see none of them;
+they shrink like dogs around a lion, while we fight as the allies you summoned.
+I have come from far-off Lycia beside the whirling Xanthus,
+leaving a dear wife, a little son, and many possessions behind,
+yet I urge my Lycians and myself to meet a man. Here I have nothing
+for an Achaean to carry away, but you stand idle and do not command
+the people to remain and defend their walls. Take care lest you and your people
+become prey, caught like flax in a snare, while the enemy soon sacks your city.
+You must entreat the famous allies, night and day, to stand unceasingly,
+and lay aside your harsh reproach.”
 
-Zeus answered with a thunderous look: “Do not sit beside me
-complaining. You are the most hateful god to me. You delight
-in strife, and your mother gave you an ungoverned heart.
-Still, I will not let you suffer forever.”
+His speech pierced Hector’s heart. Hector leapt from his chariot in armor,
+shook his sharp spears, and moved everywhere through the host,
+rousing the dreadful battle. They turned and faced the Achaeans;
+the Argives stood together and did not flee. As a wind carries chaff
+over a sacred threshing floor when men winnow grain, and the straw-heaps
+grow white beneath the wind, so the Achaeans grew white above in dust,
+as the horses’ hooves drove it up to the bronze sky and the drivers turned them.
+But fierce Ares covered the Trojans with darkness, moving everywhere
+to help them and fulfilling Apollo’s commands, who had sent him to raise
+the Trojan courage when he saw Athena withdraw, leaving the Danaans aid.
 
-He ordered Paeon to heal him, and Hebe washed his wound.
-Soon Ares stood whole again, but the battle below had changed.
+Apollo himself brought Aeneas from the sanctuary and put strength into him.
+His companions rejoiced when they saw him alive, unhurt, and full of courage,
+but did not ask what had happened: another labor was being raised by Apollo,
+Ares, and unwearied Strife.
 
-Hera and Athena returned to the field. Hera called to Zeus:
+The two Ajaxes, Odysseus, and Diomedes urged the Danaans to fight.
+They did not fear the Trojans’ strength or arrows, but stood like clouds
+that Cronus’ son holds still upon the mountain peaks until the force of Boreas
+and the other fierce winds sleeps. So the Danaans stood fast and did not flee.
+Agamemnon moved among them, calling: “Be men, friends; take a valiant heart,
+and respect one another in the fierce battle. More men survive when they feel shame;
+among the fleeing no glory rises, nor courage.”
+He cast his spear and struck Deicoon, companion of Aeneas,
+son of Pergasus, honored like Priam’s sons because he fought among the first.
+The spear passed through shield and belt into his lower belly;
+he fell, and his armor rang upon him.
 
-“Will you let Diomedes be destroyed by Ares? Let us help him.”
-
-Zeus consented. They drove toward the army, and Athena put on
-the helmet of Hades, which makes its wearer unseen. She seized
-the goad, and moved unseen beside Diomedes. The mortal heard her:
-
-“Drive on. Do not shrink. The son of Tydeus must know no fear.
-Strike Ares, and let him learn that a god who enters men's war
-may be met by the courage he teaches them.”
-
-Diomedes threw the spear. Athena guided it into Ares' body.
-When the god fell, a black stone would not have made a larger crash.
-The earth groaned beneath him. Ares rose in agony and fled.
-
-Athena and Hera returned to Olympus. The Trojan line collapsed
-around Hector. Sarpedon lifted the people of Lycia and urged them:
-
-“Do not retreat. We have come to die beside this city.
-If we were immortal, we would never fear the day of battle.
-But death is appointed to all, and glory remains with the bold.”
-
-Sarpedon and Glaucus drove forward. They found Tlepolemus,
-son of Heracles, and the two leaders exchanged spears.
-Tlepolemus struck Sarpedon's thigh; Sarpedon pierced
-Tlepolemus beneath the ear. Both fell, and each army mourned.
+Aeneas killed two excellent Achaeans, Crethon and Orsilochus,
+sons of Diocles, a wealthy man in well-built Pherae whose line descended
+from Alpheius, the broad-flowing river through Pylian land.
+Diocles fathered the twins, skilled in war; when they grew, they followed
+the Argives to Ilium to win honor for Agamemnon and Menelaus,
+but the end of death covered them there. Like two lions raised by their mother
+in the thick forest, they ravaged cattle and sheep in men’s folds until
+sharp bronze killed them in men’s hands; so Aeneas subdued them,
+and they fell like tall firs.
 
 Sarpedon prayed to Apollo for healing, but the god did not answer.
 The Lycian people carried him away, and Glaucus' wound was eased

@@ -53,6 +53,9 @@ CSV.read(source_manifest, headers: true).each_with_index do |row, index|
     fail!("source manifest row #{row_number} is missing #{field}") if row[field].nil? || row[field].empty?
   end
   if row["local_file"] && !row["local_file"].empty?
+    image_url = row["image_url"]
+    fail!("source manifest row #{row_number} has no reproducible image_url") if image_url.nil? || image_url.empty?
+    fail!("source manifest row #{row_number} image_url must use HTTPS") unless image_url.start_with?("https://")
     fail!("missing source asset #{row['local_file']} (row #{row_number})") unless File.file?(path_from_root(row["local_file"]))
   end
 end

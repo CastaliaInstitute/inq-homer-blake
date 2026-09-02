@@ -41,5 +41,6 @@ credit to the whole book.
 
 The Met marks its open-access collection images as available for unrestricted
 commercial and noncommercial use, but each selected scan still requires a
-record of the museum object, file, download date, and any reproduction
-conditions.
+record of the museum object, direct image URL, file, download date, and any
+reproduction conditions. The direct scan URLs are stored in the source
+manifest and enforced for every acquired historical file by asset preflight.

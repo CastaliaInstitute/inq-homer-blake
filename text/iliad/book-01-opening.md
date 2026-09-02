@@ -102,9 +102,13 @@ Come, let us ask a seer, or priest, or interpreter
 
 of dreams—for dreams are also from Zeus—to tell us
 
-why Phoebus is so bitter, and what vow or sacrifice
+why Phoebus is so bitter, whether he blames our vows
 
-he requires, that he may lift this death from the army.”
+or hecatombs, and whether he might meet us again
+
+and ward the ruin off by the savor of lambs
+
+and goats made perfect in sacrifice.”
 
 ## Extension: Calchas speaks
 
@@ -112,25 +116,31 @@ he requires, that he may lift this death from the army.”
 
 He sat, and Calchas rose among them, Thestor's son,
 
-the seer who knew what is, what was, and what will be,
+the best of augurs, who knew what is, what was, and what will be,
 
 and who had led the Achaean ships to Ilium
 
 by that prophetic art Apollo gave to him.
 
-With careful speech he answered them and said:
+With thoughtful speech he answered them and said:
 
-“Achilles, loved by Zeus, you ask me to reveal
+“Achilles, dear to Zeus, you ask me to declare
 
-the cause of this archer's anger. I will speak it;
+the wrath of Apollo, lord of the far-shooting bow.
 
-but swear to stand beside me. For I think that man
+I will speak it;
 
-will soon be roused against me, the one who rules
+but swear to stand beside me, and be ready in word
+
+and hand. For I think that man
+
+will soon be angered against me, the one who rules
 
 the Argives, and whose word the army must obey.
 
-No weak man is the king's resentment: if he hides
+No light thing is a king's resentment; stronger
+
+is a king when angered against a lesser man. If he hides
 
 his anger for a day, it grows and waits for payment.”
 
@@ -533,6 +543,8 @@ and beside him lay Hera of the golden throne.
 There the god who gathers the clouds went to sleep.
 
 ## Decision log
+
+- 2026-09-02: Collation pass separated the tenth-day assembly (1.53–67) from Calchas's speech (1.68–100); restored Apollo's *mēnis*, Calchas's request for protection in word and hand, and Achilles's reference to lambs and unblemished goats.
 
 - **“anger”** retains the poem's opening *mēnis*, a divine-scale wrath rather
   than a generic irritation.

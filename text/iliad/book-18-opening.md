@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–467, is incorporated
+The first source-collated revision, covering lines 1–540, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -449,6 +449,80 @@ As surely as beautiful armor shall be his,
 Such as another man, among the many generations,
 Will wonder at when he looks upon it.”
 
+He left her there and went among the bellows.
+He turned them toward the fire and bade them work.
+Twenty bellows blew together through their mouths,
+Breathing every wind that kindles flame; now rushing
+To help him in his haste, now falling quiet,
+As Hephaestus willed and as the work required.
+He cast untiring bronze upon the fire,
+Tin, precious gold, and silver; set the great anvil
+Firmly in its stand; grasped the mighty hammer
+In one hand, and in the other took the pincers.
+
+First he made a shield, great and strong, and wrought
+Its surface everywhere with cunning art.
+Around it he laid a shining triple rim,
+And fastened on a silver strap. The shield
+Had five folds; within its breadth he worked
+Many things, with all the wisdom of his heart.
+
+There he made the earth, the heavens, and the sea,
+The tireless sun, the full moon, and all the signs
+With which the sky is crowned: the Pleiades,
+The Hyades, Orion's strength, and the Bear,
+Whom men call Wain, turning in its place and watching
+Orion, yet alone denied the baths of Ocean.
+
+Upon it he made two cities of mortal men,
+Beautiful. In one were weddings and splendid feasts;
+Brides were led beneath the torchlight from their chambers
+Through the city, while the marriage song rose loud.
+Young dancers whirled; flutes and lyres sent music out,
+And women stood in every doorway, watching, amazed.
+
+The people gathered in the market-place. A quarrel
+Had arisen: two men disputed blood-price for
+A dead man. One promised to pay all, speaking it
+Before the people; one refused to take it.
+Both wished a judge to bring the matter to an end.
+The crowd shouted for each, supporting each in turn,
+But heralds held them back. The elders sat on stones
+Polished within the sacred circle, holding staffs
+Of clear-voiced heralds. Each rose and gave judgment.
+In the midst lay two talents of gold, to be given
+To the man among them who should speak most straightly.
+
+Around the other city two armies sat in bronze,
+Their counsel divided: whether to sack the lovely city,
+Or share among themselves the wealth it held within.
+Its people did not yield, but went secretly
+To lie in ambush. Wives and dear children stood
+Upon the wall to guard it, with old men held back
+By age. The hidden army moved; Ares and Athena
+Led them, both golden, clad in golden raiment,
+Beautiful and great, conspicuous above the men.
+
+They reached the river where the herds came down to drink,
+And sat apart in flashing bronze. Two scouts stood off
+From the army, waiting till they saw the sheep
+And horned cattle. Soon the herds appeared, two herdsmen
+Following, glad in their pipes, foreseeing no deceit.
+The ambushers rushed upon them, cut down the cattle,
+The white-fleeced sheep, and killed the shepherds.
+
+The besiegers heard the uproar among the herds;
+The scouts mounted their high-stepping horses, rode out,
+And swiftly came upon the raiders. They halted,
+Fought beside the river, cast bronze-tipped spears.
+Strife was there, and Tumult, and deadly Death;
+Death held a newly wounded man still alive,
+Another unwounded, another already dead,
+And dragged a corpse by its feet through the tumult.
+Her garment on her shoulders was red with blood
+Of men she had slain. They mingled like living men,
+Fought, and drew away each other's dead.
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -481,3 +555,8 @@ Will wonder at when he looks upon it.”
   Thetis' account of Peleus and Achilles, the armor commission, and the
   promise of wonder. Meter, Greek-fidelity, omission/addition, and editorial
   review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 18 pass through
+  18.540, preserving the twenty bellows and forge metals, the five-fold
+  shield, its cosmology and stars, both cities, the market judgment, the
+  ambush and river battle, and Strife, Tumult, and Death. Meter,
+  Greek-fidelity, omission/addition, and editorial review remain pending.

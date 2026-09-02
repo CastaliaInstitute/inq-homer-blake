@@ -206,98 +206,159 @@ that are mine.”
 So she spoke, but the life-giving earth already held them in Lacedaemon,
 in their dear native land.
 
-At last Idaeus brought the victims from the city.
-Priam climbed down, and Agamemnon met him between the lines.
-Talthybius and Idaeus mixed the wine in a shining bowl.
-The king of men cut hairs from the lambs and gave them out;
-then he raised his hands to Zeus:
+At last Idaeus brought the victims from the city. Priam climbed down,
+and Agamemnon met him between the lines. The heralds gathered
+the oath-gifts of the gods; they mixed the wine in the bowl
+and poured water over the hands of the kings. Agamemnon drew
+the knife that hung beside his great sword and cut hairs
+from the lambs’ heads; Trojan and Achaean heralds distributed them
+to the best men. Atreus’ son raised his hands and prayed:
 
-“Father Zeus, most glorious and greatest, and you, Sun,
-who see all things; rivers, earth, and powers beneath it,
-you who punish the oath-breaker when he lies in death—
-hear us. If Paris killed Menelaus, let him have Helen
-and all her possessions; let us sail away in our ships.
-If Menelaus killed Paris, let Troy return Helen's wealth.
-Let Priam and Priam's sons pay what is due, and let the rest
-of Troy remain in friendship with the Achaeans.”
+“Father Zeus, most glorious and greatest, lord of Ida; Sun,
+who see and hear all things; rivers and earth; and you beneath,
+who punish the dead when anyone swears falsely—be witnesses,
+guard this faithful oath. If Alexander kills Menelaus,
+let him keep Helen and all her possessions, and let us return
+in our seafaring ships. If golden-haired Menelaus kills Alexander,
+let the Trojans return Helen and all her possessions,
+and pay the Argives the honor that is due, an honor remembered
+among men yet to come. If Priam and Priam’s sons refuse to pay me
+the honor owed when Alexander has fallen, then I will remain here
+and fight on for compensation until I reach the war’s end.”
 
-He cut the lambs' throats, laid them upon the earth,
-and poured wine from the bowl. The men prayed in silence:
-“May Zeus make the guilty perish, as this wine is poured.”
+He cut the lambs’ throats with pitiless bronze, and laid them
+on the earth, gasping as the metal took their strength.
+They drew wine from the bowl into cups and poured it out,
+praying to the everlasting gods. Someone among Trojans and Achaeans said:
 
-Paris put on his beautiful armor. First the greaves,
-fastened with silver clasps; then the breastplate of his brother.
-He slung a sword with bronze studs across his shoulders,
-and lifted a great shield. Upon his head he set a helmet,
-terrible with horsehair; he took a spear, balanced and bright.
-Menelaus armed himself also, and the armies watched.
+“Father Zeus, greatest and most glorious, and all you other gods—
+whichever side first harms this oath, may their brains spill upon the ground
+as this wine does, their own and their children’s; may their wives
+be taken by others.”
 
-They cast lots for the first throw. Paris lifted his spear
-and struck Menelaus' broad shield, but the bronze point bent,
-and did not pass through the metal. Menelaus prayed:
+So they spoke, but Cronus’ son did not yet fulfill the prayer.
+Dardanian Priam addressed them: “Hear me, Trojans and well-greaved Achaeans.
+I am going back to windy Ilium; I cannot bear with my own eyes
+to see my dear son fight war-loving Menelaus. Zeus and the other immortals
+know which of the two has been assigned the end of death.”
+He set the lambs in the chariot, mounted, and drew the reins back;
+Antenor climbed beside him, and they drove toward Ilium.
 
-“Father Zeus, let me punish Paris, the man who harmed me.
-Let men in generations yet unborn be warned by his death,
-that no one who welcomes a stranger and steals his wife
-may escape the hand of vengeance.”
+Hector, Priam’s son, and brilliant Odysseus first measured the ground.
+Then they shook lots in a bronze-studded helmet to decide
+who should cast his bronze spear first. The people prayed,
+raising their hands to the gods:
 
-He cast. The spear tore through Paris' shield and pierced
-the corselet beneath it; Paris twisted aside, and escaped.
-Menelaus drew his sword and struck the helmet's crown.
-The blade broke in four pieces. The king cried aloud:
+“Father Zeus, lord of Ida, most glorious and greatest,
+grant that the one who brought these deeds upon both peoples
+may die and enter the house of Hades, while friendship and faithful oaths
+become ours.”
 
-“Father Zeus, no god is more hostile to me than you!
-I thought to punish him, but my weapon has shattered.”
+Hector shook the helmet and looked back; Paris’s lot leapt out first.
+The men sat in their ranks where each man’s horses and bright armor lay.
+Godlike Alexander, husband of fair-haired Helen, put on his armor:
+first the beautiful greaves with silver ankle-clasps;
+then the breastplate of his brother Lycaon, fitted to his body;
+around his shoulders he hung the bronze sword with silver studs,
+then the great, heavy shield. On his head he set the well-made horsehair
+helmet, its crest nodding terribly above him, and took the strong spear
+that fitted his palm. Menelaus armed himself in the same way.
 
-He seized Paris by the horsehair of his helmet and dragged
-him toward the Achaean ranks. He would have strangled him,
-but Aphrodite broke the strap beneath his chin and left
-only the empty helmet in Menelaus' hands. She covered Paris
-with mist and carried him to his fragrant chamber.
+They came from either side into the space between the armies,
+looking terribly at one another; wonder seized the Trojans and Achaeans.
+They stood close, measuring the ground, shaking their spears in anger.
+Paris cast his long-shadowed spear first, striking Atreus’ son’s shield,
+but the bronze did not break through; its point bent in the strong shield.
+Menelaus, son of Atreus, prayed and cast his own:
 
-Menelaus searched through the ranks like a wild beast,
-but no Trojan would admit where Paris had gone.
-Hector did not love him enough to conceal the truth;
-he knew that a hidden man brings shame upon all his friends.
+“Father Zeus, grant that I may punish godlike Alexander,
+who first wronged me; subdue him beneath my hands,
+so that a man yet unborn may tremble to do evil to a host,
+to one who offers friendship as a guest-friend.”
 
-Meanwhile Aphrodite called Helen from the wall. She took
-the likeness of an old woman who once worked at the loom
-beside Helen in Lacedaemon, and whispered from the doorway:
+He hurled the long-shadowed spear. It struck Priam’s son’s shield,
+passed through the shining metal, and lodged in the elaborate corselet;
+it tore the tunic beside his flank, but Paris bent aside and escaped
+the black Fates. Atreus’ son drew his silver-studded sword,
+raised it, and struck the helmet’s crest. Around the helmet
+the blade broke into three and four pieces and fell from his hand.
+He groaned and looked into the broad sky:
 
-“Come. Paris is calling you. He lies in his chamber,
-beautiful as a god, and waits for you. You would think
-he had returned from a dance, not from the edge of death.”
+“Father Zeus, no god is more destructive than you. I thought
+I would punish Alexander for his evil, but now the sword has shattered
+in my hands, and the spear flew uselessly from my palm.”
 
-Helen knew the goddess, and answered her with bitter speech:
+He sprang forward, seized the horsehair of Paris’s helmet,
+and dragged him around toward the well-greaved Achaeans.
+The embroidered chin-strap beneath his throat strangled him,
+and he would have dragged him away and won immeasurable glory,
+but Aphrodite, Zeus’s daughter, saw it and broke the strap
+with the force of an ox slaughtered for sacrifice. The empty helmet
+followed Menelaus’ strong hand. The hero whirled it and threw it
+among the well-greaved Achaeans; his loyal companions carried it off.
+Menelaus rushed again, eager to kill him with bronze, but Aphrodite,
+easily as a goddess, snatched Paris away, wrapped him in dense mist,
+and set him down in his fragrant, incense-filled chamber.
 
-“Why do you deceive me? Will you carry me farther still,
-to some city in Phrygia or Maeonia, where another mortal
-will become your darling? Menelaus has conquered Paris;
-he wants to take me home. You come here to set a snare.
-Go sit beside him. Forget the paths of the immortals.
-Do not return to Olympus. Let your grief become your life.”
+Aphrodite went again to call white-armed Helen. She found her
+on the high tower, surrounded by many Trojan women. Taking
+the form of an old woman, a spinner who had lived beside Helen
+in Lacedaemon and whom she loved, the goddess shook her fragrant robe
+and spoke: “Come here. Alexander calls you home. He lies in his chamber,
+on the turned bed, shining in beauty and dress. You would not think
+he had come from fighting a man, but from a dance, or from sitting down
+after the dance.”
 
-The goddess replied in anger: “Do not provoke me. I can make
-you hateful to both armies, and the death you fear will come.”
+The goddess stirred Helen’s heart. When Helen saw her lovely throat,
+desiring breast, and flashing eyes, she marveled and named her:
+“Strange woman, why do you long to deceive me? Will you carry me farther,
+to one of the well-inhabited cities—Phrygia or lovely Maeonia—if there
+is another mortal man dear to you there? Menelaus has defeated godlike
+Alexander and wants to lead hateful me home. Is that why you stand here,
+weaving deceit? Go sit beside him yourself; leave the gods’ road,
+and do not turn your feet toward Olympus again. Worry over him always,
+until he makes you his wife—or his slave. I will not go there;
+it would be shameful to tend his bed. Every Trojan woman would reproach me;
+I carry unnumbered griefs within my heart.”
 
-Helen went into the chamber, though her heart resisted.
-Paris had cast off his armor and lay upon the bed,
-as though he had come from a festival. She addressed him:
+Golden Aphrodite answered in anger: “Do not provoke me, wretched woman,
+lest I abandon you in my anger. I will make you hated as terribly
+as I have loved you, and set hateful enmity between Trojans and Danaans;
+you will perish in an evil fate.”
 
-“You return from battle. Would that you had died there,
-under the hand of the man whom I married before I knew you.
-You boasted that you were stronger than Menelaus;
-go now and call him out again. But I tell you, remain here.
-You will find no help in that soft body or bright hair.”
+Helen, daughter of Zeus, was afraid. She went silently, veiled in bright
+linen, unseen by all the Trojan women, and the goddess led her. When they
+reached Alexander’s beautiful house, the attendants turned quickly to work;
+Helen went into the high-roofed chamber. Smiling Aphrodite brought a chair
+and set it opposite Alexander. Helen sat, turned her eyes away, and rebuked
+her husband:
 
-Paris answered: “Do not wound me with such words.
-Menelaus conquered me with Athena's aid. I too have gods.
-Come, let us love one another. Desire has never seized me
-so powerfully—not even when I first carried you away.”
+“You have come from war. Would that you had perished there,
+conquered by the strong man who was once my husband!
+You boasted before that you were better than war-loving Menelaus
+in strength, hands, and spear. Go now and challenge him again;
+but I tell you: stop fighting him face to face, foolishly,
+lest soon his spear bring you down.”
 
-So he spoke, and she lay beside him, while Menelaus still
-searched the plain. The gods had hidden the war's appointed
-ending, and the oath that might have closed it came to nothing.
+Paris answered: “Do not wound my heart with harsh reproaches.
+Menelaus defeated me with Athena beside him; I will defeat him another time,
+for we have gods with us. Come, let us turn to love and lie together.
+Never before has desire so enveloped my mind—not even when I first
+carried you away from lovely Lacedaemon in seafaring ships,
+and joined with you in love and bed on Cranae’s island.
+So now I love you, and sweet longing takes hold of me.”
+
+He went first to the bed, and his wife followed. They slept in the bed’s
+perforated frame, while Atreus’ son prowled through the host like a wild beast,
+searching for Alexander; no Trojan or famous ally could point him out.
+No one hid him from love—he was hateful to them all,
+as hateful as black death. Agamemnon called across the ranks:
+
+“Hear me, Trojans, Dardanians, and allies: victory plainly belongs
+to war-loving Menelaus. Give up Argive Helen and the possessions with her,
+and pay the honor that is due, an honor that will remain among men to come.”
+
+So Atreus’ son spoke, and the other Achaeans applauded him.
 
 ## Decision log
 

@@ -3,7 +3,7 @@
 **Source passage:** Book 16, lines 1–867 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–704 are incorporated below; independent
+layout. Revised passes for lines 1–867 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 101–220 are recorded in
 text/iliad/book-16-collation-101-220.md.
@@ -791,6 +791,181 @@ Patroclus climbed the high wall at the corner;
 Three times Apollo thrust him back, touching
 His shining shield with immortal hands.
 
+When Patroclus, godlike, rushed the wall
+A fourth time, Apollo cried in winged wrath:
+“Draw back, Patroclus, born of Zeus. It is not
+Your portion to sack Troy with your spear—
+Nor even Achilles', better far than you.”
+He spoke; Patroclus drew far back, avoiding
+The Far-Shooter's anger.
+
+Hector held his one-hoofed horses at
+The Scaean Gate, and wondered whether he should
+Drive once more into the battle's heart,
+Or call the people back within the wall.
+As he considered, Phoebus came beside him
+In the likeness of a strong young man, Asius,
+Hector's mother's brother, Hecabe's full
+Brother, Dymas' son, who dwelt in Phrygia
+Beside the streams of Sangarius. In his shape
+The son of Zeus spoke: “Hector, why have you ceased
+From battle? It is not fitting. Would that I
+Were weaker than you by as much as I might be
+Stronger; then I would soon make you turn away
+From hateful war. Drive your strong-hoofed horses now
+Against Patroclus. Perhaps you may seize him,
+And Apollo grant you glory.”
+
+He spoke; the god returned among the labor
+Of mankind. Hector ordered wise Cebriones
+To lash the horses into battle. Apollo entered
+The multitude and threw confusion on
+The Argives, giving glory to the Trojans
+And Hector. Hector left the others, did not
+Strip armor, but drove straight at Patroclus.
+
+From the other side Patroclus leaped down,
+Holding his spear in his left hand; in the right
+He took a sharp and glittering stone, large enough
+To cover it, and hurled it without delay.
+The cast was not in vain: he struck Cebriones,
+Priam's renowned bastard, who held the reins,
+Between the brows. The stone crushed both eyebrows;
+Bone could not hold, and eyes fell in the dust
+Before his feet. Like a diver he fell out
+Of the well-made chariot; life left his bones.
+
+Patroclus mocked him: “How lightly he has leaped!
+He turns a neat somersault. If only he
+Were somewhere in the fish-filled sea, this man
+Could fill a hungry belly, diving from a ship
+For oysters, though the sea were rough. So lightly
+He tumbles now upon the plain. There are divers
+Among the Trojans too.”
+
+So he sprang upon Cebriones like a lion
+Ravaging a fold, wounded in the chest,
+Whose courage ruins it. Hector leaped from
+The horses on the other side. The two fought round
+Cebriones like lions on a mountain summit,
+Hungry, high in spirit, fighting over a deer—
+Patroclus, Menoetius' son, and radiant Hector,
+Masters of the war-cry, rushing to cut flesh
+With pitiless bronze. Hector seized the head
+And would not let it go; Patroclus held
+The foot. Trojans and Danaans joined the fight,
+And the war grew strong.
+
+As East Wind and South Wind strive in mountain valleys,
+Shaking the deep oak, ash, and smooth-barked cornel,
+When long branches strike with terrible sound
+And broken boughs crash, so Trojans and Achaeans,
+Leaping upon each other, slaughtered men,
+And neither thought of ruinous fear. Spears
+And feathered arrows sprang from bowstrings, fixed
+Around Cebriones; great stones battered shields.
+He lay immense within the whirl of dust,
+Forgetful of his horsemanship.
+
+While the sun stood high at heaven's middle,
+The weapons of both sides reached their marks and men
+Fell. But when the sun turned toward the hour
+Of unyoking, then beyond what fate allowed
+The Achaeans grew stronger. They dragged Cebriones
+Away from weapons and Trojans, stripped the armor
+From his shoulders.
+
+Patroclus rushed upon the Trojans,
+Evil in heart. Three times he sprang among them,
+Like swift Ares, shouting terribly; three times
+Nine men he killed. But when he rushed a fourth time,
+Equal to a god, the end of life appeared.
+
+Phoebus came against him in the fierce battle,
+Wrapped in thick mist, unseen. He stood behind
+And struck his broad back with the flat of his hand;
+Patroclus' eyes spun round. Apollo knocked
+The helmet from his head; it rolled beneath
+The horses' feet with ringing sound, its horsehair
+Stained by blood and dust. Until that hour the helm
+Had not been fated to be fouled, for it guarded
+The head and fair brow of godlike Achilles.
+But now Zeus gave it Hector, though the day
+Of his destruction was already near.
+
+The long-shadowed spear was shattered in Patroclus'
+Hands, heavy, great, and crested; from his shoulders
+The shield fell by its strap onto the earth.
+Apollo loosened the corselet from him.
+Delusion took his mind; his shining limbs
+Grew slack. He stood stunned. Behind, between his shoulders,
+A Dardanian struck him with a sharp spear—
+Euphorbus, Panthous' son, who surpassed his age
+In spearcraft, horsemanship, and running feet.
+He had first come with chariot and brought down
+Twenty men while learning war. He was the first
+To cast at you, Patroclus, but could not master you.
+He ran back into the crowd, drawing the ash
+Spear from your flesh; he did not stand to face you,
+Though you were naked in the battle.
+
+Patroclus, struck by god and spear, withdrew
+Among companions, fleeing his appointed death.
+When Hector saw him draw back, wounded by bronze,
+He came through the ranks and struck him in the belly;
+The bronze passed through. Patroclus fell with a crash,
+And deep grief seized Achaeans.
+
+As when a lion overcomes an unwearied boar,
+And both, high in the mountains, fight beside
+A little spring, each thirsting to drink, till force
+At last subdues the panting boar—so Hector,
+Priam's son, near his spear, took life away
+From brave Patroclus, who had killed so many,
+And spoke in triumph:
+
+“Patroclus, surely you said you would lay waste
+Our city, take the free day from Trojan women,
+And carry them by ship to your dear fatherland—
+Fool! Before them Hector's swift horses have
+Stretched their feet to battle. I excel with spear
+Among the Trojans who defend their day;
+But vultures will devour you here. Poor man,
+Achilles did not help you, though he gave you
+Many commands: ‘Do not return to hollow ships,
+Driver of horses, until you strip the bloody
+Tunic from the breast of man-killing Hector.’
+So he spoke, I think, and your foolish mind obeyed.”
+
+With failing strength Patroclus answered him:
+“Boast now, Hector. Zeus, Cronus' son, and Apollo
+Gave you victory; they easily subdued me,
+And stripped the armor from my shoulders. If twenty
+Men like you had met me, all would have perished
+Here beneath my spear. But deadly fate and Leto's
+Son have killed me, and among men Euphorbus;
+You are the third to strip me. Hear this and hold
+It in your heart: you shall not live long. Death
+And mighty fate stand near; you shall fall beneath
+The hands of blameless Achilles, Aeacus' son.”
+
+He spoke; death covered eyes and nostrils. His spirit
+Flew from his limbs and went to Hades, lamenting
+Its fate, leaving its manhood and its youth.
+
+Even dead, bright Hector answered: “Why prophesy
+My steep destruction, Patroclus? Who can know
+If Achilles, fair-haired Thetis' son, will not
+First be struck beneath my spear and lose his life?”
+
+He spoke, set foot upon him, drew the bronze
+Spear from the wound, and thrust him from it backward.
+Then after Automedon he went with spear,
+The godlike friend of swift-footed Aeacides,
+Desiring to strike him; but immortal horses,
+Beautiful gifts the gods had given to Peleus,
+Carried Automedon away.
+
 ## Decision log
 
 - Patroclus' borrowed armor is rendered as a social force: it changes what
@@ -819,3 +994,9 @@ His shining shield with immortal hands.
   Zeus' deliberation, Apollo's washing and transfer, Patroclus' pursuit
   catalogue, and Apollo's threefold repulse. Meter, Greek-fidelity,
   omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision completes the source-collated Book 16 pass through
+  16.867, preserving Apollo's fourth warning, the Asius disguise, Cebriones'
+  death and diver image, the lion contest, the wind-and-forest simile,
+  Apollo's disarming blow, Euphorbus' wound, Hector's killing spear, and
+  Patroclus' final prophecy. Meter, Greek-fidelity, omission/addition, and
+  editorial review remain pending.

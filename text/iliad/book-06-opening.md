@@ -81,36 +81,82 @@ your furious courage while I go into Ilium and tell the elders and our wives to 
 to the gods and promise hecatombs.” Thus he spoke and went away, and the shield's
 rim, running lowest around its boss, struck his ankles and the dark skin of his neck.
 
-Glaucus and Diomedes met between the armies.
-They raised their spears, but Diomedes asked:
+Glaucus, son of Hippolochus, and Tydeus' son Diomedes came together
+between the armies, both eager to fight. When they had drawn near,
+Diomedes spoke first, his voice strong in battle:
 
-“Who are you, my friend? I have never seen you in battle.
-You are bold to stand before me. Better not to meet me.
-Tell me your name. No man lives long who fights my spear.”
+“Who are you, best of mortal men? I have never seen you before
+in the glory-making war; yet now you have gone far beyond all others
+in daring, to wait for my long-shadowed spear. The sons of the unhappy
+who meet my strength do not live long. If you have come down from heaven,
+I will not fight the gods who dwell above; even mighty Lycurgus, son of Dryas,
+did not live long when he quarreled with the immortals. He once drove the nurses
+of raging Dionysus down the holy slopes of Nysa; they scattered the fennel wands
+while man-slaying Lycurgus beat them with his ox-goad. Dionysus, afraid, plunged
+beneath the sea, and Thetis received him trembling in her lap; the man's shout
+had filled him with terror. The gods who live easily were angered at Lycurgus,
+and the son of Cronus blinded him; nor did he live long, hated by every god.
+I would not fight the blessed ones. But if you are one of those mortals who eat
+the fruit of the earth, come nearer, that you may sooner reach the boundary of death.”
 
-Glaucus answered: “Why ask my birth? It is like the leaves.
-The wind scatters them, and spring gives others to the wood.
-So one generation grows, and another falls. Yet hear my lineage.
-My father was Hippolochus, son of Bellerophon,
-whom the gods loved, though he too learned mortal grief.
+The shining son of Hippolochus answered: “Great-hearted son of Tydeus, why ask
+my lineage? Like the leaves, so is the race of men. The wind scatters one year's
+leaves upon the ground, and the forest, breaking into flower, grows others when
+spring returns. So one generation of men comes forth, and another passes away.
+Yet, if you wish to know this too, that you may know it well, many men know my house.
 
-Bellerophon was sent to Lycia with a folded message,
-which commanded his death. The king's daughter desired him,
-but he would not betray his guest. The king, angered, sent him
-against the Chimera, the fire-breathing beast of divine blood.
-He killed it, and the Solymi, and the Amazons in battle.
-At last he wandered alone, hated by the gods, upon the plain.
-I am his grandson. My house is honored in Lycia.”
+“There is a city called Ephyre, in the heart of horse-breeding Argos. There lived
+Sisyphus, most cunning of men, Sisyphus son of Aeolus; his son was Glaucus, and
+Glaucus fathered blameless Bellerophon. The gods gave Bellerophon beauty and
+lovely courage. But Proetus devised evil against him, and drove him from the people
+of Argos, for he was much stronger than they; Zeus had placed them beneath Proetus'
+scepter. Then the wife of Proetus, divine Anteia, was seized with desire to lie
+secretly with him, but Bellerophon would not yield, for his thoughts were good.
+She lied to King Proetus: ‘Die, Proetus, or kill Bellerophon, who sought to lie
+with me against my will.’ The king was angered, yet feared to kill him, and sent
+him to Lycia with a folded tablet bearing many signs of death, commanding that
+he be destroyed by the man who received it.
 
-Diomedes answered: “Then you are an old guest-friend of mine.
-Oeneus once welcomed Bellerophon into his house for twenty days.
-They exchanged bright gifts: a purple belt for a golden cup.
-Therefore I will not fight you. You are my friend across the ranks.
-Let us exchange armor, so that all men may know this bond.”
+“Bellerophon went under the gods' good escort. When he reached broad Lycia and
+the flowing Xanthus, the king welcomed and honored him, feasting him nine days
+and sacrificing nine oxen. On the tenth dawn he asked to see the sign that Proetus'
+son-in-law had sent. When he had received the deadly tablet, he first commanded
+Bellerophon to kill the unconquerable Chimera, a creature of divine stock:
+in front a lion, behind a serpent, and in the middle a goat, breathing the terrible
+strength of burning fire. Bellerophon killed her, trusting the omens of the gods.
+Then he fought the glorious Solymi, saying that this was the hardest battle among
+men; and third he slew the man-like Amazons. When he returned, the king wove another
+close snare, choosing the best men from broad Lycia and setting them in ambush.
+None returned home; blameless Bellerophon killed them all. At last, knowing that
+he was the dear son of a god, the king held him there, gave him his daughter, and
+granted him half the royal honor. The Lycians cut out for him a beautiful estate,
+rich in orchard and plowland, that he might possess it.
 
-They leapt from their chariots and clasped hands.
-Zeus took Glaucus' sense away, for he gave golden armor
-worth a hundred cattle for bronze worth only nine.
+“His wife bore three children to brave Bellerophon: Isander, Hippolochus, and
+Laodameia. Zeus who counsels all lay with Laodameia, and she bore godlike Sarpedon,
+armed in bronze. But when Bellerophon became hated by all the gods, he wandered
+alone across the Aleian plain, eating his heart and shunning the paths of men.
+Ares, insatiable in war, killed his son Isander as he fought the glorious Solymi;
+Artemis of the golden reins, angered, killed Laodameia. Hippolochus fathered me,
+and from him I say that I was born. He sent me to Troy with many commands: always
+to be best and excel all others, never to shame the blood of my fathers, who were
+the greatest in Ephyre and in broad Lycia. Of this lineage and blood I boast.”
+
+Diomedes rejoiced when he heard him, planted his spear in the earth, and answered
+the shepherd of the people with gentle words: “Then you are an ancient guest-friend
+of my father's house. Noble Oeneus once entertained blameless Bellerophon in his
+halls for twenty days, and they exchanged beautiful guest-gifts: Oeneus gave a
+bright purple belt, and Bellerophon a golden, two-handled cup. I left that cup at
+home when I came here. I do not remember Tydeus, for I was still a child when the
+Achaeans perished at Thebes. So now I am your guest-friend in Argos, and you mine
+in Lycia, if ever I come among that people. Let us avoid each other's spears in the
+crowd; there are Trojans and famous allies enough for me to kill, whom some god
+may place in my path, and Achaeans enough for you to kill, if you can. Let us exchange
+armor, so that these men may know that we boast of being our fathers' guest-friends.”
+
+They spoke, leapt down from their chariots, clasped one another's hands, and pledged
+their faith. But Zeus, son of Cronus, stole Glaucus' understanding: he exchanged
+golden armor for bronze, the price of a hundred cattle for the price of nine.
 
 Meanwhile Hector entered the city and called to the women:
 “Go to the temples. Pray to Athena, and promise a robe,

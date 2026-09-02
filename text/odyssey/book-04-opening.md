@@ -3,6 +3,8 @@
 **Source passage:** Book 4, lines 1–847 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
+Lines 1–67 are recorded in
+text/odyssey/book-04-collation-1-67.md.
 
 ## Translation
 

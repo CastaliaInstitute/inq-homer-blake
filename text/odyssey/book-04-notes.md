@@ -5,7 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 4.1–67 | Telemachus welcomed at Sparta | Hospitality before inquiry | Verify the wedding context, guest order, and recognition cues. |
+| 4.1–67 | Telemachus welcomed at Sparta during Menelaus’ double wedding feast | Hospitality before inquiry | Collated 2026-09-02; verify Hermione and Megapenthes’ marriage context, the singer and tumblers, Eteoneus’ recognition, horse care, bathing sequence, and Menelaus’ guest-first order at meter review. |
 | 4.68–167 | Menelaus identifies Telemachus and hears his request | Memory and grief | Check the champion reminiscences and speech boundaries. |
 | 4.168–305 | Menelaus recounts Egypt and Proteus | Transforming sea-god | Collate the seal disguises, transformations, and divine instructions. |
 | 4.306–624 | Helen and Menelaus recall Odysseus at Troy | Competing memories | Verify the drug, the horse episode, and the disguised-entry account. |

@@ -1,6 +1,6 @@
 # *Iliad*, Book 2 — working translation
 
-**Source passage:** Book 2, lines 1–100
+**Source passage:** Book 2, lines 1–877 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
@@ -201,6 +201,169 @@ The army laughed, and one man turned to another:
 “Odysseus has done a thousand good things, but this is best:
 
 he has stopped the loud mouth that disgraces the people.”
+
+The assembly now stood restored. The kingly heralds called
+the soldiers back into ranks, and the men fell into order.
+As when a fire runs over the dry hillside, and the wind
+drives its red tongue before it, so the murmur passed
+through all the camp. The earth groaned beneath the feet
+of the moving host. Then the chiefs began to marshal
+the chariots, horses, shields, and men beside the sea.
+
+Agamemnon went among them, like a bull that leads the herd,
+high among the cattle, standing out above them all.
+He was attended by the heralds and by men of counsel,
+and Nestor urged the Pylians into their ordered ranks.
+The lord of men commanded each captain to make his people
+stand by tribes and clans, so that one might aid another
+when battle closed, and every man might know his neighbor.
+
+First came the Boeotians, from Hyria and Aulis,
+from Schoenus, Eteon, Thespia, and the vine-rich Graia;
+from Mycalessus, Harma, Peteon, and Eilesion,
+they brought fifty dark ships, and in each ship stood
+one hundred and twenty young men, fitted for war.
+
+The men of Aspledon and Orchomenos followed,
+from Minyan Orchomenos, in thirty ships beneath
+their captains. The Phocians came from Cyparissus,
+Panopeus, Daulis, and Anemoria, from Hyampolis,
+and from the river Cephissus and sacred Lilæa.
+Forty ships stood there, and the bronze flashed beneath sun.
+
+The Locrians came from Cynus, Opus, Calliarus,
+Bessa, Scarphe, Augeia, and lovely Thronium,
+from Tarphe and from the banks of Boagrius;
+forty dark ships were theirs, and Ajax the lesser led them.
+
+The Euboeans came, the Abantes, long-haired men,
+from Histiaea, Hyrie, Cerinthus, and the high city
+of Dios; from Caristus and Eretria, they filled
+forty ships. Elephenor, son of Chalcodon,
+stood before them, old in years but swift in courage.
+
+Then came the men of Athens, city of broad ways,
+from the land of Ajax and from the shore of Salamis;
+fifty ships moved under Menestheus, whom no man knew
+better than he how to set the chariots and shielded men
+in battle order. Ajax of Salamis brought twelve ships,
+and drew them where the Athenian ranks were gathered.
+
+Argos, Tiryns, Hermione, and Asine sent their people;
+Epidaurus and Trœzen, Ægina and Mases,
+and the Achaean shore gave ships beneath Diomedes,
+the son of Tydeus, and Sthenelus, glorious in war.
+Eighty ships stood there. The men of Mycenae,
+Cleonae, Orneia, and lovely Aretbyrea,
+of Sicyon and Hyperesia, Gonoessa and Pellene,
+filled their black ships beneath Agamemnon's power.
+
+From Lacedaemon came the men of hollow valleys,
+Pharis, Sparta, Messa, and Brysia, from Augeia,
+Amyclae, and Laas, and from the sea-bright Helos;
+sixty ships were theirs, led by Menelaus,
+whose heart still carried Helen and the wrong of Troy.
+
+The men of Pylos came, and those of Cyparisseis,
+Amphigenia, and Pteleos, of Arene and Dorion,
+where the Muses met Thamyris and struck his singing dumb.
+Nestor, the old horseman, led ninety ships;
+his sons made ready the spears and tightened every rein.
+
+The Arcadians came from Tegea, Mantinea,
+Stymphelus and Parrhasia, from Orchomenus,
+Ripe, Stratia, Enispe, and the windy mountain lands.
+Agapenor led them in sixty ships, but they had no sea
+of their own; the great King Agamemnon supplied
+the vessels, that they too might cross the wine-dark water.
+
+The men of Elis came, from Hyrmine and Myrsinus,
+from the rock of Olene, from Alpheius and Epitalium,
+from Dulichium and the holy islands in the sea.
+Amphimachus and Thalpius led their forty ships.
+
+Odysseus brought the Cephallenians, from Ithaca,
+Neritum, Ægilipa, Zacynthus, and the mainland shore;
+from Crocylea and rough Asteria they came,
+in twelve dark ships, beneath the mind of Laertes' son.
+
+The men of Ætolia followed, from Pleuron and Olenus,
+from Chalcis and Calydon, from rocky Pylenê;
+Thoas led them. The Cretans came from Cnossus,
+Gortyna, Lyctus, Miletus, and the white city
+of Phaestus, in eighty ships beneath Idomeneus.
+
+The Rhodians came from Lindus, Ialysus, and Camirus,
+under Tlepolemus, who had fled his father's house.
+The men of Syme came, and those of Nisyros,
+Casus, and Cos, with Calydna's islands;
+Pheidippus and Antiphus led thirty ships.
+
+But tell me now, Muses, who inhabit Olympus—
+you are divine, you see all things, and we hear only rumor—
+who were the chiefs and kings of the Danaans?
+I could not name the common multitude, nor count them,
+unless the nine voices of the Muses were beside me,
+remembering every ship and every captain.
+
+The men of Argos, the Athenians, the Cretans,
+the Ionians and the men of Salamis, assembled;
+the Locrians, Phocians, and Euboeans held their ground.
+The two Ajaxes stood among the foremost ranks,
+and Idomeneus, Diomedes, and Menelaus came on.
+Above them all Agamemnon moved, shining in bronze,
+like a bull that towers over the driven herd.
+
+Across the plain the Trojan people gathered also.
+Hector, Priam's son, held the first command,
+great in strength and terrible in flashing bronze.
+With him stood the Dardanians, beneath Aeneas,
+son of Anchises, whom Aphrodite bore to him.
+The men of Zeleia came, rich in silver, under Pandarus;
+the people of Adrastea, Percote, and Practius followed.
+
+From Abydos came Asius, son of Hyrtacides,
+with men from Arisba and the shores of Selleis.
+Hippothous led the Pelasgian spearmen from Larisa.
+Acamas and Pirous led the Thracians, and Euphemus
+the Ciconian fighters. Pirechmes brought the Paeonians
+from Amydon, beside the broad and shining Axios.
+
+Pylaemenes led the Paphlagonians from Eneti,
+where the wild mules are born; from Cytorus and Sesamus,
+from Cromna, Aegialus, and the high Erythini,
+they came with their round shields. The Halizonians followed,
+from distant Alybe, where the silver is born,
+under Odius and Epistrophus.
+
+The Mysians, Phrygians, and Maionians came;
+the Carians from Miletus, and the Lycian people,
+from Xanthus, beneath Sarpedon and Glaucus,
+two far-shining leaders. Thus both armies formed,
+and the plain became a field of spears and horses.
+
+As when a flock of countless birds descends upon a meadow—
+geese, cranes, or long-necked swans beside the river—
+and the meadow rings with wings, while the birds alight
+in one great folding cloud, so over the plain
+the peoples moved. The dust rose under their feet,
+and the bronze cries went up to heaven.
+
+The Trojans came on like a flock of sheep in the court
+of a wealthy man, when thousands are being milked;
+their bleating fills the air, and no single voice is heard.
+So the tongues of the host were many. The gods,
+however, gave to each man his own speech and country.
+But the Achaeans advanced in silence, breathing courage,
+each heart resolved to stand beside his fellow.
+
+Now the other immortals sat apart from men,
+in the folds of cloud upon the summit of Olympus,
+looking upon the war, and Zeus who gathers clouds
+held the scales of fate above the two armies.
+The day had come when all the bronze-clad people
+would move toward battle, and Troy would learn again
+that the anger of the gods is not a light wind.
 
 ## Decision log
 

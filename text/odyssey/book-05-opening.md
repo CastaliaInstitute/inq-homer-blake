@@ -5,6 +5,8 @@
 **Status:** First-pass literary draft; not yet approved for layout.
 Lines 1–42 are recorded in
 text/odyssey/book-05-collation-1-42.md.
+Lines 43–147 are recorded in
+text/odyssey/book-05-collation-43-147.md.
 
 ## Translation
 

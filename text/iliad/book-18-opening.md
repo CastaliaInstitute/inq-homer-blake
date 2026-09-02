@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–147, is incorporated
+The first source-collated revision, covering lines 1–242, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -133,6 +133,105 @@ And ask for glorious armor for my son.”
 They sank beneath the wave; Thetis went toward
 Olympus and the master of the forge.
 
+Thetis' feet bore her toward Olympus; meanwhile
+Well-greaved Achaeans fled before man-slaying Hector,
+Reaching ships and Hellespont. They could not yet
+Drag Patroclus from the weapons: host and horses
+Came upon him again, and Hector, flame-like in
+His strength. Three times he seized the dead man's feet,
+Eager to drag him, calling to the Trojans;
+Three times the Ajaxes, clothed in furious strength,
+Shook him away. Yet Hector trusted in
+His steadfast might, leaping into the tumult,
+Standing and shouting terribly, refusing to withdraw.
+
+As shepherds in the fields cannot drive a lion,
+Bright-maned, from a great and famished beast's dead body,
+So the two Ajaxes could not make Hector fear
+Or draw him from the fallen. He would have dragged
+The corpse away and won boundless glory, had not
+Swift Iris, wind-footed messenger, run from Olympus
+To Peleus' son, secretly summoning him to arm;
+Hera had sent her before Zeus or the immortals
+Around snow-crowned Olympus knew.
+
+She stood near him and spoke: “Rise, son of Peleus,
+Most terrible of men. Defend Patroclus,
+For whom the bitter battle stands beside
+The ships, and men destroy each other—some
+Defend the dead, while Trojans drag him toward
+Windy Ilium. Hector most of all desires
+To haul him off, sever his tender neck,
+And set his head upon the stakes. Rise! Let reverence
+For Patroclus enter you, lest he become
+A plaything for Trojan dogs, and shame be yours.”
+
+Swift-footed Achilles answered: “Iris, goddess,
+Which of the gods has sent you as a messenger?”
+Wind-footed Iris answered: “Hera sent me,
+The glorious wife of Zeus. The high-throned son
+Of Cronus does not know, nor any immortal
+Who dwells on snowy Olympus.”
+
+Achilles replied: “How can I go to battle?
+They hold my armor. My dear mother would not let
+Me arm until I saw her come before my eyes;
+She promised beautiful weapons from Hephaestus.
+I know no other shield I could put on,
+Unless it were great Ajax's—but I think
+He stands among the foremost, striking round
+The body of Patroclus.”
+
+Iris answered: “We know your famous armor lies
+Within their hands. Go as you are to the trench,
+Show yourself to Troy; perhaps they will fear you,
+Hold back from battle, and the war-worn sons
+Of Achaeans draw one breath from all their labor.”
+
+She spoke and left. Achilles, dear to Zeus, arose;
+Athena cast the tasselled aegis round his shoulders,
+Set a golden cloud about his head, and kindled
+Within it flame that shone afar.
+
+As smoke rises from a city toward the sky,
+From an island far away where hostile armies
+Fight around the walls, and through the day are judged
+By hateful Ares outside their native city,
+But when the sun goes down the watch-fires blaze
+In triple ranks, their light leaping high that neighbors
+May see and bring defenders in their ships,
+So from Achilles' head the shining reached the air.
+He went from the wall and stood upon the trench,
+Not mingling with Achaeans, for he watched
+His mother's solemn command.
+
+There he stood and cried aloud; far off Athena
+Lifted her voice, and among the Trojans raised
+An immeasurable panic. As a trumpet's cry,
+Clear and piercing round a city when enemies
+Surround it, so rang the voice of Aeacus' son.
+All hearts were shaken; fair-maned horses turned
+Their chariots back, foreseeing grief. Charioteers
+Were struck with terror when they saw the tireless fire
+Burning above the head of Peleus' son,
+Kindled by bright-eyed Athena.
+
+Three times divine Achilles cried above the trench;
+Three times Troy and her allies fell confused.
+Twelve bravest men died beside their cars and spears.
+Then Achaeans gladly dragged Patroclus out
+From underneath the weapons, laid him on a bier,
+And dear companions stood around him mourning.
+Achilles followed, shedding hot tears, when he saw
+His faithful friend upon the bier, torn by bronze—
+The man he sent with horses and a chariot,
+But never welcomed home.
+
+Ox-eyed, honored Hera forced the tireless sun
+To turn back into Oceanus' streams against
+Its will. The sun went down; divine Achaeans ceased
+From war's fierce force and from the equal battle.
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -147,4 +246,9 @@ Olympus and the master of the forge.
   18.147, preserving Antilochus' death-message, Achilles' bodily lament,
   Thetis and the Nereid catalogue, the vow against Hector, the warning about
   Achilles' own death, and Thetis' departure for Hephaestus. Meter,
+  Greek-fidelity, omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 18 pass through
+  18.242, preserving Hector's repeated attempt to seize Patroclus, Iris'
+  secret summons, Athena's aegis and fire, the trumpet panic, the twelve
+  Trojan deaths, the recovery of Patroclus, and Hera's forced sunset. Meter,
   Greek-fidelity, omission/addition, and editorial review remain pending.

@@ -106,14 +106,19 @@ def book_translation(path):
     if not translation_lines:
         raise ValueError(f"{path} lacks a Translation section")
     lines = []
+    skip_metadata_block = False
     for raw_line in translation_lines:
         line = raw_line.strip()
         if not line:
+            skip_metadata_block = False
             continue
         # Extension headings and source-range labels are editorial metadata,
         # not interior verse. Keep the extraction safe if more sections are
         # added before the decision log.
         if line.startswith("#") or line.startswith(("**Source passage:", "**Continuation:", "**Book ")):
+            skip_metadata_block = True
+            continue
+        if skip_metadata_block:
             continue
         line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
         lines.append(escape(line))

@@ -12,6 +12,8 @@ Lines 278–384 are recorded in
 text/iliad/book-21-collation-278-384.md.
 Lines 385–497 are recorded in
 text/iliad/book-21-collation-385-497.md.
+Lines 498–611 are recorded in
+text/iliad/book-21-collation-498-611.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -20,7 +22,7 @@ text/iliad/book-21-collation-385-497.md.
 | 21.211–277 | Scamander turns against Achilles | Landscape as opponent | Collated 2026-09-02; preserve the river’s human likeness and rebuke, Achilles’s conditional vow, Apollo’s delayed command, dead and living river images, elm, eagle, water-guide, repeated wave, and prayer to Zeus. |
 | 21.278–384 | Scamander attacks Achilles | Landscape as opponent | Collated 2026-09-02; preserve Poseidon and Athena’s intervention, Simoeis, the burial threat, Hera’s wind-and-fire command, Hephaestus’s burning sequence, fish, boiling channels, and Scamander’s surrender. |
 | 21.385–497 | The gods quarrel after the river’s defeat | Divine farce | Collated 2026-09-02; preserve Zeus’s laughter, Ares and Athena, Aphrodite’s rescue, Laomedon’s unpaid wage, the leaf simile, Artemis and Hera, the bow, the dove, and Hermes’s refusal. |
-| 21.498–611 | Gods quarrel; Achilles is diverted | Fate deferred | Verify divine combats, Agenor, Apollo, and endpoint. |
+| 21.498–611 | Apollo diverts Achilles from Troy | Fate deferred | Collated 2026-09-02; preserve Leto and Artemis, Apollo’s wall-watch, Priam’s gates, smoke, Agenor’s debate and leopard simile, the tin greave, Apollo’s double deception, and the city’s final refuge. |
 
 ## Draft warning
 

@@ -27,5 +27,9 @@ jobs:
         run: scripts/preflight_translation.rb
       - name: Run source-lock preflight
         run: ruby scripts/preflight_source_lock.rb
+      - name: Rebuild and verify Greek source coverage ledger
+        run: |
+          python3 scripts/build_source_coverage.py
+          git diff --exit-code -- text/source-coverage.csv
       - name: Run PDF geometry preflight
         run: python3 scripts/preflight_pdfs.py

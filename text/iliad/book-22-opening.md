@@ -2,9 +2,9 @@
 
 **Source passage:** Book 22, lines 1–515 (complete working-book draft)
 
-**Status:** First source-collated literary revision through lines 1–366;
-independent meter and Greek-fidelity review remains pending. Lines 367–515
-remain in their Greek-collation files pending promotion.
+**Status:** First source-collated literary revision through lines 1–436;
+independent meter and Greek-fidelity review remains pending. Lines 437–515
+remain in their Greek-collation file pending promotion.
 Lines 91–166 are recorded in
 text/iliad/book-22-collation-91-166.md.
 Lines 167–247 are recorded in
@@ -477,6 +477,96 @@ Zeus and the other immortal gods may wish to bring it.”
 
 **Continuation:** line 367 begins Achilles’s stripping and dragging of
 Hector’s body; this unit ends with Hector’s death.
+
+## Translation — source-collated lines 367–436
+
+So he spoke, and drew the bronze spear from the dead man,
+and laid it far away; then he stripped the bloody armor
+from Hector’s shoulders. The other sons of the Achaeans
+came running around him; they gazed upon the stature
+and the wonderful beauty of Hector. Yet no man stood near him
+without striking; and one would say, looking at his neighbor:
+
+“Ah me, Hector is far softer to touch now
+than when he set the ships ablaze with destructive fire!”
+
+So each would speak, and, standing near, strike him.
+
+When swift-footed, noble Achilles had stripped the armor,
+he stood among the Achaeans and spoke these winged words:
+
+“Friends, leaders and rulers of the Argives,
+since the gods have granted us to master this man,
+who wrought as many evils as all the others together,
+come, let us test the city around him in his armor,
+that we may still learn what the Trojans intend:
+will they abandon the high city when this man has fallen,
+or are they resolved to remain, though Hector is no more?
+
+“But why has my dear spirit reasoned thus?
+There lies beside the ships Patroclus, unwept and unburied;
+I will not forget him while I live and my knees still move.
+And if the dead forget in Hades’ house,
+even there I shall remember my beloved companion.
+Come now, young men of the Achaeans, singing the paean,
+let us go back to the hollow ships, and take this man with us.
+We have won great glory: we have slain noble Hector,
+whom the Trojans prayed to through their city as to a god.”
+
+So he spoke; and he devised shameful things against noble Hector.
+Behind both feet he pierced the tendons above the ankles,
+from heel to heel, and fastened ox-hide thongs there;
+he tied them to the chariot, but left the head to be dragged.
+Then he mounted the chariot, lifted the famous armor,
+and lashed the horses to drive. They flew forward willingly.
+
+A great cloud of dust rose around the one being dragged;
+his dark hair spread out on either side,
+and his whole head—once so gracious—lay in the dust.
+Then Zeus gave him to his enemies to dishonor
+in his own fatherland.
+
+His mother saw him and tore her hair from her head;
+she cast her shining veil far from her,
+and cried aloud when she looked upon her son.
+His dear father groaned, and the people throughout the city
+were seized by wailing and lamentation.
+It seemed most like this: as if all steep-browed Ilium
+were smoldering in fire from its highest roof.
+
+The people could scarcely restrain the old man,
+who longed to leave through the Dardanian gates.
+He rolled himself in the dung and pleaded with all of them,
+calling each man aloud by name:
+
+“Hold me back, my friends, and leave me alone,
+though you grieve for me. Let me go out from the city
+and reach the ships of the Achaeans.
+I shall beg that reckless, mighty worker of evil—
+perhaps he may respect my age and pity my old age.
+For he too has such a father, Peleus,
+who begot him and raised him to be the ruin of the Trojans.
+Most of all he has brought grief upon me.
+So many flourishing sons he has killed!
+Yet I do not lament all of them so greatly,
+though I grieve, as I lament one alone—
+Hector, whose sharp grief will carry me down into Hades.
+Would that he had died in my hands!
+Then his mother, who bore him, and I ourselves
+would have had enough of weeping and mourning over him.”
+
+So he spoke, weeping, and the citizens groaned around him.
+Among the Trojan women Hecuba began the close lament:
+
+“My child, unhappy as I am! Why shall I live on,
+after suffering such things, with you dead?
+You were my pride through night and day in the city,
+and a blessing to all the Trojans and Trojan women throughout it;
+they welcomed you like a god, for while you lived
+you were a great glory to them. But now death and fate overtake you.”
+
+**Continuation:** line 437 begins Hecuba’s lament beyond this opening;
+this unit ends with the mother’s first cry over Hector.
 
 ## Working synopsis
 

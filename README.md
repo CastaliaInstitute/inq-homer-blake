@@ -39,6 +39,8 @@ preflight/               repeatable production checks
 scripts/                 repeatable validation and production utilities
 ```
 
+Run `scripts/validate_manifests.sh` before committing manifest changes.
+
 See [PROJECT.md](PROJECT.md) for the production brief and
 [CONTRIBUTING.md](CONTRIBUTING.md) for text, image, and provenance conventions.
 

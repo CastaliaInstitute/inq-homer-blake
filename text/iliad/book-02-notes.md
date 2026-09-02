@@ -4,7 +4,8 @@ These notes accompany the current opening draft and are not final commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 2.1–47 | Zeus sends a deceptive dream to Agamemnon | “false dream” and “deceptive Dream” | Preserve the poem's distinction between divine speech and the truth of its message. |
+| 2.1–47 | Zeus sends a deceptive dream to Agamemnon | “false dream,” the narrator's correction, and Zeus's care/pity as persuasive bait | Collation recorded in `book-02-collation-1-80.md`; preserve the poem's distinction between divine speech and the truth of its message. |
+| 2.48–80 | Dawn, Agamemnon's preparation, council, and the proposed army test | Ancestral scepter, divine light, and the gap between test and command | Collation recorded in `book-02-collation-1-80.md`; verify the assembly's procedural sequence before approval. |
 | 2.87–100 | The Achaeans gather like bees | Bee-rock and meadow image | Check the geography and motion of the simile against the copy text. |
 | 2.110–141 | Agamemnon tests the army | “test” rather than “command” | Keep the disastrous gap between the king's intention and the army's hearing. |
 | 2.155–210 | Hera sends Athena; Odysseus restores order | Scepter as civic instrument | Distinguish courteous admonition to a king from force used against a common man. |

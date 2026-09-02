@@ -44,7 +44,9 @@ of Nestor, who spoke to him in sleep:
 
 who bears the cares of armies to lie awake no longer.
 
-Zeus has sent me to say that the gods are now united.
+Zeus has sent me to say that the gods are now united;
+
+though he is far away, he cares for you and takes pity on you.
 
 He commands you to arm the Achaeans without delay.
 
@@ -52,9 +54,19 @@ You will take wide-wayed Troy. Do not let the message
 
 escape your mind when sweet sleep has released you.”
 
-The Dream withdrew, and Agamemnon awoke.
+The Dream withdrew, leaving him to cherish in his heart
+
+the thoughts it had planted—thoughts that were never to be fulfilled.
 
 He thought the immortal voice had spoken truth,
+
+not knowing what Zeus had devised, and that on that very day
+
+he would take Priam's city. He did not know what the son of Cronus
+
+was still preparing: more pain and groaning for Trojans and Danaans
+
+through the violence of battle.
 
 and rose at once, putting on his soft wool tunic.
 
@@ -66,7 +78,11 @@ across his shoulders, and took the scepter of his fathers,
 
 imperishable, with which he went among the Achaeans.
 
-First he called the heralds, clear-voiced men,
+When Dawn, the goddess, climbed high Olympus
+
+to announce the light to Zeus and the other immortals,
+
+he first called the heralds, clear-voiced men,
 
 to summon the army into the place of assembly.
 

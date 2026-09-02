@@ -2,7 +2,12 @@
 
 **Source passage:** Book 23, lines 1–372 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+
+**Source-collated authority:** [Book 23, lines 1–372](book-23-collation-1-372.md)
+
+The compact translation below is retained for the current volume architecture;
+the collation file is the editorial authority for line-level revision.
 
 ## Translation
 

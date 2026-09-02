@@ -15,6 +15,10 @@ Lines 177–207 are recorded in
 text/odyssey/book-02-collation-177-207.md.
 Lines 208–241 are recorded in
 text/odyssey/book-02-collation-208-241.md.
+Lines 242–308 are recorded in
+text/odyssey/book-02-collation-242-308.md.
+Lines 208–241 are recorded in
+text/odyssey/book-02-collation-208-241.md.
 
 ## Translation
 

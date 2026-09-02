@@ -3,7 +3,7 @@
 **Source passage:** Book 17, lines 1–761 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–208 are incorporated below; independent
+layout. Revised passes for lines 1–344 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
@@ -242,6 +242,160 @@ Against all order. I will grant you strength;
 But Andromache shall not receive the armor
 Of Peleus' son when you return no more.”
 
+So Cronus' son nodded beneath his dark brows,
+And fitted armor to the body of Hector;
+Then Enyalius, terrible god of war,
+Entered his limbs, and filled them with great strength.
+He went among his famous allies, calling
+In a great voice, and seemed to all the men
+To wear the armor of great-hearted Peleus' son.
+He urged Mesthles, Glaucus, Medon, Thersilochus,
+Asteropaeon, Deisenor, Hippothous,
+Phorcys, Chromius, and Ennomus the seer:
+
+“Hear me, unnumbered allies gathered round!
+I did not call you here because I lacked
+A multitude, nor from some need draw you out
+Of your own cities. I brought you here to guard
+The wives and innocent children of our Troy
+Against the war-loving Achaeans. For this
+I wear your people out with gifts and food,
+And magnify the courage in each man.
+Now turn straight on the enemy: let him die,
+Or let him live—that is the speech of war.
+
+“Whoever drags Patroclus, even dead,
+Into the horse-taming city, and Ajax yields
+Him, I will give that man half the spoils;
+I keep the other half. His glory shall
+Be equal to my own.”
+
+He spoke; they went
+Straight against the Danaans, hoping to drag
+The dead man from beneath Telamonian Ajax.
+Fools! Many would give up their lives before
+They gained the body.
+
+Ajax spoke to warlike Menelaus:
+“Dear Menelaus, nourished by Zeus, I no
+Longer hope that we two shall come alive
+From this battle. I fear less for Patroclus,
+Who soon may feed the dogs and birds of Troy,
+Than for my head and yours, since war's cloud covers all
+And Hector is sudden destruction here.
+Call now the best of Danaans, if any hear.”
+
+He spoke; Menelaus did not disobey.
+He shouted through the Greeks until his voice
+Carried: “Dear friends, leaders and guardians,
+You who drink the people's due beside the kings,
+And each gives signs of command to his own people—
+Honor and glory from Zeus follow you all.
+It is hard to seek each leader one by one
+Within this tumult. Let whoever can come
+Come now, and let his heart be shamed that Greeks
+Should leave Patroclus for the Trojan women
+And dogs.”
+
+Swift Ajax, Oileus' son, heard him and first
+Came running to the battle. After him came
+Idomeneus and Meriones, his friend,
+Equal to murderous Enyalius. Who could
+Name all the others who stirred the Achaean fight
+Again from behind?
+
+The Trojans came together, Hector leading them.
+As a great wave roars at the mouth of a river
+Fed by the sky, while sea and shore thunder round it,
+So Troy advanced with a cry. The Achaeans stood
+Around Menoetius' son with one heart,
+Fenced by their bronze shields; Cronus' son poured mist
+Around their shining helmets. He had not hated
+Menoetius' son while he lived beside Achilles;
+He hated that the man should become prey
+For Trojan dogs, and therefore roused the friends
+Around him to defend him.
+
+The Trojans drove bright-eyed Achaeans back.
+They left the dead behind and shrank away;
+Yet the high-hearted Trojans, eager as they were,
+Could take no living man with spear, but dragged
+The corpse alone. For a little while the Greeks
+Were forced to yield; then Ajax turned them back—
+Ajax who surpassed all Danaans in form
+And deed, after blameless Peleus' son.
+
+Through the foremost fighters he sprang like a boar
+Whose courage scatters dogs and mountain youths
+When, wheeling in the valleys, it breaks their ranks.
+So glorious Ajax scattered all who stood
+Around Patroclus, thinking to drag him home
+And win renown.
+
+Hippothous, Lethus' glorious Pelasgian son,
+Had tied a strap around Patroclus' ankle,
+And dragged his foot through bitter battle, wishing
+To please both Hector and the Trojans. But no man
+Could hold the evil back. Telamonian Ajax
+Sprang through the crowd and struck him close at hand
+Through the bronze cheek-piece of his helmet. The crest
+Rang on the shaft beneath the spear's great blow;
+His brain ran bloody by the ear. His strength
+Was loosed; Patroclus' great foot fell away.
+He fell face forward by the dead, far off
+From rich Larissa, and could not repay
+His parents for their rearing; brief his life,
+Cut short beneath great Ajax' spear.
+
+Hector cast his shining spear at Ajax. Ajax
+Saw it and turned aside a little; but the spear
+Struck Schedius, Iphitus' great-hearted son,
+Best of the Phocians, ruler of Panopeus.
+The bronze passed beneath his collarbone and came
+Out above the farther shoulder. Down he fell;
+His armor rang around him.
+
+Ajax struck Phorcys, son of Phaenops, as he stood
+Above Hippothous, in the middle of his belly.
+He split the hollow corselet; bronze poured through
+His inward parts. Phorcys fell into the dust
+And clutched the earth. The foremost fighters and
+Bright Hector gave ground; Argives raised a cry,
+Dragged Phorcys and Hippothous away, and stripped
+The armor from their shoulders.
+
+The Trojans then would have entered Ilium,
+Overcome by Argives and their failing courage;
+And Greeks would have won glory by their strength,
+Beyond the will of Zeus—if Apollo had not
+Roused Aeneas, taking the shape of Periphas,
+Epytus' son, the herald grown old beside
+Aeneas' aged father, faithful in speech.
+In his likeness Zeus's son spoke to Aeneas:
+
+“Aeneas, how could you defend Ilium even
+Against a god, when you have seen men trust
+In strength, in courage, numbers, and a people
+Greater than our own? Zeus desires victory
+For us, not Danaans; yet you tremble here
+And will not fight.”
+
+Aeneas knew Apollo when he looked him in
+The face, and called to Hector and the leaders:
+“Hector, and all you captains of the Trojans
+And allies, it would be shameful to enter Troy
+Because Achaeans conquered us through cowardice.
+Some god, I think, has stood beside me and said
+That Zeus, the highest counselor, is our help.
+Let us go straight against the Danaans, and not
+Let them carry Patroclus, though dead, toward
+The ships.”
+
+He spoke, and leaped beyond the foremost fighters,
+And stood before them; the others turned and faced
+The Achaeans. Then Aeneas struck Leiocritus
+With his spear.
+
 ## Decision log
 
 - Patroclus' body becomes contested territory; the translation keeps burial,
@@ -262,3 +416,9 @@ Of Peleus' son when you return no more.”
   Glaucus' rebuke over Sarpedon, Hector's answer, the armor exchange, and
   Zeus' foreknowledge of Andromache's loss. Meter, Greek-fidelity,
   omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 17 pass through
+  17.344, preserving Hector's allied muster and spoils promise, Ajax's call
+  for help, the river-mouth wave, Hippothous' ankle-strap and death, the
+  paired Phocian and Trojan recoveries, Apollo's Periphas disguise, and
+  Aeneas' renewed attack. Meter, Greek-fidelity, omission/addition, and
+  editorial review remain pending.

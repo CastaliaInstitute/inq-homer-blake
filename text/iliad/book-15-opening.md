@@ -3,11 +3,12 @@
 **Source passage:** Book 15, lines 1–746 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–391 are incorporated below; independent
+layout. Revised passes for lines 1–548 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
 **Source-collated authority:** [`book-15-collation-1-217.md`](book-15-collation-1-217.md)
-and [`book-15-collation-218-391.md`](book-15-collation-218-391.md)
+[`book-15-collation-218-391.md`](book-15-collation-218-391.md), and
+[`book-15-collation-392-548.md`](book-15-collation-392-548.md)
 
 ## Translation
 
@@ -351,6 +352,165 @@ With spears at close range; some from chariots,
 Some mounting the dark ships, wielding long poles laid
 Upon the decks, shod with bronze for sea-fight.
 
+While the Trojans and Achaeans fought before
+The swift ships, Patroclus in the hut
+Of generous Eurypylus remained,
+With kindly words and medicines upon
+The grievous wound, to hush its black pain.
+But when he saw the Trojans surging over
+The wall, and heard the Danaans cry in fear,
+He groaned, and struck his thigh, and called aloud:
+
+“Eurypylus, I cannot stay, though gladly
+I would help you; such a battle has arisen.
+Let your companion tend you; I will run
+To great Achilles, and persuade him, if
+The gods should grant my words to move his heart.
+Good is the counsel brought by a friend in need.”
+
+Away he went. The Argives still stood firm,
+Though fewer, by the ships; nor could they drive
+The Trojans back, nor let them through the ranks
+To mingle with the huts and vessels. There
+The battle held its balance, straight as when
+A craftsman lays a rule against a beam,
+Who knows each art Athena taught to men.
+
+Around one ship great Ajax and Hector fought,
+And neither could compel the other back;
+The god had joined them there for that hard labor.
+Ajax, Clytius’ son, struck Caletor
+Within the breast, as he bore fire toward
+The ship. He fell, and from his loosened hand
+The torch dropped flaming. Hector saw his cousin
+Fall in the dust before the dark-prowed ship,
+And called to Trojans and Lycians:
+
+“Do not give way within this narrow place!
+Save Clytius’ son, lest Argive hands strip off
+His armor when he falls among the ships!”
+
+He cast his shining spear at Ajax, but
+It missed its mark and struck Lycopyhron,
+Mastor’s son, a Cytherean guest
+And Ajax’s companion, who had lived
+Within his house since blood-price drove him out
+From sacred Cythera. Hector’s spear
+Struck him above the ear; backward he fell
+From off the stern into the dust, his limbs
+Loosened beneath him. Ajax shuddered, then
+Called to his brother:
+
+“Teucer, our faithful friend is slain—the man
+We honored in our house as if our parents
+Had borne him. Hector has cut him down.
+Where are your death-swift arrows and your bow,
+The gift Apollo gave you?”
+
+Teucer heard,
+And came beside him with his crooked bow
+And arrow-bearing quiver. He shot down
+Cleitus, son of Peisenor, who held
+The reins beside Polydamas, his friend.
+He labored hardest where the horses drove
+The thickest ranks for Hector and the Trojans;
+The sudden arrow entered through his neck.
+He fell from the chariot, and the horses
+Rang empty harness. Polydamas saw,
+Ran before them, and gave them to Astynous,
+Protiaon’s son, commanding him to hold
+Them close; then hurried back into the front.
+
+Teucer drew one more arrow against Hector,
+And might have ended all his fighting there,
+Had Zeus not guarded Hector from that fate.
+The newly twisted bowstring broke as Teucer
+Bent back the bow; the bronze-tipped arrow veered,
+And bow and string fell from his hands. He cried:
+
+“A god has rooted out our battle-plans!
+He cast my bow away and snapped the string
+I twisted this same morning, that it might
+Endure the arrows leaping from it.”
+
+Then Ajax,
+The great Telamonian, answered him:
+“Let bow and arrows lie. The god has mixed
+Them into grief for the Danaans. Take
+The long spear and the shield upon your shoulder;
+Fight, and rouse the rest. Let not the enemy
+Take our well-benched ships without a struggle.
+Remember now the courage we have learned.”
+
+Teucer set the bow within the hut, and hung
+The fourfold shield around his shoulders. He put
+The horse-haired helmet on his head; its crest
+Nodded above him terribly. He seized
+The bronze-sharpened spear and took his stand
+Beside his brother.
+
+When Hector saw the arrows blunted, he called:
+“Trojans, Lycians, Dardanians, remember
+Your strength, and be men beside the hollow ships!
+The arrows of a foremost man a god
+Has turned aside. The strength Zeus gives to men
+Is known in this: to one he grants great glory,
+Another he diminishes—as now
+He lessens Argive might and helps us. Fight
+In one mass by the ships. Let him who falls
+And meets his death lie dead; there is no shame
+In dying for the fatherland. His wife,
+His children, house, and unviolated fields
+Remain secure if Argive ships depart
+And sail at last toward their beloved land.”
+
+His speech stirred every heart. Ajax cried
+From the other side: “Shame, Argives! Now we must
+Either be saved or perish. Do you hope
+That when Hector takes the ships each man will walk
+Back to his fatherland? Do you not hear
+How he commands his people to burn them?
+He calls no dance; he calls us to the fight.
+We have no counsel better than to join
+Our hands and strength together. Better to die
+At once, or live, than waste our breath beside
+The ships beneath men worse than we.”
+
+Their hearts were stirred. Then Hector struck Schedius,
+Perimedes’ son, the Phocian leader;
+Ajax struck Laodamas, Antenor’s son,
+The footmen’s captain. Polydamas killed
+Otus, companion of Phyleus, chief
+Among the great-hearted Epeians. Meges
+Sprang at Polydamas; he bent beneath
+The spear, and Apollo would not let Panthous’ son
+Fall there. Instead Meges struck Croesmus
+Within the chest; he fell with a crash, and Meges
+Stripped the bronze armor from his shoulders.
+
+Then Dolops, skilled with spears, sprang at Meges.
+His spear struck the shield’s middle, but the close
+Fitted breastplate saved him—the guest-gift once
+Brought from Ephyra by Phyleus, given
+By King Euphetes to protect a friend
+In war, and now protecting Phyleus’ son.
+Meges struck the horse-haired helmet’s crest
+And broke away its plume; the helmet fell
+Into the dust like a young palm-tree newly
+Cut down, still shining. As he fought and hoped
+For victory, warlike Menelaus came
+To stand beside him, hidden, and drove his spear
+Into Dolops’ shoulder from behind.
+The bronze passed through his chest; forward he fell.
+
+They moved to strip the dead man’s armor off,
+When Hector called his brothers, and first rebuked
+Melanippus, Hicetaon’s son, who once
+Had grazed his cattle far from battle, near
+Perkote. While the ships were still away,
+He lived apart; but when they reached the land,
+He came to Troy and shone among its spearmen.
+
 ## Decision log
 
 - Zeus' reversal is rendered as a chain of commands that does not erase
@@ -372,3 +532,8 @@ Upon the decks, shod with bronze for sea-fight.
   and the transition to fighting at the ships. The full book remains
   unapproved pending independent meter, Greek-fidelity, omission/addition, and
   editorial review.
+- The 2026-09-02 revision extends the source-collated pass through 15.548,
+  preserving Patroclus' departure from Eurypylus, the equal-battle simile,
+  Lycopyhron's death, Teucer's broken bow, both rallying speeches, the named
+  deaths, Phyleus' guest-gift breastplate, and Melanippus' recall. Meter,
+  Greek-fidelity, omission/addition, and editorial review remain pending.

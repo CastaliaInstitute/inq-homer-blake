@@ -59,6 +59,10 @@ The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status
 auditable.
 
+Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
+[*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions
+behind the current drafts.
+
 Rendered-page traceability is maintained in the [page map](design/page-map.csv)
 under the rules in [page-map-rules.md](design/page-map-rules.md).
 

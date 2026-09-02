@@ -1,0 +1,19 @@
+# *Iliad* Book 1 source notes — working
+
+These notes accompany the current draft in `book-01-opening.md`. They are
+research notes, not final commentary.
+
+| Passage | Greek feature | Current choice | Review question |
+|---|---|---|---|
+| 1.1–5 | *mēnis*, the poem's opening wrath | “anger” | Should the final English retain “wrath” here to signal the term's exceptional, divine register? |
+| 1.2–5 | Many lives sent to Hades; bodies left to dogs and birds | Concrete, unsentimental syntax | Preserve the poem's refusal to separate heroic glory from bodily aftermath. |
+| 1.7–8 | Agamemnon and Achilles brought into conflict | “broke apart in strife” | Test whether the line gives enough force to the causative movement without over-explaining it. |
+| 1.12–16 | Apollo's anger follows the priest's dishonor | “deadly sickness” | Confirm the chosen disease term against the final Greek edition and note any textual variant. |
+| 1.37–52 | Apollo's epithets, bow, arrows, and nine-day plague | “silver bow,” “covered quiver” | Check formulaic consistency across the complete *Iliad*. |
+| 1.53–100 | Calchas's prophecy and Agamemnon's demand for honor | Public procedural exchange | Distinguish *timē* as social honor from the material prize that embodies it. |
+
+## Draft warning
+
+The current English compresses and reshapes syntax for verse movement. Before
+approval, collate every line against the Greek copy text, consult the critical
+apparatus, and replace this warning with signed Greek-fidelity review.

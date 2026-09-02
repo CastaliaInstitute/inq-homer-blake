@@ -9,6 +9,8 @@ Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
 Lines 229–386 are recorded in
 text/iliad/book-24-collation-229-386.md.
+Lines 387–551 are recorded in
+text/iliad/book-24-collation-387-551.md.
 
 ## Translation
 

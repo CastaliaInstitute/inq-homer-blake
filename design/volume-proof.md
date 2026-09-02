@@ -29,3 +29,8 @@ The current proof page counts are recorded in
 visual inspection before treating the counts as current. PDF preflight also
 checks that documented page counts match the artifacts and that no `Working
 synopsis` text has entered a volume interior.
+
+The provisional book-opener folios measured in the current assembled proofs
+are recorded in `design/volume-proof-book-starts.csv`. This map is an
+architecture aid only; it must be regenerated after final text, plates,
+front matter, printer profile, and binding pagination are locked.

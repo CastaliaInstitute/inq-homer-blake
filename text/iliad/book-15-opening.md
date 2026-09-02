@@ -640,6 +640,106 @@ Kneeled and entreated each by his parents' names:
 
 “Be men, dear friends, and set shame within your hearts.”
 
+“Remember the children, wives, and lands; remember
+The fathers of the living and the dead,
+Who lie beneath the earth. For their sake I kneel,
+Though they are not here. Stand fast, and hold your strength;
+Do not turn your faces into fear.”
+
+He spoke, and stirred the courage in their breasts.
+Athena swept the wondrous mist away
+From both their eyes. A light arose on either side,
+Toward ships and battle, where the ranks met.
+They saw bright Hector and his companions—those
+Who stood behind and would not fight, and those
+Who fought beside the swift ships. Great-hearted Ajax
+No longer found it pleasing to remain
+Where other Achaeans had withdrawn.
+
+Across the long decks of the vessels he paced,
+Taking great strides, and wielded in his hands
+The sea-fighting spear, joined with rings of bronze,
+Two-and-twenty cubits in its length.
+
+As when a horseman skilled to guide his team
+Joins four together, driving from the plain
+Toward the city on the public road—many
+Men and women marvel as he leaps secure
+From one to another, while they fly beneath him—
+So Ajax crossed the many ships, and strode
+Their long decks; his voice reached heaven. Without pause
+He shouted terribly, commanding all
+The Danaans to guard their ships and huts.
+
+Nor Hector stayed within the close-packed press
+Of bronze-clad Trojans. As a shining eagle
+Falls on a flock of birds beside a river—
+Geese, cranes, or long-necked swans feeding in a meadow—
+So Hector sprang straight toward a dark-prowed ship.
+Zeus drove him on with his tremendous hand,
+And roused the people who advanced with him.
+
+Again a sharp battle rose beside the ships.
+You would have thought that deathless, tireless men
+Were meeting one another, such desire
+For combat burned in them. The Achaeans vowed
+They would not flee from evil, but would die;
+Each Trojan heart hoped to burn the ships and kill
+The Achaean heroes.
+
+With this purpose they stood
+Against each other. Hector seized the stern
+Of a seafaring ship, swift and beautiful,
+The ship that carried Protesilaus to Troy
+And never bore him home to his own land.
+Around it Greeks and Trojans slaughtered men
+At close quarters. They no longer kept apart
+For arrows or for spears, but stood nearby
+With one mind, fighting with sharp axes, hatchets,
+Great swords, and double-edged spears. Many handsome,
+Black-hilted swords fell from the hands of men;
+Others slipped from shoulders; black earth ran with blood.
+
+When Hector grasped the stern, he would not let it go.
+Holding the curved stern-post in his hands,
+He called the Trojans: “Bring fire, and rise
+Together with one cry! Now Zeus has given
+A day worth all our prayers—to take the ships
+That came against the gods' will, bringing us
+So many sorrows through our elders' folly.
+They held me back when I desired to fight
+Beside the sterns, and held the people back.
+But if wide-seeing Zeus then darkened our minds,
+He now himself commands us and drives us on.”
+
+He spoke; they rushed more fiercely on the Argives.
+Ajax could no longer keep his place; the shafts
+Pressed hard around him. He withdrew a little,
+Believing he would die upon the deck,
+Seven feet in length, and left the level timbers.
+
+There he stood watching, and with his spear
+Continually drove from the ships each Trojan
+Who bore the tireless fire. Always he shouted:
+
+“Dear friends, Danaan heroes, servants of Ares,
+Be men, my friends, remember furious strength!
+Do we imagine helpers somewhere behind us,
+Or some stronger wall that might ward destruction off?
+There is no city here with towers, where we might
+Defend ourselves, holding another people
+Behind our backs. We lie in Troy's open plain,
+Close-packed in bronze, our faces toward the sea,
+Far from our fatherland. Our light is in
+Our own hands, not in any gentle kind of war.”
+
+He spoke, and in his fury drove them back
+With his keen spear. Each Trojan carrying fire
+Toward the hollow ships, encouraged by
+Hector's command, Ajax awaited there
+And struck him with his long spear. Twelve he wounded
+Before the ships, in close encounter.
+
 ## Decision log
 
 - Zeus' reversal is rendered as a chain of commands that does not erase
@@ -672,3 +772,9 @@ Kneeled and entreated each by his parents' names:
   Periphetes' complete identity and fall, and the Achaean movement inward
   toward Nestor's renewed summons. Meter, Greek-fidelity, omission/addition,
   and editorial review remain pending.
+- The 2026-09-02 revision completes the source-collated Book 15 pass through
+  15.746, preserving Nestor's full appeal, Athena's clearing of the mist,
+  Ajax's twenty-two-cubit sea spear, the horseman and eagle similes, the
+  seizure of Protesilaus' ship, Hector's fire-command, and Ajax's twelve
+  wounded fire-bearers. Meter, Greek-fidelity, omission/addition, and
+  editorial review remain pending.

@@ -14,6 +14,9 @@ text/odyssey/book-05-collation-262-350.md.
 Lines 351–423 are recorded in
 text/odyssey/book-05-collation-351-423.md.
 
+Lines 424–493 are recorded in
+text/odyssey/book-05-collation-424-493.md.
+
 ## Translation
 
 The gods sat in council, and Athena spoke once more

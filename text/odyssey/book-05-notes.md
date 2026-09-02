@@ -10,7 +10,7 @@ commentary.
 | 5.148–261 | Calypso releases Odysseus; the raft is built and launched | Trust, craft, and compelled return | Collated 2026-09-02; verify the oath formula, unequal mortal/immortal comparison, evening union, twenty trees, tools, raft structure, willow defense, sail-making, and launch at meter review. |
 | 5.262–350 | Odysseus crosses seventeen days, Poseidon raises the storm, and the raft is wrecked | Four winds, wreck, and Ino’s arrival | Collated 2026-09-02; verify provisions, star navigation, Poseidon’s vantage, wind order, lament, wreck sequence, raft recovery, and Ino/Leucothea’s endpoint at meter review. |
 | 5.351–423 | Ino gives the veil; Odysseus abandons the raft and reaches the hostile coast | Divine aid under suspicion | Collated 2026-09-02; verify Ino’s mortal transformation, veil instruction, Poseidon’s departure, Athena’s wind-binding, the two-night drift, third-day landfall, and the coast’s lack of harbor at meter review. |
-| 5.424–493 | Odysseus reaches Scheria | River, reeds, and sleep | Verify the river prayer, landing, and paired olive shelter. |
+| 5.424–493 | Odysseus reaches the river mouth and sleeps beneath the paired olives | River, reeds, and sleep | Collated against the pinned Greek: river prayer and aid, Ino’s veil returned to Ino, the shelter choice, paired olives, ember simile, and Athena’s sleep. |
 
 ## Draft warning
 

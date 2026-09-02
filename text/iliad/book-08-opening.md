@@ -105,22 +105,34 @@ Ajax carried his shield before him; each time Teucer shot and felled a man, he s
 back beneath it like a child beneath its mother. Teucer first killed Orsilochus,
 Ormenus, Ophelestes, Daitor, Chromius, Lycophontes, Amopaon, and Melanippus.
 
-Agamemnon rejoiced and called: “Teucer, dear head, son of Telamon, lord of the people,
-shoot so, and become a light to the Danaans and to your father, who raised you from
-childhood and cared for you though you were born outside his marriage. Give him fame,
+Agamemnon rejoiced and called: “Teucer, beloved head, son of Telamon, lord of the
+people, shoot so that you become a light to the Danaans and to your father who raised
+you from childhood, though you were born outside the marriage bed. Give him fame
 though he is far away; I tell you how it shall be fulfilled.”
 
-The Argives reached the wall and gathered behind it.
-Hera and Athena watched from Olympus, grieving. Zeus saw them
-and said: “Why do you sit apart? You cannot oppose my will.
-Diomedes is no match for Hector, whom I have raised today.”
+Teucer answered: “Most glorious Atrid, why urge me when I am already eager? Since we
+drove them back toward Ilium I have not stopped, but have killed eight men with my
+long-tongued arrows. Yet I cannot strike this rabid dog.” He sent another shaft at
+Hector, but Apollo turned it aside; it struck Archeptolemus, Hector’s brave charioteer,
+in the chest beside the breast. He fell from the car, and his horses sprang away.
+Hector grieved terribly for his companion, yet left him lying and told his brother
+Kebriones to take the reins. Then Hector leapt from the chariot with a dreadful cry,
+seized a jagged stone, and rushed upon Teucer.
 
-Hera answered: “You are strongest, but we too feel pity.
-Let us go to the army, though we do not wish to change fate.”
+Teucer drew a bitter arrow and bent the bow, but as he pulled it beside the shoulder,
+where the collarbone guards the neck, Hector struck him with the stone. The cord broke,
+his hand went numb, and he fell upon his knees; the bow dropped from him. Ajax did not
+forget his brother: he ran around him and covered him with the bright shield, while
+two faithful companions, Mecisteus and Alastor, lifted the groaning man and carried
+him to the hollow ships.
 
-Zeus sent Iris to order them back. She came to the chariot:
-
-“Return. Zeus says no god may help the Achaeans.”
+The Olympian roused the Trojans again. They drove the Achaeans straight toward the
+deep trench, and Hector went first, eyes blazing like Gorgon’s and murderous Ares.
+As a hound pursues a boar or lion from behind, darting at its hips and turning aside
+from its jaws, so Hector followed the long-haired Achaeans, killing the last man in
+the line. They crossed the stakes and trench in flight; many Trojans also fell beneath
+their hands, while the Achaeans held by the ships, calling to one another and lifting
+their hands to every god.
 
 Hera replied in anger: “Let him threaten. We are his family,
 but he does not command our hearts.” Still they turned back.

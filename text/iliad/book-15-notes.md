@@ -8,6 +8,8 @@ Lines 218–391 are recorded in
 text/iliad/book-15-collation-218-391.md.
 Lines 392–548 are recorded in
 text/iliad/book-15-collation-392-548.md.
+Lines 549–661 are recorded in
+text/iliad/book-15-collation-549-661.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -15,7 +17,7 @@ text/iliad/book-15-collation-392-548.md.
 | 15.78–217 | Hera returns; Iris confronts Poseidon | Hierarchy and qualified withdrawal | Collated 2026-09-02; preserve Themis, Ares/ Athena scene, three-way division, and reserved quarrel. |
 | 15.218–391 | Apollo restores Hector; wall falls and Trojans press | Aegis, terror, and breach | Collated 2026-09-02; preserve named deaths, trench collapse, Nestor's prayer, and ship-front transition. |
 | 15.392–548 | Patroclus leaves Eurypylus; Ajax and Teucer defend the ships | Material defense and command | Collated 2026-09-02; preserve named ships, bow failure, death ethics, and armor provenance. |
-| 15.549–661 | Hector burns the ship | Material crisis | Check Protesilaus' ship and fire imagery. |
+| 15.549–661 | Hector recalls Melanippus; Antilochus strikes; Hector drives the Argives inward | Fire as divine purpose and material terror | Collated 2026-09-02; preserve the shame appeal, named death, similes, and Nestor's handoff. |
 | 15.662–746 | Patroclus asks for armor | Borrowed identity | Verify request, permission, restrictions, and endpoint. |
 
 ## Draft warning

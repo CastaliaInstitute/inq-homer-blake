@@ -11,6 +11,8 @@ Lines 148–261 are recorded in
 text/odyssey/book-05-collation-148-261.md.
 Lines 262–350 are recorded in
 text/odyssey/book-05-collation-262-350.md.
+Lines 351–423 are recorded in
+text/odyssey/book-05-collation-351-423.md.
 
 ## Translation
 

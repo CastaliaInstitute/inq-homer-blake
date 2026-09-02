@@ -323,22 +323,75 @@ It would be worse to ward the evil only when the ships are burning. Go toward th
 the Achaeans will honor you like a god. If you enter the man-killing battle without
 gifts, you will not have equal honor, even though you drive war away.”
 
-Achilles answered: “Old Phoenix, my heart honors you. Sleep here,
-and come with me when I sail, if you wish. Do not persuade me.”
+Achilles answered: “Old Phoenix, father dear, you have said all this from love;
+but I do not need this honor. I think I am honored by Zeus’ decree, and that honor
+will remain with me beside my curved ships as long as breath stays in my breast and
+my knees move. I tell you this: do not trouble my heart, grieving and mourning for
+the sake of Agamemnon. You should not love him, lest you become hateful to me while
+you are dear to me. It is good to care for the one who cares for me. Rule beside me
+as an equal and share half my honor. These men will carry the message; you remain
+here and sleep on a soft bed. At dawn we will consider whether to return home or stay.”
 
-Ajax then spoke: “Achilles, we sit like beggars before you.
-No gift can move you, and no argument. A man may forgive his enemy
-when the enemy has killed his brother; yet you refuse forgiveness
-for a woman. Come with us. We honor you, though you have hardened
-your heart. If Hector reaches the ships, we will remember this night.”
+He nodded silently to Patroclus, who spread a thick bed for Phoenix, so that the
+old man might decide whether to sail home with him. Great Ajax, son of Telamon,
+then spoke: “Resourceful Odysseus, son of Laertes, let us go. I do not think our
+mission will be completed by this road. We must report the message quickly, even
+though it is bad, to the Danaans who now sit waiting. Achilles has set a wild,
+great-hearted spirit in his breast. He is pitiless and does not turn from the love
+of his companions, by which we honored him above all beside the ships. A man accepts
+compensation for a murdered brother or son, and once he receives the price, his heart
+and proud spirit are restrained. But the gods have put an unending, evil temper in
+your breast because of a single woman. We offer you seven excellent women and many
+other things besides. Put a gracious spirit in yourself and respect your own roof;
+we are beneath it, chosen from all the Danaans, and we wish to be your dearest and
+most beloved companions among the Achaeans.”
 
-Achilles replied: “Ajax speaks plainly, and I respect him.
-But Agamemnon has dishonored me. I will not return while the anger
-remains. When Hector reaches my own ship, then perhaps I will fight.”
+Achilles, swift-footed, answered: “Ajax, son of Telamon, lord of the people, you have
+spoken all according to my heart. But my heart swells with anger whenever I remember
+how Agamemnon treated me before the Argives, as though I were some dishonored wanderer.
+Go, then, and report my message. I will not concern myself with bloody war until
+Hector, Priam’s wise son, reaches the huts and ships of the Myrmidons, killing Argives
+and burning the ships. Around my hut and black ship, I think, Hector, eager for battle,
+will be stopped.”
 
-The envoys went back. The assembly heard that Achilles would not yield.
-They ate and slept beside the ships, while Hector gathered his army.
-The night was full of fear, and no man saw the morning as secure.
+So he spoke. Each man took the two-handled cup, poured a libation beside the ships,
+and went back; Odysseus led them. Patroclus ordered his companions and the serving
+women to spread a thick bed for Phoenix at once. They obeyed, laying fleeces, a rug,
+and a fine linen covering. There the old man lay waiting for bright Dawn. Achilles
+slept in the innermost part of the well-built shelter; beside him lay Diomede, the
+beautiful daughter of Phorbas, whom he had brought from Lesbos. Patroclus lay on the
+other side, and beside him lay well-girded Iphis, whom Achilles had given him after
+capturing steep Scyros, Enyalius’ city.
+
+When the embassy reached Agamemnon’s shelter, the sons of the Achaeans welcomed them
+with golden cups, rising one after another and asking what they had found. First
+Agamemnon, lord of men, asked: “Tell me, renowned Odysseus, great glory of the Achaeans:
+does he wish to ward the enemy fire from the ships, or has he refused, and does anger
+still hold his great-hearted spirit?”
+
+The much-enduring godlike Odysseus answered: “Most glorious son of Atreus, Agamemnon,
+lord of men, he does not wish to extinguish his anger; it burns in him still more.
+He rejects you and your gifts. He tells you to devise among the Argives how you may
+save the ships and the Achaeans. He himself threatened that, when bright Dawn appears,
+he will drag his well-benched ships into the sea. He advised the others to sail home,
+since you will not find the end of steep Ilium: Zeus of the wide eyes has stretched
+his hand above it, and its people have taken courage. Ajax and both wise heralds,
+who followed me, can say the same. Phoenix has lain down, as Achilles commanded,
+so that he may sail with him tomorrow to his beloved fatherland, if he wishes; he
+will not carry him by force.”
+
+He spoke, and all were silent, astonished at the force of the answer. For a long time
+the sons of the Achaeans sat in sorrow. At last Diomedes, loud in battle, said:
+“Most glorious son of Atreus, Agamemnon, lord of men, you should never have begged the
+blameless son of Peleus with countless gifts. He is proud enough without them, and now
+you have driven him deeper into pride. Let us leave him, whether he goes or stays;
+he will fight again whenever his heart commands and a god rouses him. Come, let us do
+as I say: sleep now, having satisfied the heart with food and wine, for these give
+strength and courage. When fair, rose-fingered Dawn appears, quickly marshal the men
+and horses before the ships, urge them on, and fight yourself among the foremost.”
+
+All the kings praised the speech of horse-taming Diomedes. They poured libations and
+went each to his shelter, where they slept and received the gift of sleep.
 
 ## Decision log
 

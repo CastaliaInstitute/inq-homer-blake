@@ -9,6 +9,7 @@
 - [ ] Every historical and generated plate has a manifest record and caption.
 - [ ] Manifest records identify source type, provenance, rights, file, credit,
       and review status.
+- [ ] `scripts/validate_manifests.sh` and `scripts/preflight_assets.rb` pass.
 - [ ] Front matter, book divisions, page numbers, and contents are complete.
 - [ ] Interior and cover PDFs open without missing fonts or transparency
       warnings.

@@ -10,6 +10,8 @@ Lines 211–277 are recorded in
 text/iliad/book-21-collation-211-277.md.
 Lines 278–384 are recorded in
 text/iliad/book-21-collation-278-384.md.
+Lines 385–497 are recorded in
+text/iliad/book-21-collation-385-497.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
@@ -17,7 +19,7 @@ text/iliad/book-21-collation-278-384.md.
 | 21.136–210 | Asteropaeus and the Paeonians | Paeonian lineage | Collated 2026-09-02; preserve Scamander’s anger, Axios and Periboea, two spears, ambidexterity, three failed wrenchings, genealogy, fish, and six named casualties. Lycaon’s plea and death are collated at 21.33–135. |
 | 21.211–277 | Scamander turns against Achilles | Landscape as opponent | Collated 2026-09-02; preserve the river’s human likeness and rebuke, Achilles’s conditional vow, Apollo’s delayed command, dead and living river images, elm, eagle, water-guide, repeated wave, and prayer to Zeus. |
 | 21.278–384 | Scamander attacks Achilles | Landscape as opponent | Collated 2026-09-02; preserve Poseidon and Athena’s intervention, Simoeis, the burial threat, Hera’s wind-and-fire command, Hephaestus’s burning sequence, fish, boiling channels, and Scamander’s surrender. |
-| 21.385–497 | Hephaestus answers the river | Fire and water | Check Hera's order and Scamander's surrender. |
+| 21.385–497 | The gods quarrel after the river’s defeat | Divine farce | Collated 2026-09-02; preserve Zeus’s laughter, Ares and Athena, Aphrodite’s rescue, Laomedon’s unpaid wage, the leaf simile, Artemis and Hera, the bow, the dove, and Hermes’s refusal. |
 | 21.498–611 | Gods quarrel; Achilles is diverted | Fate deferred | Verify divine combats, Agenor, Apollo, and endpoint. |
 
 ## Draft warning

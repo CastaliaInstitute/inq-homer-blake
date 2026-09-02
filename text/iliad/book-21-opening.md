@@ -11,6 +11,8 @@ Lines 211–277 are recorded in
 text/iliad/book-21-collation-211-277.md.
 Lines 278–384 are recorded in
 text/iliad/book-21-collation-278-384.md.
+Lines 385–497 are recorded in
+text/iliad/book-21-collation-385-497.md.
 
 ## Translation
 

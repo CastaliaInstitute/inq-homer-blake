@@ -684,101 +684,271 @@ daughters of aegis-bearing Zeus, remembered all who came to Ilium.
 
 I will tell the leaders of the ships and all the ships themselves.”
 
-First came the Boeotians, from Hyria and Aulis,
-from Schoenus, Eteon, Thespia, and the vine-rich Graia;
-from Mycalessus, Harma, Peteon, and Eilesion,
-they brought fifty dark ships, and in each ship stood
-one hundred and twenty young men, fitted for war.
+First came the Boeotians. Peneleus and Leitus led them,
+Arcesilaus, Prothoenor, Clonius beside them—
+men of Hyria, rocky Aulis, Schoenus, and Scolus,
+of Eteon, Thespia, Graia, and broad Mycalessus,
+of Harma, Eilesion, Erythrae, and Eleon,
+of Hyle, Peteon, Ocalea, and well-built Medeon,
+of Copae, Eutresis, deep-rifted Thisbe,
+of Coronea, grassy Haliartus, Plataea,
+and Glisas; of lower Thebes, well built,
+of holy Onchestus, Poseidon’s shining grove,
+of vine-rich Arne, Mideia, sacred Nisa,
+and Anthedon, at the world’s far edge.
+Fifty ships came from them, and in each ship
+one hundred and twenty young Boeotians embarked.
 
-The men of Aspledon and Orchomenos followed,
-from Minyan Orchomenos, in thirty ships beneath
-their captains. The Phocians came from Cyparissus,
-Panopeus, Daulis, and Anemoria, from Hyampolis,
-and from the river Cephissus and sacred Lilæa.
-Forty ships stood there, and the bronze flashed beneath sun.
+Aspledon and Minyan Orchomenos sent their people,
+under Ascalaphus and Ialmenus, sons of Ares,
+whom Astyoche, daughter of Actor, bore to the god—
+the modest maiden had climbed to her upper room,
+and the strong god lay with her in secret.
+Thirty hollow ships marched behind them.
 
-The Locrians came from Cynus, Opus, Calliarus,
-Bessa, Scarphe, Augeia, and lovely Thronium,
-from Tarphe and from the banks of Boagrius;
-forty dark ships were theirs, and Ajax the lesser led them.
+The Phocians were led by Schedius and Epistrophus,
+sons of great-hearted Iphitus, Naubolus’ son;
+they held Cyparissus, rocky Pytho, sacred Crisa,
+Daulis, Panopeus, Anemoria, and Hyampolis,
+the dwellers beside divine Cephissus,
+and those who held Lilæa by the springs of Cephissus.
+Forty black ships followed them. The Phocians formed
+their ranks beside the Boeotians, on the left.
 
-The Euboeans came, the Abantes, long-haired men,
-from Histiaea, Hyrie, Cerinthus, and the high city
-of Dios; from Caristus and Eretria, they filled
-forty ships. Elephenor, son of Chalcodon,
-stood before them, old in years but swift in courage.
+Ajax, swift son of Oileus, led the Locrians—
+the lesser Ajax, not so great as Telamonian Ajax,
+but much smaller, lightly armored, a little man;
+yet with his spear he surpassed all Panhellenes
+and Achaeans. His men held Cynus, Opus, Calliarus,
+Bessa, Scarphe, lovely Augeia, Tarphe, and Thronium,
+around the streams of Boagrius. Forty black ships
+followed the Locrians, who live beyond holy Euboea.
 
-Then came the men of Athens, city of broad ways,
-from the land of Ajax and from the shore of Salamis;
-fifty ships moved under Menestheus, whom no man knew
-better than he how to set the chariots and shielded men
-in battle order. Ajax of Salamis brought twelve ships,
-and drew them where the Athenian ranks were gathered.
+The Abantes held Euboea, breathless for battle:
+Chalcis, Eretria, vine-rich Histiaea, Cerinthus,
+the sea-cliff city of Dios, Carystus, and Styra.
+Elephenor, son of Chalcodon, led them,
+great-hearted chief of the Abantes. Behind him came
+the swift-haired spearmen, eager with ashwood lances
+to break the corslets on their enemies’ chests.
+Forty black ships followed them.
 
-Argos, Tiryns, Hermione, and Asine sent their people;
-Epidaurus and Trœzen, Ægina and Mases,
-and the Achaean shore gave ships beneath Diomedes,
-the son of Tydeus, and Sthenelus, glorious in war.
-Eighty ships stood there. The men of Mycenae,
-Cleonae, Orneia, and lovely Aretbyrea,
-of Sicyon and Hyperesia, Gonoessa and Pellene,
-filled their black ships beneath Agamemnon's power.
+Those who held Athens, the city well built,
+the people of great-hearted Erechtheus—whom Athena,
+daughter of Zeus, once raised, and the grain-giving earth
+bore, then set within her rich temple in Athens,
+where Athenian youths appease him with bulls and lambs
+as the years turn—were led by Menestheus, son of Peteus.
+No man on earth could equal him in ordering
+horses and shielded men for battle; only Nestor,
+older by birth, contended with him. Fifty black ships
+followed. Ajax brought twelve from Salamis
+and stationed them beside the Athenian ranks.
 
-From Lacedaemon came the men of hollow valleys,
-Pharis, Sparta, Messa, and Brysia, from Augeia,
-Amyclae, and Laas, and from the sea-bright Helos;
-sixty ships were theirs, led by Menelaus,
-whose heart still carried Helen and the wrong of Troy.
+The men of Argos held Tiryns with its walls,
+Hermione and Asine deep in their bay,
+Troezene, Epidaurus thick with vines,
+Ægina, Mases, and the Achaean shore.
+Diomedes, strong in battle, led them,
+with Sthenelus, beloved son of famous Capaneus,
+and Euryalus, godlike, son of king Mecisteus,
+son of Talaus. Diomedes led them all.
+Eighty black ships followed.
 
-The men of Pylos came, and those of Cyparisseis,
-Amphigenia, and Pteleos, of Arene and Dorion,
-where the Muses met Thamyris and struck his singing dumb.
-Nestor, the old horseman, led ninety ships;
-his sons made ready the spears and tightened every rein.
+The men of Mycenae, the well-built city, came too,
+of wealthy Corinth and well-built Cleonae,
+of Orneia, lovely Aretbyrea, and Sicyon,
+where Adrastus first reigned, and of Hyperesia,
+high Gonoessa, Pellene, Ægium, and the shore
+all along Aegialus, around broad Helice.
+Agamemnon, son of Atreus, led one hundred ships;
+with him came the most numerous and best of the people.
+He himself put on the flashing bronze and shone,
+conspicuous among the heroes, since he was best
+and led a people far more numerous than the rest.
 
-The Arcadians came from Tegea, Mantinea,
-Stymphelus and Parrhasia, from Orchomenus,
-Ripe, Stratia, Enispe, and the windy mountain lands.
-Agapenor led them in sixty ships, but they had no sea
-of their own; the great King Agamemnon supplied
-the vessels, that they too might cross the wine-dark water.
+The men of hollow Lacedaemon came, of Pharis,
+Sparta, Messa, Bryseiae, lovely Augeiae,
+Amyclae, Helos, the city by the sea,
+Laas, and Oetylus. Menelaus, his brother,
+led them—strong in battle—with sixty ships.
+They formed apart; he went among them trusting
+his own courage, urging the war, for most of all
+his heart desired to avenge Helen’s distress and tears.
 
-The men of Elis came, from Hyrmine and Myrsinus,
-from the rock of Olene, from Alpheius and Epitalium,
-from Dulichium and the holy islands in the sea.
-Amphimachus and Thalpius led their forty ships.
+The Pylian people held Pylos and lovely Arene,
+Thryon at the ford of Alpheius, well-built Epi,
+Cyparisseis, Amphigenia, Pteleos, Helos, and Dorion,
+where the Muses met Thamyris the Thracian,
+coming from Oechalia, from Eurytus of Oechalia;
+he boasted that he would defeat the Muses themselves
+if they, the daughters of Zeus who bears the aegis,
+should sing. Angered, they blinded him and stripped him
+of his wondrous song, making him forget the lyre.
+Gerenian horseman Nestor led them; ninety hollow ships
+marched in his wake.
 
-Odysseus brought the Cephallenians, from Ithaca,
-Neritum, Ægilipa, Zacynthus, and the mainland shore;
-from Crocylea and rough Asteria they came,
-in twelve dark ships, beneath the mind of Laertes' son.
+The Arcadians held the steep mountain under Cyllene,
+by the tomb of Aepytus, where men fight at close quarters;
+Pheneus, many-sheeped Orchomenos, Ripe, Stratia,
+windy Enispe, Tegea, lovely Mantinea,
+Stymphalus, and Parrhasia. Agapenor, son of Ancaeus,
+led them in sixty ships. Agamemnon himself,
+son of Atreus, supplied the strong-benched vessels,
+for the Arcadians knew nothing of the sea;
+they embarked in them to cross the wine-dark water,
+many Arcadian men in every ship, skilled in war.
 
-The men of Ætolia followed, from Pleuron and Olenus,
-from Chalcis and Calydon, from rocky Pylenê;
-Thoas led them. The Cretans came from Cnossus,
-Gortyna, Lyctus, Miletus, and the white city
-of Phaestus, in eighty ships beneath Idomeneus.
+The men of Buprasium and divine Elis inhabited
+the land from Hyrmine to Myrsinus at its edge,
+from the Olenian rock to Alesium enclosed within.
+Four leaders held them; ten swift ships followed each,
+and many Epeans embarked. Amphimachus and Thalpius
+led two divisions, sons respectively of Cteatus and Eurytus,
+the Actorian pair; mighty Diores, son of Amarynceus,
+led the third, and godlike Polyxenus, son of Agasthenes,
+son of Augeias, led the fourth.
 
-The Rhodians came from Lindus, Ialysus, and Camirus,
-under Tlepolemus, who had fled his father's house.
-The men of Syme came, and those of Nisyros,
-Casus, and Cos, with Calydna's islands;
-Pheidippus and Antiphus led thirty ships.
+From Dulichium and the sacred Echinades islands,
+which lie beyond the sea opposite Elis, came the people.
+Meges, equal to Ares, led them—son of Phyleus,
+beloved of Zeus, the horseman. Phyleus had once left
+Dulichium in anger with his father. Forty black ships
+followed Meges.
 
-But tell me now, Muses, who inhabit Olympus—
-you are divine, you see all things, and we hear only rumor—
-who were the chiefs and kings of the Danaans?
-I could not name the common multitude, nor count them,
-unless the nine voices of the Muses were beside me,
-remembering every ship and every captain.
+Odysseus led the great-hearted Cephallenians,
+who held Ithaca, forest-shaking Neritum,
+rough Ægilipa, Zacynthus, Crocylea,
+and Asteria, and who held the mainland opposite.
+Odysseus, equal to Zeus in counsel, commanded them;
+twelve red-cheeked ships followed.
 
-The men of Argos, the Athenians, the Cretans,
-the Ionians and the men of Salamis, assembled;
-the Locrians, Phocians, and Euboeans held their ground.
-The two Ajaxes stood among the foremost ranks,
-and Idomeneus, Diomedes, and Menelaus came on.
-Above them all Agamemnon moved, shining in bronze,
-like a bull that towers over the driven herd.
+Thoas, son of Andraemon, led the Aetolians.
+They held Pleuron, Olenus, Pylenê, sea-near Chalcis,
+and rocky Calydon. The sons of great Oeneus were gone,
+and Oeneus himself was gone; blond Meleager had died.
+So Thoas had been charged to rule all the Aetolians.
+Forty black ships followed him.
+
+Idomeneus, famous with the spear, led the Cretans.
+They held Cnossus, well-walled Gortyna, Lyctus,
+Miletus, bright Lycastus, Phaestus, and Rhytium,
+well-inhabited cities, and all who held Crete,
+the land of a hundred cities. Idomeneus led them.
+
+Meriones, equal to Enyalius the slayer, stood beside him;
+eighty black ships followed the Cretan leaders.
+
+Tlepolemus, Heracles’ tall and noble son,
+brought nine ships from Rhodes. The Rhodians lived
+in three divisions—Lindus, Ialysus, and shining Camirus.
+Tlepolemus, famous with the spear, was born to Heracles
+and Astyoche, whom Heracles brought from Ephyra,
+after sacking the cities of the god-reared people.
+When Tlepolemus had grown in his great house,
+he killed his father’s aged maternal uncle, Licymnius,
+an offshoot of Ares. He built ships at once,
+gathered a great people, and fled across the sea,
+for Heracles’ other sons and grandsons threatened him.
+After suffering much, he reached Rhodes, and settled there
+in three tribes; Zeus, lord of gods and men, loved them
+and poured great wealth upon them.
+
+Nireus brought three equal ships from Syme—
+Nireus, son of Aglaia and King Charopus,
+the fairest man to come beneath Ilium after Peleus’ son;
+but he was weak, and few followed him.
+The men of Nisyros, Crapathus, Casus, and Cos,
+the city of Eurypylus, and the Calydnian islands,
+were led by Pheidippus and Antiphus, two sons
+of Thessalus, Heracles’ royal son. Thirty hollow ships
+marched behind them.
+
+Those who held Pelasgian Argos—Alos, Alope, and Trachis,
+Phthia and lovely Hellas—were called Myrmidons,
+Hellenes, and Achaeans. Achilles led their fifty ships,
+but they did not remember the harsh battle: no one was there
+to lead them into line. Swift-footed, godlike Achilles lay
+beside the ships, angry over fair-haired Briseis,
+whom he had taken from Lyrnessus after much toil,
+when he sacked Lyrnessus and the walls of Thebes,
+and killed Mynes and Epistrophus, spear-famed sons
+of King Evenus, Selepius’ son. There he lay in grief,
+but soon he would rise.
+
+Those who held Phylace, flowery Pyrasus, Demeter’s precinct,
+Iton, mother of sheep, Antron by the sea, and meadowed Pteleon,
+were led by warlike Protesilaus while he lived;
+now the black earth held him. His wife, tearing her cheeks,
+was left in Phylace, and his house stood unfinished:
+a Dardanian killed him as he leapt first from his ship.
+Nor were his people leaderless, though they longed for him;
+Podarces, son of Iphiclus, rich in sheep, led them,
+Protesilaus’ own brother, younger by birth. Yet Protesilaus
+had been first and better. Forty black ships followed.
+
+Those who held Pherae beside Lake Boebe, Boebe, Glaphyrae,
+and well-built Iolcus were led by Eumelus, dear son of Admetus,
+whom Alcestis, fairest of Pelias’ daughters, bore to Admetus.
+Eleven ships followed him.
+
+Those who held Methone, Thaumacia, Meliboea,
+and rough Olizon were led by Philoctetes,
+skilled with the bow, in seven ships; fifty oarsmen,
+skilled in war, embarked in each. But Philoctetes lay
+on Lemnos, suffering cruel pain from a deadly serpent’s wound,
+where the sons of the Achaeans had left him. There he lay
+in anguish; soon the Argives by the ships would remember
+their lord Philoctetes. Nor were his men leaderless:
+Medon, Oileus’ bastard son, whom Rhene bore to the sacker
+of cities, arranged them. Seven ships followed.
+
+Those who held Tricca, rocky Ithome, and Oechalia,
+the city of Eurytus of Oechalia, were led by the two sons
+of Asclepius, good physicians, Podalirius and Machaon.
+Thirty hollow ships followed. Those who held Ormenius,
+the spring of Hypereia, Asteria, and the white peaks
+of Titanus were led by Euryphylus, glorious son of Euaemon,
+in forty black ships.
+
+Those who held Argissa, Gyrtone, Orthe, Elone,
+and white Oloosson were led by city-sacker Polypoetes,
+son of Pirithous, whom immortal Zeus fathered through
+Hippodameia on the day the Lapiths punished the shaggy Centaurs
+and drove them from Pelion among the Aethices. With him came
+Leonteus, an offshoot of Ares, son of the great-hearted
+Coronus, son of Caeneus. Forty black ships followed.
+
+Guneus brought twenty-two ships from Cyphus;
+the warlike Enienes and Perrhaebians followed him,
+those who made their homes around wintry Dodona,
+and those who worked beside lovely Titaresius,
+whose clear water runs to Peneius but never mingles with him—
+it flows above him like oil, for it is a branch of Styx’s oath.
+
+Prothous, son of Tenthredon, led the Magnetes,
+who lived beside Peneius and forest-shaking Pelion.
+Swift Prothous commanded them; forty black ships followed.
+
+These were the leaders and lords of the Danaans. Now, Muse,
+tell me who among them was best—the men themselves and the horses
+that followed the sons of Atreus. The best horses were those
+of Eumelus, swift as birds, alike in age and color,
+mares whom Apollo of the silver bow had bred in Pieria,
+carrying the terror of Ares. Of men, Telamonian Ajax was best
+while Achilles nursed his anger—for Achilles was far better,
+and his were the horses that bore the blameless son of Peleus.
+But Achilles lay in his sea-going ships, angry with Agamemnon;
+his people played beside the water with discus, javelins, and bows,
+while the horses stood by their chariots grazing lotus and marsh celery.
+The chariots lay covered in the tents, and the men, longing for their
+war-loving leader, wandered through the camp and did not fight.
+
+They moved like a fire sweeping across the whole earth;
+the ground groaned beneath their feet, as when thunder-loving Zeus,
+angry at Typhoeus, lashes the earth around Arima, where they say
+Typhoeus has his bed. So the earth groaned beneath their feet,
+and they crossed the plain swiftly.
 
 Across the plain the Trojan people gathered also.
 Hector, Priam's son, held the first command,

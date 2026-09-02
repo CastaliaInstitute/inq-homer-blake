@@ -13,8 +13,9 @@ These notes accompany the current opening draft and are not final commentary.
 | 2.211–277 | Thersites attacks Agamemnon | Hostile bodily grotesquerie, intelligible political complaint, and unequal scepter violence | Collation recorded in `book-02-collation-211-393.md`; review whether the English preserves the narrator's hostility without turning the scene into caricature. |
 | 2.278–393 | The army is restored; the serpent omen is recalled; battle preparation begins | Athena's herald, Aulis, nine/tenth-year interpretation, tribes and clans, and physical battle readiness | Collation recorded in `book-02-collation-211-393.md`; verify command sequence, omen placement, and the relation of tribes to clans. |
 | 2.394–493 | The host sacrifices, reforms, and invokes the Muses before the ship catalogue | Five-year-old ox, named counselors, aegis, muster similes, and catalogue epistemology | Collation recorded in `book-02-collation-394-493.md`; verify every simile and the transition into the contingents. |
-| 2.394–493 | Catalogue of Achaean ships and leaders | Place-name catalogue in ceremonial pentameter | Collate every name, ship count, genealogy, and geographical modifier. |
-| 2.494–877 | Catalogue of Trojan and allied forces; armies assemble | Muses' memory, bird and sheep similes, final battle readiness | Verify the Trojan contingents, the closing divine perspective, and all proper names. |
+| 2.494–650 | Achaean catalogue: Boeotians through Cretans | Leaders, genealogies, place names, formations, and ship counts | Collation recorded in `book-02-collation-494-650.md`; preserve the catalogue's geography and command hierarchy before approval. |
+| 2.651–785 | Achaean catalogue: Rhodes through the final muster | Heracles’ line, absent commanders, contingent succession, and the ranked horses and heroes | Collation recorded in `book-02-collation-651-785.md`; verify the remaining transition into the Trojan assembly. |
+| 2.786–877 | Trojan and allied forces; armies assemble | Iris’s summons, Trojan contingents, bird and sheep similes, final battle readiness | Verify the Trojan contingents, the closing divine perspective, and all proper names. |
 
 ## Draft warning
 

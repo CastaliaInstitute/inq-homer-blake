@@ -5,7 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 24.1–119 | Achilles drags Hector; gods debate | Rage and divine pity | Verify circuits, body preservation, and council. |
+| 24.1–119 | Achilles drags Hector; gods debate; Thetis receives Zeus’s commission | Rage, pity, and ritual reversal | Collated 2026-09-02; verify the divine honors, sea passage, and nine-day quarrel at meter review. |
 | 24.120–228 | Zeus sends Iris and Priam prepares | Command and ransom | Check gifts, omens, and Hecuba's objection. |
 | 24.229–386 | Hermes guides Priam | Enemy camp as threshold | Collate disguise, guards, trenches, and entrance. |
 | 24.387–551 | Priam supplicates Achilles | Fathers and shared grief | Verify speech, gesture, gifts, and body exchange. |

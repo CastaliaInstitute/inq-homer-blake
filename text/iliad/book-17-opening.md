@@ -3,7 +3,7 @@
 **Source passage:** Book 17, lines 1–761 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–641 are incorporated below; independent
+layout. Revised passes for lines 1–761 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
@@ -711,7 +711,127 @@ The dead away, and return alive, bringing joy
 To friends who look this way in anguish and no longer
 Think Hector's murderous hands can be held back.
 Would some companion quickly carry word
-To Peleus' son; I do not think he has heard—”
+To Peleus' son; I do not think he has heard—
+
+The grievous message that his dearest friend is dead.
+But nowhere can I see such a man among
+The Danaans; men and horses alike are held
+In mist. Father Zeus, deliver us from dark;
+Make clear air come, and grant our eyes to see;
+Then slay us in the light, if that is your will.”
+
+He spoke, and Father Zeus pitied him. He scattered
+The mist and thrust the cloud away; the sun
+Shone forth, and all the battle stood revealed.
+
+Ajax, strong in the war-cry, spoke to Menelaus:
+“Look now, Menelaus, child of Zeus, and see
+If Nestor's great-hearted son Antilochus lives.
+Urge him to run to swift Achilles, and tell him
+His dearest friend has fallen.”
+
+Menelaus did not refuse. He went like a lion
+From a fold, when weary of rousing dogs and men
+Who will not let him take the fat of cattle,
+Though they have watched all night. Hungry for flesh,
+He presses on but gains nothing; thick spears leap
+From bold hands, brands burn in the air; he rushes,
+Yet fears them, and at dawn goes off with wounded heart.
+So Menelaus unwillingly left Patroclus,
+Fearing the Greeks, overcome by grievous flight,
+Would leave him prey. He gave commands to Meriones
+And both the Ajaxes:
+
+“Ajax, leaders of Argives, and Meriones,
+Remember each the kindness of poor Patroclus,
+Gentle to all while living. Now death and fate
+Have found him.”
+
+Then golden-haired Menelaus went,
+Searching like an eagle, said to have the keenest sight
+Among all birds beneath the sky; even high above,
+The hare beneath a leafy bush escapes him not.
+He swoops and takes its life. So everywhere
+Menelaus searched the many ranks of friends,
+To see if Nestor's son still lived.
+
+At last he saw him on the battle's leftmost wing,
+Encouraging his companions, urging them to fight.
+Menelaus came near and said: “Antilochus,
+Child of Zeus, come and learn the grievous news,
+The thing that should not have occurred. You see already
+What evil god rolls over Danaans, and that
+The Trojans hold the victory. Patroclus,
+Best of Achaeans, is dead; a great longing
+Has fallen on the Danaans. Run at once
+To Achilles beside the ships, and tell him whether
+He may save the naked body for the ship;
+Hector of the shining helmet holds the armor.”
+
+Horror struck Antilochus at these words.
+For a long time speechlessness held him; his eyes
+Filled with tears, his clear voice could not rise.
+Yet he did not neglect the command. He ran,
+And gave his armor to blameless Laodocus,
+Who was turning the single-hoofed horses near him.
+With tears falling, his feet bore him from the fight
+To Peleus' son, carrying the evil message.
+
+Menelaus' heart still would not leave his weary friends
+Unprotected where Antilochus had gone. He sent
+Noble Thrasymedes to them, while he himself
+Returned again to Patroclus and stood beside
+The Ajaxes: “I sent that man to the ships,
+To run to swift Achilles. Yet I do not think
+He will come, though he is terribly angered at Hector;
+He cannot fight the Trojans naked. Let us devise
+The best counsel: how to drag away the corpse,
+And how to escape death and fate amid Troy's uproar.”
+
+Great Telamonian Ajax answered: “You have spoken
+In due measure, glorious Menelaus. But you
+And Meriones must stoop, lift up the body,
+And carry it out of battle; we two behind
+Will fight the Trojans and divine Hector,
+Of one spirit, as we have always stood together
+And endured sharp Ares.”
+
+They bent and lifted the corpse high from the ground.
+The Trojan host cried out when they saw them raise
+The dead, and rushed like dogs upon a wounded boar
+Before young hunters. For a time they run to tear it;
+But when it turns in strength, they scatter trembling.
+So Trojans followed in a mass with swords
+And double-edged spears; but when the Ajaxes turned
+And faced them, every color changed, and no one dared
+To spring against the corpse.
+
+Thus the two carried Patroclus with all their strength
+From battle toward the hollow ships, while war
+Stretched behind them like fire that rushes on
+A city, blazing high while houses shrink
+In glare and wind roars through it. The unwearied uproar
+Of horses and spear-bearing men followed.
+
+As mules that gather all their strength drag down
+From mountains by a rugged path a great beam
+Or long ship's mast, their hearts and bodies spent
+In haste, labor, and sweat, so these men strained
+And bore the corpse. Behind them the two Ajaxes
+Held back the Trojans like a wooded ridge that checks
+Water above a plain, restraining river streams
+And turning all their rush across the fields;
+Waters cannot break it by their force. So always
+The Ajaxes drove the battle back. The Trojans followed,
+And above all Aeneas and bright Hector.
+
+As starlings or jackdaws come clamoring on
+When they see a hawk approaching, bringing death
+Among the little birds, so beneath Aeneas
+And Hector Achaeans fled with dreadful cries,
+Forgetting courage. Many handsome pieces of armor
+Fell around the corpse and around the ditch
+As Danaans fled; the war would not grow slack.
 
 ## Decision log
 
@@ -752,3 +872,9 @@ To Peleus' son; I do not think he has heard—”
   Phaenops disguise, Zeus' aegis reversal, Coeranus' chariot sacrifice,
   and Ajax's interrupted appeal for Achilles. Meter, Greek-fidelity,
   omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision completes the source-collated Book 17 pass through
+  17.761, preserving Zeus' clearing of the mist, Menelaus' lion and eagle
+  searches, Antilochus' reception of the death-message, the coordinated
+  corpse recovery, the mules and wooded-ridge similes, and the final armor
+  scattered around the ditch. Meter, Greek-fidelity, omission/addition, and
+  editorial review remain pending.

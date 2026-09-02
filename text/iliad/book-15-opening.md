@@ -3,10 +3,11 @@
 **Source passage:** Book 15, lines 1–746 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. The revised pass for lines 1–217 is incorporated below; independent
+layout. Revised passes for lines 1–391 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
-**Source-collated authority:** `text/iliad/book-15-collation-1-217.md`
+**Source-collated authority:** [`book-15-collation-1-217.md`](book-15-collation-1-217.md)
+and [`book-15-collation-218-391.md`](book-15-collation-218-391.md)
 
 ## Translation
 
@@ -193,6 +194,163 @@ Will never be healed.”
 
 So he withdrew; the sea received him.
 
+The Achaeans missed him as he sank beneath
+The sea. Then Zeus spoke to Apollo: “Go now
+To Hector, bronze-clad. Earth-Shaker has gone down
+To the bright sea, avoiding my anger;
+For others born to Cronus would have heard
+Our quarrel. Better that he yields, since he
+Could not complete his work without great toil.
+Take up the tasseled aegis, shake it before
+The Greeks, and terrify them. Let your care
+Be Hector: rouse his courage until all
+The Achaeans flee toward ships and Hellespont.
+Then I shall guide the work and word, so that
+They breathe again after their labor.
+
+“Before the wish of Peleus’ son is done,
+I will not cease my anger, nor permit
+An immortal to defend the Greeks. So
+I promised Thetis when she clasped my knees
+And begged me to give honor to Achilles.”
+
+Apollo obeyed. He went from Ida down
+Like a hawk, swiftest among birds, and found
+The son of Priam sitting, no longer fallen;
+His spirit gathered, and he knew the friends
+Around him. Sweat and breath had ceased; the mind
+Of Zeus had roused him. Phoebus stood beside:
+
+“Why do you sit apart, faint son of Priam?
+Has some grief reached you?”
+
+Hector, still weak, replied:
+“Who are you, best among the gods, that ask
+Me face to face? Do you not know that Ajax
+Struck me beside the sterns, killed my companions,
+And stopped my courage? I believed that I
+Would reach the dead and Hades’ house today.”
+
+Apollo said: “Take heart. The son of Cronus
+Sent me from Ida to defend you. I
+Am Phoebus, who have saved you and the city.
+Rouse now the many horsemen; drive their cars
+Against the ships. I will go before you,
+Make smooth the road, and turn the Greeks away.”
+
+He breathed great courage into Hector. As
+A horse kept in the stall, well fed, breaks free
+And runs clattering over the plain, accustomed
+To bathe within a river, proud, his mane
+Flowing, his knees carrying him quickly through
+The fields and pastures he has always known—
+So Hector moved his feet and knees, and roused
+The horsemen when he heard the god’s voice.
+
+The Greeks came after like hounds and men who chase
+A horned deer or wild goat, until a rock
+Or shadowed forest saves the prey; then a
+Bearded lion appears before them, turns
+Them all, however eager. So the Greeks,
+While they could follow, struck with sword and spear;
+But seeing Hector move among the ranks,
+Fear took them, and their courage fell beside
+Their feet.
+
+Then Thoas, son of Andraemon, best
+Among Aetolians, skilled with spear and good
+In close combat, spoke: “What a wonder! Hector rises,
+Escaping death. We all expected Ajax
+To kill him. Some god has rescued him, who loosed
+The knees of many Danaans; and he will
+Do so again. Hector does not stand here
+Without the thunder of Zeus. Send back the host
+Toward ships; we who claim the foremost rank will stand
+And first attempt to stop him. Even Hector,
+However eager, will fear to enter us.”
+
+They heard and obeyed. Around King Idomeneus
+And Ajax they arrayed Teucer, Meriones,
+And Meges, calling the best to stand against
+The Trojans, while the multitude withdrew
+Toward the Achaean ships.
+
+The Trojans struck together, led by Hector’s stride;
+Before him Phoebus walked, a cloud around
+His shoulders, holding the dread aegis, tasseled,
+Shaggy, which Hephaestus made and gave to Zeus
+For terror among men. Apollo held
+It and led on the people. The Greeks stood
+Together; a sharp cry arose from both.
+Arrows leapt from strings, and many spears went forth.
+Some fixed in flesh; some stood midway in earth,
+Before they reached the white skin, hungering
+For flesh.
+
+While Phoebus held the aegis still, the spears
+Reached both sides and men fell. But when he shook
+It straight before the swift Danaans, and
+Himself cried terribly, he bewitched their hearts.
+They forgot their strength. As two wild beasts scatter
+A herd of cattle or a flock of sheep
+In the black night, when no herdsman is there,
+So was the courage of the Greeks driven away.
+Apollo gave the glory to the Trojans
+And Hector.
+
+Man killed man as the ranks broke. Hector struck
+Stichius, leader of the bronze-clad Boeotians,
+And Arcesilaus, friend of Mnestheus.
+Aeneas stripped Medon and Iasus.
+Medon, Oileus’ bastard son and brother
+Of Ajax, lived in Phylace far away,
+After he killed his stepmother’s kinsman.
+Iasus led Athenians, son of Bucolus.
+Polydamas killed Mecisteus; Polites struck
+Echius at the first clash; Agenor killed
+Clonius; Paris struck Deiochus fleeing,
+Low in the shoulder, in the foremost ranks.
+
+While Troy stripped the fallen, the Greeks fled through
+The trench and stakes, driven here and there,
+And entered their own wall by force. Then Hector
+Cried out: “Rush toward the ships; leave human spoils.
+Whoever I find apart from them, I’ll bring
+His death there; his kindred will not claim him,
+But dogs will drag him before our city.”
+He lashed his horses, drove along the ranks;
+The Trojans shouted and kept close their cars.
+
+Apollo went before them, and with ease
+Trampled the banks of the deep trench, throwing them
+Into its middle, making a long broad road,
+As far as when a man tests strength with a spear.
+The Trojans poured in phalanx. He bore the aegis
+And threw the wall down, as a child beside
+The sea builds toys of sand, then kicks them flat.
+So, Phoebus, you confused the Greeks’ long labor,
+And roused their flight.
+
+They stood beside the ships and called to gods,
+Lifting their hands. Nestor, horseman, raised his own:
+“Father Zeus, if ever in rich Argos someone
+Burned fat thighs of ox or sheep, and prayed to sail
+Back home, and you promised, nodding, remember now,
+And keep the Greeks from this pitiless day.
+Do not let Troy master us.”
+
+He prayed; and Zeus thundered greatly, hearing him,
+The old son of Neleus. When the Trojans heard
+The thunder of the aegis-bearing god,
+They sprang more fiercely and remembered courage.
+As a great wave from the broad sea falls upon
+A ship’s wall when the wind drives it, lifting waves
+Most high, so Troy crossed the wall with one great cry.
+They drove their horses among the sterns, and fought
+With spears at close range; some from chariots,
+Some mounting the dark ships, wielding long poles laid
+Upon the decks, shod with bronze for sea-fight.
+
 ## Decision log
 
 - Zeus' reversal is rendered as a chain of commands that does not erase
@@ -208,3 +366,9 @@ So he withdrew; the sea received him.
   Hera's Olympian council, Ares's grief, Athena's restraint, Iris's hail-like
   mission, and Poseidon's qualified withdrawal. The passage remains unapproved
   pending independent meter and Greek-fidelity review.
+- The revision now completes the source-collated Book 15 span through 15.391,
+  preserving Apollo's restoration of Hector, Thoas's recognition, the aegis,
+  named deaths, the trench and wall collapse, Nestor's prayer, Zeus's thunder,
+  and the transition to fighting at the ships. The full book remains
+  unapproved pending independent meter, Greek-fidelity, omission/addition, and
+  editorial review.

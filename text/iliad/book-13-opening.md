@@ -3,10 +3,12 @@
 **Source passage:** Book 13, lines 1–837 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. The revised pass for lines 1–205 is incorporated below; independent
+layout. Revised passes for lines 1–584 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
-**Source-collated authority:** [`book-13-collation-1-205.md`](book-13-collation-1-205.md)
+**Source-collated authority:** [`book-13-collation-1-205.md`](book-13-collation-1-205.md),
+[`book-13-collation-206-370.md`](book-13-collation-206-370.md), and
+[`book-13-collation-371-584.md`](book-13-collation-371-584.md)
 
 ## Translation
 
@@ -369,6 +371,215 @@ The ships: here is the wedding made.”
 He spoke, and sprang to strip the armor from
 The fallen man.
 
+Idomeneus struck Othryoneus as he sprang;
+The bronze could not withstand him, and the spear
+Was fixed within the middle of his belly.
+He fell and groaned. Idomeneus called out:
+“Othryoneus, above all mortal men
+I praise you—if you truly will fulfill
+The promise made to Priam, and the king
+Will give you his fair daughter. We too would bring
+The fairest daughter of the son of Atreus
+From Argos, if you helped us take the city.
+Come to the ships; we are not poor arrangers
+Of bride-gifts.”
+
+He spoke, and dragged the fallen by the foot
+Through battle. Asius came to help him, walking
+Before his horses; breathless, his driver held
+The reins stretched tight above the horses’ necks.
+Asius took aim at Idomeneus, but he
+Struck first beneath the throat and through the bronze.
+Asius fell like oak, or alder, or
+A tall pine felled by woodcutters for a ship,
+New-sharpened axes ringing; so he lay
+Before his horses, roaring in the dust,
+And clutching at his blood.
+
+The driver, stunned, dared not turn back the team
+Through enemy hands. Antilochus, steadfast
+In battle, struck him in the middle; bronze
+Could not contain the point, which entered deep
+Into his belly. From the polished car
+He fell, gasping; and Nestor’s great-hearted son
+Drove off the horses from the Trojans, toward
+The well-greaved Greeks.
+
+Deiphobus came near, grieving for Asius,
+And cast his shining spear. Idomeneus
+Saw it and slipped aside; his many-layered shield,
+Of ox-hide over bronze, received the stroke.
+The spear flew over it, but still the hand
+Was not made empty: Deiphobus struck down
+Hypsenor, son of Hippasus, beneath
+The liver; suddenly his knees gave way.
+
+Then Deiphobus cried: “Asius does not
+Lie without honor here. As he goes down
+To Hades’ gates, he will rejoice that I
+Have sent a companion.” The Greeks grieved,
+And most of all the boast awoke the anger
+Of warlike Antilochus. Yet even while
+He mourned his friend, he did not leave him; round
+The body running, he held up his shield.
+Two faithful comrades, Mecisteus, son
+Of Echius, and splendid Alastor, bent
+To lift the burden, and bore Hypsenor,
+Groaning, toward the hollow ships.
+
+But Idomeneus did not cease his strength.
+He sought either to cover some Trojan
+With dark night, or himself to fall with a crash
+While saving the Achaeans. There he struck
+Alcathous, son of Aesyetes, son-in-law
+Of Anchises. He had married Hippodamia,
+The eldest daughter, loved beyond the rest
+By father and by honored mother; she
+Surpassed her fellows in beauty, work, and mind,
+And therefore the best man of broad Troy had made
+Her his own wife. But Poseidon made him fall
+Beneath Idomeneus: he bound his limbs,
+Bewildered his bright eyes, and would not let
+Him flee, or turn away from the coming blow.
+
+Idomeneus struck the center of his breast,
+Like some tall pillar or a high-leaved tree.
+The spear broke through the bronze tunic, once
+His defense; he cried, bent around the weapon,
+And fell with thunder. The spear stood fast
+Within his heart; his struggling heart shook the point,
+Until the mighty war-god left him.
+
+Then Idomeneus shouted: “Deiphobus,
+Do you believe three men have fallen for one,
+As you have boasted? Madman, stand before me,
+That you may see what kind of son of Zeus
+Has come here—Minos’ line, who first was born
+To Crete, the blameless king; and Minos’ son
+Was Deucalion, and Deucalion fathered me,
+The ruler of many men. These ships have borne
+Me here to bring destruction on your father,
+On you, and on the other men of Troy.”
+
+Deiphobus considered, turning two ways:
+To call a great-hearted Trojan back, or test
+The battle by himself. He judged it best
+To go to Aeneas, whom he found behind
+The crowd; for Aeneas was always angry
+With Priam, since the king gave him no honor,
+Though he was good among the men of war.
+
+He stood beside him: “Aeneas, counselor
+Of Troy, defend your brother-in-law, if any
+Care for him remains. Come aid Alcathous,
+Who raised you in his house when you were still
+A child. Idomeneus, famous for the spear,
+Has struck him down and stripped him.”
+
+Aeneas’ heart was stirred. He went at once
+Toward Idomeneus, intent upon the work
+Of war. The Cretan did not shrink like a child;
+He stood as a boar that trusts his strength among
+The mountains, waiting for a crowd of men
+Who rush against him in a lonely place.
+His eyes flashed fire; he sharpened his teeth,
+Prepared to face both dogs and men. So there
+Idomeneus stood waiting, and called out
+To Ascalaphus, Aphareus, Deipyros,
+Meriones, and Nestor’s son, Antilochus,
+The masters of the war-cry:
+
+“Come, dear companions, stand beside me now,
+Though I am alone. I fear Aeneas’ strength;
+He comes in youth’s first flower, when strength is greatest,
+And kills his enemies. If we were equal
+In age and spirit, one of us would quickly
+Carry away the victory.”
+
+They came with one mind, and leaned their shields
+Upon their shoulders. On the other side
+Aeneas called Deiphobus, Paris, and
+The godlike Agenor; and the people followed,
+As sheep follow their shepherd from the pasture,
+And the shepherd’s heart rejoices. So did he
+Rejoice to see the host go after him.
+
+They rushed around Alcathous; the bronze
+Clashed terribly against their chests. Two men,
+Aeneas and Idomeneus, like Ares,
+Sought one another’s flesh with pitiless bronze.
+Aeneas cast; Idomeneus saw and turned.
+The point struck earth and quivered, having sprung
+In vain from Aeneas’ hand. Idomeneus
+Struck Oenomaus beneath the belly; through
+The hollow breastplate passed the spear, and drove
+Bronze through the entrails. In the dust he fell,
+And grasped the earth with one extended hand.
+
+Idomeneus drew forth the long-shadowed spear,
+But could not strip the armor from the dead:
+The missiles pressed him, and his legs had lost
+Their power to leap. He could defend himself
+In close combat, but could not easily flee
+The cast spear, or escape it.
+
+Deiphobus, who had long held in his anger,
+Cast at him as he slowly went away;
+He missed, and struck Ascalaphus, the son
+Of Enyalius, through the shoulder. The spear
+Held him; Ascalaphus fell and grasped the earth.
+But Ares, loud and mighty, did not know
+His son had fallen. Bound beneath the will
+Of Zeus, he sat on high Olympus, under
+The golden clouds, as all the gods were kept
+Apart from battle.
+
+The fighters rushed around Ascalaphus.
+Deiphobus tore off his shining helmet;
+Meriones, the equal of swift Ares,
+Sprang forward and struck Deiphobus’ arm.
+The cheeked helmet rang and fell from his hand.
+Meriones sprang again, drew out the spear
+From where it entered, then withdrew among
+His comrades. Polites, Deiphobus’ brother,
+Reached out his hand and led him from the fight
+To where the swift horses and chariot waited.
+
+The others fought; the unquenchable cry rose.
+Aeneas rushed at Aphareus, Caletor’s son,
+And struck his turned neck with the sharp spear.
+His head leaned sideways; shield and helmet fell
+As death poured over him. Antilochus saw
+Thoon turn, sprang forward, and cut the vein
+That rises up the back and reaches the neck.
+He fell upon his back, stretching both hands
+Toward his friends. Antilochus rushed upon him,
+Stripped off the armor, and looked round; the Trojans
+Surrounded him, striking his bright broad shield.
+They could not reach his tender flesh, for Earth-
+Shaking Poseidon guarded Nestor’s son
+Among the many missiles.
+
+Antilochus was never far from foes;
+He wheeled among them, and his spear would not
+Rest, but shook and turned as he considered whom
+To strike, and where to close. He did not fail
+To see Adamas, Asius’ son, who aimed
+Across the crowd. Adamas struck the center
+Of Antilochus’ shield at close range. But
+The blue-haired god weakened the spear, hating
+His life: one half remained within the shield,
+Like a stake charred by fire; the other fell
+Upon the ground. Adamas withdrew, avoiding
+Fate. Meriones followed, and struck him
+Between the navel and the genitals,
+Where Ares wounds most painfully. The spear
+Stood fast; he writhed as a bull herdsmen bind
+Against its will, and lead down from the hills.
+For a short while he twisted; then Meriones
+Came near and drew the spear from out his flesh,
+And darkness covered both his eyes.
+
 ## Decision log
 
 - Poseidon's intervention is kept hidden inside a mortal guise, making
@@ -387,5 +598,10 @@ The fallen man.
   deployment, the opposed divine purposes, and Othryoneus's fatal marriage
   promise. This passage remains unapproved pending independent meter and
   Greek-fidelity review.
+- The revision now extends through 13.584, preserving the Cretan counterattack,
+  paired recoveries, Alcathous's family and Poseidon-induced stillness,
+  Idomeneus's genealogy, the Aeneas encounter, Ascalaphus and Deiphobus, and
+  Antilochus's defense. This passage remains unapproved pending independent
+  meter and Greek-fidelity review.
 - This draft needs Greek-fidelity review for Poseidon's disguise, all
   leaders and deaths, the ship-front geography, and Hector's speeches.

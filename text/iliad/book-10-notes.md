@@ -5,7 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 10.1–179 | Achaean night council | Sleepless leadership | Verify the chiefs summoned and their armor. |
+| 10.1–200 | Achaean night council, guard inspection, and volunteer challenge | Sleepless leadership and intelligence | Collation recorded in book-10-collation-1-200.md; preserve the chiefs summoned, armor details, guard line, and Nestor’s reward. |
 | 10.180–298 | Diomedes and Odysseus set out | Athena's bird and dark passage | Check the omen, ditch crossing, and weapons. |
 | 10.299–390 | Dolon is captured and questioned | Intelligence under threat | Collate promise, costume, route, and speech order. |
 | 10.391–497 | Thracian camp and Rhesus | Night violence | Verify casualties, king, horses, and divine warning. |

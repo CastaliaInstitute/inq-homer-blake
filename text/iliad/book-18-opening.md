@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–540, is incorporated
+The first source-collated revision, covering lines 1–606, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -523,6 +523,70 @@ Her garment on her shoulders was red with blood
 Of men she had slain. They mingled like living men,
 Fought, and drew away each other's dead.
 
+Upon it he set a fallow field, rich and soft,
+Thrice-plowed and broad. Many plowmen turned their teams
+Of oxen back and forth. Whenever they reached
+The boundary, a man came forward, gave each hand
+A cup of honey-sweet wine; then back they turned
+Along the furrows, eager for the far boundary.
+Behind them earth grew dark, though all the gold remained—
+A wonder wrought in metal.
+
+Upon it he set a royal estate. Reapers held
+Sharp sickles and cut the standing grain; the sheaves
+Fell thick along the furrow. Three binders stood
+At work; behind them boys gathered cut stalks,
+Carrying them forward without pause. The king stood
+Among them, silent, glad at heart, staff in hand,
+Upon the furrow. Apart, beneath an oak,
+Heralds prepared a feast; they had sacrificed
+A great ox, while women scattered white meal
+For supper to the reapers.
+
+Upon it he set a vineyard, beautiful and golden,
+Heavy with dark clusters. Vines stood in rows
+Upon silver poles; around them ran a trench
+Dark-blue, and around the trench a fence of tin.
+One path alone led through, by which the gatherers
+Walked when they carried grapes. Young women, youths
+Unwed and innocent, bore the honeyed fruit
+In woven baskets. Among them a boy
+With clear lyre sang Linos' lovely song;
+The others followed, striking earth together,
+Leaping in time to song and cry.
+
+Upon it he set a herd of straight-horned cattle.
+The cows were gold and tin; lowing, they hurried
+From the dung-yard to pasture by the river,
+Beside the trembling reeds. Four golden herdsmen
+Went in line, and nine white-footed dogs followed.
+Two terrible lions seized a bellowing bull
+Among the first cattle; they dragged him off,
+Lowing long. Dogs and young men pursued; the lions
+Tore open his hide and gulped his entrails,
+Drank the dark blood. The herdsmen sent swift dogs,
+But dogs held back from biting; close beside them
+They barked, then drew away, afraid of jaws.
+
+The famous smith made also a pasture in
+A lovely valley for great flocks of white sheep,
+With covered folds, huts, and roofed pens.
+
+He wrought a dancing floor, like that Daedalus
+Made in broad Knossos for fair-haired Ariadne.
+There young men and maidens, whose wealth was won
+By labor, danced, holding each other's wrists.
+The maidens wore fine linen; young men wore tunics
+Woven with care, shining softly with oil.
+The maidens wore beautiful crowns; the youths had
+Golden knives hanging from silver baldrics.
+Now they ran with practiced feet, as when a potter
+At work tries a wheel beneath his palms to see
+If it will run; now rows moved toward each other.
+A crowd stood round the lovely dance, delighted;
+A divine singer played the lyre, while two tumblers
+Whirled through the midst, leading the song and dance.
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -560,3 +624,9 @@ Fought, and drew away each other's dead.
   shield, its cosmology and stars, both cities, the market judgment, the
   ambush and river battle, and Strife, Tumult, and Death. Meter,
   Greek-fidelity, omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 18 pass through
+  18.606, preserving the thrice-plowed field, reapers and royal estate,
+  vineyard and Linos song, cattle and lions, sheepfold, Daedalus' dance floor,
+  clothing and ornaments, potter's wheel simile, divine singer, and tumblers.
+  Meter, Greek-fidelity, omission/addition, and editorial review remain
+  pending.

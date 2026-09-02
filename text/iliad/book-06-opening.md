@@ -6,10 +6,80 @@
 
 ## Translation
 
-The battle went on, and the gods were not beside the men.
-The Argives pressed, and the Trojans gave ground beneath them.
-Ajax killed Hyrtacides, and Antilochus struck down a captain;
-the field ran red, and no one could count the dead.
+The battle rolled on, terrible, between the Trojans and the Achaeans;
+their bronze-shod spears drove straight against one another between
+the streams of Simoeis and Xanthus. Great Telamonian Ajax, the rampart
+of the Achaeans, broke the Trojan line first and brought light to his friends.
+He struck Acamas, son of Eussorus, the best and tallest of the Thracians;
+the bronze point pierced the horse-haired crest, entered his forehead,
+and darkness covered his eyes. Diomedes slew Axylus, son of Teuthras,
+a rich man who dwelt in well-built Arisbe and loved all men: his house
+stood beside the road, and every traveler found welcome there. Yet no one
+could stand before Diomedes and save him from the fatal day; he took both
+Axylus and his charioteer Calesius, and the two went down together in dust.
+
+Euryalus stripped Dresus and Opheltius, then went on against Aesepus and
+Pedasus, twin sons whom the water-nymph Abarbarea bore to noble Bucolion.
+Bucolion was the eldest son of proud Laomedon, but his mother bore him
+in secret. While he tended sheep he lay with the nymph, who conceived
+and brought forth the twins; now the son of Mecisteus broke their strength
+and took the shining armor from their shoulders. War-loving Polypoetes
+slew Astyalus; Odysseus struck down Percosius with bronze, and Teucer
+felled Aretaon. Antilochus, Nestor's son, killed Ablerus with his bright spear;
+Agamemnon, lord of men, killed Elatus, who dwelt beside the fair-flowing
+Satnioeis near steep Pedasus. Leitus took Phylacus as he fled, and Eurypylus
+stripped Melanthius of life.
+
+Menelaus seized Adrastus alive. His frightened horses, startled across the
+plain, broke the curved chariot's pole against a tamarisk branch; they ran
+toward the city where the others fled, while Adrastus rolled headlong from
+the car and fell face-first in the dust. Menelaus stood above him with his
+long-shadowed spear. Adrastus clasped the Atrid's knees and pleaded:
+
+“Take me alive, son of Atreus, and accept a ransom worthy of me. My wealthy
+father has bronze, gold, and much-worked iron stored in his house; he would
+give you measureless gifts if he heard that I was alive among the Achaean ships.”
+
+His words moved Menelaus' heart, and he was already about to send Adrastus
+to the swift ships, into the hands of a servant, when Agamemnon came running
+and called aloud: “My good Menelaus, why do you care so for these men? Have
+the Trojans treated your house so well? Let none escape the steep death from
+our hands—not even the unborn child carried in its mother's womb. Let all of
+Ilium perish, unburied and unseen.” His brother's words turned Menelaus' mind;
+he thrust Adrastus away, and Agamemnon struck him beneath the ribs. As he fell,
+the Atrid planted his foot upon his chest and tore the ash spear free.
+
+Then Nestor cried to the Argives: “Friends, Danaan heroes, servants of Ares,
+let no one linger now beside the spoils, loading his hands with armor to carry
+back to the ships. Let us kill the men; afterward, when you stand untroubled,
+you may strip the dead across the field.” His shout awakened every heart.
+
+The Trojans would have fled into Ilium beneath the Achaeans, had not Helenus,
+Priam's son, best of all augurs, come to Aeneas and Hector and said: “Aeneas
+and Hector, on you above all Trojans and Lycians the labor rests, because you
+are best in counsel and battle. Stand here, and hold the people before the gates,
+moving everywhere through the ranks, before they fall in flight into women's
+hands and become a joy to the enemy. When you have roused every battalion,
+we will remain and fight the Danaans here, though we are sorely worn, for need
+drives us. Hector, go through the city; tell your mother and mine to gather the
+elders, open the temple of gray-eyed Athena on the city's height, and lay upon
+the goddess' knees the robe she believes most beautiful and most large, the one
+she loves best in the house. Promise twelve yearling heifers, never yet broken
+to the goad, if she will pity the city, the wives of Troy, and their little children,
+and keep the fierce spear of Tydeus' son, the strong deviser of flight, from sacred
+Ilium. I call him the strongest of all the Achaeans; not even Achilles, they say,
+though born of a goddess, was ever so feared. This man rages beyond measure,
+and no one can equal his strength.”
+
+Hector did not disobey his brother. He leapt from his chariot in his armor,
+shook his sharp spears, and went everywhere through the army, urging the battle
+and waking the dreadful tumult. The Trojans turned and stood against the Achaeans;
+the Argives gave ground and stopped their slaughter, believing that some immortal
+had descended from the starry heaven to defend the Trojans. Hector called aloud:
+“Trojans, men of high spirit, and far-famed allies, be men, my friends, and remember
+your furious courage while I go into Ilium and tell the elders and our wives to pray
+to the gods and promise hecatombs.” Thus he spoke and went away, and the shield's
+rim, running lowest around its boss, struck his ankles and the dark skin of his neck.
 
 Glaucus and Diomedes met between the armies.
 They raised their spears, but Diomedes asked:

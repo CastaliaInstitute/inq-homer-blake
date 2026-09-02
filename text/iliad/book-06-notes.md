@@ -5,7 +5,7 @@ commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 6.1–118 | Glaucus and Diomedes meet | Leaves, lineage, and guest-friendship | Verify genealogy, guest gifts, and the armor exchange. |
+| 6.1–118 | Opening battle; Adrastus; Helenus and Hector | Battlefield pressure and ritual appeal | Collation recorded in `book-06-collation-1-118.md`; preserve the named deaths, ransom interruption, twelve heifers, robe, and Hector’s departure. |
 | 6.119–236 | Hector sends the women to Athena | Ritual petition | Check procession, robe, and failed divine response. |
 | 6.237–311 | Hector confronts Paris and Helen | Blame and shame | Verify chamber scene and speech attribution. |
 | 6.312–493 | Hector, Andromache, and Astyanax | Family under war | Collate the gate geography, child scene, and future prophecy. |

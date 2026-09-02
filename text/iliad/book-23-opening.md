@@ -3,6 +3,8 @@
 **Source passage:** Book 23, lines 1–897 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
+The first source-collated revision, covering lines 1–108, is recorded in
+text/iliad/book-23-collation-1-108.md pending promotion after meter review.
 
 ## Translation
 

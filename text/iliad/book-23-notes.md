@@ -2,10 +2,12 @@
 
 These notes accompany the current complete working draft and are not final
 commentary.
+Lines 1–108 are recorded in
+text/iliad/book-23-collation-1-108.md.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 23.1–108 | Achilles mourns and prepares the pyre | Grief as ritual labor | Verify hair offerings, wood, and sacrifices. |
+| 23.1–108 | Achilles mourns and Patroclus appears in a dream | Grief as ritual labor | Collated 2026-09-02; preserve the Myrmidon circuits, Thetis’s grief, Hector’s promised dishonor, funeral animals, washing refusal, shore sleep, soul’s River-exclusion, shared urn, and household history. |
 | 23.109–191 | Patroclus appears in a dream | Burial and shared urn | Check spirit speech and bone arrangement. |
 | 23.192–272 | Pyre is completed and mound raised | Public memorial | Collate fire, wine, bones, urn, and tomb. |
 | 23.273–428 | Chariot race | Skill, accident, and prizes | Verify drivers, Athena's intervention, and dispute. |

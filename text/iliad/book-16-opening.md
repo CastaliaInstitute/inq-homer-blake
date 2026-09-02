@@ -3,7 +3,7 @@
 **Source passage:** Book 16, lines 1–867 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–220 are incorporated below; independent
+layout. Revised passes for lines 1–507 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 101–220 are recorded in
 text/iliad/book-16-collation-101-220.md.
@@ -423,7 +423,184 @@ His mouth and nostrils. Black death covered him.
 
 So each Danaan leader took a man, as wolves
 Fall on lambs or kids when scattered mountain flocks
-Have lost their shepherd—
+Have lost their shepherd—snatching them away.
+And when the wolves have seen them, quickly tear
+The helpless lambs apart. So Danaans fell
+Upon the Trojans; but the Trojans remembered
+The loud terror of flight, and lost the furious
+Strength that had been theirs.
+
+Great Ajax still hurled himself against
+Hector in bronze. But Hector, practiced in war,
+Covered his broad shoulders with a bull's hide,
+And watched the whistling arrows and the spears
+That struck with weight. He knew well that victory
+Had turned toward the other side, yet still remained,
+And saved his steadfast companions.
+
+As when a cloud comes down from bright Olympus
+Into the clear air, when Zeus stretches out
+The storm, so from the ships rose shout and terror.
+They did not draw back in an ordered way.
+Swift horses carried Hector with his armor;
+He left the Trojan people in the trench,
+Held there unwillingly. Many swift horses,
+Dragging their chariots, broke their yokes within it,
+And left their lords' vehicles behind.
+
+Patroclus followed, shouting, calling out
+To Danaans, filled with evil thoughts for Troy.
+The roads were full of their cry and fear; the whirlwind
+Scattered high beneath the clouds, and one-hoofed horses
+Stretched themselves toward the city, running back
+From ships and huts. Wherever he could see
+The greatest multitude in confusion, there
+He drove them with his cry. Beneath the axles
+Men fell face-first from chariots; overturned,
+The cars lay broken. Deathless horses, gifts
+The gods had given Peleus, leaped the trench.
+Hector's heart desired to cast at Patroclus,
+But swift horses bore him out of reach.
+
+As when in autumn rain the black earth grows
+Heavy, when Zeus pours down his fiercest storm
+In anger at men who in the assembly judge
+Crooked judgments by force and drive out justice,
+Heeding no god's regard—then all the rivers
+Rise as they run, and ravines cut the hills,
+Roaring from mountains toward the purple sea,
+While the works of men grow small—so Trojan horses
+Raced and groaned beneath their harness.
+
+When Patroclus had broken through the first ranks,
+He drove them back toward ships. He did not let them
+Reach the city, but between the ships, the river,
+And the high wall he leaped upon and killed,
+Exacting the price of many. First he struck
+Pronous with his shining spear in the bare chest
+Beside the shield, and loosed his limbs; he fell
+With a crash. Then he rushed upon Thestor,
+Enops' son, who crouched within his polished car,
+His wits struck senseless; reins had fled his hands.
+Patroclus stood beside him, drove the spear
+Through his right jaw and teeth, and drawing him
+Above the rim, pulled him from the chariot—
+As a fisherman upon a jutting rock
+Draws a holy fish from the sea with line
+And glittering bronze. So he drew Thestor out,
+Mouth gaping on the spear, and thrust him down
+Upon his face; the life departed him.
+
+Then Erylaus came rushing; with a stone
+He struck the middle of his head. The skull
+Split under the heavy helmet, and he fell
+Face downward; death poured round him. After him
+He sent Erymas, Amphoteron, Epaltus,
+Tlepolemus son of Damastor, Echius,
+Pyris, Ipheus, Euippus, and Polymelus,
+Argeas' son—all in succession brought
+Down to the nourishing earth.
+
+When Sarpedon saw his companions fall,
+Their tunics stripped of armor, beneath the hands
+Of Menoetius' son, he called the Lycians:
+
+“Shame, Lycians! Where do you flee? Be swift!
+I will myself meet this man, and learn who he is,
+Who holds such power and has done so much harm
+To Troy, unbinding the knees of many brave men.”
+
+He leaped from his chariot with his armor;
+Patroclus, seeing him, sprang down from his own.
+They rushed together, crying out, like two
+Curved-clawed vultures fighting on a high rock,
+Their cry enormous and terrible.
+
+The son of crooked-counseling Cronus saw them,
+And pitied Sarpedon, dearest of all men
+To him. He spoke to Hera, sister and wife:
+
+“Ah me! Fate has appointed that Sarpedon,
+Dearest of men to me, be overcome
+By Menoetius' son. My heart divides me
+As I deliberate: shall I seize him living
+From this tearful battle, set him down in rich
+Lycia—or let him fall beneath the hands
+Of Menoetius' son?”
+
+Ox-eyed Hera answered:
+“Most terrible son of Cronus, what have you said?
+Would you free from death a mortal long ago
+Appointed by his fate? Do so; but know
+The other gods will not approve. Hold this
+Within your heart: if you send your beloved son
+Alive from battle, every god may wish
+To send his own dear son away. Many sons
+Of immortals fight before Priam's city;
+You would awaken dreadful envy in them all.
+But if he is dear, and your heart laments him,
+Let him be overcome by Menoetius' son.
+When breath and life have left him, send Death and Sleep
+To bear him to the people of broad Lycia.
+There brothers and companions will prepare
+His burial, with mound and pillar; that is
+The honor given the dead.”
+
+She spoke; the father of gods and men did not
+Refuse. He poured red drops upon the earth,
+Honoring his dear son, whom Patroclus
+Was destined to kill in fertile Troy,
+Far from his fatherland.
+
+When the two were near, Patroclus struck
+Thrasymelus, Sarpedon's excellent friend,
+Low in the belly; he loosed his limbs. Sarpedon
+Cast his bright spear again, but missed, and struck
+Pedasus, the horse, upon the right shoulder.
+The horse cried out as life went from him, fell
+Into the dust, and his spirit flew away.
+The other horses sprang apart; the yoke broke,
+The reins were tangled when the side horse lay.
+
+Automedon, famous for his spear, found the cure.
+He drew the long sword thick upon his thigh,
+Sprang forward, and cut away the side horse.
+The other two straightened; the reins pulled taut.
+Once more the heroes met above the battle
+That eats the heart. Again Sarpedon missed;
+The point passed over Patroclus' left shoulder.
+Then Patroclus rose behind his bronze, and cast
+No vain spear: he struck Sarpedon where the midriff
+Encloses the inward heart. He fell as falls
+An oak, a poplar, or a tall pine that men
+Cut on the mountain with their sharpened axes,
+Preparing it to be a ship's timber.
+So he lay before his horses and his car,
+Roaring, and clutching dust turned red with blood.
+
+As a lion kills a great-horned bull among
+The herd, the bull bellowing beneath its jaws,
+So the shield-bearing lord of Lycia, dying
+Beneath Patroclus, struggled and called his friend:
+
+“Glaucus, dear friend, now you must be a spearman,
+A bold fighter among men, if you are swift.
+Let this evil battle be your desire.
+Go first among the Lycian leaders, urge them
+To fight around Sarpedon; then fight for me
+Yourself with bronze. I shall be shame and reproach
+To you each day if Achaeans strip my armor
+When I fall among the ships. Stand fast, and rouse
+The people.”
+
+When he had spoken, death covered his eyes
+And nostrils. Patroclus set his foot upon
+His chest and drew the spear from out his body;
+With it the point came forth, the midriff and
+The spirit following. Then he drew the spear
+From flesh. At once the Myrmidons held back
+The horses, snorting, eager to escape,
+Their masters' chariot left behind.
 
 ## Decision log
 
@@ -441,3 +618,9 @@ Have lost their shepherd—
   genealogy, the five Myrmidon commanders, and Achilles' remembered rebuke.
   Meter, Greek-fidelity, omission/addition, and editorial review remain
   pending.
+- The 2026-09-02 revision extends the source-collated Book 16 span through
+  16.507, preserving the wolf and flood similes, Hector's withdrawal, the
+  complete first battle sequence, Sarpedon's challenge, Zeus and Hera's
+  deliberation, the deaths of Thrasymelus and Pedasus, Automedon's repair,
+  and Sarpedon's final appeal to Glaucus. Meter, Greek-fidelity,
+  omission/addition, and editorial review remain pending.

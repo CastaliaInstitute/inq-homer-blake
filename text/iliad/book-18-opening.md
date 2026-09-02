@@ -3,8 +3,8 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–147, is recorded in
-text/iliad/book-18-collation-1-147.md pending promotion after meter review.
+The first source-collated revision, covering lines 1–147, is incorporated
+below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
 Lines 243–367 are recorded in
@@ -20,92 +20,118 @@ text/iliad/book-18-collation-607-617.md.
 
 ## Translation
 
-Antilochus came to Achilles and told him that Patroclus was dead.
-Achilles' knees failed. He seized dust in both hands and poured it
-over his head. His dark hair was soiled, and he lay upon the ground,
-tearing his face. His mother had once given him that hair for the river;
-now he offered it to Patroclus.
+The armies fought like a flame consuming all,
+And Antilochus came to Achilles, who stood
+Before the beaked ships, troubled in his heart:
+“Why are the long-haired Achaeans driven back
+Again from the plain? May the gods not bring
+The grief my mother once foretold—that, while I live,
+The best of Myrmidons would leave the light
+Of day beneath Troy's hands. Surely now
+Menoetius' brave son is dead; I charged him,
+When he had driven the fire away, to turn
+Back to the ships and never meet with Hector.”
 
-Thetis heard him beneath the sea and came with her sisters.
-Achilles said: “Mother, Patroclus is dead. Hector wears my armor.
-I was not there. I sent him out, and he will never return.
-I have no reason to live if I cannot punish Hector.”
+The noble son of Nestor came in tears:
+“Son of Peleus, warrior most terrible,
+You hear a bitter message, would it had not been.
+Patroclus lies dead; the armies fight around
+His naked body. Hector holds the armor.”
 
-Thetis answered: “You know what follows. If you kill Hector,
-your own death will come soon after. Stay, and you may live.”
+A black cloud covered Achilles. With both hands
+He seized the smoking dust and poured it over
+His head; ash stained the nectar-bright tunic.
+He stretched his body full-length upon the dust,
+And tore his hair with his own hands. The women,
+Taken in war by Achilles and his friend,
+Cried round him, beat their breasts, and ran from tents.
+Antilochus poured tears and held his hands,
+Fearing he might cut his throat with iron.
 
-Achilles replied: “Let it come. I cannot remain while my friend lies
-unburied. I will go now, though I have no armor. Perhaps the sight
-of me will make the Trojans release the body.”
+Achilles cried; his honored mother heard him
+Deep in the sea beside her aged father.
+She cried aloud, and all the Nereids gathered:
+Glauce, Thalia, Cymodoce, Nesaia,
+Speio, Thoe, Halia, Cymothoe,
+Actaia, Limnoreia, Melite, Iaera,
+Amphithoe, Agave, Doto, Proto,
+Pherusa, Dynamene, Dexamenê, Amphinome,
+Callianeira, Doris, Panope, Galatea,
+Nemertes, Apseudes, Callianassa,
+Clymene, Ianira, Ianassa, Maira,
+Oreithyia, fair-haired Amatheia,
+And all the others dwelling in the sea's depth.
 
-The Achaeans mourned Patroclus. Iris came from Hera and told Achilles:
-“Do not enter the battle unarmed. Athena will cover you with fire.
-Stand by the trench and show yourself.”
+Their bright cave filled with them; all struck their breasts.
+Thetis began: “Hear me, sisters, Nereids,
+That all may know the grief within me. I bore
+A son blameless and strong beyond the heroes,
+Who sprang like a young tree. I raised him like
+A plant within a garden, sent him out
+On curved ships to Ilium; but I shall not
+Receive him returning to Peleus' house.
+While he lives and sees the sun, he suffers, and
+I cannot help him. Still I go to hear
+What sorrow has reached him.”
 
-Achilles went to the wall. Athena set a golden cloud around his head
-and made a flame rise from him. He cried three times. The Trojans heard
-and terror seized them; horses broke their lines, and the dead were left.
-The Achaeans recovered Patroclus' body and carried him to the tent.
+She left the cave; the goddesses went with her.
+The sea waves opened round them. At Troy's rich shore
+They rose in close array beside the ships
+Of many swift Myrmidons. The honored mother
+Stood near her groaning son, seized his head, and said:
+“Child, why do you weep? What grief has entered you?
+Speak it; do not conceal it. All the things
+You prayed for with uplifted hands—Achaeans
+Penned against the sterns, needing you—Zeus has done.”
 
-Hector called a council. Polydamas said: “Let us return to Troy.
-Achilles will enter the battle. We cannot stand before him.”
-Hector answered: “You counsel fear. We will remain in the field.”
+Swift-footed Achilles answered through his groan:
+“My mother, Zeus has brought these things to pass.
+But what joy remains, since my dear friend is dead,
+Patroclus, whom I honored as my own head?
+Hector killed him and stripped the armor from him,
+The splendid gifts the gods gave Peleus when
+They joined you, goddess, to a mortal man.
 
-The Trojans ate and kept watch. The Achaeans gathered around Patroclus.
-Achilles ordered that no one wash his body yet. He cut the throat of a bull
-and placed the dead man's hair upon the bier. He promised Patroclus:
-“I will not bury you until I bring Hector's head and armor here.”
+“Would you had stayed among the deathless sea-gods,
+And Peleus taken a mortal wife! Now grief
+Beyond measure enters your heart; you will not
+Receive your son returning. Nor does my spirit
+Command me to live unless Hector first,
+Struck beneath my spear, loses life and pays
+The price for Menoetius' son. Let me die now:
+Far from his fatherland he fell, needing me.
+I shall not return to my own land, nor was
+I light to Patroclus or the friends whom Hector
+Laid low. I sit useless beside the ships,
+A burden on the earth.
 
-Thetis went to Olympus and asked Hephaestus to make new armor.
-He forged a shield vast as the moon, and upon it placed the earth,
-the sea, the sky, the sun, moon, and all the stars.
+“Would strife might perish from gods and men,
+And anger, sweeter than honey in the mouth,
+That makes the wise grow harsh and swells like smoke.
+Agamemnon angered me; let the past lie past.
+Necessity now master us. I go to find
+Hector, then take the death Zeus sends. Not even
+Heracles escaped it, dearest to Zeus;
+Fate mastered him and Hera's anger. So shall I
+Lie when my fate comes. But now let me win fame,
+And make Trojan and Dardanian women wipe
+Their tears, and know I have rested from the war.
+Do not restrain me; you cannot.”
 
-He made two cities. In one, weddings and dances filled the streets;
-flutes sounded, and torches led the brides from their chambers.
-But outside the walls two men disputed a blood-price. Elders sat
-upon polished stones, and a herald held the scepter as each spoke.
+Silver-footed Thetis answered through her tears:
+“It is right to defend companions in destruction.
+Yet your armor is among the Trojans; Hector
+Wears it and glories in it. He will not glory long.
+Do not enter Ares' labor till you see me return;
+At dawn I shall come with beautiful armor
+From Hephaestus.”
 
-In the other city an army lay in ambush. The attackers drove cattle
-from the fields; shepherds and dogs defended them. War broke out
-beside the river, and a dark fate stood over the men.
-
-He made a fallow field, rich and dark, where plowmen turned the earth.
-They looked back as they reached the boundary, and a steward gave them wine.
-He made a king's estate where reapers cut the wheat; young men bound it,
-and a woman served them food beneath an oak.
-
-He made a vineyard heavy with grapes. Boys carried baskets;
-a child played a lyre, and the harvesters sang. He made a herd of cattle,
-with a bull leading them. Lions attacked; dogs and herdsmen pursued,
-but the lions tore the bull and drank its blood.
-
-He made a sheepfold in a beautiful valley. He made a dancing floor,
-where youths and maidens moved in circles, and the people watched.
-Around the rim he set Oceanus, the river that encircles the world.
-
-He gave the armor to Thetis. She descended like a hawk and brought it
-to Achilles. The bronze shone before the Achaeans. All feared its beauty.
-
-Achilles called an assembly: “Agamemnon, let our anger end.
-Briseis and the gifts may return. I thought only of Patroclus.
-Now my heart is set upon battle.”
-
-Agamemnon answered: “I was blinded. Zeus and Delusion deceived me.
-Let the gifts be brought. Briseis is untouched. I swear it.”
-
-The gifts came, and Briseis saw Patroclus on the bier. She wept:
-“You were kind to me when Achilles took me from my city.
-You promised that I would become his wife. Now both hope and kindness
-are gone.” The women mourned with her.
-
-Achilles would not eat. Zeus sent Athena to fill his heart with nectar,
-so hunger would not weaken him. He mounted his chariot and called:
-“Xanthus and Balius, bring me back from battle. Do not leave me there
-as you left Patroclus.” The immortal horse answered:
-“We will carry you, but a god and fate will kill you.”
-
-Achilles entered the field, wearing the armor that would lead him
-to Hector and then to his own appointed death.
+She turned and spoke to her sisters: “Sink beneath
+The sea's broad fold, see our father, tell him all.
+I go to Olympus, to the famed smith,
+And ask for glorious armor for my son.”
+They sank beneath the wave; Thetis went toward
+Olympus and the master of the forge.
 
 ## Decision log
 
@@ -117,3 +143,8 @@ to Hector and then to his own appointed death.
   but Patroclus' death drives Achilles beyond ordinary compensation.
 - This draft needs Greek-fidelity review for lament, divine fire, shield
   iconography, all crafted scenes, gifts, nectar, and the horse prophecy.
+- The 2026-09-02 revision promotes the source-collated Book 18 opening through
+  18.147, preserving Antilochus' death-message, Achilles' bodily lament,
+  Thetis and the Nereid catalogue, the vow against Hector, the warning about
+  Achilles' own death, and Thetis' departure for Hephaestus. Meter,
+  Greek-fidelity, omission/addition, and editorial review remain pending.

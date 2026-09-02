@@ -142,21 +142,89 @@ would win immense glory from them now, for you could take Hector, who would come
 near you with his deadly madness; he claims that no Danaans brought here in the ships
 are his equal.”
 
-Achilles answered: “Son of Laertes, what a waste of words!
-I hate a man who hides one thought and speaks another.
-Agamemnon and I are enemies. He has no right to my gifts.
-Though I fight, the coward and the brave receive the same fate.
-I have labored without rest, and he keeps the greater prize.
+Achilles answered: “Odysseus, sprung from Zeus, son of Laertes, resourceful man,
+I must answer plainly, just as I think, and just as it will be fulfilled, so that
+you will not sit beside me murmuring one after another from different directions.
+That man is hateful to me as the gates of Hades who hides one thought in his heart
+and speaks another. I will tell you what seems best to me. I do not think I can
+persuade Agamemnon, son of Atreus, or the other Danaans, since there was no gratitude
+for my unceasing fight against the enemy. The same portion belongs to the one who
+stays and the one who fights hardest: coward and brave are held in equal honor,
+and both die alike, the man who has done nothing and the man who has labored much.
 
-My mother told me that two fates carry me: if I stay at Troy,
-my homecoming is lost, but my name will live; if I sail home,
-my fame will die, but my life will be long. I would choose life,
-if honor had not been stolen from me. Why should I fight for him?
+“There is no profit left for me, after I have suffered pain in my heart and always
+thrown my life into battle. Like a wingless bird that carries food to its fledglings
+whenever it catches it, and suffers for its labor, so I have spent many sleepless
+nights and passed bloody days fighting men for their wives. With my ships I have
+destroyed twelve cities, and on foot I say I have taken eleven in fertile Troy.
+From all these I carried many beautiful treasures away and gave everything to
+Agamemnon, son of Atreus. He stayed behind beside the swift ships, received the
+goods, and distributed only a little; he kept much for himself. He gave the rest
+as prizes to the best men and the kings, and their portions remain safe. From me
+alone among the Achaeans he took the woman I loved, and now he keeps her. Let him
+lie beside her and be glad.
 
-The gifts are not worth the life of a man. The cattle, cities,
-and women can be taken again; but a man's breath, once gone,
-does not return. I will not go. At dawn I will launch my ships.
-Let every man who wishes sail. The gods can save the Achaeans.”
+“Why must the Argives fight the Trojans? Why did the son of Atreus gather and lead
+the army here? Was it not for fair-haired Helen? Are the sons of Atreus the only men
+who love their wives? Every good and sensible man loves and cares for his own, as I
+loved her, though I won her by my spear. Now that he has taken my prize from my hands
+and deceived me, let him not try me again: I know him, and he will not persuade me.
+Let him, with you and the other kings, devise how to ward the enemy fire from the
+ships. He has labored greatly without me: he built a wall and drove a broad, deep
+trench around it, planting stakes within. Yet even that cannot hold Hector, killer
+of men. While I fought among the Achaeans, Hector would not venture far from the
+wall, but came only as far as the Skaian Gates and the beech tree, where once he
+stood alone and barely escaped my attack.
+
+“Now I do not wish to fight glorious Hector. Tomorrow I will sacrifice to Zeus and
+all the gods, draw my ships well down to the sea, and you will see them, if you care
+and if it concerns you, sailing at first light upon the fish-filled Hellespont, with
+men eager at the oars. If the famous Earth-shaker grants a fair voyage, on the third
+day I should reach fertile Phthia. I have much there, and much that I left behind in
+my ruinous journey. From here I will carry away gold, red bronze, well-girded women,
+and gray iron, all the shares I won. But the prize he gave me, Agamemnon, son of
+Atreus, has taken back again in his arrogance. Tell him this openly, as I command,
+so that the other Achaeans may also be angry if he hopes to deceive another Danaan,
+always wrapped in shamelessness. Even if he were as bold as a dog, he would not dare
+look me in the face. I will neither plan with him nor do any work beside him. He
+deceived and wronged me; he will not deceive me again with words. Enough for him.
+Let him go his way; Zeus the counselor has robbed him of his wits.
+
+“His gifts are hateful to me, and I value him at the price of a hair. Even if he
+gave me ten times, twenty times as much as he possesses now, and as much more as he
+might acquire—no matter how much flows into Orchomenus or Egyptian Thebes, where
+the greatest wealth lies in houses, with a hundred gates and two hundred men issuing
+from each with horses and chariots—even if he offered me as much sand and dust as
+there are, Agamemnon could not persuade my spirit until he paid back all the painful
+insult.
+
+“I will not marry a daughter of Agamemnon, son of Atreus, not even if she rivaled
+golden Aphrodite in beauty and matched bright-eyed Athena in handiwork. Let him
+choose another Achaean, one suited to him and more kingly. If the gods save me and
+I reach home, Peleus himself will find me a wife. There are many Achaean women in
+Hellas and Phthia, daughters of the best men who guard their cities. Whichever I wish,
+I will make my beloved wife. My proud heart has long urged me to take a fitting bride
+and enjoy the possessions the old man Peleus won.
+
+“Nothing is worth my life—not all the wealth they say lies in well-inhabited Ilium,
+the city that once lived in peace before the sons of Achaeans came, nor all that the
+stone threshold of Phoebus Apollo encloses in rocky Pytho. Cattle and fat sheep can
+be driven off; tripods and tawny horses can be acquired. But a man’s life cannot be
+won back, nor captured, once it has passed through the barrier of his teeth.
+My mother, silver-footed Thetis, tells me that two fates carry me toward death.
+If I remain here and fight around the city of the Trojans, my homecoming is lost,
+but my glory will be imperishable. If I return home to my beloved fatherland, my
+good glory is lost, but my life will be long, and death’s end will not soon overtake
+me. I would advise the others to sail home as well, since you will not find the end
+of steep Ilium: Zeus of the wide eyes has stretched his hand above it, and its people
+have taken courage.
+
+“Go, then, and tell this message to the Achaean leaders—for that is the honor of
+old men—that they may devise another plan in their hearts, a better one, to save
+their ships and the Achaean army upon the hollow ships. The plan they conceived
+while I was angry will not save them. Let Phoenix sleep here beside us, so that he
+may sail with me tomorrow to my dear fatherland, if he wishes. I will not carry him
+by force.”
 
 Odysseus returned to the council and told them the answer.
 The chiefs sat in grief. Diomedes said: “Let us eat and sleep.

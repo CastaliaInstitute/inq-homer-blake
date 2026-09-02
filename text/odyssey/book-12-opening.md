@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; not yet approved for layout.
 
+Lines 1–453 are recorded in
+text/odyssey/book-12-collation-1-453.md.
+
 ## Translation
 
 When the ship reached Aeaea, we drew her onto the beach.

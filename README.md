@@ -41,3 +41,7 @@ scripts/                 repeatable validation and production utilities
 
 See [PROJECT.md](PROJECT.md) for the production brief and
 [CONTRIBUTING.md](CONTRIBUTING.md) for text, image, and provenance conventions.
+
+The working editorial controls are [the translation charter](text/translation-charter.md),
+[the design specification](design/specification.md), and the two
+[volume plans](volumes/).

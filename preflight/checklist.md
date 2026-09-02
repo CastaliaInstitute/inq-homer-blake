@@ -7,7 +7,11 @@
 - [ ] Images are high resolution, embedded, and converted to the approved
       print color profile.
 - [ ] Every historical and generated plate has a manifest record and caption.
+- [ ] Manifest records identify source type, provenance, rights, file, credit,
+      and review status.
 - [ ] Front matter, book divisions, page numbers, and contents are complete.
 - [ ] Interior and cover PDFs open without missing fonts or transparency
       warnings.
 - [ ] A rendered proof has been reviewed at 100% and on paper.
+- [ ] Literary, art-historical, attribution, and production sign-offs are
+      recorded before release.

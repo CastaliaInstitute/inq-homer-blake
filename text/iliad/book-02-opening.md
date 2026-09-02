@@ -540,6 +540,150 @@ But whoever I see willingly lingering apart from battle
 
 beside the curved ships will not escape the dogs and birds.”
 
+The Argives shouted loudly, like waves breaking upon a high shore
+
+when the South Wind rises and drives them against a projecting rock;
+
+the waves never leave it, whatever wind blows from this side or that.
+
+They rose, scattered among the ships, and kindled fires in the huts;
+
+each man sacrificed to the everlasting gods, praying to escape death
+
+and the labor of Ares. Agamemnon sacrificed a five-year-old, fat ox
+
+to mighty Zeus, and called the oldest and best of the Pan-Achaeans:
+
+Nestor first, then King Idomeneus; the two Ajaxes, then Tydeus's son,
+
+and sixth Odysseus, whose mind was equal to Zeus's.
+
+Menelaus came of his own accord, for he knew in his heart
+
+how his brother labored. They stood around the ox, lifted the barley,
+
+and Agamemnon prayed:
+
+“Most glorious and greatest Zeus, dark-clouded lord of the sky,
+
+let not the sun go down and darkness come before I cast
+
+the smoky roof of Priam's house upon its face and burn its doors
+
+with hostile fire, and tear Hector's shirt across his breast
+
+with bronze, while many of his companions fall around him
+
+face-first in the dust and bite the earth.”
+
+So he prayed, but the son of Cronus did not grant his prayer;
+
+he accepted the sacrifice, but increased the labor without end.
+
+When they had prayed and scattered the barley, they drew back the heads,
+
+cut the throats and flayed the victim, then cut out the thighs,
+
+wrapped them in fat, and laid the raw flesh upon them.
+
+They burned these on leafless sticks over the fire,
+
+and held the inward parts above the flame. When the thighs were burned
+
+and they had tasted the inward parts, they cut the rest into pieces,
+
+pierced them on spits, roasted them carefully, and drew away the meat.
+
+When the labor was finished and the feast prepared, they ate;
+
+no man's heart lacked an equal portion.
+
+When they had satisfied hunger and thirst, Gerenian Nestor, the horseman,
+
+spoke first:
+
+“Most glorious son of Atreus, king of men, let us no longer
+
+keep speaking here or delay the work the god places in our hands.
+
+Let the heralds summon the bronze-clad Achaeans and gather them by the ships;
+
+we will go together through the broad army and awaken sharp Ares.”
+
+So he spoke, and Agamemnon did not disobey. At once he ordered
+
+the clear-voiced heralds to proclaim battle and gather the long-haired Achaeans.
+
+They called, and the people assembled swiftly. Around Agamemnon
+
+the god-nourished kings rushed to their places, and with them went bright-eyed
+
+Athena, bearing the precious, ageless, deathless aegis;
+
+from it hung a hundred golden tassels, each worth a hundred oxen.
+
+With it she flashed through the Achaean ranks, urging them forward,
+
+and put an unwearied strength into every heart to fight and make war.
+
+Then battle became sweeter to them than sailing home
+
+in their hollow ships to their dear fatherland.
+
+As a ruinous fire blazes through an immense forest on a mountain's crest,
+
+and its light is seen from far away, so from the bronze of the advancing host
+
+a light rose through the air and reached heaven.
+
+As the many tribes of winged birds—geese, cranes, or long-necked swans—
+
+fly here and there on the Asian meadow beside the streams of Cayster,
+
+settling joyfully on their wings with clamor that rings across the meadow,
+
+so the many tribes poured from ships and huts onto the Scamandrian plain.
+
+The earth beneath their feet and horses thundered terribly.
+
+They stood on the flowering Scamandrian plain, countless as leaves and flowers
+
+that come in their season. As countless swarms of flies wander through
+
+the shepherds' fold in spring, when milk drenches the pails,
+
+so many long-haired Achaeans stood on the plain, eager to break the Trojans.
+
+As goatherds easily sort wide flocks of goats after they mingle in the pasture,
+
+so the leaders arranged them here and there for battle.
+
+Agamemnon stood among them, like Zeus who delights in thunder
+
+in eyes and head, like Ares in his belt, like Poseidon in his chest.
+
+As a bull stands conspicuous above all the cattle gathered in a herd,
+
+so Zeus made the son of Atreus conspicuous and foremost among the many heroes.
+
+“Tell me now, Muses, who dwell in Olympian houses—
+
+you are goddesses, present and knowing all things;
+
+we hear only rumor and know nothing for ourselves—
+
+who were the leaders and commanders of the Danaans?
+
+I could not name the multitude or tell its number,
+
+not if I had ten tongues and ten mouths, an unbreakable voice,
+
+and a bronze heart within me, unless the Olympian Muses,
+
+daughters of aegis-bearing Zeus, remembered all who came to Ilium.
+
+I will tell the leaders of the ships and all the ships themselves.”
+
 First came the Boeotians, from Hyria and Aulis,
 from Schoenus, Eteon, Thespia, and the vine-rich Graia;
 from Mycalessus, Harma, Peteon, and Eilesion,

@@ -62,8 +62,8 @@ def footer(canvas, doc):
 def book_translation(path):
     content = path.read_text()
     # Some volume-facing files intentionally retain a compact synopsis while
-    # their complete, source-collated translation is kept in a single
-    # authority file. Use that authority for the assembled proof, but only
+    # their complete, source-collated translation is kept in one or more
+    # authority files. Use those authorities for the assembled proof, but only
     # when the opening explicitly identifies itself as compact and the
     # authority has the required revised-translation section.
     if "compact translation" in content.lower():
@@ -94,18 +94,26 @@ def book_translation(path):
                     bodies.append(match.group(1).strip())
             if len(bodies) == len(authorities):
                 content = "## Translation\n" + "\n\n".join(bodies)
-    match = re.search(r"## Translation[^\n]*\n(.*?)(?=\n## Decision log|\Z)", content, re.S)
-    if not match:
+    translation_lines = []
+    active_section = False
+    for raw_line in content.splitlines():
+        heading = re.match(r"^##\s+(.+?)\s*$", raw_line)
+        if heading:
+            active_section = heading.group(1).startswith(("Translation", "Extension"))
+            continue
+        if active_section:
+            translation_lines.append(raw_line)
+    if not translation_lines:
         raise ValueError(f"{path} lacks a Translation section")
     lines = []
-    for raw_line in match.group(1).splitlines():
+    for raw_line in translation_lines:
         line = raw_line.strip()
         if not line:
             continue
         # Extension headings and source-range labels are editorial metadata,
         # not interior verse. Keep the extraction safe if more sections are
         # added before the decision log.
-        if line.startswith("## ") or line.startswith("**Source passage:"):
+        if line.startswith("#") or line.startswith(("**Source passage:", "**Continuation:", "**Book ")):
             continue
         line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
         lines.append(escape(line))

@@ -15,6 +15,8 @@ Lines 429–612 are recorded in
 text/iliad/book-23-collation-429-612.md.
 Lines 613–718 are recorded in
 text/iliad/book-23-collation-613-718.md.
+Lines 719–897 are recorded in
+text/iliad/book-23-collation-719-897.md.
 
 ## Translation
 

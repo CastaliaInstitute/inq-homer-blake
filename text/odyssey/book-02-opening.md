@@ -17,8 +17,8 @@ Lines 208–241 are recorded in
 text/odyssey/book-02-collation-208-241.md.
 Lines 242–308 are recorded in
 text/odyssey/book-02-collation-242-308.md.
-Lines 208–241 are recorded in
-text/odyssey/book-02-collation-208-241.md.
+Lines 309–374 are recorded in
+text/odyssey/book-02-collation-309-374.md.
 
 ## Translation
 

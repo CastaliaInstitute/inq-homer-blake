@@ -11,7 +11,7 @@ These notes accompany the current opening draft and are not final commentary.
 | 2.177–207 | Eurymachus attacks Halitherses and defends the suitors’ courtship | Omen as contested public evidence | Collated 2026-09-02; verify the anti-prophetic rhetoric, punishment threat, Icarius marriage frame, and the suitors’ consumption claim at meter review. |
 | 2.208–241 | Telemachus requests ship and companions; Mentor rebukes Ithaca’s silence | Civic silence and failed kingship | Collated 2026-09-02; verify the itinerary, twenty companions, entrusted house, kingship inversion, and speech boundary at meter review. |
 | 2.242–308 | Leocritus refuses civic action; Telemachus prays; Athena gives practical sailing counsel | Civic refusal and divine logistics | Collated 2026-09-02; verify the feast/fight argument, salt-water prayer, Mentor form, provisions, ship request, and Antinous’s promise at meter review. |
-| 2.309–374 | Athena recruits companions; Noemon lends the ship | Quiet preparation beneath the suitors' notice | Verify names, provisioning, and the references to Phemius and Mentor. |
+| 2.309–374 | Telemachus threatens the suitors; the household provisions his secret journey | Inheritance, menace, and guarded departure | Collated 2026-09-02; verify the traveler's self-description, poison jokes, inheritance threat, sealed chamber, twelve jars, twenty measures, Eurycleia's warning, and the oath endpoint at meter review. |
 | 2.375–434 | Eurycleia's oath and the secret departure | Household loyalty and nocturnal launch | Check the oath's duration, wind, libation, and exact book ending. |
 
 ## Draft warning

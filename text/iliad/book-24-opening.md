@@ -2,9 +2,9 @@
 
 **Source passage:** Book 24, lines 1–804 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–119, is recorded in
-text/iliad/book-24-collation-1-119.md pending promotion after meter review.
+**Status:** First source-collated literary revision through lines 1–119;
+independent meter and Greek-fidelity review remains pending. Lines 120–804
+remain in their Greek-collation files pending promotion.
 Lines 120–228 are recorded in
 text/iliad/book-24-collation-120-228.md.
 Lines 229–386 are recorded in
@@ -18,7 +18,128 @@ text/iliad/book-24-collation-636-718.md.
 Lines 719–804 are recorded in
 text/iliad/book-24-collation-719-804.md.
 
-## Translation
+## Translation — source-collated lines 1–119
+
+The games were loosed; the people, each to his swift ship,
+scattered to take his supper and the gift of sleep.
+But Achilles remembered his beloved companion,
+and sleep, the conqueror of all, would not receive him.
+He turned from side to side, recalling Patroclus—
+his manhood and his strength, and all they had endured,
+the wars of men, the grievous crossings of the sea.
+Remembering these things, he let the living tears fall,
+now on his side recumbent, now upon his back,
+now on his face; then rising upright, paced unresting
+beside the shore; nor did the dawn escaping over sea
+and shore elude his eyes. And when he had yoked beneath
+the car his swift-hoofed horses, he made Hector fast
+behind the chariot, and three times around the tomb
+of Menoetius’ dead son dragged him; then again
+he rested in his hut, and left the body stretched
+face downward in the dust. But Phoebus kept from Hector
+all dishonor, pitying him even in death;
+with the golden aegis all around his flesh he covered him,
+lest Achilles, dragging him, should tear the skin.
+
+Thus in his fury Achilles dishonored noble Hector;
+but the blessed gods, beholding, pitied him,
+and urged the clear-eyed Slayer of Argus to steal him away.
+All this was pleasing to the other gods; but never
+to Hera, nor Poseidon, nor the gray-eyed Maid,
+for still they held the sacred city and Priam hateful,
+and all his people, for the ruin wrought by Alexander,
+who scorned the goddesses when they came into his court
+and praised the one who gave him that destructive desire.
+
+But when the twelfth dawn rose, then Phoebus spoke among
+the immortals: “Cruel gods, and gods of harm! Was Hector
+never the one to burn for you the thigh-bones of oxen,
+and goats without defect? Yet now you will not save him,
+though he is dead, that his wife and mother may behold him,
+his child, and aged Priam, and the people of Troy,
+who would soon burn him in fire and give him burial rites.
+No—rather you would serve destructive Achilles,
+whose heart is not made right, nor has a mind that bends,
+but knows the savage law, as knows the lion who yields
+to neither strength nor proud heart when he springs among
+the flocks of mortal men, to seize his meal.
+So Achilles has destroyed all pity; shame, which harms
+and helps mankind in turn, finds no dwelling in his breast.
+Yet some man loses one still dearer—brother, child—
+and, having wept and mourned, at last lets go;
+for the relentless Fates have made the mortal heart
+enduring. But Achilles, after taking Hector’s life,
+still binds him to the tomb of his beloved companion
+and drags him. This is neither fair nor good for him.
+Though he is brave, let us not be angry with him:
+he dishonors only the mute earth in his fury.”
+
+White-armed Hera answered, angered: “Silver-bowed,
+your word might stand, if Hector and Achilles shared
+one honor. Hector was mortal, and a woman gave him suck;
+but Achilles is the child of a goddess, whom I myself
+nursed and adorned, and gave as bride to Peleus,
+the man beloved among immortals. You all came to the wedding;
+and there you feasted, holding your lyre, false friend.”
+
+Then cloud-gathering Zeus answered her: “Do not be wholly
+enraged against the gods, Hera. Their honor shall not be one;
+yet Hector was the dearest of the men in Ilium to the gods,
+as he was dear to me, for never did he fail in gifts.
+My altar never lacked its equal feast, libation, or smoke—
+the honor that we have received. Let us leave the stealing
+of Hector; it cannot be done unseen from Achilles:
+his mother stands beside him, night and day alike.
+But let some god call Thetis nearer to me, that I may speak
+a careful word: Achilles shall receive the gifts from Priam,
+and release Hector from his hands.”
+
+So he spoke, and Iris, swift as a storm-wind, rose
+to carry the message. Between steep Samos and Imbros
+she leapt into the dark sea; the water groaned beneath her.
+Like lead she plunged into the deep, as a wild bull’s horn
+receives the weight and bears it down among the fish,
+carrying death to them. She found Thetis in a hollow cave;
+around her sat the gathered sea-goddesses, and in their midst
+she mourned the fate of her blameless son, who was to die
+far from his country, in broad-soiled Troy.
+
+Swift-footed Iris stood beside her and said: “Arise, Thetis.
+Zeus calls you—the god whose counsels do not perish.”
+Silver-footed Thetis answered: “Why does that mighty god
+command me? I am ashamed to mingle with the immortals;
+my heart is full of grief without measure. Yet I will go;
+his word shall not be spoken vainly, whatever it may be.”
+
+She took the dark veil about her, darker than any garment,
+and went; before her swift-footed Iris led the way,
+while the sea’s wave curved and parted around them.
+They rose from the shore and sped into heaven, and found
+the wide-seeing Son of Cronus; all the blessed gods,
+ever enduring, sat assembled there. Thetis sat beside
+her father Zeus; Athena yielded her place. White-armed Hera
+set a beautiful golden cup into her hand, and welcomed her
+with words of comfort; and Thetis drank from it.
+
+Then the father of gods and men began among them:
+“You have come to Olympus, goddess Thetis, grieving still,
+though I know your sorrow and its unforgotten weight.
+Yet I will tell you why I called you here. For nine days now
+the quarrel has risen among the immortals over Hector’s corpse
+and city-sacker Achilles; they urge the clear-eyed Slayer
+of Argus to steal the body. But I confer this honor upon Achilles,
+guarding your reverence and the love you shall retain hereafter.
+Go quickly to the army, and charge your son: the gods are angry,
+and I, beyond all others, am angered, because in his maddened mind
+he keeps Hector beside the curved ships and will not release him.
+Perhaps he may fear me, and release the body. And I shall send
+Iris to great-hearted Priam, bidding him ransom his dear son,
+and carry gifts to Achilles—gifts that may soothe his heart.”
+
+**Continuation:** line 120 begins Thetis’s message to Achilles;
+this unit intentionally ends with Zeus’s command to ransom Hector.
+
+## Working synopsis
 
 The games ended, and the Achaeans returned to their ships.
 Achilles still dragged Hector behind his chariot, circling Patroclus'

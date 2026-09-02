@@ -136,5 +136,5 @@ arrived he returned to Troy and excelled among its fighters.
 | 15.484–514 | Preserve Hector's death speech, Ajax's counter-speech, and the choice between one death and slow attrition. | Both leaders articulate competing ethics of courage and survival. |
 | 15.515–548 | Retain the named deaths, Phyleus' guest-gift breastplate, and Dolops' fall. | Armor provenance and kinship make the battle legible and prepare Melanippus' appeal. |
 
-**Next review:** lines 549–661, including Hector's burning of Protesilaus'
-ship and the spread of the fire.
+**Next review:** lines 549–661, including Melanippus' recall, Antilochus'
+counterattack, Hector's advance, and the Achaean retreat toward the ships.

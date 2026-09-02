@@ -128,5 +128,5 @@ begged each man upon his knees for the sake of his parents:
 | 15.630–652 | Retain the lion-and-cattle simile and Periphetes' complete identity, fall, and failed rescue. | The lone death makes Hector's temporary glory concrete without erasing the collective retreat. |
 | 15.653–661 | Keep the inward movement to the foremost ships, the shame/fear double bind, and Nestor's opening appeal. | The passage must hand directly into the fire and the older counselor's renewed summons. |
 
-**Next review:** lines 662–746, including the ship-fire image, Patroclus'
-alarm, Achilles' permission, and the limits placed on the borrowed armor.
+**Next review:** lines 662–746, including Nestor's renewed appeal, Athena's
+restored sight, Ajax's sea-spear, and Hector's seizure of Protesilaus' ship.

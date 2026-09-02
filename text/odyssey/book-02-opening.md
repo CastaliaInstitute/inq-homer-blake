@@ -5,6 +5,8 @@
 **Status:** First-pass literary draft; not yet approved for layout.
 The first source-collated revision, covering lines 1–30, is recorded in
 text/odyssey/book-02-collation-1-30.md pending promotion after meter review.
+Lines 31–79 are recorded in
+text/odyssey/book-02-collation-31-79.md.
 
 ## Translation
 

@@ -158,10 +158,64 @@ other man would accompany me, the work would be easier and more confident. When 
 go together, one sees before the other and finds the advantage; a solitary man, even
 if he has thought deeply, is slower to discover and weaker in counsel.”
 
-Diomedes chose Odysseus. The two put on helmets and armor,
-though Diomedes took no shield, trusting the dark to cover him.
-Athena sent a heron to the right. They prayed, and began to cross
-the ditch, stepping among the bodies and abandoned weapons.
+There they sat, and Nestor asked whether some man trusted his own brave heart
+enough to enter the proud Trojans’ camp, seize an enemy straggler, or learn what
+the Trojans planned—whether they meant to remain by the ships or withdraw into
+the city now that they had defeated the Achaeans. If he learned everything and
+returned unharmed, he would win great fame beneath the sky and a fine reward:
+each of the best ship-commanders would give him a black ewe with a suckling lamb,
+a prize that would always attend his feasts and banquets.
+
+All were silent. Diomedes spoke: “Nestor, my heart and proud spirit urge me to
+enter the enemy camp, since the hostile men are close. But if another man would
+come with me, the work would be warmer and more secure. When two go together,
+one sees first what is to be done; a solitary man, even if he has thought deeply,
+has a narrower mind and a thinner counsel.”
+
+Many wished to follow him: both Ajaxes, servants of Ares; Meriones; Nestor’s son;
+Menelaus, famous with the spear; and enduring Odysseus, whose spirit always dared
+to plunge into the Trojan crowd. Agamemnon answered: “Son of Tydeus, Diomedes,
+dear to my heart, choose whichever companion you wish, the best of those who have
+offered themselves. Do not leave the better man behind out of respect for birth,
+and take the worse because he is more kingly.”
+
+Diomedes answered: “If you command me to choose a companion, how could I forget
+godlike Odysseus? His heart and proud spirit are ready for every labor, and Pallas
+Athena loves him. With him beside me we could return even from burning fire, for
+he understands how to discover a path.”
+
+Odysseus replied: “Do not praise or rebuke me too much; these things are already
+known among the Argives. Let us go: night is passing, dawn is near, the stars have
+advanced, more than two parts of the night are gone, and the third alone remains.”
+
+They clothed themselves in terrible armor. Thrasymedes gave Diomedes a two-edged
+sword, since his own had been left beside the ship, and a shield; he set upon his
+head a bull-hide helmet without boss or crest, called a skull-cap, which protects
+the heads of young men. Meriones gave Odysseus a bow, quiver, and sword, and set
+upon his head a helmet made of hide, strengthened inside by many straps and bristling
+outside with the closely set white teeth of a boar. Autolycus had once taken it
+from the house of Amyntor son of Ormenus and given it to Amphidamas of Cythera;
+Amphidamas gave it as a guest-gift to Molus, and Molus gave it to Meriones. Now
+Meriones gave it to Odysseus, and it covered his head securely.
+
+When they had put on the dreadful armor, they set out, leaving all the best men
+behind. Pallas Athena sent a heron close beside their road on the right, but they
+could not see it through the dark; they heard only its cry. Odysseus rejoiced and
+prayed: “Hear me, daughter of aegis-bearing Zeus, who stand beside me in every
+labor and never escape my notice when I am moved. Be with me now above all, and
+grant that we return to the famous ships after doing a great deed that will trouble
+the Trojans.”
+
+Diomedes prayed in turn: “Hear me, daughter of Zeus, unconquered Athena. Come with
+me as when you followed my noble father Tydeus to Thebes, when he went as messenger
+before the Achaeans. He left the bronze-clad Achaeans beside Asopus and carried a
+gentle message to the Cadmeans, but on his return he devised terrible deeds with
+you beside him, divine goddess, standing freely at his side. Stand with me now and
+guard me. I will sacrifice to you a broad-browed yearling heifer, unbroken and never
+brought beneath a man’s yoke; I will pour gold over her horns and offer her to you.”
+
+So they prayed, and Pallas Athena heard them. They set out like two lions through
+the black night, through slaughter, among corpses, armor, and dark blood.
 
 Hector too called a spy. He promised a chariot and fine armor
 to the man who would enter the Achaean camp. Dolon, son of Eumedes,

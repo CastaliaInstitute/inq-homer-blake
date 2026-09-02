@@ -3,7 +3,7 @@
 **Source passage:** Book 16, lines 1–867 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–100 are incorporated below; independent
+layout. Revised passes for lines 1–220 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 101–220 are recorded in
 text/iliad/book-16-collation-101-220.md.
@@ -134,6 +134,141 @@ Of all who stand here—nor an Argive either,
 And we two alone withdraw from ruin,
 And loose Troy's sacred veils.
 
+Ajax could hold no longer. The missiles pressed
+Him hard; the will of Zeus and splendid Troy
+Wore down his strength. His bright and terrible helm
+Rang round his temples under blows that struck
+Its well-made bosses. His left shoulder ached,
+Yet still he held the shining shield before him;
+They could not stagger him by leaning spears
+Against it. Breath came painfully; sweat poured
+From every limb; one evil followed on
+Another, and no place remained for breath.
+
+Tell me now, Muses of Olympian halls,
+How first the fire fell on Achaean ships.
+
+Hector stood near him, struck his ashen spear
+Behind the blade, where bronze met wood, and cut
+It through. Ajax held the useless stump;
+The bronze point fell far from him and rang
+Upon the ground. He knew within his blameless heart
+The gods' work, and shuddered: Zeus, the thunderer,
+Was cutting off the counsel of the fight,
+Desiring victory for Troy. Ajax
+Withdrew beneath the missiles. Then the Trojans
+Cast tireless fire upon the swift ship;
+At once the flame ran over stern and timbers.
+
+Achilles struck his thighs and called aloud:
+“Rise, Patroclus, born of Zeus, driver of horses!
+I see beside the ships the cry and breath
+Of hostile fire. Let them not take the vessels,
+And leave us no retreat. Put on the armor
+With speed; I will assemble all the people.”
+
+He spoke. Patroclus clothed himself in bronze.
+First he set beautiful greaves about
+His legs, and clasped them at the ankles with
+Bright silver fastenings. Then he drew the starry,
+Many-colored corselet of Aeacides
+Across his breast; around his shoulders hung
+The bronze sword, hilted in shining silver,
+And then the great, strong shield. Upon his head
+He set the well-made helmet, horse-haired;
+Above it nodded the dread crest. He took
+Two stout spears that fitted to his hands.
+
+But not the spear of blameless Aeacides—
+Heavy, immense, and massive, which no other
+Achaean could brandish. Only Achilles
+Knew how to wield the Pelian ash that Chiron
+Had given Peleus, for the death of heroes.
+
+Achilles ordered Automedon to yoke
+The horses, whom he honored most beside
+Himself, the faithful one who stood with him
+Within the battle's shout. Automedon
+Brought Xanthus and Balius beneath the yoke,
+Swift horses flying on the breath of wind.
+Podarge, the Harpy, bore them to the West Wind
+As she grazed beside the stream of Ocean.
+Beside the trace he set blameless Pedasus,
+Whom Achilles had taken when he sacked
+Eetion's city. Mortal though he was,
+The horse kept pace with horses born immortal.
+
+Achilles went among the huts and armed
+The Myrmidons. They rushed like flesh-eating wolves,
+Whose hearts hold measureless strength after they tear
+Apart a great-antlered stag upon the hills.
+Their cheeks are red with blood; in a pack they go
+Down to a black-water spring, and lap the dark
+Water with thin tongues, belching out the clot
+Of blood. Their courage has no fear within;
+Their bellies swell with strength of what they killed.
+So captains and commanders moved around
+The brave companion of swift-footed Peleus' son;
+Among them stood Achilles, urging horses
+And men behind their shields.
+
+Fifty swift ships belonged to him, whom Zeus
+Loved, and bore him toward Troy. In each were fifty
+Companions at the oars. Five leaders he had set
+Whom he trusted to give commands; he himself
+Held the great mastery over all.
+
+Menesthius, flashing bronze, led the first;
+The son of Spercheius, heaven's river. Fair
+Polydora, Peleus' daughter, bore him
+To the tireless stream after lying with
+The god; but Borus, son of Perieres,
+Was called his father, for he openly married
+Her and gave bride-price beyond measure.
+
+Eudorus, warlike and unmarried, led
+The second. Lovely Polymele, daughter
+Of Phylas, bore him after Hermes saw
+Her among Artemis' bright dancers, loved
+Her eyes, and climbed in secret to her room.
+He gave her Eudorus, glorious son,
+Swift-footed, excellent in war. When Eileithyia,
+Goddess of birth, brought him into the light
+To see the sun, Echecles, Actor's son,
+Took the child's mother to his house, and gave
+Countless bride-gifts; but old Phylas reared
+The child, and loved him as he were his own.
+
+Peisander, son of Maemalus, led
+The third, and all the Myrmidons surpassed
+In spear-fight beside Peleus' son. The fourth
+Was old Phoenix, driver of horses; fifth,
+Blameless Alcimedon, Laerces' son.
+
+When Achilles had arrayed them with their leaders,
+He gave a stern command: “Let none forget
+The threats you uttered at the swift ships once,
+While anger held me, and each one accused me:
+‘Cruel son of Peleus, your mother nourished
+You in gall; pitiless, you keep us here
+Against our will beside the ships. Let us
+Return across the sea, since such a bitter
+Anger has entered your heart.’ You often spoke
+Those words when you gathered around me. Now
+The great work of the war you once desired
+Stands plain before you. Let each man who carries
+A valiant heart go fight the Trojans.”
+
+He stirred the spirit in them; at his words
+The ranks drew close. As when a builder lays
+A wall with stones close-fitted, to hold back
+The violent winds from a high-roofed house,
+So shield leaned against shield, helmet against
+Helmet, and man against his fellow man;
+Horsehair crests touched with bright ridges as they stood.
+Before them Patroclus and Automedon,
+Of one accord, armed themselves to lead the host.
+
 ## Decision log
 
 - Patroclus' borrowed armor is rendered as a social force: it changes what
@@ -144,3 +279,9 @@ And loose Troy's sacred veils.
   resisting the simplification that one spear alone caused it.
 - This draft needs Greek-fidelity review for arming order, Myrmidon list,
   Sarpedon's death, chariot sequence, Apollo's blow, and final speeches.
+- The 2026-09-02 revision promotes the source-collated Book 16 span through
+  16.220, preserving Ajax's exhaustion and the first ship-fire, Patroclus'
+  complete arming, the exclusion of Achilles' Pelian spear, Automedon's horse
+  genealogy, the five Myrmidon commanders, and Achilles' remembered rebuke.
+  Meter, Greek-fidelity, omission/addition, and editorial review remain
+  pending.

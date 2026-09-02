@@ -6,33 +6,43 @@
 
 ## Translation
 
-Sing, goddess, of the anger of Peleus' son Achilles,
+Sing, goddess, of the wrath of Peleus' son Achilles,
 
-that brought uncounted grief upon the Achaeans,
+the ruinous wrath that brought unnumbered grief
 
-and cast the steadfast lives of many heroes
+upon the Achaeans, and sent many brave souls
 
 before their time into the house of Hades,
 
-leaving their bodies for the dogs and birds to tear—
+making their bodies prey for dogs and every bird—
 
-so the will of Zeus was brought toward its fulfillment—
+while Zeus's will was brought toward fulfillment—
 
-from that first hour when Agamemnon, king of men,
+from that first hour when Atreus' son, the king
 
-and godlike Achilles broke apart in strife.
+of men, and godlike Achilles stood at odds.
 
-Which of the deathless powers drove them together
+Who, then, among the gods joined them in strife?
 
-to quarrel? The son of Leto and Zeus:
+The son of Leto and of Zeus. For he,
 
-Apollo. For the king had angered him,
+angered against the king, sent through the host
 
-and through the army a deadly sickness moved;
+a deadly plague; and the people perished,
 
-the people fell, because Atreus' son had dishonored
+because Agamemnon had dishonored Chryses,
 
-the priest Chryses, when he came before the ships.
+the priest, who came before the swift ships,
+
+to ransom his dear daughter, bearing gifts
+
+beyond all measure, and in his hands the wreath
+
+and golden staff of far-darting Apollo;
+
+he prayed to all the Achaeans, but most of all
+
+to Atreus' sons, the marshals of the people.
 
 ## Extension: the priest's prayer and the plague
 
@@ -533,6 +543,10 @@ There the god who gathers the clouds went to sleep.
   required review task before approval.
 - The divine sequence preserves the poem's change of scale: a private appeal
   becomes a public dispute, then returns to ritual, music, and sleep.
+- The opening was revised on 2026-09-02 against Iliad 1.1–16 of the locked
+  Greek copy text: *mēnis* is now “wrath,” the causal question is retained,
+  and Chryses' ransom, wreath, and golden staff are restored rather than
+  deferred into an explanatory summary.
 - This passage needs Greek-fidelity review against the selected print copy text,
   especially for *mēnis*, *Achaioi*, the priest's ritual vocabulary, and the
   exact sequence of the plague, assembly, seizure of Briseis, and appeal to

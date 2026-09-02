@@ -10,6 +10,7 @@ interior proof until line-level review is complete.
 from pathlib import Path
 import re
 import sys
+from xml.sax.saxutils import escape
 
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
 from reportlab.lib.pagesizes import inch
@@ -63,7 +64,18 @@ def book_translation(path):
     match = re.search(r"## Translation\s*\n(.*?)(?=\n## Decision log|\Z)", content, re.S)
     if not match:
         raise ValueError(f"{path} lacks a Translation section")
-    lines = [line.strip() for line in match.group(1).splitlines() if line.strip()]
+    lines = []
+    for raw_line in match.group(1).splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+        # Extension headings and source-range labels are editorial metadata,
+        # not interior verse. Keep the extraction safe if more sections are
+        # added before the decision log.
+        if line.startswith("## ") or line.startswith("**Source passage:"):
+            continue
+        line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
+        lines.append(escape(line))
     return lines
 
 

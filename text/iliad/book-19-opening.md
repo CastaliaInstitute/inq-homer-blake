@@ -9,6 +9,8 @@ Lines 154–271 are recorded in
 text/iliad/book-19-collation-154-271.md.
 Lines 272–357 are recorded in
 text/iliad/book-19-collation-272-357.md.
+Lines 358–424 are recorded in
+text/iliad/book-19-collation-358-424.md.
 
 ## Translation
 

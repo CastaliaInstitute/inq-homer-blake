@@ -3,7 +3,7 @@
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
 **Status:** First-pass literary draft; not yet approved for layout.
-The first source-collated revision, covering lines 1–606, is incorporated
+The first source-collated revision, covering lines 1–617, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in
 text/iliad/book-18-collation-148-242.md.
@@ -587,6 +587,23 @@ A crowd stood round the lovely dance, delighted;
 A divine singer played the lyre, while two tumblers
 Whirled through the midst, leading the song and dance.
 
+Upon the outer rim of the well-wrought shield
+He set Oceanus, the mighty river,
+Flowing around the world.
+
+When the famed smith had finished that great shield,
+He made a corselet brighter than fire's gleam,
+A heavy helmet fitted to the temples,
+Beautifully wrought, and set a golden crest
+Upon it; then he made greaves of pliant tin,
+Fitted about the ankles.
+
+When the crippled smith had completed all
+The armor, he lifted it and laid it down
+Before Achilles' mother. Like a hawk
+She sprang from snowy Olympus, carrying
+The flashing armor from Hephaestus.
+
 ## Decision log
 
 - The grief opening keeps bodily mourning beside military decision; Achilles'
@@ -630,3 +647,8 @@ Whirled through the midst, leading the song and dance.
   clothing and ornaments, potter's wheel simile, divine singer, and tumblers.
   Meter, Greek-fidelity, omission/addition, and editorial review remain
   pending.
+- The 2026-09-02 revision completes the source-collated Book 18 pass through
+  18.617, preserving Oceanus' encircling rim, the fire-bright corselet,
+  fitted helmet and golden crest, pliant tin greaves, Hephaestus' completion,
+  and Thetis' hawk-like descent from Olympus with the armor. Meter,
+  Greek-fidelity, omission/addition, and editorial review remain pending.

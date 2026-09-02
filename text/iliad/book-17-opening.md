@@ -3,7 +3,7 @@
 **Source passage:** Book 17, lines 1–761 (complete working-book draft)
 
 **Status:** First-pass literary draft; source-collated; not yet approved for
-layout. Revised passes for lines 1–344 are incorporated below; independent
+layout. Revised passes for lines 1–493 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 Lines 105–208 are recorded in
 text/iliad/book-17-collation-105-208.md.
@@ -396,6 +396,166 @@ And stood before them; the others turned and faced
 The Achaeans. Then Aeneas struck Leiocritus
 With his spear.
 
+Lycomedes pitied Arisbas' fallen son,
+His noble friend; he came close and cast his spear.
+It struck Apisaon, Hippasus' son,
+Shepherd of men, beneath the liver, under
+The midriff, and his knees gave way at once.
+From deep-soiled Paeonia he had come,
+And often with Asteropeus had held
+The foremost place in battle. Seeing him fall,
+Asteropeus rushed forward, grieving, eager
+To fight the Danaans, but could not reach them:
+Everywhere shields stood around Patroclus,
+And spears projected. Great Ajax moved among
+Them all, giving commands: “Let no man draw back
+From the dead, nor stand apart before the Argives
+In the first rank. Let us plant ourselves close
+Around him, and fight hand to hand.”
+
+The dark earth ran red; near-set fighters fell,
+Trojans and Danaans together. Yet the Greeks
+Did not fight without bloodshed; fewer died,
+For each remembered how to ward death from
+The companion standing in the press.
+
+So fought they like a fire; you could not say
+The sun or moon still shone, so thick the mist
+Around the foremost warriors by the dead
+Menoetius' son. The other Trojans and
+Well-greaved Achaeans fought beneath clear sky;
+The sun's sharp light lay spread across the earth,
+And no cloud covered mountain or the plain.
+They fought by pauses, standing far apart,
+Avoiding arrows' groans; but those within
+The mist and battle bore the pitiless bronze,
+Which wore the bravest down.
+
+Still Thrasymedes and Antilochus
+Had not heard that blameless Patroclus died;
+They thought him living, fighting foremost still
+Among the Trojans. They had gone apart,
+Looking toward death and the flight of friends,
+As Nestor had commanded from the ships.
+
+All day the grievous strife rose; weariness
+And sweat soiled knees, shins, feet beneath each man,
+His hands and eyes, as they fought around the good
+Companion of swift-footed Aeacides.
+
+As when a man gives his people a great ox-hide,
+Wet with oil, to stretch; they stand apart and draw
+It round in a circle, and the moisture leaves,
+The oil sinks inward, and the hide grows wide
+As many pull it outward from each side—
+So there they dragged the corpse a little way
+In either direction. Each believed it would prevail:
+Trojans to haul him toward the city, Greeks
+Toward hollow ships. Around him rose a struggle
+That Ares or Athena could not scorn,
+Though anger reached its height. Such evil Zeus
+Stretched over Patroclus that day, on men
+And horses alike.
+
+And Achilles still had not learned his friend's death.
+Far from the ships he fought beneath Troy's wall;
+His heart expected Patroclus to live,
+Pressed at the gates, and surely to return.
+He could not think to take the city without
+His friend, nor his friend without him. Many times
+His mother had told him the great purposes
+Of Zeus, but not the full evil fallen on him:
+His dearest companion had perished.
+
+The fighters held their sharpened spears around
+The body, pressing on and slaughtering.
+Then one bronze-clad Achaean cried: “Friends,
+There is no honor in returning to the ships.
+Let black earth open here for every man;
+That is far better than to yield this body
+To horse-taming Troy, that they may drag him in
+And win themselves renown.”
+
+A great-hearted Trojan
+Answered: “Even if fate has fixed that all
+Of us be overcome beside this man,
+Let no one flee the battle.”
+
+So each aroused
+The strength of each; the iron, brazen uproar
+Rose through the tireless air to heaven.
+
+The horses of Aeacus' son stood apart
+And wept when first they learned their charioteer
+Had fallen in the dust beneath man-killing Hector.
+Automedon, brave son of Diores, struck
+Them often with the lash, and often spoke
+In gentleness, and threatened them; but they
+Would neither turn back to the ships beside
+The broad Hellespont, nor enter the battle.
+They stood like a pillar set upon a tomb
+Of man or woman, holding splendid chariot,
+Their heads fixed firmly toward the ground. Hot tears
+Ran down their eyelids to the earth as they mourned
+The charioteer; their thick manes, fallen from
+The yoke, were soiled on either side.
+
+Cronus' son saw them mourning and pitied them.
+He shook his head and spoke within his heart:
+“Poor creatures, why did we give you to mortal Peleus,
+You ageless, deathless ones, to suffer sorrow
+Among wretched men? Of all that breathe and creep,
+Nothing is more miserable than a man.
+Yet Hector, Priam's son, shall not drive you and
+Your wrought car away; I will not let him.
+Is it not enough that he possesses armor
+And boasts above it vainly? I will put
+Courage into your knees and spirit, so you carry
+Automedon safely from the fight to ships.
+I grant you glory still: you shall kill until
+You reach the well-benched ships, and the sun sinks
+And holy darkness comes.”
+
+He breathed courage into them. They shook the dust
+From their manes and swept the chariot through
+Trojans and Achaeans. Automedon fought,
+Grieving his friend, leaping with the horses like
+A hawk among geese. He could flee the uproar,
+And spring upon the crowd to follow them,
+But could not take a man while driving fast;
+Alone within the sacred car, he could not
+Thrust with spear and hold the eager horses.
+
+At last Alcimedon saw him, Laerces'
+Son, Haemon's son, and stood behind the car:
+“Automedon, what god has put this fruitless
+Counsel in your breast, robbed you of your sense?
+How do you fight Trojans alone in front,
+While your companion lies dead, and Hector wears
+Aeacus' armor on his shoulders?”
+
+Automedon replied: “What other Achaean
+Could equal you to hold these deathless horses,
+Unless Patroclus, equal to the gods
+In counsel, lived? But death and fate have found him.
+Take whip and silent reins; I will leap down
+And fight.”
+
+Alcimedon sprang forward to the team
+And took the whip and reins. Automedon leaped down.
+Glorious Hector saw, and called to Aeneas,
+Who stood close by: “Aeneas, counselor of
+The bronze-clad Trojans, I see these two horses
+Of swift Aeacus appearing in the battle
+With wretched charioteers. Perhaps we could seize
+Them, if your heart agrees; for neither of us
+Could stand against the charge of Ares himself
+If they came at us.”
+
+The son of Anchises did not refuse.
+They went straight at the team, their shoulders wrapped
+In dry, hard oxhide; much bronze flashed upon them.
+
 ## Decision log
 
 - Patroclus' body becomes contested territory; the translation keeps burial,
@@ -416,6 +576,13 @@ With his spear.
   Glaucus' rebuke over Sarpedon, Hector's answer, the armor exchange, and
   Zeus' foreknowledge of Andromache's loss. Meter, Greek-fidelity,
   omission/addition, and editorial review remain pending.
+- The 2026-09-02 revision extends the source-collated Book 17 pass through
+  17.493, preserving Lycomedes and Apisaon, Ajax's close-defense order, the
+  mist and clear-sky contrast, the oil-wet hide simile, Achilles' withheld
+  knowledge, the horses' grief, Zeus' intervention, Automedon's difficulty,
+  Alcimedon's arrival, and Hector and Aeneas' attempt to seize the team.
+  Meter, Greek-fidelity, omission/addition, and editorial review remain
+  pending.
 - The 2026-09-02 revision extends the source-collated Book 17 pass through
   17.344, preserving Hector's allied muster and spoils promise, Ajax's call
   for help, the river-mouth wave, Hippothous' ankle-strap and death, the

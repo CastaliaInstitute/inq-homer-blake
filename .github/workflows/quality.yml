@@ -1,0 +1,25 @@
+name: Editorial quality
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate manifest headers and CSV shape
+        run: |
+          scripts/validate_manifests.sh
+          ruby -rcsv -e '
+            ARGV.each do |file|
+              rows = CSV.read(file)
+              abort("malformed CSV: #{file}") unless rows.all? { |row| row.length == rows.first.length }
+            end
+          ' assets/source/manifest.csv assets/generated/manifest.csv
+      - name: Run asset preflight
+        run: scripts/preflight_assets.rb

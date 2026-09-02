@@ -18,6 +18,14 @@ end
 generated_manifest = path_from_root("assets/generated/manifest.csv")
 rows = CSV.read(generated_manifest, headers: true)
 
+source_manifest = path_from_root("assets/source/manifest.csv")
+CSV.read(source_manifest, headers: true).each_with_index do |row, index|
+  row_number = index + 2
+  %w[creator creator_role work_title collection_or_source_url rights_status credit_line].each do |field|
+    fail!("source manifest row #{row_number} is missing #{field}") if row[field].nil? || row[field].empty?
+  end
+end
+
 rows.each_with_index do |row, index|
   row_number = index + 2
   file = row["final_file"]
@@ -25,6 +33,10 @@ rows.each_with_index do |row, index|
 
   image_path = path_from_root(file)
   fail!("missing generated asset #{file} (row #{row_number})") unless File.file?(image_path)
+
+  prompt_file = row["prompt_file"]
+  fail!("generated manifest row #{row_number} has no prompt_file") if prompt_file.nil? || prompt_file.empty?
+  fail!("missing prompt record #{prompt_file} (row #{row_number})") unless File.file?(path_from_root(prompt_file))
 
   width_output, status = Open3.capture2("sips", "-g", "pixelWidth", "-g", "pixelHeight", image_path)
   fail!("cannot inspect #{file} with sips") unless status.success?

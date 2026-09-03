@@ -5,6 +5,10 @@ tmp/
 
 # Large working assets and generated exports
 assets/processed/*
+!assets/processed/iliad/
+!assets/processed/iliad/*-placement.png
+!assets/processed/odyssey/
+!assets/processed/odyssey/*-placement.png
 *.pdf
 *.psd
 *.tif

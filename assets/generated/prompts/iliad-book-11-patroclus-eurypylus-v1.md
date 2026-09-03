@@ -30,8 +30,9 @@ cartoon styling, or anachronistic anatomy.
 ## Production note
 
 This is a concept-review candidate, not a print-approved master. The repository
-copy is a 1050 x 1498 px preview; a native print master, color-profile
-conversion, exact caption, and final editorial/art-direction approval remain
-pending. The intended source anchor is Iliad 11.618-848, specifically the
+retains a 1050 x 1498 px generated source and a 2100 x 3000 px placement
+derivative. The derivative is an enlargement for layout review, not a native
+print master; color-profile conversion, exact caption, and final
+editorial/art-direction approval remain pending. The intended source anchor is Iliad 11.618-848, specifically the
 arrival of Patroclus and treatment of Eurypylus; the image is not evidence for
 the translation and does not replace line-level review.

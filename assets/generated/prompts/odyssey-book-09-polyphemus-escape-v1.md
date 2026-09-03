@@ -18,4 +18,4 @@
 
 **File:** `assets/generated/odyssey/book-09-polyphemus-escape-v1.png`  
 **SHA-256:** `6830d7c703ccdd54ba6faf33c0a9abc73a34cfbaacc0295de82c53108cf853ea`  
-**Status:** concept-review; print-resolution master, profile conversion, and final approval remain pending.
+**Status:** concept-review; a 2100 × 3000 placement derivative exists for layout review, but a native print-resolution master, profile conversion, and final approval remain pending.

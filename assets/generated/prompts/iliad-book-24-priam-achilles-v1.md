@@ -18,4 +18,4 @@
 
 **File:** `assets/generated/iliad/book-24-priam-achilles-v1.png`  
 **SHA-256:** `086edfbd4669873fa76ccd567b8728ef326eaa5a4db095a9d9766672205ef85a`  
-**Status:** concept-review; print-resolution master, profile conversion, and final approval remain pending.
+**Status:** concept-review; a 2100 × 3000 placement derivative exists for layout review, but a native print-resolution master, profile conversion, and final approval remain pending.

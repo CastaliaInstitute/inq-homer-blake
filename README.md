@@ -62,6 +62,12 @@ The deterministic [plate asset checksum ledger](design/asset-checksums.csv) is
 rebuilt in CI from the plate manifest so replacement files cannot silently
 change beneath their provenance records.
 
+Because “illustrated by Blake” can obscure the distinction between designer
+and engraver, the [Blake–Homer source register](design/blake-homer-source-register.md)
+records the primary collection evidence and controlled attribution language.
+Historical Homer material is used by documented role; Blake-informed
+supplements remain explicitly original and non-Blake.
+
 Translation status is governed by the [review gates](text/review-gates.md);
 All 48 books are currently in review; all six review gates remain pending for every book.
 The current approval evidence and remaining review work are summarized in the

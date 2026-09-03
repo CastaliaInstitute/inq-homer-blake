@@ -19,7 +19,7 @@ or a physical proof.
 | Interior architecture | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Architecture proofs complete at 477 × 738 pt; final locked-text exports still pending |
 | Pagination | `design/release-manifest.yaml` | Iliad 350 pages; Odyssey 146 pages |
 | Cover studies | `output/pdf/*cover-design-proof.pdf`; `design/cover-proof.md` | Single integrated 1098 × 846 pt studies; printer template and final spine remain pending |
-| Image provenance | `design/plate-manifest.csv`, `design/asset-checksums.csv`, `design/provenance-audit.md` | Historical Flaxman/engraver credits, original non-Blake credits, and byte-level asset checksums recorded |
+| Image provenance | `design/plate-manifest.csv`, `design/asset-checksums.csv`, `design/provenance-audit.md`, `design/blake-homer-source-register.md` | Historical Flaxman/engraver roles, primary collection corroboration, original non-Blake credits, and byte-level asset checksums recorded |
 | Production snapshot | `design/preflight-report.md` | Deterministic handoff summary of current proofs, coverage, provenance, and release blockers |
 | Review governance | `scripts/preflight_review_packets.rb` and all 48 packets | A gate cannot be recorded as passed without a named reviewer and review date |
 | Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |

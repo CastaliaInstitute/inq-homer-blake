@@ -57,6 +57,10 @@ Book 24 packets are now present for both epics, and their gates remain pending.
 - meter report demonstrating the project threshold of naturally five-stress
   lines, with intentional outliers logged;
 - read-aloud revision notes;
+
+The current [meter screening report](../text/meter-report.md) is a
+machine-assisted syllable screen only; it does not satisfy the Verse gate until
+stress, outliers, and read-aloud revisions are reviewed by a named editor.
 - glossary, epithet, and proper-name concordance check;
 - named reviewer, date, and signed decision for each of the six gates.
 

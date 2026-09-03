@@ -1,6 +1,6 @@
 # Translation review dashboard
 
-**Audit date:** 2026-09-02  
+**Audit date:** 2026-09-03
 **Authoritative ledger:** [`text/translation-status.csv`](../text/translation-status.csv)  
 **Review policy:** [`text/review-gates.md`](../text/review-gates.md)
 
@@ -15,10 +15,13 @@
 | Pending gate records | 288 |
 | Book-level review packets started | 48 |
 
-All 48 books have complete working verse and contiguous source-collation
-coverage. `review` means the verse is ready for line-level editorial review; it
-does not mean that the translation has been approved or that it is ready for
-layout or print.
+All 48 books have contiguous source-collation coverage, but that coverage is not
+uniformly a complete poetic translation. In particular, Odyssey Books 13–24
+retain compact or first-pass authorities that require expansion and literary
+review; see the [critical editorial review](editorial-critical-review.md).
+`review` means the material is ready for line-level editorial review; it does
+not mean that the translation has been approved or that it is ready for layout
+or print.
 
 ## Evidence required before approval
 

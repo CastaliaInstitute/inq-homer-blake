@@ -131,9 +131,50 @@ His reckoning.
 
 ### Lines 310–378 — Leiodes, Phemius, and Medon
 
-Leiodes clasped Odysseus’s knees and said that he had never spoken or done outrage in the house, and had tried to restrain the others. Odysseus answered that he had poured wine for them and shared their feast; no one among the suitors was innocent. He killed him.
+Then Leiodes clasped the knees of the returning king.
+“No guilt is mine,” he cried, “in word or deed;
+No insolence have I devised or wrought.
+I sought to check the others when they sinned,
+And turned their hands from outrage—but in vain.
+Spare me, for I was never like the rest.”
 
-The singer Phemius stood by the doors with his lyre, weighing whether to flee to Zeus’s altar or clasp Odysseus’s knees. He chose the king, laid down the lyre, and begged for life. A god had planted every kind of song in him, he said, and the suitors had forced him to sing at their feasts. Telemachus testified that Phemius was not guilty. Medon, the herald who had cared for Telemachus as a child, lay crouched beneath a fresh ox-hide. Telemachus asked that he too be spared. Odysseus agreed, and the two sat beside the altar, watching for death.
+But stern Odysseus answered from the blood:
+“You poured the wine; you shared their long-drawn feasts;
+You sat among them while they shamed my house.
+No suitor here is clean of what was done.”
+He seized the sword still warm within his hand,
+And struck him down beside the altar-stone.
+
+Then Phemius, singer of the halls, stood near
+The doors, his lyre held trembling in his grasp.
+Two paths he weighed within his troubled heart:
+To flee and cling beneath the thunderer’s altar,
+Or clasp the knees of him who now had come.
+At last he laid his hollow lyre upon
+The ground between the mixing-bowl and throne,
+And took the knees of great Odysseus.
+
+“I beg you, lord, have mercy on my life.
+Not of myself I filled their feasts with song;
+A god has planted every kind of lay
+Within my breast, and these men forced my voice
+To praise their pleasure in this ravaged house.
+The song was mine; the feast and crime were theirs.”
+
+Telemachus answered swiftly: “Father, spare him!
+He is not guilty; he sang beneath compulsion.
+And Medon too—our herald, who, when I was young,
+Kept watch beside me—lies concealed from death.”
+
+For Medon crouched beneath a newly flayed
+Ox-hide, and there lay hidden from the swords.
+At once he rose and clasped the altar’s shelter.
+Odysseus heard, and laid his anger down.
+“Let both sit here,” he said, “and wait the death
+That passes by them; they are innocent.”
+So singer and faithful herald sat apart,
+Their faces pale, their hands upon the stone,
+And watched the death that had passed over them.
 
 ### Lines 379–477 — Women, purification, and Melanthius
 

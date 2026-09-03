@@ -8,10 +8,10 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 20 current manifest
+The illustration system has 48 defined book slots and 21 current manifest
 plates. The current set is useful for editorial selection and art-direction
 review, but it contains no approved final art. Two plates are historical
-references from the 1805 Flaxman Homer edition; the other 18 are CastaliaInstitute
+references from the 1805 Flaxman Homer edition; the other 19 are CastaliaInstitute
 original generated concepts. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not
@@ -34,7 +34,7 @@ illustrated.
 |---|---|---|---|
 | ILI-01 historical scan | Flaxman design / Blake engraving record; Minerva and Achilles. Useful as a historical reference for the opening register. | Met object record and local sRGB scan are documented; the local file is landscape and needs a documented crop or placement treatment. Plate ID wording risks conflating Flaxman and Blake. | Retain as historical reference; do not select as Blake art. Resolve ID/caption language before publication. |
 | ODY-22 concept | CastaliaInstitute concept of Odysseus and Telemachus reclaiming the hall; strong climax candidate. | 1122 × 1402 px, unprofiled, concept-review. The generated manifest repeats the same candidate, so selection bookkeeping is duplicated. | High editorial priority; keep one canonical record and regenerate or upscale from an approved source before print review. |
-| ODY-05 concept | CastaliaInstitute storm/raft concept; strong ordeal and volume-temperature contrast. | 1050 × 1498 px, approximately 150 dpi at the cited working size, unprofiled; prompt and date exist, but no final master. | High editorial priority; commission/regenerate at native resolution and collate the exact passage. |
+| ODY-05 concept | CastaliaInstitute storm/raft concept; strong ordeal and volume-temperature contrast. | The v1 candidate is 1050 × 1498 px and unprofiled; the v2 candidate is a separate 1008 × 1561 px sRGB-embedded concept, both concept-review rather than final masters. | Compare v2 against v1 at thumbnail and passage level, then advance one canonical candidate after native-master and art-direction review. |
 | ILI-03 concept | Helen and the Trojan elders on the wall; provides a human/social counterweight to battle plates. | 1024 × 1536 px, approximately 146 dpi at the cited working size, unprofiled. The image reads as a concept, not a print master. | High editorial priority after regeneration; verify the selected image does not overstate the broader Book 3 duel range. |
 | ILI-16 concept | Patroclus in borrowed armor; central substitution/fall motif. | 1050 × 1498 px, approximately 150 dpi, unprofiled, concept-review. The brief requires a tighter editorial range than the current whole-book anchor. | Highest original-concept priority; collate the armor, battle, and overreach passage before a final commission. |
 | ILI-18 historical scan | Flaxman design / Tommaso Piroli engraving, Thetis bringing armor; valuable historical counterpoint to ILI-16. | Met record and local sRGB scan are documented; landscape source and `18.1-end` anchor are not a locked final caption range. Blake is explicitly not credited for this plate. | Retain as historical reference; use only with the documented artist roles and a verified plate-level range. |

@@ -7,123 +7,227 @@
 **Greek-fidelity review:** open; this working pass requires an independent
 omissions-and-additions check before approval.
 
-The compact translation below is retained for the current volume architecture;
-the collation file is the editorial authority for line-level revision.
+The full revised translation pass from that collation is carried below for
+reading, export, and proof assembly. The collation remains the authority for
+individual adopted readings, and independent Greek-fidelity, literary, meter,
+diction, notes, and production review remain open.
 
 ## Translation
 
-Odysseus lay in the forecourt upon an untanned hide, beneath the many
-fleeces that the Achaeans had sacrificed. He lay awake, thinking whether
-he should strike each shameless suitor alone; his heart growled within him
-like a dog guarding her young against a stranger. He beat his breast:
-“Endure, my heart; once you endured the Cyclops, when he devoured
-your companions, and cunning led you out while you thought to die.”
+### Lines 1–56 — The forecourt and Athena
 
-He turned this way and that, like a man beside a blazing fire who turns
-an animal’s stomach, stuffed with blood and fat, that it may roast quickly.
-So he considered how, alone against so many, he should lay hands upon them.
-Athena came down from heaven in a woman’s form and stood above his head:
-“This house is yours; your wife and your son are within. What more can
-a man desire?”
+Odysseus lay in the forecourt on an ox-hide,
+Unworked and brown, with many fleeces heaped above him;
+And over him Eurynome spread a cloak.
+The women who had joined the suitors came forth,
+Laughing together, careless in the night.
+His heart was stirred: should he strike every one,
+Or leave them yet to mingle with the arrogant men?
+Within his breast it growled, as a bitch will growl
+Beside her young when some strange man draws near.
 
-“All this is true,” Odysseus answered, “but how shall I face the suitors,
-who gather always within? And if I kill them by your and Zeus’s aid,
-where shall I flee? Consider this.”
+He struck his breast and spoke to his own spirit:
+“Endure, my heart. You endured a worse thing once,
+When the Cyclops ate your brave companions there,
+And craft brought you from the dark cave, though you
+Believed that you would die.” His heart obeyed.
 
-“Reckless man,” said the goddess, “mortals trust even a weaker companion;
-I am a god, and I guard you through every labor. If fifty companies
-of men surrounded us, eager for war, you would drive away their cattle
-and sheep. Let sleep take you; watching all night is itself a misery.”
-She returned to Olympus, and sleep loosened his limbs.
+He turned from side to side, as one beside a fire
+Turns the great stomach of a sheep, filled with blood
+And fat, that it may roast on every side;
+So he revolved the thought of laying hands
+Upon the suitors, standing one man against so many.
 
-Penelope awoke upon her soft bed, sat weeping, and prayed first to Artemis:
-“Strike the arrow into my breast and take my life now; or let a storm
-carry me away through the misty paths and cast me into Ocean’s backward-flowing
-mouth. Let me die before I gladden the mind of a worse man than Odysseus.”
-Then she remembered the dream that had passed her in the night, like him
-as he was when he marched with the army, and the daughters of Pandareus,
-carried away by the Harpies to serve the Erinyes after their parents’ death.
-Her heart rejoiced as if it
-had been waking truth. Yet the gods had left her grief and divided mind.
+Then Athena came from heaven in a woman’s likeness
+And stood above his head. “This house is yours,”
+She said; “your wife is here, and your son is such
+As any man would pray to see beside him.”
 
-Odysseus heard her crying and wondered whether she had recognized him.
-He gathered his cloak and fleeces, placed them upon a chair within,
-carried the ox-hide outside, and lifted his hands to Zeus: “Father Zeus,
-if you brought me home by your will, send me a sign within the house,
-and let another sign appear from without.”
+“All this is true,” Odysseus answered, “goddess;
+Yet how shall I confront these shameless men,
+Who gather here continually? And when I have slain them,
+If Zeus and you have granted me the victory,
+Where shall I flee? Consider this for me.”
 
-At once Zeus thundered from bright Olympus though no cloud was seen.
-A mill-woman nearby, the weakest of twelve who ground the grain for the hall,
-heard it and spoke a sign to her master: “You thunder from the starry heaven,
-though no cloud is here. Fulfill this word for me: let this be the last meal
-the suitors eat in Odysseus’s house, for their toil has broken my knees.”
-Odysseus rejoiced. Telemachus rose like an immortal, armed with sword,
-spear, and shining sandals, and stood upon the threshold.
+“You are a reckless man,” the goddess said;
+“A mortal trusts a comrade even weaker than himself,
+But I am a god, and I will guard you through your labor.
+If fifty companies of men should ring us round,
+All hungry for the battle, you would drive them off,
+And carry home their cattle and their sheep.
+Let sleep receive you; to keep watch through the night
+Is weariness itself.” She went again to Olympus,
+And sleep, the loosener of the limbs, descended on him.
 
-Eurycleia told him not to blame Penelope: the stranger had drunk wine
-as long as he wished but said he was not hungry. When he remembered sleep,
-she offered him a bed; he chose instead the raw hide and sheep fleeces
-in the forecourt, while the women covered him with a cloak.
+### Lines 57–101 — Penelope’s prayer
 
-Telemachus went to the assembly with two white dogs. Penelope ordered
-the women to spread purple rugs over the well-made chairs, wipe every table,
-clean the mixing bowls and cups, and fetch water from the spring, for the
-suitors would return early on the feast day. Eumaeus brought three fat pigs,
-and Odysseus asked whether the suitors still dishonored him. “May the gods
-avenge their violence,” said Eumaeus. “I weep to remember Odysseus; yet
-I still believe he may return and scatter them. If he were dead, I would
-have fled long ago to another king, but I wait for him.”
+Penelope woke upon her soft bed and wept.
+When she had spent the whole of her lament,
+She prayed to Artemis: “Strike me with your arrow;
+Take my life now. Or let a storm carry me
+Through misty ways, and cast me at the mouth
+Of Ocean’s backward-flowing stream. Let the gods
+Destroy me, or let Artemis release her shaft,
+Before I gladden any worse man’s heart
+Than that of my Odysseus.”
 
-“You shall see him with your own eyes,” Odysseus swore by Zeus, the guest-table,
-and the hearth of Odysseus. “You shall see the suitors killed.” Eumaeus prayed
-that the word might come true. Then Melanthius, the goatherd, brought the best
-goats for the feast, insulted Odysseus, and threatened that they would not
-part before hands had been laid upon him. Odysseus silently shook his head,
-plotting evil.
+The song recalled the daughters of Pandareus,
+Whom Harpies bore away, when both their parents died,
+To serve the hateful Erinyes. Aphrodite
+Had fed them, while Hera, Artemis, and Athena
+Had granted beauty, wisdom, and the skills
+That women learn; yet still the Harpies took them.
+So Penelope desired a death that she
+Might see Odysseus, and not become the joy
+Of some new husband. Even in death there seemed
+One comfort: after weeping through the day,
+Sleep makes the sufferer forget good and evil.
 
-The suitors were already planning death for Telemachus when an eagle flew
-on their left, carrying a trembling dove. Amphinomus told them to remember
-the feast. They entered the house, sacrificed sheep, goats, pigs, and a cow,
-roasted the inward parts, mixed the wine, and shared the meal. Telemachus,
-who had ordered that the stranger receive an equal portion, set Odysseus
-an equal share at the stone threshold.
+But the god sent her a cruel dream, in which
+Odysseus stood beside her, as he stood
+When he marched forth with the army. Her heart leapt,
+And for a moment she rejoiced as if the dream
+Were waking truth.
 
-Ctesippus of Same, a man who trusted his immense wealth and desired
-Odysseus’s wife, said it was not right to deprive a guest of his portion.
-He took an ox’s foot from a basket and threw it. Odysseus bent his head
-and smiled darkly; the hoof struck the wall. Telemachus rebuked him:
-“You missed the stranger. Had you struck him, my spear would have passed
-through you, and your father would have prepared your tomb instead of your
-marriage. We have endured the slaughter of our sheep, the drinking of our
-wine, and the dragging of our maidservants through these rooms. Do not
-continue. If you desire my death, say so; I would rather die than watch it.”
+### Lines 102–143 — Thunder and the mill-woman
 
-Agelaus urged the suitors to stop abusing the stranger or any servant.
-He advised Telemachus and his mother to let Penelope marry the best man,
-the one who brought the greatest gifts, so that Telemachus might enjoy
-his father’s possessions. Telemachus answered that he did not delay his
-mother’s marriage: she might marry whom she wished, and he would give
-her countless gifts. But he would not drive her unwillingly from the house.
+Odysseus heard her weeping, and within
+His heart he wondered whether she had known him.
+He gathered cloak and fleeces from the court,
+And laid them on a chair within the house;
+The ox-hide he carried outside. Then raised
+His hands to Zeus: “Father, if by your will
+You brought me home, give me a sign within;
+And let another sign appear without.”
 
-The suitors burst into an unnatural laughter. Their minds were shaken;
-they ate bloody flesh, and tears filled their eyes while laughter seized them.
-The seer Theoclymenus spoke: “What evil is this? Your heads, faces, and knees
-are wrapped in darkness; cries burn around you; your cheeks are wet with tears;
-the walls and beautiful crossbeams drip blood. The porch and courtyard swarm
-with shades rushing toward Erebus. The sun has vanished, and evil mist covers
-the world.” Eurymachus called for the young men to lead him outside, saying
-he spoke like night. Theoclymenus answered that he needed no guide: he had
-eyes, ears, feet, and a mind, and he knew the evil approaching them, from which
-none of the suitors would escape. He left for Peiraeus, who welcomed him.
+At once Zeus thundered from bright Olympus,
+Though not a cloud was seen across the sky.
+A mill-woman heard the omen. Twelve there were
+Who ground the barley and the wheat for those
+Who ate within the house; but she alone,
+The weakest, had not ceased from labor. Then
+She prayed: “You thunder from the starry heaven,
+Though no cloud walks above. Fulfill this word:
+Let this be the last meal the suitors eat
+In great Odysseus’ house; their toil has broken
+My knees.” The king rejoiced. Telemachus rose,
+Like an immortal, armed with sword and spear,
+His bright sandals upon his feet, and stood
+Upon the threshold.
 
-The suitors looked at one another and mocked Telemachus, laughing at his guest.
-One proposed putting the strangers on a ship and sending them to Sicily.
-Telemachus remained silent, watching his father and waiting for the hour
-when he would lift his hands against the shameless men. Penelope, seated
-among the women, heard every word. Their feast had been sweet and abundant,
-but never would another be so hateful as the meal that the goddess and the
-strong man were about to prepare for them, because they had first devised
-such outrage.
+### Lines 144–240 — Telemachus, Eumaeus, and Melanthius
+
+Then asked Telemachus the nurse: “Does the stranger
+Still lie without, neglected of his bed,
+And lacking food?” She answered: “He drank his fill,
+But said that hunger did not trouble him.
+When sleep came near, I offered him a bed;
+He chose the untanned hide and fleeces in
+The court, and the women spread a cloak above him.”
+Then went Telemachus to the assembly-place,
+Two white dogs following at his heels.
+
+Penelope commanded Eurycleia
+And all the women: “Spread the rugs upon
+The chairs well made; wipe every table clean;
+Wash out the mixing-bowls and shining cups;
+Draw water from the dark spring.” For soon
+The suitors would return; it was a feast day.
+Some went to fetch the water; some remained
+Within. Then Eumaeus brought three fat pigs.
+Odysseus asked him: “Do they still dishonor me?”
+
+“May the gods avenge their violence,” he replied.
+“I weep when I remember your lost lord;
+Yet still I think he may return, and scatter
+The suitors. Had he perished, I should long ago
+Have gone to serve another king; but still
+I wait for him.” “You are not foolish,” said
+Odysseus, “nor weak. By Zeus, by this guest-table,
+And by the hearth of great Odysseus, I swear:
+While you remain, the king shall come again,
+And with your eyes you shall behold these men
+Destroyed.” The swineherd prayed the word might stand.
+
+Then Melanthius, the goatherd, came, and brought
+The finest goats among the herd for slaughter.
+He tethered them, and mocked the beggar: “Why
+Do you not leave? We shall not part until
+Our hands have tested you. You beg without
+Good order; there are other feasts among
+The Achaeans.” Odysseus only shook
+His head, and hid the evil in his thought.
+
+### Lines 241–320 — The last feast and Ctesippus
+
+The suitors plotted death for Telemachus,
+When on their left an eagle swept above,
+And bore a trembling dove. Amphinomus
+Remembered then the feast, and led them in.
+They sacrificed the sheep, the fattened goats,
+The pigs, the cow; they roasted all the inward
+Parts, mixed wine, and divided out the meal.
+By order of Telemachus, an equal
+Portion was set for the disguised king
+Beside the threshold’s stone.
+
+Then Ctesippus of Same, trusting in wealth
+And desiring the wife of one long gone,
+Spoke: “It is wrong to rob a guest of his share.”
+He took an ox’s foot from out the basket
+And hurled it. The king bent aside his head
+And smiled a dark and terrible smile;
+The foot struck on the wall. Telemachus
+Rebuked him: “You have missed the stranger. Had
+You struck him, this spear would have pierced your body,
+And your own father would have made your tomb,
+Not prepared your wedding. Long enough we bore
+The slaughter of our sheep, the wine they drank,
+The dragging of our maids through this our house.
+Do not go on. If you desire my death,
+Speak openly; I would far rather die
+Than watch such deeds.”
+
+### Lines 321–394 — The blood-wet vision
+
+Agelaus spoke: “Stop striking the stranger, or any servant.
+Let Telemachus and his mother give Penelope
+To the best man, the one who brings the greatest gifts,
+So that the prince may still enjoy his father’s wealth.”
+Telemachus answered: “I do not hold my mother back.
+Let her marry whom she wishes; I will give her gifts
+Without number. But may no god make me drive her,
+Unwilling, from this house.”
+
+The suitors broke into unnatural laughter; their minds
+Were shaken. They ate bloody flesh, and tears filled
+Their eyes, while every heart imagined mourning.
+Then Theoclymenus, godlike in form, spoke:
+“What evil is this? Your heads, your faces, and knees
+Are wrapped in darkness. Cries burn around you;
+Your cheeks are wet with tears. The walls and beautiful
+Crossbeams drip blood. The porch and courtyard swarm
+With shades that rush toward Erebus. The sun is gone,
+And evil mist has covered all the world.”
+
+Eurymachus called for the young men to lead him out,
+Since the seer spoke like night. “I need no guide,”
+Theoclymenus answered. “I have eyes and ears, feet,
+And a mind not contemptible. I go, for I see
+The evil coming upon you; no suitor who devised
+Outrage in Odysseus’ house will escape it.”
+He went to Peiraeus, who welcomed him.
+
+The suitors looked at one another, mocking Telemachus,
+And laughed at his guest. One proposed putting the strangers
+On a ship and sending them to Sicily. Telemachus
+Stayed silent, watching his father, waiting for the hour
+When he would lift his hands against the shameless men.
+Penelope, among the women, heard every word.
+Their feast had been sweet and abundant; never would
+Another be so hateful as the meal that goddess
+And strong man were preparing for them, since first
+They had devised such outrage.
 
 ## Decision log
 

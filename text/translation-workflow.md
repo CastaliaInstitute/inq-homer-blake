@@ -15,6 +15,9 @@ status record for all forty-eight books.
 5. Set `laid-out`, `proofed`, and `final` only after the corresponding page-map,
    PDF, and physical-proof evidence exists.
 
+Before changing a book's status, run both `ruby scripts/preflight_translation.rb`
+and `ruby scripts/preflight_review_packets.rb`.
+
 The ledger intentionally reports the project honestly: all forty-eight books
 have working translation files and source-collated authorities covering their
 canonical ranges, and all forty-eight are now in `review` with the six review

@@ -70,6 +70,10 @@ The translation structure gate verifies that every non-outline ledger row has
 its manuscript file, source passage, translation section, decision log, and
 appropriate unresolved-review warning.
 
+`ruby scripts/preflight_review_packets.rb` verifies that all forty-eight
+editorial packets exist and that each packet's source-map intervals are
+contiguous through its canonical Greek endpoint.
+
 Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
 [*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions
 behind the current drafts.

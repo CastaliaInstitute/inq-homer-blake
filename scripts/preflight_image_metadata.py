@@ -42,6 +42,10 @@ def number(values: dict[str, str], key: str) -> float:
 
 manifest = ROOT / "design" / "plate-manifest.csv"
 rows = list(csv.DictReader(manifest.open(encoding="utf-8", newline="")))
+coverage = {
+    (row["volume"].lower(), int(row["book"])): int(row["canonical_greek_last_line"])
+    for row in csv.DictReader((ROOT / "text" / "source-coverage.csv").open(encoding="utf-8", newline=""))
+}
 for row_number, row in enumerate(rows, start=2):
     relative = row["final_file"]
     path = ROOT / relative
@@ -52,6 +56,21 @@ for row_number, row in enumerate(rows, start=2):
     height = int(number(values, "pixelHeight"))
     if (width, height) != (int(row["width_px"]), int(row["height_px"])):
         fail(f"{relative} dimensions differ from manifest (row {row_number})")
+
+    range_match = re.fullmatch(r"(\d+)\.(\d+)-(\d+)\.(\d+)|(?:(\d+)\.)(\d+)-(\d+)", row["passage"])
+    if not range_match:
+        # Accept the repository's compact form, e.g. 1.1-16, but never “end”.
+        compact = re.fullmatch(r"(\d+)\.(\d+)-(\d+)", row["passage"])
+        if not compact:
+            fail(f"{relative} has a nonnumeric or malformed passage range (row {row_number})")
+        volume, book = row["epic"].strip().lower(), int(row["book"])
+        start, end = int(compact.group(2)), int(compact.group(3))
+    else:
+        volume, book = row["epic"].strip().lower(), int(row["book"])
+        start = int(range_match.group(2) or range_match.group(6))
+        end = int(range_match.group(4) or range_match.group(7))
+    if (volume, book) not in coverage or not (1 <= start <= end <= coverage[(volume, book)]):
+        fail(f"{relative} passage {row['passage']} is outside its canonical source range (row {row_number})")
 
     profile = values.get("profile", "")
     declared = row["color_profile"].lower()

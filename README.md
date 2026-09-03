@@ -59,6 +59,8 @@ provenance, rights, and print masters are locked.
 
 Translation status is governed by the [review gates](text/review-gates.md);
 All 48 books are currently in review; all six review gates remain pending for every book.
+The current approval evidence and remaining review work are summarized in the
+[translation review dashboard](design/review-dashboard.md).
 
 The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status

@@ -25,5 +25,7 @@ Use exactly one status in each book record:
 - `proofed` — rendered and physical proof checked;
 - `final` — release artifact archived with its manifest.
 
-The two Book 1 openings currently remain `draft` and must not be treated as
-representative final copy.
+Before a book advances from `review` to `approved`, its record must contain a
+source map, omissions/additions report, Greek-fidelity review, meter report,
+read-aloud revision notes, glossary/concordance check, and signed editorial
+decision log. Source-collation coverage alone is not approval evidence.

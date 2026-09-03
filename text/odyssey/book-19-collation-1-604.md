@@ -10,15 +10,85 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ### Lines 1–52 — The weapons hidden
 
-Odysseus and Telemachus planned the suitors’ death. “Put away the weapons,” he said; “if they ask, say that smoke has spoiled them, or that drunken men might quarrel and wound one another. Leave us two swords, two spears, and two shields.” Telemachus called Eurycleia and carried the helmets, bossed shields, and spears away. Athena went before them with a golden lamp, and the walls shone as if fire burned everywhere. Odysseus told his son to sleep while he tested the women and waited for Penelope’s questions.
+But in the hall alone remained the steadfast king,
+Debating with Athena how the suitors should die.
+He turned to his son: “Telemachus, the weapons—
+Take them from the hall and hide them in the chamber.
+If any man should ask us why, answer him thus:
+‘The smoke has eaten their bright bronze; they are no longer
+As when Odysseus sailed, but dimmed beneath the rafters.’
+Or say, ‘When wine has mastered men, the iron in their hands
+May turn against a brother; therefore we have removed it.’
+Leave us two swords, two spears, and two round shields.”
+
+Telemachus called the nurse, Eurycleia, and together
+They bore away the helmets, shields with bosses,
+And spears that once had flashed beneath his father’s hand.
+Athena went before them, bearing a golden lamp;
+The walls shone round about as though a fire were burning.
+Odysseus whispered, “Go now, and sleep. I shall remain,
+To learn which women keep faith, and which have grown insolent,
+And hear what questions wise Penelope will ask.”
 
 ### Lines 53–162 — Penelope’s grief and the marriage delay
 
-Penelope descended like Artemis or golden Aphrodite. Her carved chair, inlaid with ivory and silver, stood beside the fire upon a fleece. Melantho again taunted the ragged stranger; Odysseus answered that necessity had made him a beggar, and warned that either he himself or Telemachus might yet judge the women’s conduct. Penelope rebuked the handmaid and summoned Eurynome with a chair and fleece.
+Then Penelope came down from her bright upper chamber,
+Like Artemis, or golden Aphrodite when she walks
+Among the deathless gods. Her chair, inlaid with ivory,
+And silver, carved with art, stood near the fire;
+Soft fleece was spread beneath it. Melantho, shameless girl,
+Again assailed the stranger: “Why sit here in the darkness?
+Go sleep among the benches, or beg outside the doorway.”
 
-She asked the stranger’s lineage. Odysseus answered with his Cretan fiction: Crete, Cnossus, Minos, Deucalion, and Idomeneus; he called himself Aethon, and said that he had welcomed Odysseus after a storm drove him to Amnisus on the voyage toward Troy. Odysseus and his companions remained twelve days; on the thirteenth they sailed. Penelope wept like snow melting upon the high mountains, while Odysseus hid his own tears.
+Odysseus answered, “Girl, why do you wound me so?
+Necessity has clothed me in these rags. Once I too
+Was rich, and gave to beggars; now the gods have broken me.
+But take heed: the master of this house may yet return,
+Or this grown son may judge the women’s conduct here.”
 
-Penelope then described the suitors and her woven stratagem. She promised to marry when Laertes’ shroud was finished, weaving by day and undoing the web by torchlight at night. For three years she deceived them; in the fourth, the treacherous handmaids betrayed her. Her parents now urged marriage, and her grown son lamented the loss of his household wealth.
+Penelope rebuked the girl: “How can you insult a guest,
+Who has come beneath our roof, worn down by sorrow?
+Eurynome, bring him a chair, and lay a fleece upon it,
+That he may sit and speak with me.” The chair was brought;
+The stranger sat, and she began: “Tell me your lineage.
+Who are you? From what country, and what city, have you come?”
+
+Then the much-enduring king shaped his Cretan tale:
+“My name is Aethon. Crete is my fatherland,
+The broad land ringed with water; Cnossus is my city.
+My father was Deucalion; Minos, whose counsels ruled,
+Was his renowned son; and Idomeneus, the spear-famed,
+Was brother to my father. I had many companions,
+And ships that bore us toward the war beside Atrides.
+
+“There Odysseus came to us. A storm from Zeus drove him
+Toward Amnisus, where the sea breaks under the caves;
+He sought the altar of the harbor’s Lady, but the weather
+Would not release his ships. Twelve days we waited there;
+On the thirteenth the wind fell, and we took the sea.”
+
+Penelope heard and wept, her tears falling like the snow
+That melts upon the high ridges when the west wind rises.
+Odysseus pitied her, yet kept his own tears hidden,
+Holding them fast beneath his lids, as iron holds
+The water of a spring. He turned his face toward the fire,
+Lest she should see the grief that answered grief.
+
+Then Penelope spoke: “Stranger, my heart is wasting.
+The men who press upon me, here beneath this roof,
+Consume the substance of my house. I promised marriage
+When I had finished Laertes’ burial cloth, lest death
+Should overtake the old man and the Achaean women blame me.
+By day I wove the great web; at night, beside the torches,
+I undid what the daylight had compelled my hands to make.
+
+“For three full years I hid the matter from them all
+And held the Achaeans by my words; but when the fourth year came,
+A treacherous maid betrayed me. They entered and discovered
+The work undone, and forced me to complete the shroud.
+Now my parents urge me toward another marriage;
+My son, already grown, is grieved to watch the suitors
+Consume his inheritance, and cannot bear the shame.”
 
 ### Lines 213–338 — The cloak and the report from Thesprotis
 

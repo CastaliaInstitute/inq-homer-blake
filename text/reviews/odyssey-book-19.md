@@ -48,3 +48,13 @@ not independent approval evidence.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Critical correction — 2026-09-03
+
+The earlier expansion had duplicated Odysseus’s Cretan biography: a shortened
+version appeared before Penelope’s account of the web, followed by the full
+version in its proper place. That was structurally and source-order inaccurate.
+The shortened duplicate has been removed from both the reading manuscript and
+the collation authority. Book 19 now presents one Cretan tale, followed by
+Penelope’s web and then the clothing test; the correction improves both
+accuracy and dramatic concealment, even though it lowers provisional density.

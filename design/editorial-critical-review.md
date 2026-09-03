@@ -4,6 +4,8 @@
 **Scope:** translation beauty, Greek fidelity, source coverage, and proof assembly  
 **Format under review:** two volumes, comic trim 6.625 × 10.25 in, two columns
 
+The cross-domain release control sheet is [`design/release-readiness.md`](release-readiness.md).
+
 ## Editorial verdict
 
 The project has a promising Longfellow-derived voice: five-stress lineation,

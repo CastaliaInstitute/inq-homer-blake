@@ -1,6 +1,7 @@
 edition_id: castalia-institute-inq-homer-blake
 status: development
 last_reviewed: 2026-09-03
+readiness_control: design/release-readiness.md
 
 format:
   trim_in: [6.625, 10.25]

@@ -17,6 +17,8 @@ remain pending.
 | 5.27–54 | Athena's removal of Ares must pivot cleanly into a rapid chain of named deaths without losing the divine cause. | Set the hand-leading withdrawal beside Scamander, then gave Agamemnon and Idomeneus separate measured beats. |
 | 5.55–83 | The hunter, shipwright, foster-son, and priest episodes risk becoming an undifferentiated catalogue. | Preserved Artemis' withheld aid, Phereclus' ships, Theano's care for Pedaeus, and Hypsenor's severed arm as distinct human histories. |
 | 5.84–94 | Diomedes' torrent simile must enlarge his aristeia without making him literally divine. | Retained the uncertainty between Trojan and Achaean ranks and the bridges, orchard fences, and Zeus-rain image. |
+| 5.95–113 | Pandarus' arrow, boast, extraction, and blood need to turn injury into a controlled pause rather than a prose summary. | Kept the right shoulder, swollen corselet, Lycia, horses and chariot, twisted tunic, and Sthenelus's straight extraction as separate beats. |
+| 5.114–143 | Diomedes' prayer and Athena's commission establish the rules of his new sight and the limits of violence against gods. | Re-lineated the inherited courage, removal of mist, recognition of god and man, and precise exception for Aphrodite. |
 
 ## Gate disposition
 

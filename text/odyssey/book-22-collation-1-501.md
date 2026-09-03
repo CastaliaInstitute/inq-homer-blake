@@ -97,11 +97,37 @@ Within the house and at the outer threshold.
 
 ### Lines 205–309 — Athena and the battle
 
-Athena came near in the form and voice of Mentor. Odysseus rejoiced and asked why she stood apart when they were in need. Agelaus warned the suitors that Mentor might have become the bowman’s ally and urged her to fight beside them. Athena remained silent, testing Odysseus, Telemachus, and the loyal servants.
+Athena came near in Mentor’s form and voice.
+Odysseus rejoiced: “Why stand apart from us,
+When we are pressed?” Agelaus warned the suitors:
+“Mentor may now be friend to this bowman. Let her
+Fight at his side.” The goddess made no answer;
+She tested king and son, and both the servants.
 
-Odysseus ordered his allies to cast their spears. He struck Demoptolemus; Telemachus struck Euryades; Eumaeus struck Elatus; and Philoetius struck Peisander. The suitors cast back, but Athena made their spears fly wide—against a pillar, the door, and the wall. Amphimedon grazed Telemachus’s wrist; Ctesippus struck Eumaeus above his shield, but the spear flew over him. Odysseus killed Eurydamas, Telemachus Amphimedon, Eumaeus Polybus, and Philoetius Ctesippus, saying, “Take this guest-gift in return for the ox’s foot you threw at our master.” Telemachus struck Leiocritus in the belly.
+“Cast now,” Odysseus said. He struck Demoptolemus;
+Telemachus struck Euryades; Eumaeus
+Struck Elatus; and Philoetius struck Peisander.
+The suitors cast, but Athena made their spears
+Go wide—one against pillar, door, and wall.
+Amphimedon grazed the wrist of young Telemachus;
+Ctesippus struck Eumaeus above his shield,
+But the spear passed over him. Then Odysseus
+Struck Eurydamas; Telemachus Amphimedon;
+Eumaeus Polybus; and Philoetius
+Struck Ctesippus: “Take this guest-gift in return
+For the ox’s foot you cast at our master.”
+Telemachus struck Leiocritus in the belly.
 
-Athena raised the deadly aegis from the roof. The suitors’ minds failed; they fled through the hall like cattle before a gadfly, while the allies struck them from every side. Agelaus urged escape through the passage and a call to the town, but Odysseus shot him through the throat. The bodies lay in blood and dust like fish drawn from the gray sea upon the shore. Odysseus searched the house; all had fallen.
+Athena lifted the deadly aegis from the roof.
+The suitors’ minds gave way. They fled the hall
+Like cattle driven by a gadfly, while the friends
+Struck them from every side. Agelaus cried,
+“Escape through the passage! Raise the town!” But then
+Odysseus’ arrow pierced him through the throat.
+The bodies lay in blood and dust, like fish
+Drawn from the gray sea and flung upon the shore.
+The king searched the house; not one had fallen outside
+His reckoning.
 
 ### Lines 310–378 — Leiodes, Phemius, and Medon
 

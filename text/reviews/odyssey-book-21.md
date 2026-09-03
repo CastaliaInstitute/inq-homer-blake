@@ -23,6 +23,12 @@ Messenian theft and Ortilochus setting were restored from Odyssey 21.15–24.
 The closing tableau now also retains the source’s final signal: Telemachus
 girds his sword, takes his spear, and stands helmeted beside his father.
 
+The contest opening now also restores Telemachus’s speech before the axes are
+set: his ironic response to Penelope’s possible remarriage, his praise of her
+among Achaean women, and his claim to test the bow himself. These details
+follow Odyssey 21.101–117 and restore the public and filial stakes of the
+trial.
+
 The Iphitus account was checked again against Odyssey 21.22–30. The Greek
 says his twelve mares had perished, with the hard-working mules beneath them;
 it does not describe those animals as stolen. Both the collation authority and

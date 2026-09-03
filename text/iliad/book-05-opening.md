@@ -32,45 +32,65 @@ covering him in night, that the old priest might not
 be left altogether childless. Tydeus’ son drove
 the horses to his friends, to lead them to the ships.
 
-When the great-hearted Trojans saw one son fleeing and the other killed
-beside the chariot, their hearts were all shaken. Bright-eyed Athena took Ares
-by the hand and spoke: “Ares, Ares, destroyer of mortals, wall-breaker,
-let us leave Trojans and Achaeans to fight, and withdraw, avoiding Zeus’s anger;
-whichever side he grants glory, let that side have it.” So she led fierce Ares
-from the battle and seated him beside the sandy Scamander. The Danaans turned
-the Trojans back, and each commander killed a man. First Agamemnon struck down
-great Odius, leader of the Halizonians, driving his spear between his shoulders
-as he turned; the point passed through his chest, and his armor clattered.
-Idomeneus killed Phaestus, son of Maeon’s son Borus, who had come from deep-soiled
-Tarne; Idomeneus struck him in the right shoulder as he mounted his horses,
-and hateful darkness took him. His attendants stripped his armor.
+When the great-hearted Trojans saw one son fleeing,
+the other slain beside the chariot, their hearts
+were shaken. Bright-eyed Athena took Ares by the hand:
+“Ares, Ares, destroyer of mortals, wall-breaker,
+let us leave Trojans and Achaeans to fight,
+and withdraw, avoiding Zeus’s anger. Whichever side
+he grants the glory, let that side possess it.”
+So she led fierce Ares from the battle and seated him
+beside the sandy Scamander. The Danaans drove
+the Trojans back, and every captain killed a man.
 
-Menelaus killed Scamandrius, son of Strophius, a skilled hunter whom Artemis
-herself had taught to strike every wild creature the forest raises; but Artemis,
-mistress of the bow, did not help him then. Menelaus struck him in the back
-as he fled, and the spear passed between his shoulders through the chest.
-Meriones killed Phereclus, son of Tecton’s son Harmonides, who knew how to make
-all intricate things with his hands, beloved of Athena; he had built for Alexander
-the equal ships that brought evil on Troy and on Paris, since he did not know
-the gods’ decrees. Meriones pursued and struck his right buttock; the point
-passed through beneath the bone and came out at the bladder. He fell on his knees,
-crying out, and death covered him.
+First Agamemnon struck great Odius down,
+leader of the Halizonians; as he turned,
+the spear drove between his shoulders, passed
+through his chest, and made his armor ring.
+Idomeneus killed Phaestus, son of Borus’ son Maeon,
+who had come from deep-soiled Tarne. As Phaestus
+mounted his horses, Idomeneus struck his right shoulder;
+hateful darkness took him, and his attendants stripped
+his armor.
 
-Meges killed Pedaeus, Antenor’s bastard son, whom noble Theano had raised
-as tenderly as her own children for her husband’s sake. Phyleus’ famous son
-came close and struck him at the nape; the sharp spear passed under the tongue
-between the teeth, and the cold bronze took his spirit.
-Eurypylus, son of Euaemon, killed Hypsenor, the godlike son of Dolopion,
-priest of Scamander, honored among the people like a god. As Hypsenor fled,
-Eurypylus overtook him and cut away his heavy arm at the shoulder;
-the bloodied hand fell on the plain, and purple death seized him.
+Menelaus killed Scamandrius, Strophius’ son,
+a skilled hunter whom Artemis herself had taught
+to strike each wild creature the forest breeds.
+But Artemis, mistress of the bow, did not help him then.
+As Scamandrius fled, Menelaus struck his back;
+the spear passed between his shoulders through the chest.
 
-So they labored through the strong battle. You could not have recognized
-whether Diomedes stood among Trojans or Achaeans: he swept over the plain
-like a winter torrent that quickly breaks bridges; neither bridges nor fences
-of flowering orchards restrain it when Zeus’ rain descends in force,
-and many fine works of young men fall before it. So beneath Diomedes’ hands
-the Trojan ranks were scattered, and even their many numbers could not stand.
+Meriones killed Phereclus, son of Tecton’s son
+Harmonides, who knew to make all intricate things
+with his hands, and was beloved by Athena. For Alexander
+he built the equal ships that brought evil on Troy
+and Paris, since he knew not the gods’ decrees.
+Meriones pursued and struck his right buttock;
+the point passed beneath the bone and came out
+at the bladder. He fell upon his knees, crying aloud,
+and death covered him.
+
+Meges killed Pedaeus, Antenor’s bastard son,
+whom noble Theano raised as tenderly as her own,
+for her husband’s sake. Phyleus’ famous son drew near
+and struck him at the nape; the sharp spear passed
+under his tongue, between his teeth, and cold bronze
+took away his spirit.
+Eurypylus, son of Euaemon, killed Hypsenor,
+the godlike son of Dolopion, priest of Scamander,
+honored among the people like a god. As Hypsenor fled,
+Eurypylus overtook him and cut his heavy arm away
+at the shoulder; the bloodied hand fell on the plain,
+and purple death seized him.
+
+So they labored through the strong battle. You could not
+have known whether Diomedes stood among Trojans
+or Achaeans; he swept across the plain like a winter torrent
+that quickly breaks the bridges. Neither bridges nor fences
+of flowering orchards restrain it when Zeus’ rain descends
+in force, and many fine works of young men fall before it.
+So beneath Diomedes’ hands the Trojan ranks were scattered;
+even their multitude could not stand.
 
 When Lycaon’s glorious son saw him rushing and driving the ranks before him,
 he bent his curved bow at once and struck Diomedes in the right shoulder,

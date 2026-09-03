@@ -14,6 +14,9 @@ remain pending.
 |---|---|---|
 | 5.1–8 | Athena's fire and autumn-star image risk becoming explanatory prose before the battle begins. | Re-lineated the blessing as a rising sequence from courage to radiance to the crowded center, retaining Ocean, helmet, shield, head, and shoulders. |
 | 5.9–26 | Dares' two sons require quick spatial clarity: chariot, foot, missed spear, death, flight, and divine concealment. | Kept the paired sons and every tactical beat distinct, with Hephaestus' night preserving the priest's surviving line. |
+| 5.27–54 | Athena's removal of Ares must pivot cleanly into a rapid chain of named deaths without losing the divine cause. | Set the hand-leading withdrawal beside Scamander, then gave Agamemnon and Idomeneus separate measured beats. |
+| 5.55–83 | The hunter, shipwright, foster-son, and priest episodes risk becoming an undifferentiated catalogue. | Preserved Artemis' withheld aid, Phereclus' ships, Theano's care for Pedaeus, and Hypsenor's severed arm as distinct human histories. |
+| 5.84–94 | Diomedes' torrent simile must enlarge his aristeia without making him literally divine. | Retained the uncertainty between Trojan and Achaean ranks and the bridges, orchard fences, and Zeus-rain image. |
 
 ## Gate disposition
 

@@ -33,6 +33,8 @@ jobs:
         run: ruby scripts/preflight_fonts.rb
       - name: Run translation structure preflight
         run: scripts/preflight_translation.rb
+      - name: Run translation completeness preflight
+        run: ruby scripts/preflight_translation_completeness.rb
       - name: Run review-packet coverage preflight
         run: ruby scripts/preflight_review_packets.rb
       - name: Run read-aloud coverage preflight

@@ -29,6 +29,8 @@
 - [ ] A rendered proof has been reviewed at 100% and on paper.
 - [ ] Literary, art-historical, attribution, and production sign-offs are
       recorded before release.
+- [x] Compact or compressed translation material is blocked from promotion by
+      `scripts/preflight_translation_completeness.rb`.
 
 The current tracked proof in `output/pdf/` is an architecture sample only;
 its status must remain separate from final volume deliverables.

@@ -2,7 +2,7 @@
 
 **Source passage:** Book 18, lines 1–617 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 The first source-collated revision, covering lines 1–617, is incorporated
 below; independent meter and Greek-fidelity review remains pending.
 Lines 148–242 are recorded in

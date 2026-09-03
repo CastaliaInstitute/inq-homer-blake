@@ -21,6 +21,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
 from reportlab.platypus import BaseDocTemplate, Frame, Image, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer
+from translation_extract import book_translation
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "output/pdf"
@@ -69,72 +70,6 @@ def footer(canvas, doc):
     canvas.drawString(MARGIN_X, 0.31 * inch, "HOMER / iNQ HOMER BLAKE / PROVISIONAL VOLUME PROOF")
     canvas.drawRightString(PAGE_W - MARGIN_X, 0.31 * inch, str(doc.page))
     canvas.restoreState()
-
-
-def book_translation(path):
-    content = path.read_text()
-    # Some volume-facing files intentionally retain a compact synopsis while
-    # their complete, source-collated translation is kept in one or more
-    # authority files. Use those authorities for the assembled proof, but only
-    # when the opening explicitly identifies itself as compact and the
-    # authority has the required revised-translation section.
-    if "compact translation" in content.lower():
-        authorities = []
-        for candidate in sorted(path.parent.glob(f"{path.stem.replace('-opening', '')}-collation-*.md")):
-            authority = candidate.read_text(encoding="utf-8")
-            if "## Revised translation pass" in authority:
-                range_match = re.search(r"collation-(\d+)-(\d+)\.md$", candidate.name)
-                if range_match:
-                    authorities.append((int(range_match.group(1)), int(range_match.group(2)), authority))
-        source_range = re.search(r"Source passage:.*?Book \d+, lines\s+1\D+(\d+)", content, re.S)
-        authorities.sort(key=lambda item: item[0])
-        covers_book = bool(source_range and authorities and authorities[0][0] == 1)
-        if covers_book:
-            expected_end = int(source_range.group(1))
-            cursor = 1
-            for start, end, _ in authorities:
-                if start != cursor:
-                    covers_book = False
-                    break
-                cursor = end + 1
-            covers_book = covers_book and cursor - 1 == expected_end
-        if covers_book:
-            bodies = []
-            for _, _, authority in authorities:
-                match = re.search(r"^## Revised translation pass\s*\n(.*?)(?=^## Decision|\Z)", authority, re.S | re.M)
-                if match:
-                    bodies.append(match.group(1).strip())
-            if len(bodies) == len(authorities):
-                content = "## Translation\n" + "\n\n".join(bodies)
-    translation_lines = []
-    active_section = False
-    for raw_line in content.splitlines():
-        heading = re.match(r"^##\s+(.+?)\s*$", raw_line)
-        if heading:
-            active_section = heading.group(1).startswith(("Translation", "Extension"))
-            continue
-        if active_section:
-            translation_lines.append(raw_line)
-    if not translation_lines:
-        raise ValueError(f"{path} lacks a Translation section")
-    lines = []
-    skip_metadata_block = False
-    for raw_line in translation_lines:
-        line = raw_line.strip()
-        if not line:
-            skip_metadata_block = False
-            continue
-        # Extension headings and source-range labels are editorial metadata,
-        # not interior verse. Keep the extraction safe if more sections are
-        # added before the decision log.
-        if line.startswith("#") or line.startswith(("**Source passage:", "**Continuation:", "**Book ")):
-            skip_metadata_block = True
-            continue
-        if skip_metadata_block:
-            continue
-        line = re.sub(r"\*\*(.*?)\*\*", r"\1", line)
-        lines.append(escape(line))
-    return lines
 
 
 def forward_block(path):

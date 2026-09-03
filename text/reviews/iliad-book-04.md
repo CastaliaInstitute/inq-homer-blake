@@ -23,9 +23,9 @@ Pandarus, Menelaus's wound, and the battle catalogue.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|
-| Greek fidelity | four source-collation records | independent comparison and omissions/additions report |
+| Greek fidelity | four source-collation records; divine-council voice distinction corrected and logged for second-reader check | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse and read-aloud revision log recorded; independent stress review pending | meter report, outlier decisions, and named human read-aloud sign-off |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof | approved-text proof and page-map signoff |

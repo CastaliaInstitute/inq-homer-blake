@@ -24,9 +24,8 @@ friendship between the peoples? If this were pleasing
 to all, Priam’s city might remain inhabited,
 and Menelaus lead Argive Helen home.”
 
-Athena and Hera muttered; seated near together,
-they planned evil for Troy. Athena was silent,
-angry with her father, and fierce resentment held her.
+Athena sat apart, her anger held within her,
+and fierce resentment burned against her father.
 Hera could not contain her anger: “Most terrible
 son of Cronus, what have you said? Would you make
 my labor fruitless—the sweat I spent in toil,

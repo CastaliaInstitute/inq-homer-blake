@@ -34,8 +34,8 @@ Book 2 packets are now present for both epics; Iliad and Odyssey Book 2 each
 also have a read-aloud revision log, and both books' gates remain pending.
 Book 3 packets are now present for both epics; Odyssey Book 3 also has a
 read-aloud revision log, and both books' gates remain pending.
-Book 4 packets are now present for both epics; Odyssey Book 4 also has a
-read-aloud revision log, and both books' gates remain pending.
+Book 4 packets are now present for both epics; Iliad and Odyssey Book 4 also
+have read-aloud revision logs, and both books' gates remain pending.
 Book 5 packets are now present for both epics, and their gates remain pending.
 Book 6 packets are now present for both epics, and their gates remain pending.
 Book 7 packets are now present for both epics, and their gates remain pending.

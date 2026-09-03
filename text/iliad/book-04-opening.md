@@ -132,35 +132,42 @@ an ornament and glory for horse and charioteer—
 so well-formed thighs and beautiful legs, Menelaus,
 were stained with blood.
 
-When Agamemnon saw the dark blood running from the wound, he trembled;
-war-loving Menelaus trembled too, but when he saw the sinew and arrow-barbs
-outside, his heart gathered itself again. Agamemnon groaned heavily,
+When Agamemnon saw the dark blood from the wound,
+he trembled; war-loving Menelaus trembled too,
+but when he saw the sinew and arrow-barbs outside,
+his heart gathered itself again. Agamemnon groaned,
 holding Menelaus’ hand, while his companions lamented:
 
-“Dear brother, I cut the oath that set you alone before the Achaeans
-to fight the Trojans, and the Trojans have struck you and trampled
-the faithful oath. Yet the oath, the blood of lambs, the unmixed libations,
-and the right hands we trusted will not be in vain. Even if Olympus’ lord
-does not fulfill it at once, he will fulfill it later, and they will pay dearly,
-with their heads, wives, and children. I know this in my heart:
-the day will come when holy Ilium, Priam, and Priam’s well-speared people
-are destroyed, when Zeus himself, dwelling in the upper air, shakes
-his dark aegis over them in anger at this deceit. These things will not fail;
-but my grief for you, Menelaus, will be terrible if you die and fulfill
-the appointed end of life.”
+“Dear brother, I cut the oath that set you alone
+before the Achaeans to fight the Trojans;
+and now the Trojans have struck you, and trampled
+the faithful oath. Yet oath, lambs’ blood, libations
+unmixed, and the right hands we trusted shall not
+be vain. Though Olympus’ lord does not fulfill it
+at once, he will fulfill it later; and they shall pay
+dearly, with heads, wives, and children. I know
+within my heart the day shall come when holy Ilium,
+Priam, and Priam’s well-speared people are destroyed;
+when Zeus himself, dwelling in the upper air,
+shakes his dark aegis over them in anger at this deceit.
+These things shall not fail; but my grief for you,
+Menelaus, will be terrible if you die,
+and fulfill the appointed end of life.”
 
-Menelaus answered: “Take heart, and do not alarm the army. The wound is not
-deadly; the arrow’s sharp point did not remain, and the belt and corselet
-held it back.”
+Menelaus answered: “Take heart, and do not alarm
+the army. The wound is not deadly; the arrow’s point
+did not remain, and belt and corselet held it back.”
 
-Agamemnon summoned Talthybius: “Call Machaon, son of Asclepius,
-the blameless healer, to see whether he can heal Menelaus.”
-Talthybius went through the ranks and found Machaon, a good physician,
-standing among the shield-bearing men who had followed him from Tricca.
-He brought him before Menelaus. Machaon cut away the shining belt,
-the corselet, and the guard; he drew the clotted blood from the wound
-and laid soothing medicines upon it—medicines given by Cheiron
-to his father, Asclepius, long ago.
+Agamemnon summoned Talthybius: “Call Machaon,
+son of Asclepius, the blameless healer, to see
+whether he can heal Menelaus.” Talthybius passed
+through the ranks, and found Machaon, good physician,
+among the shield-bearing men who followed him
+from Tricca. He brought him before Menelaus.
+Machaon cut away the shining belt, corselet, and guard;
+he drew the clotted blood out of the wound,
+and laid soothing medicines upon it—medicines once given
+by Cheiron to his father, Asclepius.
 
 When the Trojans’ ranks came on again, no one could have seen
 divine Agamemnon sleeping, shrinking, or refusing the fight;

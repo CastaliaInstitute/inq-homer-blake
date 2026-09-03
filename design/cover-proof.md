@@ -5,7 +5,7 @@ design studies using the current art direction and embedded licensed fonts:
 
 ```sh
 python3 scripts/build_cover_proof.py \
-  --volume iliad --pages 341 \
+  --volume iliad --pages 342 \
   --output output/pdf/inq-homer-iliad-cover-design-proof.pdf
 python3 scripts/build_cover_proof.py \
   --volume odyssey --pages 125 \

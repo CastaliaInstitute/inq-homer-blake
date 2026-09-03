@@ -13,7 +13,7 @@ or a physical proof.
 
 | Area | Evidence | Current result |
 |---|---|---|
-| Source coverage | `design/collation-coverage.md`; source-lock and Greek-coverage preflights | All 48 books have contiguous source authority |
+| Source coverage | `design/collation-coverage.md`; `scripts/preflight_translation.rb`; source-lock and Greek-coverage preflights | All 48 books have contiguous, non-overlapping source authority; gaps and overlaps fail preflight |
 | Translation completeness | `ruby scripts/preflight_translation_completeness.rb`; `scripts/preflight_translation_density.rb`; `design/translation-expansion-plan.md` | All 48 source authorities reach their endpoints; the density screen records provisional holds and the expansion plan makes each hold actionable |
 | Accessible reading copies | `output/text/inq-homer-iliad.txt`, `output/text/inq-homer-odyssey.txt` | 24 books in each export; preflight passed |
 | Interior architecture | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Architecture proofs complete at 477 × 738 pt; final locked-text exports still pending |
@@ -24,7 +24,7 @@ or a physical proof.
 | Review governance | `scripts/preflight_review_packets.rb` and all 48 packets | A gate cannot be recorded as passed without a named reviewer and review date |
 | Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |
 | Typography | `design/font-lock.md`, `design/typography.md` | Architecture font evidence recorded; final license lock pending |
-| Automation | `.github/workflows/editorial-quality.yml` | Editorial Quality CI passing on the latest pushed commit |
+| Automation | `.github/workflows/editorial-quality.yml` | Editorial Quality CI passing on commit `265ea7d` (run `33757430677`) |
 
 ## Required human and production signoffs
 

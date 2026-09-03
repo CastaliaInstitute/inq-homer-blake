@@ -5,6 +5,7 @@ require "csv"
 ROOT = File.expand_path("..", __dir__)
 ledger = File.join(ROOT, "text/translation-status.csv")
 rows = CSV.read(ledger, headers: true)
+coverage = CSV.read(File.join(ROOT, "text/source-coverage.csv"), headers: true)
 
 def fail!(message)
   warn "FAIL: #{message}"
@@ -31,6 +32,25 @@ rows.each_with_index do |row, index|
     unless content.match?(/Greek-fidelity review|Greek-fidelity gate|review task|Draft warning/i)
       fail!("#{file} (row #{row_number}) has no explicit unresolved review warning")
     end
+  end
+
+  if %w[review approved laid-out proofed final].include?(status)
+    coverage_row = coverage.find do |candidate|
+      candidate["volume"] == row["volume"] && candidate["book"].to_i == row["book"].to_i
+    end
+    fail!("#{file} has no source-coverage row") unless coverage_row
+    expected_end = coverage_row["canonical_greek_last_line"].to_i
+    intervals = []
+    Dir[File.join(ROOT, "text", row["volume"], "book-#{row['book'].to_i.to_s.rjust(2, '0')}-collation-*.md")].each do |collation|
+      match = File.basename(collation).match(/collation-(\d+)-(\d+)\.md\z/)
+      intervals << [match[1].to_i, match[2].to_i] if match
+    end
+    cursor = 1
+    intervals.sort.each do |start_line, end_line|
+      fail!("#{file} has a source-collation gap before line #{start_line}") if start_line > cursor
+      cursor = [cursor, end_line + 1].max
+    end
+    fail!("#{file} source collation ends at #{cursor - 1}, expected #{expected_end}") unless cursor == expected_end + 1
   end
   puts "OK #{file}: #{status}"
 end

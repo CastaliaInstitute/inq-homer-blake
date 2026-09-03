@@ -19,6 +19,14 @@ the suitors' insults and omens.
 
 ## Gate evidence register
 
+### Revision note — 2026-09-03
+
+The reader-facing pass was expanded against the pinned Greek at the return to
+the palace: the ritual handwashing and table setting are now present, as are
+the elders’ questions to Telemachus about his voyage and father. The revised
+pass clears the project’s conservative density screen; independent
+Greek-fidelity, literary, meter, notes, and production approvals remain open.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; three crossings, Argos recognition, and omen/report sequence checked in review log | independent comparison and omissions/additions report |

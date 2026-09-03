@@ -6,12 +6,11 @@ Work in source order within each volume. For every book, compare the expanded En
 
 | Priority | Volume | Book | Source lines | Current words | Screen-floor words | Additional words to floor | Current density | Working file |
 |---:|---|---:|---:|---:|---:|---:|---:|---|
-| 1 | odyssey | 17 | 606 | 2964 | 3030 | 66 | 4.89 | `text/odyssey/book-17-opening.md` |
-| 2 | odyssey | 19 | 604 | 2035 | 3020 | 985 | 3.37 | `text/odyssey/book-19-opening.md` |
-| 3 | odyssey | 20 | 394 | 1495 | 1970 | 475 | 3.79 | `text/odyssey/book-20-opening.md` |
-| 4 | odyssey | 21 | 434 | 1200 | 2170 | 970 | 2.76 | `text/odyssey/book-21-opening.md` |
-| 5 | odyssey | 22 | 501 | 1462 | 2505 | 1043 | 2.92 | `text/odyssey/book-22-opening.md` |
-| 6 | odyssey | 23 | 372 | 1150 | 1860 | 710 | 3.09 | `text/odyssey/book-23-opening.md` |
-| 7 | odyssey | 24 | 548 | 1613 | 2740 | 1127 | 2.94 | `text/odyssey/book-24-opening.md` |
+| 1 | odyssey | 19 | 604 | 2035 | 3020 | 985 | 3.37 | `text/odyssey/book-19-opening.md` |
+| 2 | odyssey | 20 | 394 | 1495 | 1970 | 475 | 3.79 | `text/odyssey/book-20-opening.md` |
+| 3 | odyssey | 21 | 434 | 1200 | 2170 | 970 | 2.76 | `text/odyssey/book-21-opening.md` |
+| 4 | odyssey | 22 | 501 | 1462 | 2505 | 1043 | 2.92 | `text/odyssey/book-22-opening.md` |
+| 5 | odyssey | 23 | 372 | 1150 | 1860 | 710 | 3.09 | `text/odyssey/book-23-opening.md` |
+| 6 | odyssey | 24 | 548 | 1613 | 2740 | 1127 | 2.94 | `text/odyssey/book-24-opening.md` |
 
-**Open queue:** 7 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.
+**Open queue:** 6 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.

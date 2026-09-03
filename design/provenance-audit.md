@@ -45,10 +45,10 @@ approval are recorded.
 | `assets/generated/iliad/book-24-priam-achilles-v1.png` | `086edfbd4669873fa76ccd567b8728ef326eaa5a4db095a9d9766672205ef85a` | concept-review |
 | `assets/generated/odyssey/book-22-hall-v1.png` | `9beb4be8ed49e579185bca7cd0b6d1fc7f5969bcf52147a09ae4a275fe24334c` | concept-review |
 | `assets/generated/iliad/book-16-patroclus-v2.png` | `9ea4fe09507f1fe67ce442081f4bba1e6fd3d3d21da106d2bf0bb20e3440cc7b` | concept-review |
-| `assets/generated/iliad/book-11-patroclus-eurypylus-v2.png` | `eacc7b1728f09c81e176dbc9bc4c11b623d6ab0904f3a1e29540e095dc623960` | concept-review |
-| `assets/generated/odyssey/book-23-penelope-bed-v1.png` | `88478a50d4c2e319ef088999364fbd16ca8f0c10a7ef8861d67fa5c902d92ce3` | concept-review |
-| `assets/generated/odyssey/book-16-father-son-v1.png` | `3aaf7cde0ce97e98b380a87f029422cd3f90364526b6674bf4dea2bfcc0d526e` | concept-review |
-| `assets/generated/odyssey/book-13-return-v1.png` | `6c6301bc0b5608836a228ef1630272266e0aacdedf50b9c8d5cf13245fba5b52` | concept-review |
+| `assets/generated/iliad/book-11-patroclus-eurypylus-v2.png` | `3a2a0f735b6fc7d5e7a321b3a8a4af0db9a8662092131bb73c87bc8a78d111a1` | concept-review |
+| `assets/generated/odyssey/book-23-penelope-bed-v1.png` | `f4882bfe27ebb315333a3a8fe2d643e43fe4a95261692480fcd28ed8634231fa` | concept-review |
+| `assets/generated/odyssey/book-16-father-son-v1.png` | `41b5cbc3d6198a221302faf228aef57c04a761c753ec75601139d6d20c01fc05` | concept-review |
+| `assets/generated/odyssey/book-13-return-v1.png` | `4f2fe7749e848c354c7783876d56a2b333dcdd1557c78fbc41e4a30c3a1371ba` | concept-review |
 
 Run `shasum -a 256` against the local files after any asset replacement and
 update this dossier together with the relevant manifest record. The automated

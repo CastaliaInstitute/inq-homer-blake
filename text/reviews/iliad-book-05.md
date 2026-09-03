@@ -36,7 +36,7 @@ Ares, Sarpedon's episode, and the named battle deaths.
 
 ## Focused cadence pass
 
-The opening aristeia (Iliad 5.1–26) has a provisional cadence revision
+The complete aristeia (Iliad 5.1–909) has provisional cadence revisions
 documented in [`iliad-book-05-read-aloud.md`](iliad-book-05-read-aloud.md).
 This is not a gate pass; the complete book remains subject to Greek-fidelity,
 stress, read-aloud, diction, notes, and production review.

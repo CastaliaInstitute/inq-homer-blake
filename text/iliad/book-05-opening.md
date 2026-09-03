@@ -534,68 +534,102 @@ so greatly they feared his terrible spear. Now they fight
 far from the city, beside the hollow ships.” Her cry
 awakened courage in them all.
 
-Athena found Diomedes beside his horses and chariot, cooling the wound Pandarus had
-made with his arrow. Sweat tormented him beneath the broad shield-strap, and his arm
-grew weary as he wiped the dark blood away. The goddess touched the yoke and said:
-“Little did Tydeus beget a son like himself! Tydeus was small in body, but a fighter.
-When I forbade him to fight or to burst into the tumult, and he came as messenger to
-Thebes among the Cadmeans, I told him to feast quietly in the halls. Yet his strong
-spirit challenged the young men and defeated them all, for I stood beside him. I stand
-beside and guard you too. Fight the Trojans freely. Has long weariness weakened your
-limbs, or does fear hold you? You are no son of Tydeus, the battle-wise Oeneid.”
+Athena found Diomedes beside his horses and chariot, wiping the wound
+that Pandarus’ arrow had made. Sweat tormented him beneath the broad
+shield-strap; his arm grew weary as he wiped the dark blood away.
+The goddess touched the yoke and spoke:
 
-Diomedes answered: “I know you, goddess, daughter of aegis-bearing Zeus, and will
-hide nothing. Neither fear nor cowardice holds me; I remember still the commands you
-gave me—not to fight the blessed gods openly. But if Aphrodite, daughter of Zeus,
-comes into the battle, I may wound her with the sharp bronze. Therefore I withdraw
-and bid the other Argives gather here: I know Ares rules the fight.”
+“Little did Tydeus beget a son like himself!
+Tydeus was small in body, but a fighter.
+When I forbade him to fight, or burst into the tumult,
+and he came as messenger to Thebes among the Cadmeans,
+I told him to feast quietly within the halls.
+Yet his strong spirit challenged the young men
+and defeated them all, for I stood beside him.
+I stand beside and guard you also. Fight freely.
+Has long weariness weakened your limbs,
+or does fear hold you? You are no son of Tydeus,
+the battle-wise Oeneid.”
 
-Athena replied: “Diomedes, dear to my heart, fear neither Ares nor any other immortal;
-I am your defense. Drive your sure-hoofed horses straight at Ares. Strike him close;
-do not dread that mad, shifting god, who lately boasted to Hera and me that he would
-fight for the Trojans and aid the Argives, but now mingles with the Trojans and has
-forgotten his promise.” She thrust Sthenelus from the chariot and drew him back with
-her hand; he sprang away. The goddess mounted beside Diomedes, and the beech axle
-groaned beneath the weight of a god and a great man. Pallas Athena took the reins
-and drove first against Ares.
+Diomedes answered: “I know you, goddess,
+daughter of aegis-bearing Zeus, and will hide nothing.
+Neither fear nor cowardice holds me; I remember still
+the commands you gave me—not to fight the blessed gods
+openly. Yet if Aphrodite, daughter of Zeus,
+comes into battle, I may wound her with sharp bronze.
+Therefore I withdraw and bid the other Argives gather;
+I know that Ares rules the fight.”
 
-Ares was stripping the armor from huge Periphas, best of the Aetolians, when Athena
-put on the helmet of Hades that the mighty god might not see her. As soon as Ares,
-the bane of mortals, saw Diomedes, he left Periphas where he had first slain him and
-came straight against the horse-tamer. Ares thrust over the yoke and reins, eager to
-take the mortal's life; Athena caught the spear and drove it aside, so that it flew
-in vain. Diomedes then thrust with his bronze spear; Athena guided it beneath the
-belly, where the belt was fastened. He struck Ares, tore the beautiful flesh, and
-withdrew the spear. The brazen god cried as loudly as nine or ten thousand men cry
-when war's quarrel brings them together. A shudder seized Achaeans and Trojans alike.
+Athena replied: “Diomedes, dear to my heart,
+fear neither Ares nor any other immortal;
+I am your defense. Drive your sure-hoofed horses
+straight at Ares. Strike him close; do not dread
+that mad, shifting god, who lately boasted to Hera and me
+that he would fight for Troy and aid the Argives,
+but now mingles with the Trojans and forgets his promise.”
+She thrust Sthenelus from the chariot and drew him back
+with her hand; he sprang away. Then the goddess mounted
+beside Diomedes. The beech axle groaned beneath
+the weight of a god and a great man. Pallas Athena
+took the reins and drove first against Ares.
 
-As dark air appears from clouds when a hot wind rises from a stormy quarter, so
-bronze Ares appeared to Diomedes, rising among the clouds toward the broad heaven.
-Swiftly he reached Olympus, sat beside Zeus, and showed the immortal blood running
-from his wound. “Father Zeus,” he lamented, “do you not see these violent deeds?
-We gods suffer always from one another's will, bringing favor to mortal men. We all
-fight because you begot this senseless, ruinous daughter, whose mind is forever set
-on lawless deeds. The other gods in Olympus obey you and bow beneath your will, but
-you restrain her neither in word nor deed because you yourself fathered this destructive
-child. She has now driven arrogant Diomedes against the immortals: first he wounded
-Cypris at the wrist, and then rushed upon me like a god. My swift feet saved me;
-else I should have suffered long among the dreadful dead, or lived powerless beneath
-the blows of bronze.”
+Ares was stripping the armor from huge Periphas,
+best of the Aetolians, when Athena put on the helmet
+of Hades, that the mighty god might not see her.
+As soon as Ares, the bane of mortals, saw Diomedes,
+he left Periphas where he had first slain him
+and came straight against the horse-tamer.
+Ares thrust over yoke and reins, eager to take
+the mortal’s life; Athena caught the spear
+and drove it aside, so that it flew in vain.
+Diomedes thrust with his bronze spear;
+Athena guided it beneath the belly, where the belt
+was fastened. He struck Ares, tore the beautiful flesh,
+and drew the spear away. The brazen god cried
+as loudly as nine or ten thousand men cry
+when war’s quarrel brings them together;
+a shudder seized Achaeans and Trojans alike.
 
-Zeus looked at him darkly: “Do not sit beside me and whimper, you turncoat. You are
-the god I hate most among those who hold Olympus. Strife, war, and battle are always
-dear to you. You have your mother's unyielding, unmanageable temper—Hera's; even I
-can scarcely master her with words. I think her counsels have brought you this pain.
-Yet I will not endure your suffering long, for you are my child, and your mother bore
-you to me. Had you been born from another god, destructive one, you would long ago
-have been lower than the sons of Heaven.”
+As dark air appears from clouds when the hot wind rises
+from a stormy quarter, so bronze Ares appeared
+to Diomedes, rising among the clouds toward broad heaven.
+Swiftly he reached Olympus, sat beside Zeus,
+and showed the immortal blood that ran from his wound.
+“Father Zeus,” he lamented, “do you not see these deeds?
+We gods suffer always through one another’s will,
+bringing favor to mortal men. We all fight
+because you begot this senseless, ruinous daughter,
+whose mind is ever set on lawless deeds.
+The other gods in Olympus obey you and bow beneath
+your will, but you restrain her neither in word nor deed,
+because you yourself fathered this destructive child.
+She has driven arrogant Diomedes against the immortals:
+first he wounded Cypris at the wrist,
+then rushed upon me as though he were a god.
+My swift feet saved me; else I should have suffered long
+among the dreadful dead, or lived powerless beneath bronze.”
 
-He commanded Paeon to heal him. Paeon spread pain-soothing medicines upon the wound,
-and it closed at once, for Ares was not fashioned mortal. As curdling fig-juice quickly
-thickens white milk when stirred, so quickly the medicine healed the furious god.
-Hebe washed him and dressed him in shining garments; he sat beside Zeus in glory.
-Hera of Argos and Athena of Alalcomenae returned to the great house of Zeus, having
-stopped murderous Ares from his slaughter of men.
+Zeus looked at him darkly: “Do not sit beside me
+and whimper, you who turn against your own side.
+You are the god I hate most among the Olympians.
+Strife, war, and battle are always dear to you.
+You have your mother’s unyielding temper—Hera’s;
+even I can scarcely master her with words.
+I think her counsels have brought you this pain.
+Yet I will not endure your suffering long,
+for you are my child, and your mother bore you to me.
+Had you been born from another god, destructive one,
+you would long ago have been lower than the sons of Heaven.”
+
+He commanded Paeon to heal him. Paeon spread
+pain-soothing medicines upon the wound, and it closed
+at once, for Ares was not fashioned mortal.
+As curdling fig-juice quickly thickens white milk
+when stirred, so quickly the medicine healed the furious god.
+Hebe washed him and dressed him in shining garments;
+he sat beside Zeus in glory. Hera of Argos
+and Athena of Alalcomenae returned to the great house
+of Zeus, having stopped murderous Ares in his slaughter.
 
 ## Decision log
 

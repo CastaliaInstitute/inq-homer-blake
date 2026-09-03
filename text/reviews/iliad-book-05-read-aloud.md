@@ -1,6 +1,6 @@
 # Iliad Book 5 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 5.1–26  
+**Scope:** revised working passage, Iliad 5.1–909
 **Date:** 2026-09-03  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
@@ -34,6 +34,8 @@ remain pending.
 | 5.601–627 | Ajax's pity, Amphius' wealth and fate, and the failed armor-taking need to retain the battle's pressure rather than resolve into a victory tableau. | Re-lineated the two chariot deaths, Amphius' Paesus identity, the belly wound, shield defense, and forced retreat. |
 | 5.628–698 | The Tlepolemus–Sarpedon duel is a contest of inherited claims as much as a fight, and its two wounds must not be flattened into a single victor's speech. | Preserved the Heracles–Laomedon history, both taunts, the neck and thigh wounds, the dragging spear, Odysseus' hesitation, Athena's choice, and all seven Lycian names. |
 | 5.699–777 | Hector's pressure, the catalog of Argive losses, and Hera's return to battle must move from defeat into ceremonial preparation. | Preserved Sarpedon's plea, Pelagon's extraction, the six named Argive deaths, Hera's complaint, Hebe's wheels, Athena's aegis and helmet, and the Simoeis–Scamander landing. |
+| 5.778–834 | The renewed divine intervention must move from Stentor's public rebuke into Athena's private recollection of Tydeus and Diomedes' renewed courage. | Re-lineated the doves, lions and boars, Stentor's fifty-man voice, the broad shield-strap and wiped blood, Tydeus' Theban embassy, Diomedes' restraint before the gods, and Athena's command to strike Ares. |
+| 5.835–909 | The Ares encounter risks becoming prose exposition: the invisibility, the chariot mechanics, the wound, the cosmic complaint, and the abrupt healing all need audible turns. | Recast the scene in flexible blank verse, retaining Hades' helmet, Periphas, the deflected spear, the guided blow beneath the belt, the nine-or-ten-thousand-man cry, Zeus' rebuke, Paeon's medicine, Hebe's washing, and the goddesses' return. Re-collation of the revised wording remains required. |
 
 ## Gate disposition
 

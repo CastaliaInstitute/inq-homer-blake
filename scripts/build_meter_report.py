@@ -75,12 +75,12 @@ if len(rows) != 48:
     raise SystemExit(f"expected 48 books, found {len(rows)}")
 
 with OUT.open("w", newline="", encoding="utf-8") as handle:
-    writer = csv.DictWriter(handle, fieldnames=list(rows[0]))
+    writer = csv.DictWriter(handle, fieldnames=list(rows[0]), lineterminator="\n")
     writer.writeheader()
     writer.writerows(rows)
 
 with OUTLIERS.open("w", newline="", encoding="utf-8") as handle:
-    writer = csv.DictWriter(handle, fieldnames=list(outlier_rows[0]))
+    writer = csv.DictWriter(handle, fieldnames=list(outlier_rows[0]), lineterminator="\n")
     writer.writeheader()
     writer.writerows(outlier_rows)
 

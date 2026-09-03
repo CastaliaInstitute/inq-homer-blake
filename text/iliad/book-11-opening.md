@@ -166,79 +166,124 @@ Unmanned through battle, grieving for the hands
 That once had held them. There the dead lay strewn,
 More welcome to the vultures than their wives.
 
-Zeus drew Hector away from the spears, the dust, the slaughter, and the blood. But
-Agamemnon pressed hard after the Danaans, shouting and commanding them. They raced
-across the plain beside the ancient tomb of Dardanian Ilus and the fig tree, eager
-for the city; Hector followed crying out, his hands stained with blood. When they
-reached the Skaian Gates and the beech tree, the Trojans halted and gathered their
-lines, while many still fled through the middle of the plain like cattle a lion has
-terrified in the darkness; he catches one by the neck and first breaks it with his
-powerful teeth, then devours its blood and entrails. So Agamemnon pursued the last
-of them, always killing, and the Trojans fled.
+But Zeus drew Hector from the spears, the dust,
+The slaughter and the blood. Agamemnon still
+Pressed after, shouting orders to the ranks.
+They crossed the plain beside the ancient mound
+Of Ilus, Dardanus’s son, and near
+The fig tree, making for the city walls.
+Hector came crying, both his hands blood-stained.
+At last, beneath the Skaian Gates, beside
+The beech, the Trojans wheeled and formed their line;
+Yet many fled across the middle plain.
 
-When the army was about to reach the city and its steep wall, Zeus, father of men
-and gods, sat upon the heights of Ida, having come down from heaven, holding the
-thunderbolt. He sent Iris of the golden wings with a message to Hector: “Go, swift
-Iris, and tell Hector this: while he sees Agamemnon, shepherd of the people, raging
-among the foremost and cutting the ranks of men, let him withdraw and order the
-rest of the army to fight in the strong battle. But when Agamemnon is struck with
-a spear or an arrow and leaps into his horses, then I will give Hector the strength
-to kill until he reaches the well-benched ships, until the sun goes down and holy
-darkness arrives.”
+As cattle scatter when a lion springs
+Upon them in the darkness, seizes one
+By the neck, and first breaks it with his teeth,
+Then tears the blood and entrails from its body,
+So Agamemnon hunted those who lagged,
+And still he killed them as the Trojans fled.
 
-Swift, wind-footed Iris obeyed and went down from Ida to holy Ilium. She found
-Hector, son of Priam, standing among his horses and joined chariots, and spoke near
-him: “Hector, son of Priam, equal in counsel to Zeus, father Zeus sent me to tell you:
-while you see Agamemnon raging among the foremost and cutting the ranks of men,
-yield before the battle and command the rest to fight the enemy in the strong clash.
-But when he is struck with spear or arrow and leaps into his horses, then Zeus will
-give you power to kill until you reach the ships, until the sun goes down and holy
-darkness comes.”
+When now the host drew near the steep city wall,
+Zeus, father of the gods and men, had come
+Down from the sky and sat upon the heights
+Of Ida, holding thunder in his hand.
+He sent gold-winged Iris to summon Hector:
 
-Hector leapt from his chariot, shook his sharp spears, and went everywhere through
-the army urging battle, raising the hateful fight. The ranks wheeled and stood
-opposite one another, while the Argives strengthened their own lines. The battle
-was set, and Agamemnon sprang first, eager to fight far before all the rest.
+“Swift Iris, go; deliver this to Hector:
+While he beholds the shepherd Agamemnon
+Raging among the foremost, cutting down
+The ranks of men, let him withdraw and bid
+The rest stand fast within the hard-fought battle.
+But when the king is struck by spear or arrow
+And leaps among his horses, I will give
+Hector the strength to kill until he reaches
+The well-benched ships, until the sun goes down
+And holy darkness gathers over all.”
 
-Tell me now, Muses who hold the halls of Olympus, who first came against Agamemnon,
-whether Trojan or famous ally. It was Iphidamas, son of Antenor, noble and great,
-raised in fertile Thrace, mother of sheep. His mother’s father Cisseus had brought
-him up in his house when he was small; when he reached glorious manhood, Cisseus
-kept him there and gave him his daughter. After marrying her, Iphidamas came from
-the bridal chamber with fame, bringing twelve curved ships; he left them at Perkote
-and had come on foot to Ilium. He now faced Agamemnon.
+Wind-footed Iris obeyed and came to Troy.
+She found the son of Priam among the cars
+And horses joined together, and spoke near him:
 
-When they came close, Agamemnon’s spear missed and turned aside, but Iphidamas struck
-below the belt of the breastplate and leaned his weight upon the blow. The spear did
-not pierce the many-colored belt; it turned like lead against silver. Agamemnon seized
-it with his broad hand, tugged like a lion, and pulled it from Iphidamas’ grasp; then
-he struck his neck with the sword and loosened his limbs. Iphidamas fell there and
-slept the bronze sleep, far from his bride, for whom he had given much and received
-no joy: first a hundred cattle, then a thousand goats and sheep, which he promised
-to her father’s household.
+“Hector, son of Priam, equal in counsel
+To Zeus, your father sends this word: while still
+You see the son of Atreus raging forth
+And cutting men, give ground before him; order
+The army’s rest to meet the enemy’s shock.
+But when spear or arrow strikes him, and he leaps
+Into his horses, Zeus will give you power
+To kill until you reach the ships, until
+The sun goes down and holy darkness comes.”
 
-Agamemnon stripped his armor and carried it through the Achaean crowd. But when
-Coon, eldest son of Antenor and distinguished among men, saw his brother fall, grief
-covered his eyes. He stood beside Agamemnon unseen and struck him in the middle of
-the arm below the elbow; the spear point passed through. The lord of men shuddered,
-but did not leave the battle. He rushed upon Coon with his wind-raised spear, while
-Coon dragged his brother Iphidamas by the foot and called to all the best men. As he
-dragged him beneath the bossed shield, Agamemnon struck him with the bronze spear and
-loosened his limbs; then he stood beside him and cut off his head. Thus the two sons
-of Antenor fulfilled their fate beneath the hand of the son of Atreus and entered
-the house of Hades.
+Hector sprang from his chariot, shook his spears,
+And passed through all the host, awakening
+The hateful battle. Ranks turned face to face;
+The Argives closed their own. The lines were set,
+And Agamemnon leapt before them all,
+Eager to fight in the foremost place.
 
-Agamemnon moved through the other ranks with spear, sword, and great stones, while
-the blood still rose warm from his wound. But when the wound dried and the blood
-stopped, sharp pains entered the king’s strength, like the pain a woman in labor
-feels when the daughters of Hera, the harsh birth-powers, send the cutting pangs.
-The pain entered Agamemnon’s strength. He leapt into his chariot and ordered his
-driver to take him toward the hollow ships, for his heart was troubled. He called
-aloud to the Danaans: “Friends, leaders and masters of the Argives, now defend the
-seafaring ships against this hateful battle. Zeus the counselor has not allowed me
-to fight the Trojans all day.” His driver lashed the long-maned horses; they flew
-willingly toward the ships, foam on their chests and dust beneath them, carrying
-the king away from the battle, exhausted by war.
+Tell me now, Muses, who inhabit Olympus,
+Who first came forth against the son of Atreus,
+Trojan or famous ally. Iphidamas,
+The noble son of Antenor, first stood there.
+In fertile Thrace, the mother of sheep, he grew;
+Cisseus, his mother’s father, raised him young,
+Then kept him in his house when manhood came,
+And gave to him his daughter. From her chamber
+The bridegroom came with honor, bringing twelve
+Curved ships; he left them moored at Perkote,
+And walked to Ilium. There he met the king.
+
+Their spears flew wide. Iphidamas struck below
+The breastplate’s belt and leaned his whole weight on it;
+The spear could not pass through the many-colored
+Belt, but turned back like lead against bright silver.
+Agamemnon seized it in his broad hand,
+And tugged, a lion’s strength, until it broke
+From Iphidamas. Then with the sword he struck
+His neck and loosed his limbs. Far from his bride
+He fell into the bronze sleep, without joy
+Of marriage, though he had promised for her sake
+A hundred cattle first, then countless flocks
+Of goats and sheep to fill her father’s house.
+
+The son of Atreus stripped his armor clean
+And bore it through the Achaean throng. But Coon,
+The eldest son of Antenor, saw his brother fall;
+Grief darkened both his eyes. Unseen, he came
+Beside the king and struck his arm below
+The elbow; the spear’s point passed through. The lord
+Of men shuddered, yet did not leave the fight.
+He rushed at Coon with spear aloft, while Coon
+Dragged by the foot Iphidamas, calling out
+To all the strongest. As he drew the body
+Beneath his bossed shield, Agamemnon drove
+The bronze into him, loosed his knees, and stood
+Above him, cutting off his head. So both
+The sons of Antenor fulfilled their fate
+Beneath the hand of Atreus and went down
+Into the house of Hades.
+
+Still Agamemnon moved among the ranks
+With spear and sword and stones, while warm blood rose
+From his wound. When the wound grew dry and blood
+No longer flowed, a sharper pain came on—
+As when the daughters of harsh Hera, birth’s
+Relentless powers, send cutting pangs through one
+In labor. So the pain entered the king.
+He leapt into his chariot and ordered his
+Driver to bear him to the hollow ships;
+His heart was troubled. Then he called aloud:
+
+“Friends, leaders, masters of the Argives, now
+Defend the seafaring ships against this war.
+Zeus the counselor has not allowed me
+To fight the Trojans through the whole long day.”
+
+The driver lashed the long-maned horses on;
+They flew toward the ships, foam upon their chests,
+Dust rising underneath them, bearing off
+The king, exhausted by the work of war.
 
 When Hector saw Agamemnon leaving, he called loudly to Trojans, Lycians, and Dardanians
 who fight at close quarters: “Be men, my friends, and remember your warlike strength.

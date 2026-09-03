@@ -1,6 +1,7 @@
 # Odyssey Book 21 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -15,6 +16,11 @@ bow, and is stopped by his father’s nod on the fourth attempt. The private
 recognition of Eumaeus and Philoetius then precedes the public request for the
 beggar to try, so the arrow’s passage is both a contest result and the signal to
 begin the reckoning.
+
+The postponed contest, Antinous’s threats, Penelope’s defense, Telemachus’s
+assertion of authority, the door-locking instructions, and the bow’s stringing
+were expanded into verse in this pass. The revised cadence moves from delay to
+confinement to release; it remains working evidence pending independent review.
 
 ## Beauty and cadence
 

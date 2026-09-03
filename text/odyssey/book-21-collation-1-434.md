@@ -107,49 +107,78 @@ And stood again beside their hidden king.
 
 ### Lines 221–320 — The bow requested
 
-Antinous could not bend the bow and proposed that they stop for the holy feast
-and try again at dawn, when Melanthius could bring goats for Apollo. After the
-libation, Odysseus spoke: “Let me try the polished bow among you, and learn
-whether the strength remains in my limbs after wandering and hunger.”
+Antinous could not bend the bow, and urged
+That they should leave the contest for the feast,
+And try again at dawn, when Melanthius
+Could bring the goats appointed for Apollo.
+After the libation, then the stranger spoke:
 
-The suitors feared that the beggar might string it. Antinous called him drunk,
-and recalled how wine had driven the Centaur Eurytion mad among the Lapiths,
-so that his hosts dragged him from the house and mutilated him. He threatened
-to send Odysseus to King Echetus, destroyer of men, if he succeeded. Odysseus
-answered that he did not desire to compete with younger men; they should stop
-until dawn. Eurymachus said that no man should expect to marry Penelope,
-but that they would be shamed if a wandering beggar proved stronger than they.
+“Let me attempt the polished bow among you,
+And learn if wandering and hunger have not broken
+The strength that once was mine.” The suitors feared
+The beggar might string it. Then Antinous cried:
+“You are drunk. Wine once drove Eurytion mad
+Among the Lapiths, at Pirithous’ feast;
+His hosts dragged him from the house and maimed him.
+If you succeed, I’ll send you to King Echetus,
+The destroyer of men.”
 
-Penelope defended the guest: it was not shameful that he should try, and if
-Apollo granted him victory she would clothe him and give him spear, sword,
-and sandals, sending him wherever his heart wished. Telemachus answered that
-no Achaean had more right than he to give or refuse the bow—not even those
-who ruled Ithaca and the islands toward Elis. He told his mother to return
-to her loom and spindle and leave the bow to men; in this house, he said,
-the power was his. Penelope admired the prudent word, went upstairs with
-her attendants, and wept for Odysseus until Athena sent her sweet sleep.
+But the stranger answered: “I do not desire
+To match my youth against the strength of young men;
+Let us defer the trial until dawn.”
+Eurymachus said: “No man must hope to marry
+Penelope; yet we should be shamed indeed
+If some poor wanderer proved stronger than we.”
+
+Then wise Penelope defended the guest:
+“It is no shame that he should try the bow.
+If Apollo grants him victory, I will clothe him,
+Give him a spear, a sword, and shining sandals,
+And send him where his heart desires to go.”
+
+Telemachus replied: “No Achaean here
+Has greater right than I to give or keep
+The bow—not even those who rule in Ithaca,
+Or over all the islands toward Elis.
+Go to your chamber; take your loom and spindle;
+The bow belongs to men. Within this house
+The power is mine.” Penelope admired
+The prudent word, and went upstairs with all
+Her maids, weeping for Odysseus, till Athena
+Sent sweet sleep down upon her.
 
 ### Lines 321–394 — The stranger takes the bow
 
-The suitors mocked Telemachus and the beggar. Telemachus threatened to drive
-them out with stones, wishing he were stronger than every suitor. They quieted
-their anger. Eumaeus carried the bow to Odysseus. Eurycleia barred the hall
-doors; Philoetius locked the courtyard gate and fastened the ship’s hawser
-around it.
+The suitors mocked the prince and the beggar.
+Telemachus wished his strength were greater than
+The strength of all of them, and threatened stones.
+They swallowed down their anger. Then Eumaeus
+Bore the great bow toward Odysseus; within,
+Eurycleia barred the doors of the hall,
+While loyal Philoetius locked the court
+And bound the ship’s hawser around the gate.
 
-Odysseus turned the bow in his hands and examined it everywhere, lest worms
-had eaten the horns of the absent king. The suitors mocked him: perhaps such
-a bow lay at home, or perhaps this wanderer only wished to handle one. But as
-a singer easily stretches a new cord around a lyre’s peg, so Odysseus, without
-effort, strung the great bow. He plucked the cord with his right hand; it sang
-like a swallow. The suitors’ skin changed color, and Zeus thundered as a sign.
+The king turned over in his hands the bow,
+And searched it everywhere, lest worms had eaten
+The horns of him who once had borne it. Then
+The suitors mocked: “Perhaps such bows lie waiting
+At home; perhaps this stranger only longs
+To handle what he cannot master.” But as
+A singer stretches easily the cord
+Around a lyre’s peg, so the king strung it
+Without an effort. With his right hand he plucked
+The string; it sang as a swallow sings. Their skin
+Changed color, and Zeus thundered from above.
 
-Odysseus took the single arrow lying ready beside him, drew from his stool,
-and shot. The arrow did not miss a single axe; it passed through the line
-and flew beyond. He told Telemachus that he had not missed or wearied, and
-that his strength was still firm, unlike the scorn with which the suitors
-had dishonored him. “Now is the hour to prepare the Achaeans’ supper;
-afterward there will be other sport, with song and lyre—the ornaments of a feast.”
+Beside him lay one arrow, ready set.
+He drew it from the stool, and let it fly;
+It missed not one of all the axes, but passed
+Through the whole row and sped beyond. “I have not
+Missed or grown weary,” he told Telemachus;
+“My strength is firm, though these men have dishonored
+Me with their scorn. Now is the hour to make
+The Achaeans’ supper; after that, more sport—
+The song and lyre that crown a feast.”
 
 ## Decision log
 

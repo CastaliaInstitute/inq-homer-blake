@@ -16,6 +16,11 @@ text/odyssey/book-05-collation-351-423.md.
 Lines 424–493 are recorded in
 text/odyssey/book-05-collation-424-493.md.
 
+The collation files are the line-level translation authority used for the
+accessible export and volume proof. This opening file is a compact architectural
+reading copy; it must not be treated as a substitute for the six collated units
+when reviewing omissions, additions, or meter.
+
 ## Translation
 
 The gods sat in council, and Athena spoke once more

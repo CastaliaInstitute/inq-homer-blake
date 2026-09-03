@@ -8,7 +8,7 @@ python3 scripts/build_cover_proof.py \
   --volume iliad --pages 350 \
   --output output/pdf/inq-homer-iliad-cover-design-proof.pdf
 python3 scripts/build_cover_proof.py \
-  --volume odyssey --pages 147 \
+  --volume odyssey --pages 149 \
   --output output/pdf/inq-homer-odyssey-cover-design-proof.pdf
 ```
 

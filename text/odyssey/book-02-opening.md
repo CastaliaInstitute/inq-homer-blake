@@ -335,6 +335,64 @@ So the young prince left the island. The suitors slept,
 but in their sleep they dreamed of blood and retribution.
 The sea opened before the ship, and the night was full of stars.
 
+But in the house the suitors gathered, speaking
+Among themselves. Antinous rose and said:
+“This boy has gone beyond what any man
+Expected. He has spoken boldly in the place
+Of assembly, and now he has taken ship.
+His purpose will not end in good for us.
+Before he comes with strength and calls the people,
+We must prevent him. Let us watch the strait
+Between Ithaca and Samos, where the sea
+Runs narrow. There, with our best ship, we shall wait
+And seize him on his homeward way.”
+
+Then Amphinomus, the prudent son of Nisus,
+Rose among them and spoke: “Friends, who would dare
+To kill the son of the king? The gods may hear
+Us, and the people turn against us all.
+First let us seek an omen and ask counsel.”
+So they went down toward the shore, and drew
+The swift ship out. They set the mast and sail,
+And made their meal beside the darkening sea.
+
+The herald Medon heard their words, and carried
+The news to Penelope within her chamber.
+She came down from her shining room, veiled close,
+Like Artemis, and stood before the men.
+Her handmaids followed. Then she spoke to them:
+“You suitors, who consume the house of one
+Who ruled this island, and pretend you seek
+My marriage—now you plot to kill his son!
+Have you no fear of the immortal gods,
+Who see the violence you devise, and may
+Turn all its sorrow back upon your heads?”
+
+The suitors sat in silence. Then Eurymachus
+Answered: “Lady, let your heart not waste itself.
+No man alive can harm Telemachus.
+He is the son of kings.” But these were words
+To soothe her, while their purpose held its course.
+
+Penelope went upward once again,
+And wept for Odysseus, until gray-eyed Athena
+Cast a sweet sleep upon her lids. She sent
+The image of Iphthime, the gracious wife
+Of Echecles and sister to the queen,
+Into the chamber. The dream stood near the bed:
+“Why do you weep, dear child? The gods do not
+Permit your sorrow without end. Your son
+Will come again, for he has done no wrong.”
+Penelope answered: “I grieve for my husband,
+And for my son, who has gone out upon
+The sea, unskilled in counsel and in war,
+Whom those men hate.” The dream replied: “Take heart.
+Telemachus is guarded by a god.
+No power can keep him from the home he seeks.”
+Then the dream passed through the ivory gate;
+The queen awoke, and felt a quiet joy,
+While on the sea the ship went through the night.
+
 ## Decision log
 
 - The opening gives Telemachus a public body—dress, scepter, seat, hounds—

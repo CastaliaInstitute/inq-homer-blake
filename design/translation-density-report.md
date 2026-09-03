@@ -29,7 +29,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | iliad | 23 | review | 897 | 8814 | 9.83 | screen-pass |
 | iliad | 24 | review | 804 | 8381 | 10.42 | screen-pass |
 | odyssey | 1 | review | 444 | 2675 | 6.02 | screen-pass |
-| odyssey | 2 | review | 434 | 1845 | 4.25 | hold |
+| odyssey | 2 | review | 434 | 2278 | 5.25 | screen-pass |
 | odyssey | 3 | review | 497 | 1656 | 3.33 | hold |
 | odyssey | 4 | review | 847 | 1230 | 1.45 | hold |
 | odyssey | 5 | review | 493 | 1230 | 2.49 | hold |
@@ -53,4 +53,4 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 23 | review | 372 | 1178 | 3.17 | hold |
 | odyssey | 24 | review | 548 | 1643 | 3.00 | hold |
 
-**Current holds:** 19 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.
+**Current holds:** 18 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.

@@ -10,28 +10,49 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ### Lines 1–80 — The bow brought forth
 
-Athena placed the thought in Penelope’s mind to bring out Odysseus’ gray bow
-and the polished iron axes—the contest, and the beginning of death. Penelope
-climbed to the storeroom, where the king’s gold, bronze, and laboring iron lay.
-The curved bow and arrow-filled quiver had been given by Iphitus, whom
-Odysseus met in Messenia. Iphitus sought twelve mares and mules that had been
-lost; Heracles killed him in his own house, forgetting Zeus’s guest-law and
-table, and kept the horses. Before that death Iphitus gave Odysseus the bow;
-Odysseus returned sword and spear, the beginning of their guest-friendship.
-He kept the bow at home as his friend’s memorial and never carried it to war.
+Athena breathed the thought into Penelope’s mind:
+“Bring forth the bow, and with it bring the axes—
+The contest and the beginning of death.” She climbed
+The stair to the chamber where the treasures lay,
+Gold, bronze, and iron fashioned by the hands of men.
+There, bent and polished, rested the great bow,
+And there the quiver held its arrows, groaning softly.
 
-Penelope opened the storeroom with its bronze key and ivory handle. The doors
-roared like a bull grazing in a meadow. She climbed the raised threshold,
-reached from its peg the bow and shining quiver, and sat with them upon her
-knees, weeping. When she had exhausted her lament, she carried the bow and
-arrows to the suitors; attendants bore the chest of iron and bronze prizes.
-She stood beside the roof’s supporting post, with a trusted maid on either side.
+Iphitus had given it, met by Odysseus
+In Messenia. Iphitus sought twelve mares,
+And twelve strong mules, that had been stolen from him;
+But Heracles, forgetting Zeus’s guest-right,
+And the table where a guest is held inviolate,
+Killed him within his own house and kept the horses.
+Before that darkness fell, Iphitus placed the bow
+In Odysseus’ hands. The king returned a sword
+And spear, the first beginning of their friendship.
+He left the bow at home, a faithful token,
+And never bore it with him to the war at Troy.
 
-“You have consumed the house of a man gone long away,” she said, “and no other
-excuse could restrain you. Here is the contest: whoever strings the great bow
-of Odysseus most easily and sends an arrow through all twelve axes shall have
-me. I will leave this house, beautiful and rich, which I think I shall remember
-even in dreams.”
+Penelope’s hand unlocked the storeroom door;
+The bronze key, with its ivory handle, turned.
+The doors cried out, as a meadow-bull cries aloud
+When he is loosed from grazing. She stepped upon
+The raised threshold, reached upward, took the bow
+Down from its peg, and with the quiver sat,
+Weeping, across her knees. When she had spent
+The whole measure of her lament, she went
+Among the suitors, carrying bow and arrows;
+Her maids bore forth the chest where iron lay,
+And bronze, the prizes of the coming trial.
+Beside the roof’s supporting pillar she stood,
+The shining veil before her face, and either side
+A trusted maid attended her.
+
+“You have consumed the house of one long gone,”
+She said, “and no other excuse can hold you back.
+So now this contest: whoever strings the bow
+Of godlike Odysseus with the lightest hand,
+And sends an arrow through the twelve axes set,
+Shall have me. I will leave this lovely house,
+Rich as it is, and think of it hereafter,
+Even in dreams, remembering what I lost.”
 
 ### Lines 81–143 — Telemachus sets the axes
 

@@ -1,7 +1,7 @@
 # Provisional architecture page map
 
 `architecture-page-map.csv` is a complete page-by-page traceability map for the
-currently rendered comic-size volume proofs. It accounts for the 372-page
+currently rendered comic-size volume proofs. It accounts for the 381-page
 Iliad proof and the 244-page Odyssey proof, including title matter, forwards,
 book openers, verse pages, and concept-review plates.
 

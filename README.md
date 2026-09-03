@@ -58,7 +58,7 @@ commissioned artwork; these remain placeholders until exact line ranges,
 provenance, rights, and print masters are locked.
 
 Translation status is governed by the [review gates](text/review-gates.md);
-the Book 1 openings are intentionally marked as first-pass drafts.
+Books 1 and 19–24 are currently in review; Books 2–18 remain working drafts.
 
 The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status

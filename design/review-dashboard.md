@@ -101,7 +101,9 @@ pending.
 Book 15 packets are now present for both epics; Iliad Book 15 has received a
 divine-command and ship-front read-aloud/fidelity review log, and both books’
 gates remain pending.
-Book 16 packets are now present for both epics, and their gates remain pending.
+Book 16 packets are now present for both epics; Iliad Book 16 has received a
+Patroclus-and-armor read-aloud/fidelity review log, and both books’ gates remain
+pending.
 Book 17 packets are now present for both epics, and their gates remain pending.
 Book 18 packets are now present for both epics, and their gates remain pending.
 Book 19 packets are now present for both epics, and their gates remain pending.

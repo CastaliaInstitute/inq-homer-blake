@@ -217,93 +217,110 @@ Other men shuddered; these were dear to me.
 Each heart finds joy in its appointed task;
 Mine found its joy in war.”
 
-“Before Troy the Achaeans came, I had led nine ships;
-I was chosen commander. We sailed for Troy, and I was there
-With all the host. Yet now no one remembers me.
-I had heard that Troy had fallen, and then returned home.
-But the gods sent further suffering. My three sons died,
-And my wife was carried off by a wasting sickness.
+“Before Troy the Achaeans came, and I
+Led nine dark ships; they chose me for their captain.
+We sailed to Ilium, and I was there
+Among the host. Yet now my name is lost.
+I heard that Troy had fallen, and came home;
+But the gods laid more suffering upon me:
+My three sons died, and a wasting sickness
+Carried my wife away from me.
 
-“Still my heart urged me toward war. I gathered men and ships,
-And sailed with them to Egypt. There we moored by the river-mouth,
-And told my companions to remain with the ships and keep watch,
-While scouts went out to examine the land. But the men, ruled by pride,
-Went up at once and began to plunder the fields, drove off the cattle,
-And carried away the women and little children. Their outcry reached
-The city. At dawn the Egyptians came, bringing chariots and horses.
-They filled the plain, and Zeus struck fear into my men.
+“Still my heart was turned again toward war.
+I gathered men and ships, and sailed for Egypt.
+We moored beside the river’s mouths, and told
+Our men to keep the ships while scouts went forth
+To learn the country. But the men, ruled by pride,
+Went up at once and plundered all the fields;
+They drove away the cattle, carried off
+The women and the little children. Their cry
+Rose to the city. With the dawn the Egyptians
+Came in their chariots, horses filling all
+The plain, and Zeus put panic in our hearts.
 
-“No one could stand. They killed many, and took the rest alive.
-Then one of my men, who had been my herald, came to me,
-Kneeling and clasping my knees: ‘Save yourself,’ he said,
-‘or die here. Let your heart remember Zeus, for he hates
-The works of evil.’ I cast away my helmet, shield, and spear,
-Ran to the king's chariot, and knelt before him.
-He spared me, and led me into his house, weeping.
-Many Egyptians rushed at me with spears to kill me,
-But he held them back, fearing the anger of Zeus, who most of all
-Rebukes the evil deeds done against a guest.
+“No man could stand. They killed us and took many
+Alive. Then one who had been my herald came,
+Clasped my knees, and said: ‘Save yourself, or die!
+Remember Zeus, who hates the works of evil.’
+I cast away my helmet, shield, and spear,
+Ran to the king’s chariot, and knelt down.
+He spared me, led me weeping to his house;
+And when the Egyptians rushed upon me, armed,
+He held them back, fearing the anger of Zeus,
+Who most rebukes the wrong done to a guest.
 
-“There I remained seven years, and gathered much wealth;
-Every Egyptian gave me something. But when the eighth year came,
-A Phoenician arrived, a deceitful man and a greedy trader,
-Who had already done much harm to men. He persuaded me,
-And I went with him to Phoenicia, where his house and possessions lay.
-I stayed there a full year. When the months and days were complete,
-He put me aboard a seafaring ship, pretending to sail for Libya;
-He planned to make me carry his cargo and then sell me there.
-Though I suspected him, necessity made me follow.
+“Seven full years I stayed there, gathering wealth;
+The Egyptians gave me gifts. But in the eighth
+A Phoenician came, a deceitful trader,
+Greedy, and practiced in much harm to men.
+He won me over, and I went with him
+To Phoenicia, where his house and possessions lay.
+There I remained a year. When all the days
+Had run their course, he put me on a ship,
+Pretending that he sailed to Libya; there
+He meant to sell me with his goods. I knew
+His purpose, but necessity compelled me.
 
-“The ship ran before the North Wind, high and fair, past Crete.
-But Zeus planned their destruction. When we were off the southern coast,
-The lightning-bearer snapped the mast with a thunderbolt.
-The mast fell and struck the steersman; he plunged like a diver.
-Zeus hurled the thunderbolt into the ship; she shook from end to end.
-The sailors fell into the sea. Around the wreck they were like crows;
-The god denied them the return.
+“The ship ran swiftly before the North Wind, past
+The southern shore of Crete. But Zeus, who bears
+The thunderbolt, had marked them for destruction.
+When we were out at sea, he split the mast;
+It fell and struck the steersman, who plunged down
+Like a diver. Then Zeus hurled fire into
+The ship; she shook from end to end, and all
+The sailors fell like crows about the wreck.
 
-“I stood upon the deck until the ship split beneath me.
-The wind tore the mast from the keel; the sail and yard were still attached.
-I bound myself to them, and the storm drove me through the night.
-At dawn I came to the boundary of Crete, where the waves broke.
-I swam around the rocks, and climbed up beneath a rough cliff,
-While the great wave struck me again. I turned inland,
-Far from the surf, and made my way along a wooded valley.
-There I lay, hidden beneath the leaves; the gods led me to a place
-Where I could still live.
+“I stayed upon the deck until the ship
+Was broken. Wind tore mast and keel apart,
+Yet sail and yard were fastened to the mast.
+I bound myself to these, and through the night
+The storm drove me. At dawn I reached the shore
+Of Crete, where waves broke hard. I swam around
+The rocks, climbed under a rough cliff, and turned
+Inland, beyond the surf, through a wooded valley.
+There, hidden in the leaves, I lay; the gods
+Had led me to a place where I might live.
 
-“All night I lay, and Dawn rose upon me. I looked toward the sea,
-And saw a ship drawn upon the shore, and men beside it.
-I crawled toward them, exhausted; they found me, and gave me food.
-They led me aboard, and took me to Thesprotis. The king, Pheidon,
-Received me without price. His son lifted me, worn out by hunger,
-And brought me into his father's house; they clothed me in tunic and cloak.
+“All night I lay there. When the Dawn arose,
+I looked toward the sea and saw a ship
+Drawn up upon the shore. I crawled to the men,
+Exhausted; they gave food, and took me aboard,
+And brought me to Thesprotis. King Pheidon
+Received me freely; his son, seeing me worn
+With hunger, carried me into his father’s house.
+They clothed me in a tunic and a cloak.
 
-“There I heard of Odysseus. The king said he had welcomed him
-As he traveled toward his native land, and showed me the treasure
-He had gathered: bronze, gold, and wrought iron—such wealth
-That another man could have fed his house for ten generations.
-He said Odysseus had gone to Dodona, to hear from Zeus's tall oak
-How he should return to rich Ithaca, openly or in secret,
-After so long an absence. He swore to me, pouring wine in his house,
-That the ship was ready and the companions prepared to send him home.
+“There I heard of Odysseus. The king said
+He had received him traveling toward his home,
+And showed me all the treasure he had gathered—
+Bronze, gold, and wrought iron—wealth enough to feed
+Another household for ten generations.
+He said Odysseus had gone to Dodona,
+To hear from Zeus’s tall oak how he should come
+To rich Ithaca, in the open or by stealth,
+After so long an absence. Pouring wine,
+He swore the ship was ready, and the men
+Prepared to send him home.
 
-“But he sent me away first. A Thesprotian ship happened to be sailing
-Toward Dulichium, rich in grain, and he ordered its men to deliver me
-To King Acastus. They planned evil in their hearts, that I might fall
-Into still deeper misery. When the ship was far from shore,
-They stripped off my cloak and tunic and threw around me these rags,
-Which you see. At evening they reached well-watered Ithaca.
-They bound me firmly to the ship beneath the thwarts,
-And went ashore to eat supper by the sea. But the gods themselves
-Loosed my bonds easily. I covered my head with a rag,
-Slid down the smooth rudder, and entered the sea breast-first;
-Swimming with both hands, I was soon beyond their sight.
-I climbed where a flowering woodland stood, and lay there crouched.
-They groaned and searched, but judged it useless to look farther;
-They returned to the hollow ship. The gods concealed me easily,
-And brought me to the hut of a man who understands his work;
-For the measure of my life is not yet complete.”
+“But first he sent me off. A Thesprotian ship
+Was sailing toward Dulichium, rich in grain;
+He ordered them to take me to King Acastus.
+They meant me harm, that I might sink still deeper
+Into misfortune. When we were far from shore,
+They stripped my cloak and tunic, threw these rags
+About me, and at evening reached the coast
+Of well-watered Ithaca. They bound me fast
+Beneath the thwarts, then went ashore to eat.
+But the gods loosed my bonds with little effort.
+I covered up my head, slid down the smooth
+Rudder, and entered the sea breast-first.
+Swimming with both hands, I soon was hidden
+From them. I climbed where a flowering wood
+Stood thick, and crouched there. They groaned and searched,
+Then judged it useless, and returned aboard.
+The gods concealed me easily, and brought me
+To this hut of a man who knows his work;
+My measure of living is not yet fulfilled.”
 
 ### Lines 360–417 — Eumaeus refuses the promise
 

@@ -22,7 +22,9 @@ Hermes, the Guide, the Slayer of Argus, summoned
 The souls of all the suitors from the house.
 His golden wand could close the eyes of men,
 Or wake them, whomsoever he desired;
-With it he drove the shadows down the dank roads.
+With it he drove the shadows down the dank roads;
+The shades gave a thin, bat-like cry, and followed,
+As birds fly home when evening folds the hills.
 
 They passed the streams of Ocean, the white rock,
 The Gates of the Sun, and the people of dreams,
@@ -32,6 +34,10 @@ There they found Achilles, son of Peleus,
 Patroclus, Antilochus, and Ajax,
 Fairest and strongest of the Danaans all,
 After the great Achilles.
+The meadow held the images of men,
+Not bodies, but the memory of their breath;
+And Hermes urged the newly dead onward,
+Past the pale landmarks of the sunless world.
 
 Then Agamemnon’s shade drew near to them,
 Still grieving for the men who died with him
@@ -163,7 +169,9 @@ And stood together, waiting for the storm.
 
 The tidings flew throughout the island. Kin
 Of the dead suitors bore their bodies forth,
-And buried them with lamentation. Then
+And buried them with lamentation: wives
+And fathers cut their hair and raised the cry.
+Then
 In the assembly-place they met, their sons
 And brothers mourned. Eupeithes rose among them,
 Antinous’ father, grief burning in his heart:
@@ -236,7 +244,9 @@ Down to the earth.
 Odysseus and his friends put on their arms.
 Laertes prayed to Pallas; through his limbs
 The goddess poured new strength and youthful courage.
-The two lines met before the farm. Eupeithes
+His knees, once slack with age, grew firm beneath him;
+His hands remembered spear and shield. The two lines
+Met before the farm. Eupeithes
 Lifted his spear; but ere he cast it forth,
 Laertes struck him in the space between
 The eyes. The helmet rang; the old man fell.

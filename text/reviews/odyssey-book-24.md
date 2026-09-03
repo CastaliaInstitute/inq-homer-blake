@@ -50,3 +50,12 @@ it by force.
 The book remains an editorial hold. The underworld opening and the final
 assembly need a separate read-aloud pass for tonal balance: the poem must move
 from elegy to civic danger without making the peace feel mechanically imposed.
+
+## Critical expansion — 2026-09-03
+
+The revision restores the shades’ eerie movement through the landmarks of the
+underworld, the public mourning that precedes the assembly, and the physical
+change Athena gives Laertes before the lines meet. These additions increase
+scale and civic consequence while remaining within Book 24; they do not turn
+the ending into an unearned triumph. The language should still receive a
+human cadence pass before promotion beyond concept-level translation.

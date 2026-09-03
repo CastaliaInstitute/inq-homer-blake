@@ -38,6 +38,10 @@ transformation needs a stark, unsentimental cadence.
   stone looms stand in its shadow, where / The nymphs weave robes of purple as
   the sea,” restoring both the material object and the color image while keeping
   the compact couplet-like movement.
+- **13.188–190, fidelity and diction:** “His wife and people” was too vague for
+  Athena’s deliberate concealment from Penelope and the Ithacans. It is now
+  “His wife and all the townsmen,” preserving the domestic and civic scope of
+  the concealment without adding modern social terminology.
 
 These are translator revisions, not independent approval. A named Greek-fidelity
 reviewer must still compare the full passage against the pinned source.

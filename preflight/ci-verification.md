@@ -8,12 +8,15 @@ coverage check, read-aloud coverage check, source-lock check, translation
 structure check, PDF geometry/layout checks, accessible-export check, and
 resolution/status preflight.
 
-## Verified run
+## Reference verified run
 
-- Commit: `478d436`
+- Commit: `814ec49`
 - Result: success
-- Run: [GitHub Actions run 33743797749](https://github.com/CastaliaInstitute/inq-homer-blake/actions/runs/33743797749)
+- Run: [GitHub Actions run 33758774225](https://github.com/CastaliaInstitute/inq-homer-blake/actions/runs/33758774225)
 - Verified: 2026-09-03
+
+This is a reference run, not a substitute for checking the workflow attached to
+the current commit; GitHub Actions runs again on every push and pull request.
 
 The workflow's success proves the repository controls are executable in the
 macOS CI environment. It does not certify the literary quality of drafts, the

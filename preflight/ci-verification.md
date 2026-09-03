@@ -10,9 +10,9 @@ resolution/status preflight.
 
 ## Verified run
 
-- Commit: `10dcafc`
+- Commit: `478d436`
 - Result: success
-- Run: [GitHub Actions run 33723131558](https://github.com/CastaliaInstitute/inq-homer-blake/actions/runs/33723131558)
+- Run: [GitHub Actions run 33743797749](https://github.com/CastaliaInstitute/inq-homer-blake/actions/runs/33743797749)
 - Verified: 2026-09-03
 
 The workflow's success proves the repository controls are executable in the

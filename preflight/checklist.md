@@ -20,6 +20,8 @@
       `scripts/preflight_pdfs.py`; release PDFs additionally require embedded fonts.
 - [x] Representative two-column pages are checked by
       `scripts/preflight_layout.py`.
+- [x] Provisional accessible exports are checked by
+      `scripts/preflight_text_exports.py`.
 - [ ] A rendered proof has been reviewed at 100% and on paper.
 - [ ] Literary, art-historical, attribution, and production sign-offs are
       recorded before release.

@@ -83,6 +83,9 @@ replace stress analysis or a human read-aloud.
 The same command writes a complete [`meter-outliers.csv`](text/meter-outliers.csv)
 log for line-level follow-up.
 
+`python3 scripts/preflight_text_exports.py` verifies the structure of both
+provisional accessible text exports before handoff.
+
 Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
 [*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions
 behind the current drafts.

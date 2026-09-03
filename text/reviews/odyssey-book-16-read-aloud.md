@@ -1,6 +1,7 @@
 # Odyssey Book 16 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -22,7 +23,10 @@ The scene should move from domestic tenderness to compressed military planning.
 The bird-of-prey comparison for the father and son’s weeping needs emotional
 force without becoming ornamental; the later count of suitors should sound like
 an inventory that makes the danger measurable. The return to Eumaeus’s hut at
-night restores the book’s quiet register.
+night restores the book’s quiet register. The ship’s return, the suitors’ plot,
+Penelope’s rebuke, and Eurymachus’s false reassurance were expanded into verse
+in this pass; the working text still awaits independent Greek-fidelity and
+read-aloud review.
 
 ## Open decisions
 

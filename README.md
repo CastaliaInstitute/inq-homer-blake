@@ -74,6 +74,14 @@ appropriate unresolved-review warning.
 editorial packets exist and that each packet's source-map intervals are
 contiguous through its canonical Greek endpoint.
 
+`ruby scripts/preflight_read_aloud.rb` verifies that all forty-eight books have
+an explicitly non-final read-aloud/fidelity review record with human review
+held open.
+
+`ruby scripts/preflight_illustration_placeholders.rb` verifies that all forty-
+eight book slots have unique prompts, exact canonical source ranges, and
+provenance direction before any candidate is promoted to final art.
+
 `python3 scripts/preflight_layout.py` verifies the comic-size proof geometry
 and confirms that representative rendered pages contain text in both columns.
 

@@ -7,6 +7,8 @@
 - [ ] Images are high resolution, embedded, and converted to the approved
       print color profile.
 - [ ] Every historical and generated plate has a manifest record and caption.
+- [x] All 48 illustration placeholder slots have unique source-ranged prompts,
+      checked by `scripts/preflight_illustration_placeholders.rb`.
 - [ ] Manifest records identify source type, provenance, rights, file, credit,
       and review status.
 - [ ] `scripts/validate_manifests.sh` and `scripts/preflight_assets.rb` pass.
@@ -20,6 +22,8 @@
       `scripts/preflight_pdfs.py`; release PDFs additionally require embedded fonts.
 - [x] Representative two-column pages are checked by
       `scripts/preflight_layout.py`.
+- [x] All 48 book-level read-aloud review records are present and explicitly
+      non-final, checked by `scripts/preflight_read_aloud.rb`.
 - [x] Provisional accessible exports are checked by
       `scripts/preflight_text_exports.py`.
 - [ ] A rendered proof has been reviewed at 100% and on paper.

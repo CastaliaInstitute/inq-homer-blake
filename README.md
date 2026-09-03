@@ -73,6 +73,11 @@ All 48 books are currently in review; all six review gates remain pending for ev
 The current approval evidence and remaining review work are summarized in the
 [translation review dashboard](design/review-dashboard.md).
 
+The physical-edition handoff is controlled by the [comic-size production
+checklist](design/comic-size-production-checklist.md), which keeps the
+6.625 × 10.25 inch target distinct from final printer-template and proof
+approval.
+
 The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status
 auditable.

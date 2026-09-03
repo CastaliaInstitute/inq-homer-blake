@@ -1,6 +1,6 @@
 # Iliad Book 4 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 4.1–170  
+**Scope:** revised working passage, Iliad 4.1–230  
 **Date:** 2026-09-02  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
@@ -22,6 +22,7 @@ sign-off remain pending.
 | 4.105–126 | The bow's construction and shooting action can become a technical list. | Kept the wild-goat horn, sixteen palms, horn-worker, shield cover, arrow, vow, and bowstring sounds as separate physical beats. |
 | 4.127–147 | Athena's redirection of the arrow and the blood simile carry dense armor terminology. | Preserved the belt, corselet, guard, graze, dark blood, and Maeonian/Carian ivory image while shortening the syntax. |
 | 4.148–170 | Agamemnon's grief joins the oath's blood, Zeus's future punishment, and Machaon's practical care. | Re-lineated the lament and treatment while preserving the prophecy, named healer, wound materials, and Cheiron's medicine. |
+| 4.171–230 | Agamemnon's exhortations shift between promise, rebuke, Cretan fellowship, and tactical speech. | Re-lineated the ranks, the oath's consequences, Idomeneus's response, and the contrast between courage and retreat. |
 
 ## Gate disposition
 

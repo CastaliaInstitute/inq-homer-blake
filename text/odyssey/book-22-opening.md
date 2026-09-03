@@ -4,6 +4,9 @@
 **Status:** First-pass literary draft; source-collated; not yet approved for layout.
 **Source-collated authority:** [Book 22, lines 1–501](book-22-collation-1-501.md)
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
@@ -84,7 +87,11 @@ they fled through the hall like cattle before a gadfly, while the allies struck
 them from every side. Agelaus urged escape through the passage and a call
 to the town, but Odysseus shot him through the throat. The bodies lay in blood
 and dust like fish drawn from the gray sea upon the shore. Odysseus searched
-the house for any living enemy; all had fallen.
+the house for any living enemy; all had fallen. Leiodes, the sacrificial seer,
+clasped Odysseus’s knees and said that he had never spoken or done outrage in
+the house, and had tried to restrain the others. Odysseus answered that he had
+poured wine for them and shared their feast; no one among the suitors was
+innocent. He killed him.
 
 Telemachus asked what first should be done. Odysseus told him to fetch
 Eurycleia while he and the herdsmen cleared the hall. The singer Phemius,

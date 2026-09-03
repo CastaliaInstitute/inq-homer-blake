@@ -2,7 +2,7 @@
 
 **Source passage:** Book 11, lines 1–848 (complete working-book draft)
 
-**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 
 **Source-collated authority:** [Book 11, lines 1–209](book-11-collation-1-209.md),
 [210–303](book-11-collation-210-303.md), [304–482](book-11-collation-304-482.md),

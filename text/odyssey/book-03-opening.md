@@ -21,7 +21,7 @@ shining upon the fields and on the walls of Pylos.
 Telemachus and his companions drew near the shore,
 where Nestor's people were sacrificing black bulls
 to the dark-haired lord of the sea. Nine companies sat there,
-five hundred men in each, and nine bulls lay ready.
+five hundred men in each, and nine bulls stood ready for each.
 
 Peisistratus saw the strangers first. Nestor's son came near,
 and took them by the hand, inviting them to the feast.

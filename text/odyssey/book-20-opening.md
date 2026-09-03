@@ -149,6 +149,25 @@ While you remain, the king shall come again,
 And with your eyes you shall behold these men
 Destroyed.” The swineherd prayed the word might stand.
 
+Then Philoetius came, bringing a barren cow
+And fat goats; ferrymen had borne them over.
+He asked Eumaeus, “Who is this stranger? He
+Has the look of one who might have ruled a house.
+May fortune bring our lord home again; I grieve
+To think of brave Odysseus, for when I was
+Still young he set me over all his cattle.
+Now they are numberless; yet those who eat
+His goods command me, ‘Bring the beasts, that we
+May feast on them.’ They have no fear of gods,
+Nor any care for wise Telemachus; already
+They divide the absent master’s wealth. I would
+Have fled to serve another king, but still I hope
+He will return and scatter all these men.”
+Then, by the guest-table and the hearth, Odysseus
+Swore that the king would come, and Philoetius
+Would see the suitors fall. The herdsman prayed
+That this might be fulfilled.
+
 Then Melanthius, the goatherd, came, and brought
 The finest goats among the herd for slaughter.
 He tethered them, and mocked the beggar: “Why
@@ -162,8 +181,10 @@ His head, and hid the evil in his thought.
 
 The suitors plotted death for Telemachus,
 When on their left an eagle swept above,
-And bore a trembling dove. Amphinomus
-Remembered then the feast, and led them in.
+And bore a trembling dove. Amphinomus said:
+“Friends, this design will not go forward—the death
+Of Telemachus. Let us remember the feast.”
+Then he led them in.
 They sacrificed the sheep, the fattened goats,
 The pigs, the cow; they roasted all the inward
 Parts, mixed wine, and divided out the meal.

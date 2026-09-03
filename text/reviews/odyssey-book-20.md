@@ -7,6 +7,16 @@
 
 This packet records source coverage; it is not approval evidence.
 
+## Current revision note
+
+The working pass now restores the fuller Philoetius exchange: his arrival
+with the barren cow and fat goats, his grief for Odysseus, the suitors'
+division of the absent king's herds, and his hope of return. It also restores
+Amphinomus's explicit judgment that the plot against Telemachus will fail.
+These additions were checked against Odyssey 20.185–240 and 20.245–250 in
+the pinned Greek source; independent literary and Greek-fidelity review remain
+open.
+
 ## Source-map register
 
 | Greek span | Collation authority |

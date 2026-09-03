@@ -186,13 +186,47 @@ Beneath his rags and turned again toward the fire.
 
 ### Lines 508–604 — The nightingale, the dream, and the bow
 
-Penelope spoke of her sleepless grief. By day she worked and watched the women; by night sharp cares stirred her heart. Like the green nightingale, daughter of Pandareus, mourning Itylus, her spirit was divided: should she remain with her son and guard the house, or follow the best Achaean who brought the richest gifts?
+Then Penelope spoke of the sleepless nights:
+“By day I work, and watch the women here;
+But when the darkness comes, sharp cares awake me.
+My heart is like the green nightingale’s,
+The daughter of Pandareus, who mourned Itylus;
+It sings, yet grieves. Shall I remain beside
+My son, and guard the house that is my own?
+Or follow the best Achaean, if he brings
+The richest gifts, and leaves me?”
 
-She told her dream: twenty geese ate wheat from water; a great eagle came from the mountain, broke their necks, and rose into the clear air. In a human voice it called the vision waking truth: the geese were the suitors, and the eagle, once Odysseus, was now her husband returned to bring them doom. Odysseus said the dream admitted no other reading. Penelope answered that dreams have two gates, horn and ivory: ivory dreams deceive, while horn dreams come true. She doubted that her terrible dream had come through the true gate.
+She told the dream: “I saw twenty geese come forth
+From water, and eat wheat within the house.
+Then from the mountain came a great-winged eagle;
+He broke their necks, and rose into the clear air.
+The geese lay scattered. Then the eagle spoke
+With human voice: ‘This is no dream, but waking truth.
+The geese are those men; the eagle was your husband,
+Who has returned, and brings their final doom.’”
 
-At dawn, she said, she would set twelve axes in a row, as stakes. Whoever could string Odysseus’s polished bow and send an arrow through all twelve would become her husband; she would leave the beautiful, wealthy house, though she thought she would remember it even in dreams. Odysseus replied that she should not delay: before the suitors touched or strung the bow, Odysseus would be home.
+Odysseus answered, “There is no other meaning.”
+But she replied, “Dreams have two gates: one gate
+Of ivory, and one of polished horn.
+The dreams that pass through ivory deceive;
+Those that come through horn are fulfilled. I fear
+That this harsh dream has come by ivory.”
 
-Penelope said that sleep is a portion appointed to mortals, and went upstairs with her attendants to her tearful bed. She wept for Odysseus until bright-eyed Athena poured sweet sleep upon her eyelids.
+“At dawn,” she said, “I will set out twelve axes,
+Like stakes, in one straight row. Whoever strings
+The bow of godlike Odysseus with ease,
+And sends an arrow through them all, shall have me.
+I will depart from this beautiful house,
+So wealthy, which I think I shall remember
+Even in dreams.” The king replied, “Do not delay.
+Before the suitors touch or string the bow,
+Odysseus will be home.”
+
+“Sleep is a portion appointed for mankind,”
+She said, and climbed the stair with her attendants
+Toward her bed of tears. There she lamented
+Odysseus, till Athena, bright-eyed goddess,
+Poured sweet sleep upon her eyelids.
 
 ## Decision log
 

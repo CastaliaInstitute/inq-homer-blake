@@ -1,11 +1,12 @@
 # Iliad Book 4 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 4.1–60  
+**Scope:** revised working passage, Iliad 4.1–96  
 **Date:** 2026-09-02  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
 
-The opening divine council has been re-lineated toward a grave, processional
+The opening council and Athena's descent have been re-lineated toward a grave,
+processional
 blank-verse movement. The revision retains Hebe, the golden cups, the opposed
 goddesses, Zeus's threat against the cities of Hera, Hera's reply, and the
 proposed renewal of the oath-breaking war. It is a cadence pass only;
@@ -17,6 +18,7 @@ sign-off remain pending.
 | 4.1–12 | The council and Zeus's provocation were compressed into prose-length lines. | Restored the council's ceremonial opening and separated the two goddesses' claims. |
 | 4.13–29 | Hera's reply carries labor, marriage, and the proposed test of the oath. | Re-lineated the speech into measured clauses while retaining the divine titles and political stakes. |
 | 4.30–60 | Zeus's reply and Hera's counterproposal carry a long exchange of threat, allegiance, and ritual strategy. | Broke the speeches into processional units while retaining Ilium, Hera's three cities, and the oath-breaking test. |
+| 4.61–96 | Athena's descent and disguise set the oath's violation in motion. | Retained the star simile, the astonished armies, Laodocus, Pandarus, Apollo's vow, and the hecatomb. |
 
 ## Gate disposition
 

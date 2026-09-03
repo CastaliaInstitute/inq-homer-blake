@@ -4,6 +4,9 @@
 **Status:** First-pass literary draft; source-collated; not yet approved for layout.
 **Source-collated authority:** [Book 21, lines 1–434](book-21-collation-1-434.md)
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
@@ -13,9 +16,10 @@ Athena placed the thought in Penelope’s mind to bring Odysseus’ gray bow
 and the polished axes into the hall—the contest, and the beginning of death.
 Penelope climbed the high stair to the storeroom where the king’s treasures,
 bronze, gold, and laboring iron, lay. There the curved bow rested, and the
-quiver full of groaning arrows: a gift from Iphitus, whom she had met
-in Messenia. Odysseus had given Iphitus sword and spear in return;
-before they could share a table Heracles killed the guest, and took his horses.
+quiver full of groaning arrows: a gift from Iphitus, whom Odysseus had met
+in Messenia. Iphitus sought twelve mares and mules that had been lost;
+Heracles killed him in his own house, forgetting Zeus’s guest-law and table,
+and took the horses. Odysseus had given Iphitus sword and spear in return;
 Iphitus had given the bow that great Eurytus once bore, and Odysseus kept it
 at home, a dear guest-friend’s memorial, rather than carry it to Troy.
 
@@ -36,7 +40,9 @@ beautiful and rich, which I think I shall remember even in dreams.”
 Eumaeus received the bow in tears and set it down; the cowherd wept elsewhere
 when he saw his master’s weapon. Antinous rebuked them, saying that their
 tears disturbed the woman whose husband was lost, and that the bow would
-trouble many excellent men. Leodes, the sacrificial seer who hated the
+trouble many excellent men. Telemachus sprang up, set the twelve axes in a
+straight line, and tried three times to string the bow; on the fourth attempt
+Odysseus nodded him back. Leodes, the sacrificial seer who hated the
 suitors’ violence, tried first. He could not bend it. He said that it would
 break the hearts of many, and that dying was better than waiting here forever.
 Antinous scorned him and ordered Melanthius to light a fire, set a great chair

@@ -95,8 +95,11 @@ to reach my home and see the hour of return. If the gods
 send me another trial, I will endure it. I have suffered much.”
 
 He took the steering oar and pushed the raft out.
-For seventeen days he crossed the open water, watching
-the stars. On the eighteenth he saw the mountains of Scheria,
+For seventeen days he steered across the open water,
+watching the Pleiades, Boötes slow to set, and the Bear,
+the Wagon turning in its place; Calypso had told him
+to keep it on his left. On the eighteenth he saw
+the mountains of Scheria,
 dark as a shield upon the horizon. He was near the land
 of the Phaeacians, who lived beyond the sea's deep current.
 
@@ -169,6 +172,9 @@ to end the exhaustion, while the sea moved below the shore.
   Calypso's care and her captivity of Odysseus remain in tension.
 - Odysseus' raft-building keeps the material intelligence of the hero visible;
   survival is craft before it becomes miracle.
+- The voyage retains the Pleiades, late-sinking Boötes, and the Bear as
+  navigational particulars rather than reducing seventeen days of steering to
+  passive “watching the stars.”
 - The wreck sequence preserves competing agencies—Poseidon, Athena, Ino,
   and the river—without making the hero passive within them.
 - This draft needs Greek-fidelity review for the raft's construction, the

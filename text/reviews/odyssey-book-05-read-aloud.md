@@ -35,6 +35,10 @@ stress analysis, and human sign-off remain open.
 - Divine agency must remain layered: Zeus orders, Hermes carries the command,
   Calypso equips, Poseidon destroys, Ino rescues, Athena moderates, and the
   river receives. The verse should not collapse these into “the gods.”
+- The compact opening now names the Pleiades, late-sinking Boötes, and the Bear,
+  and states that Odysseus keeps the Bear on his left. This restores the
+  voyage’s navigational agency from the Greek collation; meter and proper-name
+  treatment remain open for the independent reader.
 
 ## Gate disposition
 

@@ -34,7 +34,11 @@ ledger.each do |record|
   abort("#{record['translation_file']} has no parseable source passage") if ranges.empty?
 
   translation = effective_translation(path, text)[/^## Translation\s*(.*?)(?=^## Decision log\b|\z)/m, 1].to_s
-  words = translation.scan(/\b[[:alpha:]][[:alpha:]’'-]*\b/).length
+  # Match translation_extract.book_translation: section labels are structural
+  # metadata, not reader-facing verse, and Python's \w includes the same
+  # Unicode letters/digits we accept here.
+  reader_text = translation.lines.reject { |line| line.start_with?("#") }.join
+  words = reader_text.scan(/\b[\p{L}\p{N}_’'-]+\b/u).length
   source_start = ranges.map { |start_line, _| start_line.to_i }.min
   source_end = ranges.map { |_, end_line| end_line.to_i }.max
   source_lines = source_end - source_start + 1

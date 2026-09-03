@@ -17,7 +17,7 @@ Work in source order within each volume. For every book, compare the expanded En
 | 9 | odyssey | 11 | 640 | 719 | 3200 | 2481 | 1.12 | `text/odyssey/book-11-opening.md` |
 | 10 | odyssey | 12 | 453 | 923 | 2265 | 1342 | 2.04 | `text/odyssey/book-12-opening.md` |
 | 11 | odyssey | 13 | 440 | 1641 | 2200 | 559 | 3.73 | `text/odyssey/book-13-opening.md` |
-| 12 | odyssey | 17 | 606 | 2935 | 3030 | 95 | 4.84 | `text/odyssey/book-17-opening.md` |
+| 12 | odyssey | 17 | 606 | 3025 | 3030 | 5 | 4.99 | `text/odyssey/book-17-opening.md` |
 | 13 | odyssey | 19 | 604 | 1632 | 3020 | 1388 | 2.70 | `text/odyssey/book-19-opening.md` |
 | 14 | odyssey | 20 | 394 | 1495 | 1970 | 475 | 3.79 | `text/odyssey/book-20-opening.md` |
 | 15 | odyssey | 21 | 434 | 1200 | 2170 | 970 | 2.76 | `text/odyssey/book-21-opening.md` |

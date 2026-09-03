@@ -278,6 +278,19 @@ Perhaps some god is in the likeness of a stranger.
 The gods take every shape and visit cities to observe
 Men’s insolence and lawfulness.”
 
+Penelope heard the sound, and from her room
+Spoke to the women: “Would that Artemis
+Or far-darting Apollo struck the man
+Who raised his footstool against that stranger here!”
+Eurynome, her steward, answered her:
+“If all our prayers could find their way to dawn,
+Not one of these men would behold the light.”
+The queen replied: “They are all enemies,
+But Antinous is blackest of them all.
+The stranger wanders through the house and begs;
+The others gave him food, but he alone
+Has answered hunger with a lifted stool.”
+
 Telemachus held great grief within him for the struck man,
 But did not let a tear fall. He bowed his head and thought evil.
 Penelope, hearing that the stranger had been struck, said:

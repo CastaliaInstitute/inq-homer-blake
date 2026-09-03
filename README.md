@@ -80,6 +80,8 @@ and confirms that representative rendered pages contain text in both columns.
 `python3 scripts/build_meter_report.py` produces a heuristic syllable-band
 screen for all 48 working books; it is explicitly screening-only and does not
 replace stress analysis or a human read-aloud.
+The same command writes a complete [`meter-outliers.csv`](text/meter-outliers.csv)
+log for line-level follow-up.
 
 Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
 [*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions

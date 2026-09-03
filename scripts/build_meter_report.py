@@ -17,6 +17,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 from build_volume_proof import book_translation  # noqa: E402
 
 OUT = ROOT / "text" / "meter-report.csv"
+OUTLIERS = ROOT / "text" / "meter-outliers.csv"
 SUMMARY = ROOT / "text" / "meter-report.md"
 
 
@@ -40,6 +41,7 @@ def score(line):
 
 
 rows = []
+outlier_rows = []
 for volume in ("iliad", "odyssey"):
     for path in sorted((ROOT / "text" / volume).glob("book-*-opening.md")):
         lines = [line for line in book_translation(path) if line.strip()]
@@ -47,6 +49,17 @@ for volume in ("iliad", "odyssey"):
         in_band = [line for line in scored if 8 <= line[1] <= 12]
         outliers = [line for line in scored if line[1] < 8 or line[1] > 12]
         book = int(path.stem.split("-")[1])
+        for line_number, (line, (word_count, syllable_count)) in enumerate(zip(lines, scored), 1):
+            if syllable_count < 8 or syllable_count > 12:
+                outlier_rows.append({
+                    "volume": volume,
+                    "book": book,
+                    "english_line": line_number,
+                    "estimated_words": word_count,
+                    "estimated_syllables": syllable_count,
+                    "text": html.unescape(line),
+                    "review_status": "unreviewed",
+                })
         rows.append({
             "volume": volume,
             "book": book,
@@ -66,6 +79,11 @@ with OUT.open("w", newline="", encoding="utf-8") as handle:
     writer.writeheader()
     writer.writerows(rows)
 
+with OUTLIERS.open("w", newline="", encoding="utf-8") as handle:
+    writer = csv.DictWriter(handle, fieldnames=list(outlier_rows[0]))
+    writer.writeheader()
+    writer.writerows(outlier_rows)
+
 with SUMMARY.open("w", encoding="utf-8") as handle:
     handle.write("# Meter screening report\n\n")
     handle.write("This report is a reproducible heuristic screen of the working verse. ")
@@ -78,8 +96,10 @@ with SUMMARY.open("w", encoding="utf-8") as handle:
         handle.write(f"| {volume.title()} | {len(subset)} | {sum(int(row['line_count']) for row in subset)} | "
                      f"{sum(int(row['syllable_band_8_12']) for row in subset)} | "
                      f"{sum(int(row['outlier_count']) for row in subset)} | screening-only |\n")
-    handle.write("\nDetailed per-book values are in [`meter-report.csv`](meter-report.csv). ")
+    handle.write("\nDetailed per-book values are in [`meter-report.csv`](meter-report.csv), and every heuristic ")
+    handle.write("exception is listed in [`meter-outliers.csv`](meter-outliers.csv) with `unreviewed` status. ")
     handle.write("Human review must inspect stress, substitutions, intentional outliers, and read-aloud revisions.\n")
 
 print(f"Wrote {OUT}")
+print(f"Wrote {OUTLIERS} ({len(outlier_rows)} outliers)")
 print(f"Wrote {SUMMARY}")

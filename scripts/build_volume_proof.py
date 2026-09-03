@@ -19,6 +19,7 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.pdfgen.canvas import Canvas
 from reportlab.platypus import BaseDocTemplate, Frame, Image, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,6 +37,14 @@ for name, filename in {
 PAGE_W, PAGE_H = 7 * inch, 10 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
 COLUMN_GUTTER = 0.24 * inch
+
+
+class DeterministicCanvas(Canvas):
+    """Make architecture proofs byte-stable across rebuilds."""
+
+    def __init__(self, *args, **kwargs):
+        kwargs["invariant"] = 1
+        super().__init__(*args, **kwargs)
 
 styles = getSampleStyleSheet()
 styles.add(ParagraphStyle(name="VolumeTitle", fontName="CormorantB", fontSize=27, leading=31,
@@ -225,7 +234,7 @@ def build(epic, title, out_name):
         if isinstance(flowable, Paragraph) and getattr(flowable, "text", "") == "BOOK 1":
             story.insert(position, NextPageTemplate("two-column"))
             break
-    doc.build(story)
+    doc.build(story, canvasmaker=DeterministicCanvas)
     print(out)
 
 

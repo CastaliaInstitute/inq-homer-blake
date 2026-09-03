@@ -31,3 +31,22 @@ Ithaca.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Critical review — 2026-09-03
+
+Book 24 has a compelling final architecture: the suitors’ shades provide a
+funeral counter-chorus; the orchard joins Laertes’ bodily decline to the
+memory of cultivation; and the last spear-thrust is interrupted before
+private vengeance becomes civil annihilation. The strongest image is the
+counted orchard—pear, apple, fig, and vine—as a ledger of a father’s gift and a
+son’s return.
+
+This pass clarifies that Medon reports the father and son fighting together.
+The translation keeps Medon and Phemius as distinct witnesses, preserves
+Halitherses’ warning that new grief cannot restore the dead, and leaves Zeus
+and Athena to impose the political settlement rather than making Odysseus win
+it by force.
+
+The book remains an editorial hold. The underworld opening and the final
+assembly need a separate read-aloud pass for tonal balance: the poem must move
+from elegy to civic danger without making the peace feel mechanically imposed.

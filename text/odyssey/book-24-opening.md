@@ -188,7 +188,7 @@ The people listened. Medon told them all
 That he had seen: the doors made fast, the bow
 Bent by the stranger, and the first man struck;
 Then how the son stood beside his father, how
-The weapons held, and how the women died
+They fought together, and how the women died
 Who had dishonored the returning king.
 Phemius, the singer, spoke of his own escape:
 He had been forced to sing before the men,

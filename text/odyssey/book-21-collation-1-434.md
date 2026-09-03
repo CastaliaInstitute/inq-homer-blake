@@ -208,7 +208,7 @@ The string; it sang as a swallow sings. Their skin
 Changed color, and Zeus thundered from above.
 
 Beside him lay one arrow, ready set.
-He drew it from the stool, and let it fly;
+He drew it from the table, and let it fly;
 It missed not one of all the axes, but passed
 Through the whole row and sped beyond. “I have not
 Missed or grown weary,” he told Telemachus;
@@ -216,6 +216,9 @@ Missed or grown weary,” he told Telemachus;
 Me with their scorn. Now is the hour to make
 The Achaeans’ supper; after that, more sport—
 The song and lyre that crown a feast.”
+Telemachus understood the sign. He girded on his sword,
+And took his spear, then stood beside his father,
+Helmeted, bright bronze burning near the throne.
 
 ## Decision log
 

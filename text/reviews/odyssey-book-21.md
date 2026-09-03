@@ -20,6 +20,8 @@ Greek-fidelity, literary, meter, notes, and production approval remain open.
 The pass also corrects a fidelity issue in the earlier draft: an invented
 “defer the trial until dawn” reply by the stranger was removed, and the
 Messenian theft and Ortilochus setting were restored from Odyssey 21.15–24.
+The closing tableau now also retains the source’s final signal: Telemachus
+girds his sword, takes his spear, and stands helmeted beside his father.
 
 ## Source-map register
 

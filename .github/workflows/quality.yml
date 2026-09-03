@@ -49,6 +49,8 @@ jobs:
         run: |
           ruby scripts/preflight_translation_density.rb
           git diff --exit-code -- design/translation-density-report.md
+          python3 scripts/build_translation_expansion_plan.py
+          git diff --exit-code -- design/translation-expansion-plan.md
       - name: Run review-packet coverage preflight
         run: ruby scripts/preflight_review_packets.rb
       - name: Run read-aloud coverage preflight

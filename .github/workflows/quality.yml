@@ -63,6 +63,8 @@ jobs:
           git diff --exit-code -- text/source-coverage.csv
       - name: Run PDF geometry preflight
         run: python3 scripts/preflight_pdfs.py
+      - name: Run cover page-count preflight
+        run: python3 scripts/preflight_cover_page_counts.py
       - name: Run two-column layout preflight
         run: python3 scripts/preflight_layout.py
       - name: Rebuild and verify architecture page map

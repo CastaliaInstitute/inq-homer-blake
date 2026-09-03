@@ -189,10 +189,15 @@ The suitors mocked the prince and the beggar; one called
 Telemachus the worst host, for keeping such a wanderer,
 Starved for bread and wine, who knew no labor or strength.
 Another urged him to send the strangers to Sicily,
-That they might profit by them. The prince wished that
+That they might profit by them. They mocked Eumaeus too:
+“Where are you carrying that curved bow, foolish swineherd?
+Soon the dogs will eat you far from men, if Apollo
+Will be gracious to us.” The prince wished that
 His strength were greater than the strength of all of them;
 He threatened to drive the mockers from the court with stones,
-And even to send one home in grief. They swallowed down
+And even to send one home in grief; if he were stronger
+Than every suitor, he would quickly make one leave
+This house, though they devised their evil here. They swallowed down
 Their anger, laughing still. Then Eumaeus bore the bow
 Toward Odysseus; within,
 Eurycleia barred the doors of the hall,

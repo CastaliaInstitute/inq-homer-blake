@@ -33,6 +33,7 @@ remain pending.
 | 5.561–600 | Menelaus and Antilochus must move from pity to recovery, then into a precise paired attack as Hector and Ares reverse the momentum. | Preserved the rescue of the dead, Pylæmenes, Mydon's reins and elbow, Hector's approach, Enyo, and Diomedes' river-flood warning. |
 | 5.601–627 | Ajax's pity, Amphius' wealth and fate, and the failed armor-taking need to retain the battle's pressure rather than resolve into a victory tableau. | Re-lineated the two chariot deaths, Amphius' Paesus identity, the belly wound, shield defense, and forced retreat. |
 | 5.628–698 | The Tlepolemus–Sarpedon duel is a contest of inherited claims as much as a fight, and its two wounds must not be flattened into a single victor's speech. | Preserved the Heracles–Laomedon history, both taunts, the neck and thigh wounds, the dragging spear, Odysseus' hesitation, Athena's choice, and all seven Lycian names. |
+| 5.699–777 | Hector's pressure, the catalog of Argive losses, and Hera's return to battle must move from defeat into ceremonial preparation. | Preserved Sarpedon's plea, Pelagon's extraction, the six named Argive deaths, Hera's complaint, Hebe's wheels, Athena's aegis and helmet, and the Simoeis–Scamander landing. |
 
 ## Gate disposition
 

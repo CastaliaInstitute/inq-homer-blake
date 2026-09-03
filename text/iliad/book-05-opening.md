@@ -474,47 +474,65 @@ Athena turned his spirit toward the Lycian multitude,
 and he slew Coeranus, Alastor, Chromius, Alcander,
 Halios, Noemon, and Prytanis.
 
-He would have killed more, but Hector, the great-helmed son of Priam, perceived
-the danger and crossed the foremost ranks, bringing dread to the Danaans. Sarpedon,
-son of Zeus, rejoiced at his coming and spoke in grief: “Priam's son, do not leave
-me as prey for the Danaans; defend me, and then let life abandon me here in your
-city. I was not destined to return home and gladden my dear wife and little son.”
-Hector gave him no answer, but rushed past, eager to thrust back the Argives and
-take the life of many. His companions set Sarpedon beneath Zeus' beautiful oak.
-There strong Pelagon, his beloved friend, drew the ash from his thigh. His spirit
-left him, and a mist covered his eyes; then the breath of the North Wind blew upon
-him, and he revived, gasping and faint.
+He would have killed more, but Hector, great-helmed son
+of Priam, saw the danger and crossed the foremost ranks,
+bringing dread to the Danaans. Sarpedon, son of Zeus,
+rejoiced at his coming and spoke in grief:
+“Priam’s son, do not leave me as prey for the Danaans.
+Defend me, and then let life abandon me here in your city.
+I was not destined to return home and gladden
+my dear wife and little son.” Hector gave no answer,
+but rushed past, eager to thrust back the Argives
+and take the lives of many. His companions set Sarpedon
+beneath Zeus’ beautiful oak. There strong Pelagon,
+his beloved friend, drew the ash from his thigh.
+His spirit left him, and mist covered his eyes;
+then the breath of the North Wind blew upon him,
+and he revived, gasping and faint.
 
-But the Argives, once Ares and bronze-clad Hector had entered the battle, neither
-advanced toward the black ships nor stood to meet them; they continually gave
-ground when they heard that Ares was among the Trojans. Whom did Hector and bronze
-Ares first and last strip of life? Teuthras, horse-driving Orestes, the spearman
-Trechus, Oenomaus, Helenus son of Oenops, and Oresbius with the bright belt—he who
-dwelt beside the Cephissian lake in Hyle, rich in goods, while the other Boeotians
-lived near him on their fertile land.
+But once Ares and bronze-clad Hector entered the battle,
+the Argives neither advanced toward the black ships
+nor stood to meet them; they gave ground continually
+when they heard that Ares was among the Trojans.
+Whom did Hector and bronze Ares first and last strip of life?
+Teuthras; horse-driving Orestes; the spearman Trechus;
+Oenomaus; Helenus, son of Oenops; and Oresbius
+with the bright belt, who dwelt beside the Cephissian lake
+in Hyle, rich in goods, while other Boeotians lived near him
+upon their fertile land.
 
-White-armed Hera saw the Argives falling in the hard battle and spoke to Athena:
-“Shame! Shall our promise to Menelaus be vain—that well-walled Ilium should fall,
-if we let destructive Ares rage so? Let us too put forth our strength.” Athena did
-not refuse. Hera harnessed her swift golden-maned horses; Hebe fitted the curved
-eight-spoked wheels upon the iron axle, and Hera set the golden yoke and reins.
-Athena cast her embroidered robe at her father's feet, put on Zeus' warlike tunic,
-and armed herself with the tasselled aegis, crowned with Fear, Strife, Strength,
-and the dreadful Gorgon head. She set upon her head the four-crested golden helmet,
-fitted for a hundred cities, mounted the flaming car, and took the great spear
-with which she breaks the ranks of heroes who have angered her strong father.
+White-armed Hera saw the Argives falling in hard battle
+and spoke to Athena: “Shame! Shall our promise to Menelaus
+be vain—that well-walled Ilium should fall—if we let
+destructive Ares rage so? Let us put forth our strength.”
+Athena did not refuse. Hera harnessed her swift
+golden-maned horses; Hebe fitted the curved eight-spoked wheels
+upon the iron axle, and Hera set the golden yoke and reins.
+Athena cast her embroidered robe at her father’s feet,
+put on Zeus’ warlike tunic, and armed herself with the tasselled
+aegis, crowned with Fear, Strife, Strength, and the dreadful
+Gorgon head. Upon her head she set the four-crested golden helmet,
+fitted for a hundred cities; she mounted the flaming car
+and took the great spear with which she breaks the ranks
+of heroes who have angered her strong father.
 
-Hera urged the horses on. Of their own accord the gates of heaven groaned—the gates
-held by the Hours, who open and close the dense cloud between Olympus and the sky.
-They found Zeus sitting apart from the other gods on the highest peak. Hera loosed
-the horses at the meeting of Simoeis and Scamander, hid them in deep mist, and the
-river raised ambrosia for them to eat. Hera and Athena went on like shy doves toward
-the place where the best of the Argives stood around horse-taming Diomedes, gathered
-like lions or boars whose strength is not easily broken. Hera cried in the voice of
-Stentor, whose bronze voice equaled the voices of fifty men: “Shame, Argives—cowards
-in beautiful bodies! While noble Achilles walked among you, the Trojans never dared
-to leave the Dardanian gates, so greatly they feared his terrible spear. Now they
-fight far from the city beside the hollow ships.” Her cry awakened the courage of all.
+Hera urged the horses on. Of their own accord the gates
+of heaven groaned—the gates held by the Hours, who open
+and close the dense cloud between Olympus and the sky.
+They found Zeus sitting apart from the other gods
+upon the highest peak. Hera loosed the horses where Simoeis
+and Scamander meet, hid them in deep mist, and the river
+raised ambrosia for them to eat. Hera and Athena went on
+like shy doves toward the place where the best of the Argives
+stood around horse-taming Diomedes, gathered like lions
+or boars whose strength is not easily broken.
+Hera cried in the voice of Stentor, whose bronze voice
+equaled the voices of fifty men: “Shame, Argives—cowards
+in beautiful bodies! While noble Achilles walked among you,
+the Trojans never dared leave the Dardanian gates,
+so greatly they feared his terrible spear. Now they fight
+far from the city, beside the hollow ships.” Her cry
+awakened courage in them all.
 
 Athena found Diomedes beside his horses and chariot, cooling the wound Pandarus had
 made with his arrow. Sweat tormented him beneath the broad shield-strap, and his arm

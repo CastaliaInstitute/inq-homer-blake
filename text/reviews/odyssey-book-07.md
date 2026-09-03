@@ -20,9 +20,9 @@ guidance, palace hospitality, Arete's authority, and the Phaeacian welcome.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|
-| Greek fidelity | one source-collation record | independent comparison and omissions/additions report |
-| Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Greek fidelity | source-collation record; Book 8 conflation corrected and chronology checked in read-aloud review | independent comparison and omissions/additions report |
+| Narrative | decision log; Book 7 arc restored after Book 8 conflation | structural inventory |
+| Verse | working blank verse and read-aloud review log | meter report and independent read-aloud sign-off |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof | approved-text proof and page-map signoff |

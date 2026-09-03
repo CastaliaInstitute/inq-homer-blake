@@ -4,161 +4,271 @@
 
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
-Lines 1–347 are recorded in
-text/odyssey/book-07-collation-1-347.md.
+**Review warning:** This is a revised working pass; independent Greek comparison,
+read-aloud review, and approval remain outstanding.
+
+**Greek-fidelity review:** open; the source-collated revision requires a second-reader
+omissions-and-additions check before approval.
 
 ## Translation
 
-Odysseus slept beneath Athena's grove. The goddess went into the city,
-to the palace of Alcinous, where the Phaeacian chiefs were assembled.
-She entered the chamber of Nausicaa, and spoke as a friend:
+So there the much-enduring, godlike man
+Prayed in the grove; and Nausicaa drove
+The mules toward the city. When she reached
+Her father’s famous house, she stopped before
+The doors; her brothers, like immortal gods,
+Stood round the wagon, loosed the patient mules,
+And carried in the garments. She herself
+Went to her chamber; there the old nurse lit
+The fire, Eurymedusa, who had once
+Been brought from Apeira by the curved ships,
+And given as a royal gift to serve
+Alcinous, whose people heard his word
+As they might hear a god. She had raised
+Nausicaa in the palace, and for her
+Lit fire and set the evening meal within.
 
-“Your robes lie ready, but you have not told your mother
-where they are. Go to the palace. Ask for a fine chest,
-and help the women prepare your wedding garments.”
+Then Odysseus rose and went toward the town.
+Athena, favoring him, poured a mist
+Around him, lest some proud Phaeacian,
+Meeting him first, should mock him with harsh words
+Or ask his name. As he approached the lovely
+City, the bright-eyed goddess met him there,
+In the likeness of a young girl, bearing
+A water-jar. “My child,” he said, “will you conduct me to the house
+Of King Alcinous, who rules these people?
+I am a stranger, long afflicted, come
+From far away across the sea. I know
+No one who holds this city and this land.”
 
-Nausicaa woke, amazed by the dream. Athena crossed the city,
-then returned to the shore, where Odysseus still lay asleep.
-She poured mist around him, and waited for his waking.
+The goddess answered: “Stranger, father-like,
+I will show you the house you ask to see.
+It stands near my own father’s honored home.
+Follow in silence; I will lead the way.
+Look toward no man, and ask no question on
+The road. This people does not gladly bear
+The stranger, nor receive with open love
+The man who comes from elsewhere. They trust the ships
+That cross the mighty sea, swift as a wing
+Or as a thought; Earth-Shaker gave them that.
+Their vessels are the fastest in the world.”
 
-Odysseus rose and looked toward the town. Athena took the form
-of a young girl, and he asked her the road to Alcinous' house.
-She led him through the mist, describing the palace:
-bronze walls, golden doors, silver doorposts, and dogs of gold,
-made by Hephaestus with deathless craft. Orchards grew within,
-where fruit never failed, and the trees bore in every season.
+She spoke, and went before him quickly; he
+Kept close behind the goddess’ unseen steps.
+The famous sailors did not see them pass
+Among the streets; Athena, beautiful
+And terrible, had cast a sacred mist
+About him in the kindness of her heart.
 
-“Enter,” she said. “Find Queen Arete. Hold her knees.
-She is wise, and the Phaeacians obey her as much as the king.
-If she welcomes you, your homecoming is assured.”
+Odysseus marveled at their harbor, ships,
+And meeting-place, and at the long, high wall
+Built firmly with sharp stakes, a wonder to behold.
+When they had reached the king’s renowned abode,
+The goddess spoke: “This is the house, stranger,
+That you asked me for. You will find the god-fed
+Kings within, at supper. Enter; let no fear
+Possess your heart. First you will find the queen,
+Arete, daughter of Rhexenor. Poseidon
+Begot Nausithous with Periboea,
+Youngest daughter of the proud Eurymedon,
+Who ruled the Giants, ruined his people, and died.
+Nausithous fathered Rhexenor and Alcinous;
+Apollo struck Rhexenor down, newly wed,
+And left one daughter, Arete. Alcinous
+Made her his wife, and honors her beyond
+All women dwelling under mortal men.
+She is most honored by her children, him,
+The king, and by the people, who look up to her
+As to a god. Her good sense fails her nowhere;
+With wise counsel she dissolves men’s quarrels.
+If she receives you kindly in her heart,
+You may hope to see your friends, and reach
+The land that gave you birth.”
 
-Then she vanished into the darkness. Odysseus entered the palace.
-He crossed the threshold unseen, and clasped the knees of Arete.
-He prayed: “After many sufferings, I come to your house.
-May the gods grant your husband and children joy.
-Give me a ship, and let me see my homeland again.”
+So spoke Athena, and departed over
+The sea that never tires. She left fair Scheria,
+And came to Marathon and broad Athens, then
+Entered Erechtheus’ strong house. But he,
+Odysseus, went toward the palace, deeply
+Considering, before he crossed the bronze
+Threshold. The house shone like the sun or moon.
 
-He sat among the ashes. The hall fell silent. Echeneus, oldest
-of the people, said: “It is not right for a stranger to sit in dust.
-Alcinous, raise him and give him a chair beside the hearth.”
+The bronze walls ran from threshold into shadow;
+A dark-blue cornice crowned them. Golden doors
+Held fast the inner house; the doorposts stood
+In silver set upon a bronze threshold,
+And silver was the lintel, gold the handle.
+On either side stood golden dogs and silver,
+Crafted by Hephaestus’ knowing mind to guard
+Alcinous’ great house—deathless, ageless,
+Forever young. Along the walls were thrones,
+From threshold through the hall, and on them lay
+Fine woven cloths, the work of women’s hands.
+The leaders of the Phaeacians sat there,
+Eating and drinking; theirs was an unfailing feast.
+Golden youths upon well-built pedestals held torches
+In their hands, to shine through night upon the banqueters.
+The king’s house had fifty serving women: some ground grain,
+Some sat at looms and twisted shining thread.
 
-The king lifted Odysseus and seated him in the shining chair.
-The herald poured water upon his hands, and servants set food before him.
-Alcinous spoke to the council:
+Outside the courtyard, close beside the doors,
+Was a great garden, four-square, enclosed on both
+Its sides. Tall trees grew there, in flower and fruit:
+Pear trees and pomegranates, apple trees,
+Sweet figs, and olives in their full abundance.
+Their fruit does not decay or fail in winter,
+Nor in the heat of summer, but endures
+Through every season. The west wind brings one fruit
+To birth and ripens another; pear on pear,
+Apple on apple, grape upon the grape,
+And fig upon the fig. One part lies open,
+Dried by the sun; elsewhere they gather grapes,
+And elsewhere tread them; before the bunches, some
+Are green and shedding blossom, others darken.
+At the far edge, arranged beds of every kind
+Shine all the year. Two springs run there: one spreads
+Throughout the garden; the other passes under
+The courtyard threshold toward the lofty house,
+And from it all the citizens drew water.
 
-“Tomorrow choose a ship and a crew. We will send this man home,
-wherever his country lies. Our people have always been guides
-across the sea. Let no stranger leave us without the return he needs.”
+Such were the bright gifts of the gods within
+The house of King Alcinous. Odysseus stood
+And gazed, long-suffering, at all these things;
+Then crossed the threshold swiftly. He found the leaders
+Pouring wine in honor of Hermes, guide of men,
+Whose final cup they offered whenever they prepared
+For sleep.
 
-Arete looked at the cloak and shirt upon Odysseus:
-“Stranger, who gave you these garments? Did you come from the sea
-wearing them, or did someone clothe you on the shore?”
+He passed through the hall beneath the mist
+Athena had poured round him, until he reached
+Arete and the king. Around the queen
+Odysseus cast his hands, and at that moment
+The sacred mist fell back. The people there
+Were silent, seeing a man within the house;
+They marveled. Then he prayed: “Arete, daughter
+Of godlike Rhexenor, to your knees and your husband’s
+I have come, after great suffering, and to these guests.
+May the gods grant them life and happiness,
+And may each leave his treasures to his sons,
+And all the honors given by the people.
+But send me swiftly to my native land;
+For long I have been tormented far away
+From those I love.”
 
-Odysseus told the truth: “Calypso kept me in her island cave.
-Zeus commanded her to release me. I built a raft, but Poseidon
-broke it in the storm. I swam to your shore. Nausicaa found me
-by the river, and gave me these clothes. She told me to seek you.”
+So speaking, he sat down beside the hearth,
+In the ashes. All the people held their peace.
+At last old Echeneus, a hero, spoke, the oldest
+Of the Phaeacians, skilled in speech and rich
+In knowledge of the past: “Alcinous, this is neither
+Fair nor right: the stranger sits upon the ash beside
+The hearth, while all these people wait in silence
+For your command. Rise, raise the stranger up,
+And seat him on a silver-studded chair;
+Tell the heralds to mix the wine, that we may pour
+For Zeus, delighting in the thunder, who follows
+Reverent suppliants; and tell the steward to set
+Supper before the guest, from what is in the house.”
 
-The king said: “My daughter should have brought you home herself,
-but you must not blame her. She may have feared the talk of the people.
-You will have a ship, and a safe escort, unless you desire to remain.”
+When sacred Alcinous heard, he took
+The much-devising hero by the hand,
+Raised him from beside the hearth, and seated him
+In the bright chair from which his dear son rose,
+Laodamas. A maid brought water in a beautiful
+Gold jug above a silver basin, so that he might wash
+His hands; she drew a polished table near him.
+The honored steward brought him bread and many dishes,
+Giving freely from the stores at hand. Odysseus drank and ate.
 
-Odysseus answered: “Do not offer me a choice. My heart has long
-desired home. I would rather die upon the road than live forever
-without seeing my wife and the smoke rising from Ithaca.”
+Then Alcinous spoke to the herald: “Pontonoous,
+Mix the bowl, and deal the wine to all within the house,
+That we may pour to Zeus the thunderer, who follows close
+Upon the reverent suppliant.” Pontonoous mixed
+The honey-sweetened wine and served it, beginning
+With the first cup. When they had poured and drunk,
+Alcinous addressed the leaders: “At dawn we will call
+The elders, entertain our guest, make offerings to the gods,
+And think of his conveyance, that he may reach his native land
+Without distress or pain, escorted by us, however far away.
+Thereafter he will suffer what the thread of fate fixed for him.
+If he is some god from heaven, the gods themselves are shaping
+Something new; they have always appeared among us openly.”
 
-The queen recognized the work of her own hands in his garments,
-and wondered. Odysseus had spoken, but he kept his name hidden.
+But wise Odysseus answered: “Let such thoughts be far from you,
+Alcinous. I am not like the immortals who possess the wide sky;
+I am mortal, like the men you know who bear the heaviest grief.
+I could tell greater sorrows still, all those I suffered by heaven’s will.
+But let me eat, though grief is in me. Nothing is more shameless
+Than the hateful belly, which commands a man to remember food,
+However worn down and sorrowful he may be. So I have sorrow in my heart,
+Yet it commands that I should eat and drink, and makes me forget
+The things I suffered. At sunrise urge your men, that I, unhappy,
+May set foot again upon my native land; and when I see my possessions,
+Servants, and high-roofed house, let death come then.”
 
-When the assembly ended, the king directed the herald to prepare
-a bed beneath the portico. Odysseus lay down among the warm blankets.
-The queen and king returned to their chamber; before they slept,
-Alcinous said:
+All praised his words. After they poured and drank their fill,
+The people went to their homes; Odysseus stayed within the hall,
+With Arete and the king, while servants cleared away the feast.
 
-“Arete, this stranger is noble in body and speech. He resembles
-the deathless ones. I would have him marry Nausicaa and remain here,
-but if he wishes to go, we must not hold him. Tomorrow give him gifts.”
+Arete, white-armed, began the questioning, for she knew the shirt
+And cloak upon him—beautiful garments she herself had made:
+“Stranger, who are you, and from what land? Who gave you these garments?
+Did you not say that you wandered here across the sea?”
 
-Arete answered: “Do not decide before we know his name and country.
-His clothing tells me only that he has suffered in our world.”
+Odysseus answered: “Queen, it is difficult to tell the whole of sorrow;
+The gods have given me too much. Yet I will tell the thing you ask.
+Far out upon the sea lies Ogygia, where Calypso lives, the cunning daughter
+Of great Atlas, dread and beautiful. A spirit brought me to her hearth,
+After Zeus struck my ship apart with a white thunderbolt in the wine-dark sea.
+All my good comrades died; I clung to the keel of the curved ship,
+And drifted nine full days. On the tenth dark night the gods brought me
+To Ogygia, where Calypso took me in, loved me, fed me, and promised
+I should live immortal and unaging forever. Yet she never persuaded my heart.
 
-Odysseus heard them, and sleep finally came over him.
+“For seven years I stayed there, and soaked with tears the deathless garments
+She had given me. When the eighth year came, she urged me to depart,
+Whether Zeus compelled her or her mind had turned. She sent me on a raft
+Bound fast with many ropes; she gave me bread, sweet wine, immortal clothes,
+And a gentle wind. For seventeen days I crossed the sea; on the eighteenth
+Appeared the shadowed mountains of your land. Poseidon stirred the winds,
+And the storm broke the raft apart. I swam until wind and water carried me
+To your land. A wave drove me against the rocks, but I drew back and swam again
+Until I came upon a river, where the place seemed best: smooth from the stones,
+And sheltered from the wind. I fell exhausted; night came on, and I climbed
+Beyond the river, slept in the thicket, and drew the leaves around me.
+There I slept all night and through the dawn, into middle day. Then I saw
+Your daughter’s maids playing upon the shore, and she among them like a goddess.
+I begged her help. She gave me food and wine, washed me in the river,
+And gave me these clothes. Though I grieve, I have told you the truth.”
 
-At dawn Alcinous called the Phaeacian people to assembly.
-He stood among them and spoke:
+Alcinous answered: “Stranger, my daughter did not show all the judgment
+She should have shown, for she did not lead you to our house with her maids.”
+But Odysseus answered: “Do not blame your blameless child. She told me to follow;
+I would not, for I feared you might grow angry seeing us together.”
 
-“This stranger has come to my house. I do not know whether he is
-from the east or west, but he asks for a ship. Let us grant it.
-Choose a vessel, and gather the rowers. Prepare a feast in my hall.”
+Then Alcinous answered: “My heart is not one that grows angry without cause.
+May Zeus, Athena, and Apollo grant that you, being as you are and thinking as I do,
+Might take my daughter’s hand and be my son by marriage, staying here. I would provide
+A house and wealth if you stayed by choice; no Phaeacian would compel you.
+Tomorrow I will make certain of your passage, so that while you sleep the men may row
+You in a calm sea until you reach your land and house, wherever it lies—even beyond
+Euboea, which our men call farthest of all lands. They once conveyed Rhadamanthys
+There to see Tityus, earth-born; they went and came home the selfsame day.
+You will learn how swift my ships and young men are upon the sea.”
 
-The people went to the harbor. The ship was drawn down,
-and twenty-two men were chosen. They raised the mast,
-fastened the sail, and placed the oars in their leather thongs.
+Odysseus rejoiced, and prayed: “Father Zeus, may every word Alcinous has spoken
+Be brought to pass. Then my fame on the fruitful earth would never die,
+And I would reach my home.”
 
-Alcinous led the chiefs to the palace. He ordered an ox sacrificed
-to Zeus, lord of travelers, and the servants prepared the meal.
-Demodocus, the singer, was brought into the hall. He was blind,
-but the Muse had given him song, and he knew the griefs of men.
-
-After the feast the games began. Laodamas called on Odysseus:
-“Stranger, come and test yourself. You should not remain seated.
-Tell us what contests you have known; your body shows that you have.”
-
-Odysseus replied: “You speak without kindness. I have suffered at sea;
-I am weakened by hunger and sorrow. Do not press me into a contest.”
-
-Euryalus insulted him: “You look like a merchant, not an athlete,
-someone who watches his cargo and counts his profit.”
-
-Odysseus looked at him and said: “You have spoken badly.
-No man is pleasing in every gift. I am not skilled in all contests,
-but I will not endure your words.”
-
-He seized a great discus, heavier and larger than the Phaeacian stones,
-and threw it far beyond the mark. The people cried out.
-He said: “Now call the fastest man, and the best wrestler,
-if you wish to prove whether a stranger is weak.”
-
-Alcinous stopped the contest and praised the guest:
-“Our people are not the strongest boxers or wrestlers,
-but we are swift runners, sailors, and dancers. Let us show him
-our gifts, so that he will remember us when he reaches home.”
-
-The young men danced. Demodocus sang of Ares and Aphrodite,
-and of the net Hephaestus laid around the lovers. The people laughed,
-but Odysseus watched the song as a man watches a wound.
-
-Alcinous gave Euryalus a sword and told him to make peace.
-The young man approached Odysseus and offered a golden gift:
-“Forgive my words. I spoke from foolishness.”
-
-The queen brought out a chest for the clothes, and the king ordered
-the gifts packed: gold, bronze, and woven garments. Odysseus thanked them,
-and urged the servants to store the treasure beside the ship.
-
-When evening came, the Phaeacians poured wine to Zeus and prepared
-the final meal. Odysseus asked that Demodocus sing of the wooden horse,
-the stratagem by which the Achaeans entered Troy.
-
-The singer began. He told how Odysseus stood in the assembly,
-how the horse was drawn into the city, and how the hidden men
-climbed out at night. Odysseus covered his face and wept.
-Alcinous saw the tears and told the singer to stop.
-
-“The stranger weeps whenever the song turns toward Troy.
-Tomorrow he must tell us his name and country, and the grief
-that has followed him across the sea.”
-
-The hall grew quiet. The night held the guest beneath its roof,
-and the ship waited beside the water for the promised departure.
+Arete ordered the women to set a bed beneath the portico, and lay fine purple
+Blankets over it, with rugs above and woolen cloaks to cover him. The women went out
+Bearing torches. When they had made the close-woven bed, they called him:
+“Rise now, stranger; your bed is ready.” It seemed a welcome thing to sleep.
+The much-enduring Odysseus lay beneath the roof, upon the pierced bed beneath the echoing hall.
+Alcinous slept within the house’s heart, and the queen prepared the bed and resting-place.
 
 ## Decision log
 
-- The palace is presented as a technology of welcome: architecture, food,
-  song, gifts, and social judgment all determine whether Odysseus can pass.
-- Odysseus' concealed name is balanced by his unmistakable grief; recognition
-  begins through the queen's clothing and the singer's song before speech.
-- The games let bodily prowess answer an insult, while Alcinous redirects
-  the household toward its deeper Phaeacian gifts: speed, dance, and passage.
-- This draft needs Greek-fidelity review for palace description, Arete's
-  authority, the games, Demodocus' songs, and every gift before approval.
+- Replaced the inherited Book 8 conflation with the complete source-collated Book 7 pass.
+- Preserved Book 7’s actual arc: Nausicaa’s return, Athena’s escort, Arete’s palace and authority, the hearth supplication, the account of Calypso, and the promised bed.
+- Retained the Greek chronology in Odysseus’ account: nine days on the keel, seven years with Calypso, seventeen days at sea, and the eighteenth-day mountains.
+- Literary review remains open for cadence, repeated belly passage, and line-level diction before approval.

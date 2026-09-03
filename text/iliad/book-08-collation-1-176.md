@@ -15,8 +15,10 @@ checked in sequence.
   Zeus’ chariot, and the Gargarus setting.
 - **53–77 — battle and scales:** Preserved the meal and arming, the Trojan sortie,
   the shield collision, the two death-fates, the sinking Achaean day, and Zeus’ flash.
-- **78–91 — Nestor’s danger:** Restored the named commanders’ withdrawal, Paris’ arrow
-  in the horse’s vulnerable crown, and the horse’s entanglement in the traces.
+- **78–110 — Nestor’s danger and rescue:** Restored the named commanders’ withdrawal,
+  Paris’ arrow in the horse’s vulnerable crown, the horse’s entanglement in the traces,
+  Diomedes’ rebuke to Odysseus, Odysseus’ failure to hear, and Diomedes’ offer to
+  exchange chariots and rescue Nestor.
 
 ## Editorial status
 

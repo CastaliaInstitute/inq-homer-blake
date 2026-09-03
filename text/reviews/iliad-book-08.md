@@ -22,6 +22,15 @@ deliberate cross-check between adjacent battlefield movements.
 
 ## Gate evidence register
 
+### Revision note — 2026-09-03
+
+The reader-facing pass was expanded at Iliad 8.91–110 to restore Diomedes’
+spoken appeal to Odysseus, Odysseus’ failure to hear it, and Diomedes’ direct
+offer to Nestor of his own chariot and the Trojan horses taken from Aeneas.
+The passage now records the rescue’s agency and the contrast between Nestor’s
+failing team and Diomedes’ captured horses; independent Greek-fidelity and
+literary approval remain open.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | five source-collation records | independent comparison and omissions/additions report |

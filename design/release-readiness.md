@@ -17,7 +17,7 @@ or a physical proof.
 | Translation completeness | `ruby scripts/preflight_translation_completeness.rb` | Zero compact holds; all 48 working authorities are complete |
 | Accessible reading copies | `output/text/inq-homer-iliad.txt`, `output/text/inq-homer-odyssey.txt` | 24 books in each export; preflight passed |
 | Interior architecture | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Architecture proofs complete at 477 × 738 pt; final locked-text exports still pending |
-| Pagination | `design/release-manifest.yaml` | Iliad 349 pages; Odyssey 139 pages |
+| Pagination | `design/release-manifest.yaml` | Iliad 349 pages; Odyssey 145 pages |
 | Cover studies | `output/pdf/*cover-design-proof.pdf`; `design/cover-proof.md` | Single integrated 1098 × 846 pt studies; printer template and final spine remain pending |
 | Image provenance | `design/plate-manifest.csv`, `design/provenance-audit.md` | Historical Flaxman/engraver credits and original non-Blake credits recorded |
 | Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |

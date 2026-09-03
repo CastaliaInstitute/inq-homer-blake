@@ -28,6 +28,20 @@ revelations. Long descriptive sentences suit the harbor and cave; the shepherd
 dialogue should remain quick enough to preserve the mutual testing. The old-beggar
 transformation needs a stark, unsentimental cadence.
 
+## Revision log — 2026-09-03
+
+- **13.103–112, fidelity and image precision:** “An olive stands in bloom” was
+  an unsupported seasonal addition. It is now “a sacred olive stands,” retaining
+  the tree’s ritual and geographical function without narrowing the scene.
+- **13.108–112, fidelity and cadence:** “Long looms and purple stones” blurred
+  the Greek’s stone looms and the purple garments woven there. It is now “Long
+  stone looms stand in its shadow, where / The nymphs weave robes of purple as
+  the sea,” restoring both the material object and the color image while keeping
+  the compact couplet-like movement.
+
+These are translator revisions, not independent approval. A named Greek-fidelity
+reviewer must still compare the full passage against the pinned source.
+
 ## Open decisions
 
 - Independently verify the cave furnishings, Phaeacian punishment, and twelve-bull

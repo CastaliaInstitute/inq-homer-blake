@@ -65,12 +65,12 @@ Two headlands shelter it; their broken shoulders
 Run outward and receive the long waves, and within
 The great swells sleep. No ship, unless moored,
 Need fear the wind that rises from the deep.
-At the harbor's head an olive stands in bloom;
+At the harbor's head a sacred olive stands;
 Near it a pleasant cave, the holy place
 Of nymphs called Naiads. There are mixing-bowls
 And jars of stone, and bees make honey there.
-Long looms and purple stones stand in its shadow;
-There the nymphs weave robes of sea-dark purple.
+Long stone looms stand in its shadow, where
+The nymphs weave robes of purple as the sea.
 Two doors descend into the cave: the northern
 Is open to mortals; the southern is sacred,
 And through it men may not pass.

@@ -13,7 +13,7 @@
 | Books with all six gates passed | 0 |
 | Books approved for layout | 0 |
 | Pending gate records | 288 |
-| Book-level review packets started | 24 |
+| Book-level review packets started | 26 |
 
 All 48 books have complete working verse and contiguous source-collation
 coverage. `review` means the verse is ready for line-level editorial review; it
@@ -39,6 +39,7 @@ Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.
 Book 11 packets are now present for both epics, and their gates remain pending.
 Book 12 packets are now present for both epics, and their gates remain pending.
+Book 13 packets are now present for both epics, and their gates remain pending.
 
 - Greek-fidelity source map and omissions/additions report;
 - structural narrative inventory;

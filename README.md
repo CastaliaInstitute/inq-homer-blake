@@ -118,8 +118,9 @@ translation choices. Image records include role-level attribution for
 designer, artist, and engraver.
 
 The active Greek editions and their reproducibility state are recorded in the
-[source lock](text/source-lock.md); this separates byte-pinned Iliad drafting
-text from the catalog-locked Odyssey record pending a byte-level snapshot.
+[source lock](text/source-lock.md); both drafting sources are byte-identified
+by pinned repository commits and SHA-256 digests, with the Odyssey XML fetched
+on demand and verified before collation.
 
 The [Greek source coverage control](design/source-coverage.md) records the
 canonical final line for every book and keeps line-level translation collation

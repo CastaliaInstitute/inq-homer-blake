@@ -56,6 +56,8 @@ The [illustration placeholder deck](design/illustration-placeholders.md)
 assigns every book a source-aware plate slot and a prompt for original or
 commissioned artwork; these remain placeholders until exact line ranges,
 provenance, rights, and print masters are locked.
+The current candidate inventory and prioritized art-selection risks are recorded
+in the [illustration curation report](design/illustration-curation-report.md).
 
 Translation status is governed by the [review gates](text/review-gates.md);
 All 48 books are currently in review; all six review gates remain pending for every book.

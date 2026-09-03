@@ -45,6 +45,14 @@ puts "OK page map: #{page_rows.length} rows"
 
 generated_manifest = path_from_root("assets/generated/manifest.csv")
 rows = CSV.read(generated_manifest, headers: true)
+generated_keys = {}
+rows.each_with_index do |row, index|
+  key = [row["epic"], row["book"], row["final_file"], row["prompt_file"]]
+  if generated_keys[key]
+    fail!("generated manifest duplicates row #{generated_keys[key]} at row #{index + 2}: #{key.join(' / ')}")
+  end
+  generated_keys[key] = index + 2
+end
 
 source_manifest = path_from_root("assets/source/manifest.csv")
 CSV.read(source_manifest, headers: true).each_with_index do |row, index|

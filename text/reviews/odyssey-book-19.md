@@ -47,6 +47,11 @@ the sons’ greeting, the five-year bull, the shared roasting, the day-long meal
 and sleep before the hunt. These are source-order details from Odyssey 19.372–
 427, added for narrative completeness rather than ornamental padding.
 
+The hunt transition is also restored: rosy Dawn, the ascent to the windy
+ridges, the sun rising from Ocean, the dogs tracking ahead, Odysseus’s long-
+shadowed spear, and the boar’s sheltered thicket and fiery eyes. This closes a
+small but consequential descriptive gap before the wound occurs.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; arms plan, twelve-day Cretan delay, scar sequence, dream, and axe contest checked in review log | independent comparison and omissions/additions report |

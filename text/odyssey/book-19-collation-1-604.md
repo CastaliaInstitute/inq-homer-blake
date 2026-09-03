@@ -292,6 +292,19 @@ And set its portions on the spits to roast.
 They feasted through the whole day until the sun
 Went down, and lacked no share of equal banquet;
 When darkness came, they slept and took the gift of sleep.
+When rosy-fingered Dawn appeared, they went out to hunt,
+The dogs and all the sons of Autolycus; Odysseus
+Went with them. They climbed the steep mountain folded
+Thick with the forest, and soon reached the windy ridges.
+The sun struck the fields, newly rising from Ocean.
+The dogs went first, searching the tracks; behind them
+The sons came on, and Odysseus close beside the dogs,
+Shaking his long-shadowed spear. Then in the thicket
+The great boar lay hidden, where no wet wind could enter,
+Nor the bright sun’s rays, nor driving rain pass through;
+So thick the leaves lay heaped upon the ground.
+The dogs and men drew near with trampling noise;
+The boar rose bristling, fire bright within his eyes.
 The dogs moved before them through the thickets, and the sons
 Of Autolycus came after them; the morning sun
 Struck the earth newly, rising out of Ocean’s stream.

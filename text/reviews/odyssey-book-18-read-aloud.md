@@ -1,6 +1,7 @@
 # Odyssey Book 18 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -15,6 +16,11 @@ ornament. Her staged grief and reminder that suitors should bring gifts rather
 than consume another man’s wealth produce the named bride-gifts. The later lamps,
 Melantho’s abuse, Eurymachus’s labor challenge, and Amphinomus’s restraint carry
 the hall toward violence without importing the bow contest from Book 21.
+
+Penelope’s gift speech and the lamp-lit abuse sequence were expanded into verse
+in this pass. The cadence moves from public flattery to strategic extraction,
+then narrows into the lamps, Melantho’s threat, and Odysseus’s contained anger;
+the revision remains working evidence pending independent review.
 
 ## Beauty and cadence
 

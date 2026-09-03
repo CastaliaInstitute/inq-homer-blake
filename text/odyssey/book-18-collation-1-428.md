@@ -169,75 +169,103 @@ Nodding like a drunk, unable to stand or go home.”
 
 ### Lines 244–305 — Penelope claims the gifts
 
-Eurymachus addressed Penelope: “Daughter of Icarius, wise Penelope,
-If all the Achaeans saw you in Argos, more suitors would dine here at dawn,
-For you surpass women in beauty, stature, and inward judgment.”
+Then Eurymachus addressed the thoughtful queen:
+“Daughter of Icarius, wise Penelope,
+If all Achaeans saw you now in Argos,
+More suitors would dine here at the dawn;
+In beauty, stature, and inward judgment,
+You rise above the women of the land.”
 
-Penelope answered: “Eurymachus, the immortals destroyed my beauty and form
-When the Argives sailed to Troy, and my husband went with them.
-If he returned and cared for my life, my fame and beauty would be greater.
-Now I suffer. A god brought grief upon me.
+Penelope answered: “The immortal gods
+Destroyed my beauty when the Argives sailed
+For Troy, and my husband went with them.
+If he returned, and watched over my life,
+My fame and beauty would return with him.
+But now I suffer; some god brought this grief.
 
-“When he left and took my right hand, he said:
-‘I do not think all the well-greaved Achaeans will return unharmed from Troy;
-The Trojans are said to be good fighters, spearmen, archers, and horsemen,
-Who can decide the outcome of a great war. I do not know whether a god
-Will release me or whether I shall be taken there. Care for all here.
-Remember my father and mother in the house, as now or more than now,
-While I am away. When you see our son bearded, marry whom you wish,
-And leave this house.’ His words are all fulfilled. The hateful marriage
-Will come upon me; Zeus has taken my prosperity. Yet the grief is bitter.
+“When he departed, taking my right hand,
+He said: ‘I do not think the well-greaved Achaeans
+Will all come home unharmed from Troy. The Trojans
+Are skilled with spear and bow, and on the horse;
+They turn the issue of a mighty war.
+I do not know if some god will release me,
+Or whether I shall be taken there. Meanwhile,
+Care for the household. Remember my father
+And mother as you do now, or yet more carefully.
+And when our son has grown a beard, then marry
+Whom you desire, and leave this house.’ His words
+Are all fulfilled. The hateful day approaches;
+Zeus has stripped away my prosperity.
+Yet this grief is bitter.’
 
-“This is not the suitors’ custom among men. Whoever courts a good woman,
-Daughter of a wealthy man, brings cattle and strong sheep for the wedding feast,
-And gives beautiful gifts; they do not consume another’s livelihood without payment.”
+“Nor is this how men court a worthy woman,
+Daughter of one whose wealth is widely known.
+The suitor brings cattle, strong sheep, and gifts
+For the marriage feast; no man eats another’s
+Livelihood without a fitting recompense.”
 
-Odysseus rejoiced inwardly, because she had drawn gifts from them
-And charmed their hearts with gentle words, while her mind intended otherwise.
+Within his heart Odysseus rejoiced,
+For she had drawn rich gifts from all their hands,
+And charmed them with her words, though in her mind
+She meant a very different thing. Antinous
+Then said: “Receive whatever gift an Achaean
+Brings here. To refuse a gift is not right.
+We will not go to field or workshop till
+You marry whomsoever is the best among us.”
 
-Antinous said: “Daughter of Icarius, receive whatever gifts any Achaean
-Brings here. It is not right to refuse a gift. We will not go to our work
-Or anywhere else before you marry the best of the Achaeans.”
-
-They sent heralds for gifts. Antinous brought a great, beautiful,
-Many-colored robe with twelve golden pins. Eurymachus brought a golden necklace
-Set with amber, shining like the sun. Two servants brought earrings
-With three gems each from Eurydamas. Pisander’s servant brought a necklace,
-A beautiful ornament. Each Achaean brought another gift.
-Penelope went upstairs, and the attendants carried the lovely gifts behind her.
+They sent the heralds for the gifts. Antinous
+Brought a great many-colored robe, twelve golden
+Pins shining on it. Eurymachus brought
+A golden chain, with amber set within,
+That gleamed like sunlight. Two attendants bore
+Eurydamas’ earrings, each with three bright stones;
+Pisander’s servant brought a splendid necklace.
+Each Achaean brought another offering.
+Then to her chamber went the queen, and all
+The lovely gifts were carried after her.
 
 ### Lines 304–372 — The lamps and the night’s insults
 
-The suitors turned to dancing and song, waiting for evening.
-When dark evening came, they set three lamps in the hall for light,
-Piling dry wood, long seasoned and newly split with bronze,
-And mixed torches among it; Odysseus’ patient servants tended the flames.
+The suitors turned to dancing and to song,
+And waited for the darkness. When it came,
+They set three lamps within the hall, and piled
+Dry wood, long seasoned, newly split with bronze;
+Among it torches burned. The patient servants
+Kept watch beside the flames. Odysseus spoke:
 
-Odysseus said to them: “Handmaids of Odysseus, long absent,
-Go to your honored queen, sit beside her, turn the wool,
-Or card it with your hands, and give her delight. I will provide light
-For all these men. Even if they wish to wait for bright Dawn,
-They will not defeat me; I am very enduring.”
+“Handmaids of one long absent, go above
+To your honored queen; sit beside her, turn
+The wool, or card it with your hands, and give
+Her pleasure. I will give these men their light.
+If they should wish to wait for shining Dawn,
+They shall not overcome me; I endure.”
 
-The women laughed and looked at one another. Melantho, daughter of Dolios,
-Whom Penelope had raised like a child and given toys, but who slept with
-And loved Eurymachus, rebuked Odysseus:
+The women laughed, and looked from one to one.
+Then Melantho, the daughter of Dolios,
+Whom Penelope had raised and clothed like a child,
+But who loved Eurymachus and slept with him,
+Rebuked the king: “Stranger, are you mad? Why not
+Go sleep within the smithy, or the shelter
+Of the assembly? Why speak so boldly here
+Among so many men? Has wine possessed your mind,
+Or were you always foolish? Do you boast
+Because you beat that beggar Irus? Soon
+Another, better than Irus, may arise
+And break your head, and drive you from the house,
+Your garments red with blood.”
 
-“Stranger, are you out of your mind? Why do you not go sleep in the smithy,
-Or in the public shelter? Why speak so boldly among so many men?
-Has wine seized your mind, or are you always foolish? Do you boast
-Because you defeated that beggar Irus? Perhaps another better than Irus
-Will soon rise and beat your head, sending you out of the house covered in blood.”
-
-Odysseus looked darkly at her: “I will tell Telemachus what you say
-When I go there; he may cut you limb from limb in this house.”
-His words terrified the women; they went through the hall,
-Their knees loosened, for they thought he spoke the truth.
-
-He stood by the burning lamps, visible to all, while his heart
-Turned toward works that would not remain unfinished.
-Athena did not restrain the suitors from provoking painful anger in him;
-She wished the grief to sink deeper into the heart of Laertes’ son.
+Odysseus looked upon her darkly: “I will tell
+Telemachus all these words, when I go there;
+He may cut you limb from limb within this house.”
+The women trembled at the threat, and went
+Through the hall, their knees grown loose beneath them;
+They thought he spoke the truth. He stood beside
+The lamps, visible to every eye, while still
+His heart bent toward the deeds not yet complete.
+Athena did not hold the suitors back
+From stirring up his painful anger; she desired
+The grief to sink more deeply in the heart
+Of great Laertes’ son.
 
 Eurymachus began to mock him: “Listen, renowned suitors,
 While I speak what my heart commands. This man has not come
@@ -299,4 +327,3 @@ Drank as much as the heart desired, and went away to sleep in their own houses.
 - This draft requires independent Greek-fidelity review, literary review,
   meter review, notes review, and production sign-off before promotion beyond
   `draft`.
-

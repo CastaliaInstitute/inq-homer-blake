@@ -566,9 +566,9 @@ Nor do I care for him now that he grows old, since far from his country
 I sit in Troy, bringing sorrow to thee and to thy children.
 
 “And thou, old man, we once heard, wert blessed:
-as far as Lesbos, the seat of Makar, encloses thee above,
-and Phrygia lies beyond, and the boundless Hellespont—
-they said thou surpassed all elders in wealth and sons.
+as far as Lesbos, Makar’s seat, bounds thee within,
+and Phrygia lies above, and the boundless Hellespont—
+men said thou didst surpass all elders in wealth and sons.
 But since the gods of heaven brought this sorrow upon thee,
 battles and slaughter have forever surrounded thy city.
 Endure, and do not lament without ceasing within thy heart;

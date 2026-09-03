@@ -10,6 +10,15 @@ Achilles, the truce, and the three laments. It checks the Longfellow-inspired
 cadence against the seven Greek-collation units; it does not certify meter or
 replace an independent omissions/additions review.
 
+## Revision log
+
+- **24.540–544, fidelity and cadence:** “encloses thee above” confused the
+  geographic bounds in Achilles’ comparison and weakened the line’s music. It
+  is now “As far as Lesbos, Makar’s seat, bounds thee within, / And Phrygia lies
+  above, and the boundless Hellespont— / Men said thou didst surpass all elders
+  in wealth and sons,” preserving the spatial sequence and restoring a clean
+  Longfellow-like sentence.
+
 ## Findings and actions
 
 | Passage | Finding | Action or decision |

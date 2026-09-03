@@ -25,6 +25,8 @@ jobs:
           ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
+      - name: Run image metadata preflight
+        run: python3 scripts/preflight_image_metadata.py
       - name: Run illustration placeholder preflight
         run: ruby scripts/preflight_illustration_placeholders.rb
       - name: Run provenance preflight

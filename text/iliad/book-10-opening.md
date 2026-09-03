@@ -2,7 +2,7 @@
 
 **Source passage:** Book 10, lines 1–579 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 
 ## Translation
 

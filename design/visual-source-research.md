@@ -38,6 +38,16 @@ credit to the whole book.
 
 - [Metropolitan Museum: *The Iliad of Homer Engraved From the Compositions of John Flaxman*](https://www.metmuseum.org/art/collection/search/337355)
 - [Metropolitan Museum: Flaxman Homer/Aeschylus/Hesiod volume record](https://www.metmuseum.org/art/collection/search/337384?showOnly=openAccess)
+- [National Gallery of Art: *The Iliad of Homer* (1805)](https://www.nga.gov/artworks/60830-iliad-homer)
+- [Morgan Library & Museum: Blake's friends and followers](https://www.themorgan.org/collection/William-Blakes-World/9)
+
+The National Gallery record independently catalogs the 1805 volume as Homer
+with various artists after Flaxman and names Blake among the associated artists;
+it also records the volume's forty plates. The Morgan's curatorial essay places
+Blake's engraving practice alongside Flaxman and describes Flaxman's linear
+Homeric commissions. These records support the project's role-level attribution
+and its choice to treat the Flaxman/Blake material as historical precedent, not
+as a set of Blake-authored compositions.
 
 The Met marks its open-access collection images as available for unrestricted
 commercial and noncommercial use, but each selected scan still requires a

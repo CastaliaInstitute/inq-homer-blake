@@ -21,6 +21,7 @@ or a physical proof.
 | Pagination | `design/release-manifest.yaml` | Iliad 398 pages; Odyssey 244 pages |
 | Cover studies | `output/pdf/*cover-design-proof.pdf`; `design/cover-proof.md` | Single integrated 1098 × 846 pt studies; printer template and final spine remain pending |
 | Image provenance | `design/plate-manifest.csv`, `design/asset-checksums.csv`, `design/provenance-audit.md`, `design/blake-homer-source-register.md` | Historical Flaxman/engraver roles, primary collection corroboration, original non-Blake credits, and byte-level asset checksums recorded |
+| Iliad print-review art | `design/iliad-plate-selection.csv`; `assets/print/illustrations/iliad/manifest.json`; `scripts/preflight_iliad_print_art.py` | All 24 books have checksum-bound 2055 × 3142 / 300-PPI embedded-sRGB derivatives; selections and human approval remain provisional |
 | Production snapshot | `design/preflight-report.md` | Deterministic handoff summary of current proofs, coverage, provenance, and release blockers |
 | Review governance | `scripts/preflight_review_packets.rb` and all 48 packets | A gate cannot be recorded as passed without a named reviewer and review date |
 | Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |

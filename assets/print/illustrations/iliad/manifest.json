@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "work": "The Iliad",
+  "artistCredit": "a.Blake",
+  "style": "original ink contour and restrained watercolor in the a.Blake house language",
+  "historicalScansIncluded": false,
+  "reviewStatus": "print-review derivatives; human art-direction and physical proof pending",
+  "nativeMasterClaim": false,
+  "trimMm": [
+    168,
+    260
+  ],
+  "bleedMm": 3,
+  "documentMm": [
+    174,
+    266
+  ],
+  "plateCount": 24,
+  "plates": [
+    {
+      "book": 1,
+      "plateId": "iliad-book-01-apollo-v2-concept",
+      "subject": "Apollo descending upon the Achaean camp",
+      "passage": "1.1-16",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-01-apollo-v2.png",
+      "sourcePixels": [
+        2100,
+        3000
+      ],
+      "sourceSha256": "0205d034e2685de2ee11a7645877512e8b4d36f13b0b1d050a72823f6919594e",
+      "cropBoxPixels": [
+        69,
+        0,
+        2031,
+        3000
+      ],
+      "print": "assets/print/illustrations/iliad/book-01-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "f24dc896eb7695dc0f0c654e5e3b27f2ea87959cbebb8d39bf93ef163f20b73d"
+    },
+    {
+      "book": 2,
+      "plateId": "iliad-book-02-ili-02-v1-concept",
+      "subject": "The false dream and mustering of the Achaean host",
+      "passage": "2.1-2.877",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-02-ili-02-v1.png",
+      "sourcePixels": [
+        2100,
+        3000
+      ],
+      "sourceSha256": "11979a277765bc8dc994ee8f342ebdf18e4c8761f57e0141c5e0d26717831f21",
+      "cropBoxPixels": [
+        69,
+        0,
+        2031,
+        3000
+      ],
+      "print": "assets/print/illustrations/iliad/book-02-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "30a2b7b482c66cc3c335ad58075681a39fc11c3fd5f0e852d5c001e86991e50f"
+    },
+    {
+      "book": 3,
+      "plateId": "iliad-book-03-helen-walls-concept",
+      "subject": "Helen upon the walls of Troy with the Trojan elders",
+      "passage": "3.1-3.461",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-03-helen-walls-v1.png",
+      "sourcePixels": [
+        1024,
+        1536
+      ],
+      "sourceSha256": "f3e11af2ff8ba6099b0bf73a654dd733c93fa2a0a1bbe6c7d7a69b1deea24eb4",
+      "cropBoxPixels": [
+        9,
+        0,
+        1014,
+        1536
+      ],
+      "print": "assets/print/illustrations/iliad/book-03-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "0859a82b19d82d67fcf49b1c75d884002d1b9163a76320cd12065914ffb88bdc"
+    },
+    {
+      "book": 4,
+      "plateId": "iliad-book-04-broken-oath-concept",
+      "subject": "The oath breaks beneath Athena's descending arrow",
+      "passage": "4.1-4.544",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-04-broken-oath-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "8d0ac72507b09ade24d6a63280cf2e186590cd822e49e253cc509c32666ac7be",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-04-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "babcc08d5c59f979de4f277835d81b03cfb5a3ba21c5babbf35cebf5384417ad"
+    },
+    {
+      "book": 5,
+      "plateId": "iliad-book-05-diomedes-concept",
+      "subject": "Diomedes advances while wounded Aphrodite withdraws",
+      "passage": "5.1-5.909",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-05-diomedes-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "f98ce77f21ec82e34ab4dc8a35d33d881cfe6344366571386dd40318694183df",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-05-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "424fadd61388654c1d647022f4b290ab4cb380ec9cf845837b7d8eaab670374e"
+    },
+    {
+      "book": 6,
+      "plateId": "iliad-book-06-hector-family-concept",
+      "subject": "Hector reaches toward Astyanax beside Andromache",
+      "passage": "6.1-6.529",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-06-hector-family-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "d189021d6c920cdb8fb9c4ae99b78eab52b71fc20a2121b0a21296a1311c9a27",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-06-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "37ded981902ad4103c2e593b498d92ab41399b2f4924f7685e5667dee934dda5"
+    },
+    {
+      "book": 7,
+      "plateId": "iliad-book-07-hector-ajax-concept",
+      "subject": "Hector and Ajax lower their shields beneath the evening truce",
+      "passage": "7.1-7.482",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-07-hector-ajax-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "152f61c4732cc91a9816065b5e3dcb33feb3bb81d59da083630fe66481bcab6a",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-07-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "2e572ae312c1dc87a9e8524b1cfe245e37673f4cef6fcaa2680d26f839d94f48"
+    },
+    {
+      "book": 8,
+      "plateId": "iliad-book-08-zeus-balance-concept",
+      "subject": "Zeus weighs the battle above Ida",
+      "passage": "8.1-8.565",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-08-zeus-balance-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "3fac155e105b82284ad1ad5a5ad795a3aa43f85c226d8496052ca2ec41b153b2",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-08-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "77c28ba1d79eb8498a12d0e3f5ea423b77b9477f2ae280b3beaaea1778d96ca2"
+    },
+    {
+      "book": 9,
+      "plateId": "iliad-book-09-embassy-concept",
+      "subject": "The embassy stands before Achilles and his lyre",
+      "passage": "9.1-9.713",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-09-embassy-v1.png",
+      "sourcePixels": [
+        1009,
+        1558
+      ],
+      "sourceSha256": "bd6553cbdebef23757f90c4cb02ca42d6a3699fab23738012d3b3a2d6dab16c2",
+      "cropBoxPixels": [
+        0,
+        7,
+        1009,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-09-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "8afee9b3176182aa538cdc454b2ce011d7d71bc74f4a65f9e597750a44b3745d"
+    },
+    {
+      "book": 10,
+      "plateId": "iliad-book-10-night-raid-concept",
+      "subject": "Diomedes and Odysseus confront Dolon beneath the night sky",
+      "passage": "10.1-10.579",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-10-night-raid-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "363a26e6b63767f94189a34a11bbf50ca4f2a916edd612fa3fc5baa1a40fcd05",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-10-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "11f8b810927f9babcb797b43e2b86c30ba573b0455f66e779fe835a1725d5894"
+    },
+    {
+      "book": 11,
+      "plateId": "iliad-book-11-patroclus-eurypylus-v2-concept",
+      "subject": "Patroclus tends Eurypylus and carries the crisis toward Achilles",
+      "passage": "11.618-11.848",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-11-patroclus-eurypylus-v2.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "3a2a0f735b6fc7d5e7a321b3a8a4af0db9a8662092131bb73c87bc8a78d111a1",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-11-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "c90565287170805f72513c42ad2cf31513661ada5d15c53e16604635ec8a4b85"
+    },
+    {
+      "book": 12,
+      "plateId": "iliad-book-12-wall-concept",
+      "subject": "Hector lifts the stone as the Achaean wall gives way",
+      "passage": "12.1-12.471",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-12-wall-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "2548d8288a0b517c4e69e504ed4688f5b42a7a84119cd0bc9343c3299460c67c",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-12-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "ff35d39d62f82d0a5cdb292e535429bc597b6f8a03e85efb78aee6e5e9373e6a"
+    },
+    {
+      "book": 13,
+      "plateId": "iliad-book-13-poseidon-concept",
+      "subject": "Poseidon moves among the sea-facing Achaean ranks",
+      "passage": "13.1-13.837",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-13-poseidon-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "4b39b004de9122c9f370873e9c8e2a1feab60985111a876efdb4b85fb431b58f",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-13-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "f34007562f6b3b7e7771f6261fc15aeff1364e4b9b6648f7f2f1ccd525f5ec4c"
+    },
+    {
+      "book": 14,
+      "plateId": "iliad-book-14-hera-strategy-concept",
+      "subject": "Hera arranges a celestial strategy above Ida",
+      "passage": "14.1-14.522",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-14-hera-strategy-v1.png",
+      "sourcePixels": [
+        1007,
+        1562
+      ],
+      "sourceSha256": "0eef1aa57bf6ad6279dc2e9eff27b46d5e73424cb1259ce386093c8a833d985f",
+      "cropBoxPixels": [
+        0,
+        11,
+        1007,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-14-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "915ddb37952ef4d3f708ce556a41e0a134a5e5339536c59caebbce67e58670c0"
+    },
+    {
+      "book": 15,
+      "plateId": "iliad-book-15-zeus-wakes-concept",
+      "subject": "Zeus wakes as Hector returns to the ships",
+      "passage": "15.1-15.746",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-15-zeus-wakes-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "46d61eafc7d477a288b7d7b34d7122974717cf19c3c927ea4ab88f4f6d1b139a",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-15-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "fd7d1e9a0f3713b960d394fdc092e124464123b39c7b4ea7ee15864bbeb35611"
+    },
+    {
+      "book": 16,
+      "plateId": "iliad-book-16-patroclus-v2-concept",
+      "subject": "Patroclus enters battle in borrowed armor",
+      "passage": "16.1-16.867",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-16-patroclus-v2.png",
+      "sourcePixels": [
+        1050,
+        1498
+      ],
+      "sourceSha256": "9ea4fe09507f1fe67ce442081f4bba1e6fd3d3d21da106d2bf0bb20e3440cc7b",
+      "cropBoxPixels": [
+        35,
+        0,
+        1015,
+        1498
+      ],
+      "print": "assets/print/illustrations/iliad/book-16-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "71d188e42176ede94f3208adf57816f728469ee9ba4b4abe75e8a2572bde46f9"
+    },
+    {
+      "book": 17,
+      "plateId": "iliad-book-17-menelaus-patroclus-concept",
+      "subject": "Menelaus guards the shrouded Patroclus",
+      "passage": "17.1-17.761",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-17-menelaus-patroclus-v1.png",
+      "sourcePixels": [
+        1009,
+        1558
+      ],
+      "sourceSha256": "48dcd97b8e494a1e2eb55a70c3832a8a64f978df7a564ae10c1616fefe7d2331",
+      "cropBoxPixels": [
+        0,
+        7,
+        1009,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-17-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "4cfa0ac6605e3462450b1ac6ec4def2e76147a96ae0650a5765a8bf37adca03c"
+    },
+    {
+      "book": 18,
+      "plateId": "iliad-book-18-shield-concept",
+      "subject": "Thetis receives the shield of Achilles in the celestial forge",
+      "passage": "18.1-18.617",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-18-shield-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "bd5175b5ea3ed3ec130e37cfabb4583850aac2b0bba0679977bdd7c3151a4fca",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-18-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "4e296824dc42c1300a165f53bc8a59141010b2cc178fb14dd0d13fb110e43e20"
+    },
+    {
+      "book": 19,
+      "plateId": "iliad-book-19-reconciliation-concept",
+      "subject": "Achilles and Agamemnon reconcile before the Achaeans",
+      "passage": "19.1-19.424",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-19-reconciliation-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "07af2a3fc7725d3303c26fa093d65796eef7d0dc62b4f1fe16a450b9e2f073b4",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-19-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "01cfc202ebef7aae8ce780919ae2cc93c181dce9dd29538d5bfc25ff603ea52b"
+    },
+    {
+      "book": 20,
+      "plateId": "iliad-book-20-divided-gods-concept",
+      "subject": "The gods divide as Poseidon lifts Aeneas from the field",
+      "passage": "20.1-20.503",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-20-divided-gods-v1.png",
+      "sourcePixels": [
+        1008,
+        1561
+      ],
+      "sourceSha256": "b2d547d915ff7d08b69999df001989fbf57051f33e8cf84f45d66c0db0acebb7",
+      "cropBoxPixels": [
+        0,
+        10,
+        1008,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-20-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "7a321217c048feb759e288d05acf5aed63d3d81aa8d6dc936aadd82170ebf9f0"
+    },
+    {
+      "book": 21,
+      "plateId": "iliad-book-21-scamander-concept",
+      "subject": "Scamander rises around Achilles",
+      "passage": "21.1-21.611",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-21-scamander-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "a01b013353ef27890413fe8819e3345f0034bccb6b3ceaae786b9a091a7f917c",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-21-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "04434e6dfa5a3506b6647ef0a412a6c10e30e7c3caf768bcad74aca48807fa45"
+    },
+    {
+      "book": 22,
+      "plateId": "iliad-book-22-hector-gate-concept",
+      "subject": "Hector waits before the Scaean Gate as Achilles approaches",
+      "passage": "22.1-22.515",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-22-hector-gate-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "413e4e090789bd5011684914eaa581f6e007f73349fd86de6a567a3abcb130bd",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-22-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "d1641521f3814d01e78dadca29f0fcdb93c54dc326754cee23450ba37d9e5bc4"
+    },
+    {
+      "book": 23,
+      "plateId": "iliad-book-23-funeral-games-concept",
+      "subject": "The funeral-games chariot race sweeps around the turning post",
+      "passage": "23.1-23.897",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-23-funeral-games-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "b53c3d360c0c0e690fe4a6609053f6de17c7d9ce4d19692b8e06179c6c1b7926",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/iliad/book-23-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "fcf903ca064849e964cf5a0e43675cfc87c024ab4cce5d7a97a79ea9b8c05b91"
+    },
+    {
+      "book": 24,
+      "plateId": "iliad-book-24-priam-achilles-v2-concept",
+      "subject": "Priam kneels before Achilles in the night shelter",
+      "passage": "24.552-24.620",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/iliad/book-24-priam-achilles-v2.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "6b4959925b21a9d87f47a983c546464a120384c915e4616b9fee8f814aae41d2",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/iliad/book-24-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "f89df08c69b612d382f03eb5ed282cb5594638a09af3a17dc705189359ae71b0"
+    }
+  ]
+}

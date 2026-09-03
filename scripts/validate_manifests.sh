@@ -23,5 +23,7 @@ check_header "design/plate-manifest.csv" \
   "plate_id,epic,book,passage,source_type,creator,creator_role,provenance_url,rights_status,caption,credit_line,final_file,width_px,height_px,color_profile,curation_status,prompt_or_source_record"
 check_header "design/asset-checksums.csv" \
   "plate_id,final_file,sha256,width_px,height_px,color_profile,curation_status"
+check_header "design/iliad-plate-selection.csv" \
+  "book,plate_id,selection_status,approval_status,notes"
 
 printf 'Manifest headers are valid.\n'

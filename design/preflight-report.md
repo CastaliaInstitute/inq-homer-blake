@@ -26,6 +26,7 @@ must still be closed in `design/release-readiness.md`.
 - Reader-facing density screen: 4 provisional holds; see `design/translation-density-report.md`.
 - Architecture page map: 642 traced pages.
 - Plate manifest: 40 records; all concept/source-review, none final.
+- Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.
 - Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.
 

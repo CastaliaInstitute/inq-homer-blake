@@ -4,6 +4,7 @@
 
 from pathlib import Path
 import csv
+import json
 import re
 import subprocess
 import sys
@@ -37,6 +38,10 @@ with (ROOT / "design/architecture-page-map.csv").open(newline="", encoding="utf-
     page_map = list(csv.DictReader(stream))
 with (ROOT / "text/translation-status.csv").open(newline="", encoding="utf-8") as stream:
     statuses = list(csv.DictReader(stream))
+iliad_print_manifest = ROOT / "assets/print/illustrations/iliad/manifest.json"
+if not iliad_print_manifest.is_file():
+    raise SystemExit(f"missing Iliad print-art manifest: {iliad_print_manifest}")
+iliad_print = json.loads(iliad_print_manifest.read_text(encoding="utf-8"))
 
 density_holds = 0
 for status in statuses:
@@ -83,6 +88,7 @@ lines += [
     f"- Reader-facing density screen: {density_holds} provisional holds; see `design/translation-density-report.md`.",
     f"- Architecture page map: {len(page_map)} traced pages.",
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
+    f"- Iliad print-review art: {iliad_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",
     "- Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.",
     "",

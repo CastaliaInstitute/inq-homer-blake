@@ -43,5 +43,9 @@ jobs:
         run: python3 scripts/preflight_layout.py
       - name: Run accessible text-export preflight
         run: python3 scripts/preflight_text_exports.py
+      - name: Rebuild and verify meter screening artifacts
+        run: |
+          python3 scripts/build_meter_report.py
+          git diff --exit-code -- text/meter-report.csv text/meter-report.md text/meter-outliers.csv
       - name: Check repository diff hygiene
         run: git diff --check

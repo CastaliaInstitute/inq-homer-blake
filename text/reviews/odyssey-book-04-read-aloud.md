@@ -21,7 +21,7 @@ comparison, full stress analysis, and human sign-off remain open.
 | 4.306–430 | Proteus's transformations and advice depend on exact sequence and physical endurance. | Restore lion, serpent, leopard, boar, tree, water, fire, and river; preserve the seal skins, unbearable smell, hold-fast action, Poseidon's anger, and required sacrifice. |
 | 4.431–624 | Helen's drug and Trojan stories carry consolation, guilt, and self-fashioning simultaneously. | Keep the extreme promise of the drug, the wooden horse, Anticlus's restraint, and Odysseus's beggar disguise without resolving Helen's ethical ambiguity. |
 | 4.625–767 | The gifts to Telemachus and the recognition of paternal absence need a quiet close before the suitors' plot. | Preserve the vessels, robe, return blessing, and the movement from hospitality to imminent danger. |
-| 4.768–847 | The ambush, Penelope's prayer, and Iphthime dream cross public threat with private fear. | Keep Medon's report, the upper chamber, the sacrificial memory, the dream's reassurance, and Penelope's uncertainty about ivory and horn gates. |
+| 4.768–847 | The ambush, Penelope's prayer, and Iphthime dream cross public threat with private fear. | Keep Medon's report, the upper chamber, the sacrificial memory, the dream's narrow reassurance, and Penelope's unresolved question about Odysseus. Do not import the ivory-and-horn gate interpretation into this endpoint. |
 
 ## Critical notes
 

@@ -10,6 +10,12 @@
 - Final cover spread and spine width: calculated from the locked page count
   and current printer specification
 
+The stock target follows Lulu's current [paper-stock documentation](https://help.lulu.com/en/support/solutions/articles/64000255473-cover-and-interior-paper-stocks):
+80# White Coated is the image-oriented interior stock, paired here with
+Premium Color. The casewrap cover stock is a separate printer specification;
+the final spread and spine must be built from Lulu's generated template after
+each interior page count is locked.
+
 ## Page system
 
 Use a shared typographic system across both volumes: restrained classical

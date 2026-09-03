@@ -51,6 +51,12 @@ The book remains an editorial hold. The underworld opening and the final
 assembly need a separate read-aloud pass for tonal balance: the poem must move
 from elegy to civic danger without making the peace feel mechanically imposed.
 
+The opening revision restores Achilles’ address to Agamemnon, Agamemnon’s
+account of Achilles’ washing, lament, pyre, urn, tomb, and funeral games, and
+the transition in which Agamemnon—not Achilles—questions Amphimedon. The
+sequence follows Odyssey 24.23–114 and corrects a speaker assignment that had
+collapsed the underworld dialogue into a misleading summary.
+
 ## Critical expansion — 2026-09-03
 
 The revision restores the shades’ eerie movement through the landmarks of the

@@ -40,15 +40,92 @@ And Hermes urged the newly dead onward,
 Past the pale landmarks of the sunless world.
 
 Then Agamemnon’s shade drew near to them,
-Still grieving for the men who died with him
-In the house of Aegisthus. Achilles asked:
-“Why have so many young men come beneath
-The earth? Did storming Poseidon drown them,
-Raising the winds and darkening the sea?
-Or did unfriendly men destroy them on land,
-While they were cutting cattle, sheep, a city,
-Or women?” Amphimedon answered him,
-An Ithacan guest-friend of the king:
+And Achilles, seeing him, addressed the king:
+“Son of Atreus, we believed that Zeus, who bears
+The thunder, favored you above all other men,
+Because you ruled so many strong Achaeans
+Among the Trojans, where we suffered grief.
+Yet an evil fate was waiting for you there,
+The fate no mortal born beneath the sun
+Can flee. Would that you had fallen at Troy,
+Far from Argos, in the hour of battle!
+Then all the Achaeans would have raised your mound,
+And you would have won great glory for your son.
+But now you were condemned to die the most
+Pitiful death.”
+
+Agamemnon answered: “Blessed son of Peleus,
+Godlike Achilles, who died at Troy, far from
+The land of Argos! The best of Trojan men
+And Achaean men fell round you, fighting for you;
+While you lay in the dust, your great body
+Forgotten among the dust and chariot wheels.
+All day we fought, and would not cease at all,
+Had Zeus not raised a tempest from the sky.
+When we had carried you back to the ships,
+We laid you on the bed and washed your flesh
+With warm water and with fragrant oil. The Danaans
+Poured hot tears over you and cut their hair.
+Your mother came from the sea with immortal maidens;
+Her cry rose terribly across the water,
+And fear seized every Achaean in the camp.
+Then Nestor, who had always known wise counsel,
+Held us back and said: ‘Stay, Argives; do not flee.
+The mother of the dead man comes from the sea
+With her companions, to behold her son.’
+The daughters of the ancient sea-god stood
+Around you, mourning, and clothed your body
+In garments that no mortal hand had woven.
+The nine Muses answered one another in song;
+No Achaean could have watched them and remained
+Without his tears. For seventeen days and nights
+We mourned you, immortals and mortal men;
+On the eighteenth we gave you to the fire,
+Slaughtering many sheep and crooked-horned cattle.
+You burned in the garments of the gods, in oil
+And honey sweet; and many Achaean heroes,
+On foot and mounted, circled the pyre in arms,
+And the ground rang beneath them.
+
+“When Hephaestus’ flame had finished its work,
+At dawn we gathered your white bones, Achilles,
+Washed them with unmixed wine and shining oil,
+And laid them in a golden urn your mother gave,
+A gift of Dionysus, made by Hephaestus.
+There your bones lie mingled with Patroclus,
+But Antilochus rests apart, for you honored him
+Above the rest of all your companions after
+Patroclus died. Around your bones we raised
+A great and splendid mound beside the shore,
+On a headland above the broad Hellespont,
+That men who live now, and those born afterward,
+May see it from the sea. Your mother asked
+The gods for beautiful prizes and set them forth
+Before the noblest Achaeans. You have stood
+Beside the tombs of many dead heroic kings,
+When young men girded themselves for funeral games;
+But never would you have seen games such as those
+Thetis, the silver-footed goddess, gave for you.
+You were beloved by the gods. Even in death
+Your name was not destroyed; your glorious fame
+Will live among mankind forever. But what joy
+Was mine, after so many wars? Zeus planned my death
+On my homeward road, at the hands of Aegisthus
+And my accursed wife.”
+
+The two shades spoke thus together. Then the suitors,
+Led by Hermes, came near; and Agamemnon knew
+Amphimedon, the son of Melaneus,
+His guest-friend from Ithaca. He asked:
+“Amphimedon, why have you all come beneath
+The dark earth, chosen men and all of one age?
+No city could have gathered finer men.
+Did Poseidon overcome you on your ships,
+Raising harsh winds and long waves? Or did enemies
+Destroy you on the land, while you were cutting
+Cattle and sheep, or fighting for a city
+And women? Tell me, for I claim to be your friend.”
+Amphimedon answered him, an Ithacan guest-friend:
 “These men found death within Odysseus’ house.”
 
 ### Lines 99–202 — Amphimedon’s account and Agamemnon’s praise

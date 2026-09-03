@@ -8,7 +8,7 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ## Revised translation pass
 
-### Lines 1–117 — The contest at the doorway
+### Lines 1–154 — The contest at the doorway
 
 Then there came a public beggar, known throughout the city,
 Who begged in Ithaca, and had an insatiable hunger
@@ -111,7 +111,7 @@ Then he walked through the house, grieving, and his mind saw evil.
 He could not escape his fate: Athena bound Irus to be subdued
 By Telemachus’s hands and spear.
 
-### Lines 155–213 — Penelope before the suitors
+### Lines 155–243 — Penelope before the suitors
 
 Athena placed this thought in wise Penelope’s mind:
 To appear before the suitors, so their desire might grow,
@@ -167,7 +167,7 @@ Would make the suitors bend their heads in our halls, some in the courtyard,
 Some within, their limbs loosened, as Irus now sits by the doors,
 Nodding like a drunk, unable to stand or go home.”
 
-### Lines 244–305 — Penelope claims the gifts
+### Lines 244–303 — Penelope claims the gifts
 
 Then Eurymachus addressed the thoughtful queen:
 “Daughter of Icarius, wise Penelope,
@@ -224,7 +224,7 @@ Each Achaean brought another offering.
 Then to her chamber went the queen, and all
 The lovely gifts were carried after her.
 
-### Lines 304–372 — The lamps and the night’s insults
+### Lines 304–411 — The lamps and the night’s insults
 
 The suitors turned to dancing and to song,
 And waited for the darkness. When it came,

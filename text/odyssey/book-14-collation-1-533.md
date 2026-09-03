@@ -8,7 +8,7 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ## Revised translation pass
 
-### Lines 1–72 — Eumaeus and the dogs
+### Lines 1–47 — Eumaeus and the dogs
 
 From the harbor Odysseus climbed the rough path,
 Through the wood and over the heights where Athena
@@ -116,7 +116,7 @@ And choose the finest boar to send away.”
 He spoke; and Odysseus ate the meat and drank the wine,
 Silently, with purpose growing in his heart against the suitors.
 
-### Lines 111–185 — Grief for the absent king
+### Lines 111–190 — Grief for the absent king
 
 When he had eaten, and his spirit was strengthened,
 He filled the stranger's cup with wine and gave it him.
@@ -182,7 +182,7 @@ That I may know: who are you, and from where? Who were your parents?
 Upon what ship did you arrive, and how did the sailors bring you
 To Ithaca? You did not come here on foot.”
 
-### Lines 191–360 — The Cretan tale
+### Lines 191–359 — The Cretan tale
 
 Odysseus answered: “If within this hut
 We had food and sweet wine for a whole year,
@@ -322,7 +322,7 @@ The gods concealed me easily, and brought me
 To this hut of a man who knows his work;
 My measure of living is not yet fulfilled.”
 
-### Lines 360–417 — Eumaeus refuses the promise
+### Lines 360–408 — Eumaeus refuses the promise
 
 Eumaeus answered: “Poor stranger, you have stirred my heart,
 Telling each sorrow and all the wandering you endured.

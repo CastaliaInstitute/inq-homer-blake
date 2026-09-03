@@ -147,7 +147,7 @@ The prudent word, and went upstairs with all
 Her maids, weeping for Odysseus, till Athena
 Sent sweet sleep down upon her.
 
-### Lines 321–394 — The stranger takes the bow
+### Lines 321–434 — The stranger takes the bow
 
 The suitors mocked the prince and the beggar.
 Telemachus wished his strength were greater than

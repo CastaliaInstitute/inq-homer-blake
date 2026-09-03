@@ -45,6 +45,8 @@ jobs:
         run: scripts/preflight_translation.rb
       - name: Run translation completeness preflight
         run: ruby scripts/preflight_translation_completeness.rb
+      - name: Run collation-section preflight
+        run: python3 scripts/preflight_collation_sections.py
       - name: Run translation density preflight
         run: |
           ruby scripts/preflight_translation_density.rb

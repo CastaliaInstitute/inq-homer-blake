@@ -8,7 +8,7 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ## Revised translation pass
 
-### Lines 1–70 — Telemachus comes to the hut
+### Lines 1–54 — Telemachus comes to the hut
 
 At dawn the swineherd and the long-enduring king
 Prepared their breakfast, having kindled fire,
@@ -58,7 +58,7 @@ The roasted meat left from the day before,
 Bread in baskets, and sweet wine in a wooden cup;
 He sat opposite his godlike master, and they ate.
 
-### Lines 55–135 — The house and Telemachus’s danger
+### Lines 55–153 — The house and Telemachus’s danger
 
 When hunger and thirst were gone, Telemachus asked:
 “Father, from where has this stranger come? How did sailors
@@ -134,7 +134,7 @@ We would choose first the day my father came home.
 Tell my mother, and secretly bid the nurse go to the old man;
 She may carry the news to him. I will remain here.”
 
-### Lines 154–222 — Athena calls for recognition
+### Lines 154–220 — Athena calls for recognition
 
 The swineherd took his sandals and went toward the city.
 Athena did not fail to notice him. She came near the hut
@@ -191,7 +191,7 @@ When peasants have taken their unfledged young.
 The tears fell beneath their brows. The light of the sun
 Would have gone down upon their grief, had Telemachus not asked:
 
-### Lines 221–303 — The Phaeacian return and the plan
+### Lines 221–320 — The Phaeacian return and the plan
 
 “By what ship did you come, dear father? Who were the sailors?
 You could not have crossed the sea alone.”
@@ -253,7 +253,7 @@ I urge you to examine the women first—the ones who dishonor you
 And the ones who are blameless. I would not yet test the men
 At the pens; that work can wait, if we receive a sign from Zeus.”
 
-### Lines 321–399 — The ship, Penelope, and the suitors
+### Lines 321–451 — The ship, Penelope, and the suitors
 
 Meanwhile the well-built ship came into the harbor,
 And servants drew the black hull up the shore.

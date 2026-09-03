@@ -113,7 +113,9 @@ pending.
 Book 19 packets are now present for both epics; Iliad Book 19 has received a
 reconciliation-and-arming read-aloud/fidelity review log, and both books’ gates
 remain pending.
-Book 20 packets are now present for both epics, and their gates remain pending.
+Book 20 packets are now present for both epics; Iliad Book 20 has received a
+divine-council and Aeneas read-aloud/fidelity review log, and both books’ gates
+remain pending.
 Book 21 packets are now present for both epics, and their gates remain pending.
 Book 22 packets are now present for both epics, and their gates remain pending.
 Book 23 packets are now present for both epics, and their gates remain pending.

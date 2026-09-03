@@ -2,7 +2,7 @@
 
 **Source passage:** Book 5, lines 1–493 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 Lines 1–42 are recorded in
 text/odyssey/book-05-collation-1-42.md.
 Lines 43–147 are recorded in
@@ -13,6 +13,8 @@ Lines 262–350 are recorded in
 text/odyssey/book-05-collation-262-350.md.
 Lines 351–423 are recorded in
 text/odyssey/book-05-collation-351-423.md.
+Lines 424–493 are recorded in
+text/odyssey/book-05-collation-424-493.md.
 
 Lines 424–493 are recorded in
 text/odyssey/book-05-collation-424-493.md.

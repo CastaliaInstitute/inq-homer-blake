@@ -47,3 +47,25 @@ the final arming of the father and son.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Critical review — 2026-09-03
+
+Book 21 is strongest when its objects carry the suspense: the bow’s inherited
+friendship, the bronze key, the twelve axes, the fire and fat, the separate
+locks, and finally the single arrow lying ready on the table. The scene’s
+Longfellow-like dignity comes from letting ceremony become threat by degrees;
+the contest should not be rushed into Book 22’s violence.
+
+The current pass preserves the Greek order and the major named witnesses: the
+Iphitus provenance, Penelope’s public challenge, Telemachus’s three attempts,
+Leodes’s warning, the suitors’ Apollo-feast postponement, the secret
+recognition of Eumaeus and Philoetius, the door security, and the arrow’s
+passage through all twelve axes. It also correctly ends before Antinous’s
+death.
+
+The remaining weakness is formal rather than structural. The battle-ready
+catalogue of speeches and the final arming tableau need stress-by-stress
+read-aloud review, because several lines carry long syntactic loads. Density
+remains a provisional hold, but expansion should occur only where it restores
+source detail or improves breath and music; repetition would damage the
+scene’s controlled suspense.

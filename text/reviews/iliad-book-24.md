@@ -28,7 +28,7 @@ the meeting with Achilles, Hector's ransom, and the burial truce.
 |---|---|---|
 | Greek fidelity | seven source-collation records | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse; [read-aloud/fidelity log](iliad-book-24-read-aloud.md) | meter report, stress review, and independent read-aloud signoff |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof | approved-text proof and page-map signoff |

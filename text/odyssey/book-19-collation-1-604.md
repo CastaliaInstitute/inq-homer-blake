@@ -125,15 +125,64 @@ But grief remained, deep-rooted in her heart.”
 
 ### Lines 339–371 — The old nurse summoned
 
-Odysseus said that no woman should wash his feet unless she were an old nurse who had endured as much as he. Penelope answered that Eurycleia had nursed the unhappy Odysseus from birth and ordered her to wash the stranger’s feet. The nurse wept, praising the absent master and cursing the women who mocked the beggar. She said that no other stranger had so resembled Odysseus in body, voice, and feet. Odysseus replied that all who had seen them said the same.
+Odysseus said, “Let no young woman wash my feet;
+Only some old nurse, who has borne her share of grief,
+Should touch them.” Penelope answered him:
+“Eurycleia nursed unhappy Odysseus
+From his first hour. She knows the ways of men.”
+She called the nurse, and ordered her to wash him.
+
+The old woman wept, and praised the absent lord,
+While cursing those who mocked the ragged guest.
+“No stranger ever came so like to him
+In body, voice, and feet.” The king replied:
+“So all who have beheld us say the same.”
 
 ### Lines 372–507 — The scar and the silence pact
 
-Eurycleia took a shining bronze basin, poured in cold water, and added warm. Odysseus sat by the hearth and turned toward darkness, fearing that her hands would find the scar and reveal him. As she washed his feet, she touched the wound made by a boar’s white tusk on Parnassus, when Odysseus hunted there with Autolycus and his sons.
+The nurse brought out a shining bronze basin,
+Poured cold water in it, and mingled warm.
+Odysseus sat beside the fire, turning
+His face toward shadow, for he feared her hands
+Would find the scar and make his name apparent.
+She washed his feet; then touched the ancient wound
+That a white boar’s tusk had made above
+His knee, on Parnassus, when he hunted there
+With Autolycus and all his sons.
 
-The poem remembers Autolycus, famed for theft and oath-breaking and favored by Hermes. He came to Ithaca when Odysseus was newly born. Eurycleia placed the child upon his knees and asked him to name him; Autolycus called him Odysseus, “the hated one,” promising gifts when the boy should come to Parnassus. Years later they feasted on a five-year-old bull and went hunting at dawn. In a dense thicket a great boar rushed upon Odysseus, tore the flesh above his knee without reaching the bone, and fell beneath his spear. Autolycus’s sons bound the wound and stopped the dark blood with a spell before sending him home.
+The poem tells of Autolycus, most famed
+For theft and broken oaths, beloved of Hermes.
+He came to Ithaca when Odysseus
+Was newly born. Eurycleia laid the child
+Upon his knees and asked him for a name.
+“Call him Odysseus,” said the man, “the hated one;
+And when he comes to Parnassus, I will give him gifts.”
 
-The nurse’s hands knew the scar. The basin fell, bronze rang, and water spilled. Joy and pain filled her; she touched his chin and cried, “You are Odysseus, dear child.” She looked toward Penelope, but Athena turned the queen’s mind aside. Odysseus seized the nurse by the throat and commanded silence: he had returned in the twentieth year, and if the gods gave him victory over the suitors he would not spare the dishonoring women. Eurycleia promised to hold her tongue and identify them afterward; Odysseus answered that he would know each himself. She fetched another basin, and he covered the scar beneath his rags.
+In later years they feasted on a bull
+Five years old, and at the dawn went out to hunt.
+Within the thicket a great boar rushed,
+Tore the flesh above his knee, but did not reach
+The bone. Odysseus drove his spear and felled him.
+The sons of Autolycus bound the wound,
+And with a spoken charm stopped the dark blood,
+Then sent him home to Ithaca.
+
+The nurse’s fingers knew the scar. The basin
+Fell from her hands; the bronze rang, and the water
+Ran over the floor. Joy and pain possessed her.
+She touched his chin and cried, “You are Odysseus,
+My dear child!” Her eyes sought Penelope;
+But Athena turned the queen’s mind away.
+
+Odysseus seized the nurse about the throat:
+“Be silent. I have come in the twentieth year.
+If Zeus and all the gods give me the victory,
+I will not spare the women who dishonored us.”
+“I will be silent,” said Eurycleia;
+“Afterward I shall know them, one by one.”
+“I shall know them all,” Odysseus replied.
+She brought another basin; he hid the scar
+Beneath his rags and turned again toward the fire.
 
 ### Lines 508–604 — The nightingale, the dream, and the bow
 

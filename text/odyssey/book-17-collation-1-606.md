@@ -290,19 +290,22 @@ Struck him with the footstool.”
 
 ### Lines 492–606 — Penelope summons the stranger
 
-Penelope called Eumaeus: “Go, tell the stranger to come here,
-That I may embrace him and ask whether he has heard or seen
-Anything of long-enduring Odysseus. He looks like one who has wandered.”
+Penelope called Eumaeus: “Go, tell the stranger to come;
+I would embrace him, ask if he has heard
+Or seen the much-enduring king. He looks
+Like one who has wandered far.”
 
-Eumaeus answered: “If only the Achaeans would be silent!
-His speech would charm your heart. I kept him three nights and three days;
-He first came to me after escaping the ship, and has not finished
-The evil tale he tells. As a singer who knows the words of the gods
-And holds men spellbound, so he enchants me in the hall.
-He claims to be an old guest-friend of Odysseus, born in Crete,
-Where the line of Minos dwelt; he says he has come here through pain,
-And has heard that Odysseus is alive in rich Thesprotis,
-Bringing many treasures home.”
+Eumaeus answered: “Would that these Achaeans
+Were silent! His speech would charm your heart.
+Three nights and days I kept him; he came to me
+After escaping from the ship, and still
+Has not completed the sorrow of his tale.
+As a singer who has learned the gods’ own words
+Holds all the hall enchanted, so he charms me.
+He says he is an ancient guest-friend of
+Odysseus, born where Minos once held rule;
+Through pain he came, and heard the king still lived
+In wealthy Thesprotis, bringing treasures home.”
 
 Penelope answered: “Go and call him, that he may speak face to face.
 Let these men amuse themselves by the doors or within the house.
@@ -376,4 +379,3 @@ The late afternoon had come.
 - This draft requires independent Greek-fidelity review, literary review,
   meter review, notes review, and production sign-off before promotion beyond
   `draft`.
-

@@ -1,6 +1,7 @@
 # Odyssey Book 17 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -22,6 +23,11 @@ stillness before the hall resumes its noise. The dog’s recognition benefits fr
 plain diction and a short breath; the suitors’ speeches should feel expansive and
 self-satisfied. Penelope’s postponed interview creates a deliberately suspended
 close, suitable to Longfellow-like narrative anticipation.
+
+The opening of Penelope’s summons to the disguised king was expanded into verse
+in this pass, preserving Eumaeus’s three-night testimony, the singer simile, and
+the request to wait until sunset. The revision remains working evidence pending
+independent review.
 
 ## Open decisions
 

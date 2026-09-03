@@ -74,6 +74,9 @@ appropriate unresolved-review warning.
 editorial packets exist and that each packet's source-map intervals are
 contiguous through its canonical Greek endpoint.
 
+`python3 scripts/preflight_layout.py` verifies the 7 × 10 inch proof geometry
+and confirms that representative rendered pages contain text in both columns.
+
 Book 1 source notes for the [*Iliad*](text/iliad/book-01-notes.md) and
 [*Odyssey*](text/odyssey/book-01-notes.md) record open Greek-fidelity questions
 behind the current drafts.

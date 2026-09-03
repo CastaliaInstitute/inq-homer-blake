@@ -17,7 +17,9 @@
 - [ ] Interior and cover PDFs open without missing fonts or transparency
   warnings.
 - [x] Development PDFs are checked for 7 × 10 inch geometry and encryption by
-  `scripts/preflight_pdfs.py`; release PDFs additionally require embedded fonts.
+      `scripts/preflight_pdfs.py`; release PDFs additionally require embedded fonts.
+- [x] Representative two-column pages are checked by
+      `scripts/preflight_layout.py`.
 - [ ] A rendered proof has been reviewed at 100% and on paper.
 - [ ] Literary, art-historical, attribution, and production sign-offs are
       recorded before release.

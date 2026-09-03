@@ -74,9 +74,26 @@ May hold it against them all.”
 
 ### Lines 126–204 — The storeroom and Melanthius
 
-Agelaus called for the door to be opened and a cry raised through the town. Odysseus answered that one man could hold the passage, and told them to bring armor from the storeroom, for he and Telemachus had placed it nowhere else. Melanthius climbed through a passage to Odysseus’s chamber and brought twelve shields, twelve spears, and twelve helmets. Odysseus’s knees gave way when he saw the suitors arm. Telemachus confessed that he had left the chamber door ajar and sent Eumaeus to discover whether a woman or Melanthius had done it.
+Agelaus called, “Open the door, and raise a cry
+Throughout the town!” Odysseus answered him:
+“One man can hold the passage. Bring the armor
+From the storeroom; nowhere else did we conceal it.”
 
-Eumaeus and Philoetius found Melanthius returning with more armor. They seized and dragged him into the chamber, bound his hands and feet behind him, and hung him from a high pillar beneath the beams, leaving him alive in torment. They returned to Odysseus while the armed men stood at the threshold and within the house.
+Melanthius climbed the secret way, and brought
+Twelve shields, twelve spears, and twelve helmets down.
+The knees of Odysseus failed beneath him
+When he saw the suitors arming at the threshold.
+Telemachus said, “I left the chamber door ajar.
+Send Eumaeus to learn whether a woman did this,
+Or Melanthius.” The two herdsmen went,
+And found him coming back with armor once again.
+
+They seized him, dragged him into the chamber,
+And bound his hands and feet behind his back.
+They hung him from a pillar beneath the beams,
+Leaving him living in his pain. Then they returned
+To stand beside the king, while armed men gathered
+Within the house and at the outer threshold.
 
 ### Lines 205–309 — Athena and the battle
 

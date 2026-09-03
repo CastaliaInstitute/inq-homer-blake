@@ -2,7 +2,7 @@
 
 **Source passage:** Book 4, lines 1–847 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 Lines 1–67 are recorded in
 text/odyssey/book-04-collation-1-67.md.
 Lines 68–167 are recorded in
@@ -13,8 +13,8 @@ Lines 306–624 are recorded in
 text/odyssey/book-04-collation-306-624.md.
 Lines 625–767 are recorded in
 text/odyssey/book-04-collation-625-767.md.
-Lines 625–767 are recorded in
-text/odyssey/book-04-collation-625-767.md.
+Lines 768–847 are recorded in
+text/odyssey/book-04-collation-768-847.md.
 
 ## Translation
 

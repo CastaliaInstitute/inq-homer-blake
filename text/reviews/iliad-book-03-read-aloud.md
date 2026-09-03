@@ -1,11 +1,11 @@
 # Iliad Book 3 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 3.1–120  
+**Scope:** revised working passage, Iliad 3.1–185  
 **Date:** 2026-09-02  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
 
-This log records a focused cadence pass on the opening 120 Greek lines. The
+This log records a focused cadence pass on the opening 185 Greek lines. The
 pass is deliberately limited: it does not certify the whole book, and it does
 not substitute for a human reading aloud from the locked Greek alongside the
 English.
@@ -32,6 +32,8 @@ English.
 | 3.38–57 | Hector's insults could flatten into prose when printed as long lines. | Shortened syntactic runs and preserved the final stone-tunic image as a cadence point. |
 | 3.58–75 | Paris's answer needed a steadier ceremonial rise. | Recast the proposal as an ordered sequence: rebuke, gifts, combat, settlement, return. |
 | 3.76–120 | The truce machinery was dense and easy to under-articulate. | Isolated speech boundaries and material actions; Greek-fidelity review remains open. |
+| 3.121–145 | Iris's disguise, textile, and invitation risked becoming explanatory prose. | Kept the disguise and textile as distinct images, then gave the invitation a measured ascent. |
+| 3.146–185 | The wall scene carries names, judgment, grief, and the Phrygian comparison. | Broke the catalogue into audible units and kept Priam's compassionate release of Helen from blame. |
 
 ## Gate disposition
 

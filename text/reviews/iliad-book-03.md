@@ -35,7 +35,7 @@ catalogue, duel, oath, Helen's wall scene, and divine intervention.
 
 ## Focused cadence pass
 
-The opening passage (Iliad 3.1–120) has received a re-lineation and read-aloud
+The opening passage (Iliad 3.1–185) has received a re-lineation and read-aloud
 working pass documented in [`iliad-book-03-read-aloud.md`](iliad-book-03-read-aloud.md).
 This is useful revision evidence, but it is not a Verse-gate pass: the complete
 book still requires stress review, a complete read-aloud, outlier decisions,

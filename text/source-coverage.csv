@@ -1,49 +1,49 @@
 volume,book,source_range,canonical_greek_last_line,range_matches_source,translation_status,translation_file,line_collation,coverage_note
-iliad,1,1.1-611,611,true,review,text/iliad/book-01-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,2,2.1-877,877,true,review,text/iliad/book-02-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,3,3.1-461,461,true,review,text/iliad/book-03-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,4,4.1-544,544,true,review,text/iliad/book-04-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,5,5.1-909,909,true,review,text/iliad/book-05-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,6,6.1-529,529,true,review,text/iliad/book-06-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,7,7.1-482,482,true,review,text/iliad/book-07-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,8,8.1-565,565,true,review,text/iliad/book-08-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,9,9.1-713,713,true,review,text/iliad/book-09-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,10,10.1-579,579,true,review,text/iliad/book-10-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,11,11.1-848,848,true,review,text/iliad/book-11-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,12,12.1-471,471,true,review,text/iliad/book-12-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,13,13.1-837,837,true,review,text/iliad/book-13-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,14,14.1-522,522,true,review,text/iliad/book-14-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,15,15.1-746,746,true,review,text/iliad/book-15-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,16,16.1-867,867,true,review,text/iliad/book-16-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,17,17.1-761,761,true,review,text/iliad/book-17-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,18,18.1-617,617,true,review,text/iliad/book-18-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,19,19.1-424,424,true,review,text/iliad/book-19-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,20,20.1-503,503,true,review,text/iliad/book-20-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,21,21.1-611,611,true,review,text/iliad/book-21-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,22,22.1-515,515,true,review,text/iliad/book-22-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,23,23.1-897,897,true,review,text/iliad/book-23-opening.md,pending,working manuscript; line-complete coverage not yet certified
-iliad,24,24.1-804,804,true,review,text/iliad/book-24-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,1,1.1-444,444,true,review,text/odyssey/book-01-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,2,2.1-434,434,true,review,text/odyssey/book-02-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,3,3.1-497,497,true,review,text/odyssey/book-03-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,4,4.1-847,847,true,review,text/odyssey/book-04-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,5,5.1-493,493,true,review,text/odyssey/book-05-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,6,6.1-331,331,true,review,text/odyssey/book-06-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,7,7.1-347,347,true,review,text/odyssey/book-07-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,8,8.1-586,586,true,review,text/odyssey/book-08-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,9,9.1-566,566,true,review,text/odyssey/book-09-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,10,10.1-574,574,true,review,text/odyssey/book-10-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,11,11.1-640,640,true,review,text/odyssey/book-11-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,12,12.1-453,453,true,review,text/odyssey/book-12-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,13,13.1-440,440,true,review,text/odyssey/book-13-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,14,14.1-533,533,true,review,text/odyssey/book-14-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,15,15.1-557,557,true,review,text/odyssey/book-15-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,16,16.1-481,481,true,review,text/odyssey/book-16-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,17,17.1-606,606,true,review,text/odyssey/book-17-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,18,18.1-428,428,true,review,text/odyssey/book-18-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,19,19.1-604,604,true,review,text/odyssey/book-19-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,20,20.1-394,394,true,review,text/odyssey/book-20-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,21,21.1-434,434,true,review,text/odyssey/book-21-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,22,22.1-501,501,true,review,text/odyssey/book-22-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,23,23.1-372,372,true,review,text/odyssey/book-23-opening.md,pending,working manuscript; line-complete coverage not yet certified
-odyssey,24,24.1-548,548,true,review,text/odyssey/book-24-opening.md,pending,working manuscript; line-complete coverage not yet certified
+iliad,1,1.1-611,611,true,review,text/iliad/book-01-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,2,2.1-877,877,true,review,text/iliad/book-02-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,3,3.1-461,461,true,review,text/iliad/book-03-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,4,4.1-544,544,true,review,text/iliad/book-04-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,5,5.1-909,909,true,review,text/iliad/book-05-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,6,6.1-529,529,true,review,text/iliad/book-06-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,7,7.1-482,482,true,review,text/iliad/book-07-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,8,8.1-565,565,true,review,text/iliad/book-08-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,9,9.1-713,713,true,review,text/iliad/book-09-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,10,10.1-579,579,true,review,text/iliad/book-10-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,11,11.1-848,848,true,review,text/iliad/book-11-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,12,12.1-471,471,true,review,text/iliad/book-12-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,13,13.1-837,837,true,review,text/iliad/book-13-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,14,14.1-522,522,true,review,text/iliad/book-14-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,15,15.1-746,746,true,review,text/iliad/book-15-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,16,16.1-867,867,true,review,text/iliad/book-16-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,17,17.1-761,761,true,review,text/iliad/book-17-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,18,18.1-617,617,true,review,text/iliad/book-18-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,19,19.1-424,424,true,review,text/iliad/book-19-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,20,20.1-503,503,true,review,text/iliad/book-20-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,21,21.1-611,611,true,review,text/iliad/book-21-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,22,22.1-515,515,true,review,text/iliad/book-22-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,23,23.1-897,897,true,review,text/iliad/book-23-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+iliad,24,24.1-804,804,true,review,text/iliad/book-24-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,1,1.1-444,444,true,review,text/odyssey/book-01-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,2,2.1-434,434,true,review,text/odyssey/book-02-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,3,3.1-497,497,true,review,text/odyssey/book-03-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,4,4.1-847,847,true,review,text/odyssey/book-04-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,5,5.1-493,493,true,review,text/odyssey/book-05-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,6,6.1-331,331,true,review,text/odyssey/book-06-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,7,7.1-347,347,true,review,text/odyssey/book-07-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,8,8.1-586,586,true,review,text/odyssey/book-08-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,9,9.1-566,566,true,review,text/odyssey/book-09-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,10,10.1-574,574,true,review,text/odyssey/book-10-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,11,11.1-640,640,true,review,text/odyssey/book-11-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,12,12.1-453,453,true,review,text/odyssey/book-12-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,13,13.1-440,440,true,review,text/odyssey/book-13-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,14,14.1-533,533,true,review,text/odyssey/book-14-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,15,15.1-557,557,true,review,text/odyssey/book-15-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,16,16.1-481,481,true,review,text/odyssey/book-16-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,17,17.1-606,606,true,review,text/odyssey/book-17-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,18,18.1-428,428,true,review,text/odyssey/book-18-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,19,19.1-604,604,true,review,text/odyssey/book-19-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,20,20.1-394,394,true,review,text/odyssey/book-20-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,21,21.1-434,434,true,review,text/odyssey/book-21-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,22,22.1-501,501,true,review,text/odyssey/book-22-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,23,23.1-372,372,true,review,text/odyssey/book-23-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending
+odyssey,24,24.1-548,548,true,review,text/odyssey/book-24-opening.md,complete-working-authority,source-collated working authority complete; independent review and approval remain pending

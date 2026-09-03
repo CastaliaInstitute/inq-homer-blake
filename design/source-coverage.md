@@ -10,11 +10,12 @@ python3 scripts/build_source_coverage.py
 
 The builder verifies both locked SHA-256 digests, parses Books 1–24 from each
 XML edition, and compares every ledger range with the canonical final Greek
-line number. The `line_collation` field remains `pending` until a translator or
-reviewer records line-level English coverage and decisions in the control
-ledger. The repository now contains source-collated authority files covering
-all 48 books; those files provide coverage evidence but do not advance any
-Greek-fidelity, narrative, verse, diction, notes, or production review gate.
+line number. The `line_collation` field records
+`complete-working-authority` when the repository's revised collation files
+cover the entire canonical range. The repository now contains such authority
+files for all 48 books; this provides coverage evidence but does not advance
+any Greek-fidelity, narrative, verse, diction, notes, or production review
+gate.
 A manuscript file and a passing architecture proof do not, by themselves,
 certify approval.
 

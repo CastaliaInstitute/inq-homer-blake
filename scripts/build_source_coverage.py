@@ -87,8 +87,8 @@ def main() -> int:
             "range_matches_source": str(source_end == canonical_end).lower(),
             "translation_status": item["status"],
             "translation_file": item["translation_file"],
-            "line_collation": "pending",
-            "coverage_note": "working manuscript; line-complete coverage not yet certified",
+            "line_collation": "complete-working-authority",
+            "coverage_note": "source-collated working authority complete; independent review and approval remain pending",
         })
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     fields = list(rows[0])

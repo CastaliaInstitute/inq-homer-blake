@@ -68,6 +68,32 @@ def read_status() -> list[dict[str, str]]:
         return list(csv.DictReader(stream))
 
 
+def complete_working_authority(root: Path, item: dict[str, str], canonical_end: int) -> bool:
+    """Return true only when revised collation files cover the whole book."""
+    match = re.fullmatch(r"(\d+)\.1-(\d+)", item["source_range"])
+    if not match:
+        return False
+    cursor = 1
+    volume_root = root / "text" / item["volume"]
+    prefix = f"book-{int(item['book']):02d}-collation-"
+    intervals = []
+    for path in volume_root.glob(f"{prefix}*.md"):
+        interval = re.search(r"collation-(\d+)-(\d+)\.md$", path.name)
+        if interval:
+            intervals.append((int(interval.group(1)), int(interval.group(2)), path))
+    for start, end, path in sorted(intervals):
+        text = path.read_text(encoding="utf-8")
+        has_editorial_record = re.search(
+            r"^## (?:Revised translation pass|Decisions(?: recorded)?|Decision log|Editorial decisions|Editorial status)\s*$",
+            text,
+            re.MULTILINE,
+        )
+        if start > cursor or not has_editorial_record:
+            return False
+        cursor = max(cursor, end + 1)
+    return cursor - 1 == canonical_end
+
+
 def main() -> int:
     locks = lock_records()
     counts = {volume: greek_books(record) for volume, record in locks.items()}
@@ -79,6 +105,7 @@ def main() -> int:
         book = int(item["book"])
         source_end = int(match.group(2))
         canonical_end = counts[item["volume"]][book]
+        is_complete = complete_working_authority(ROOT, item, canonical_end)
         rows.append({
             "volume": item["volume"],
             "book": item["book"],
@@ -87,8 +114,12 @@ def main() -> int:
             "range_matches_source": str(source_end == canonical_end).lower(),
             "translation_status": item["status"],
             "translation_file": item["translation_file"],
-            "line_collation": "complete-working-authority",
-            "coverage_note": "source-collated working authority complete; independent review and approval remain pending",
+            "line_collation": "complete-working-authority" if is_complete else "pending",
+            "coverage_note": (
+                "source-collated working authority complete; independent review and approval remain pending"
+                if is_complete else
+                "working manuscript; source-collated working authority is incomplete"
+            ),
         })
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     fields = list(rows[0])

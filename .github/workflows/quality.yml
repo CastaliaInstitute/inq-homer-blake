@@ -35,6 +35,10 @@ jobs:
         run: |
           python3 scripts/build_asset_checksums.py
           git diff --exit-code -- design/asset-checksums.csv
+      - name: Rebuild and verify production preflight report
+        run: |
+          python3 scripts/build_preflight_report.py
+          git diff --exit-code -- design/preflight-report.md
       - name: Run font license preflight
         run: ruby scripts/preflight_fonts.rb
       - name: Run translation structure preflight

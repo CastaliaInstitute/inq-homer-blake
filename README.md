@@ -127,6 +127,11 @@ requirements for each volume.
 The [font lock](design/font-lock.md) records the redistributable Cormorant
 Garamond files, OFL 1.1 license, checksums, and proof typography settings.
 
+The generated [production preflight report](design/preflight-report.md)
+consolidates the current proof inventory, comic-size geometry, page-map coverage,
+plate provenance, and outstanding release blockers for editorial or printer
+handoff.
+
 The [cover design proof contract](design/cover-proof.md) defines the
 template-dependent casewrap workflow and keeps the current cover studies
 explicitly separate from release-ready Lulu cover PDFs.

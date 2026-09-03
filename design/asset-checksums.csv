@@ -1,5 +1,5 @@
 plate_id,final_file,sha256,width_px,height_px,color_profile,curation_status
-iliad-book-01-flaxman-blake,assets/source/iliad/met-337355-dp-14470-001.jpg,975fbdacbcc620c8b990635ee668c7c98b1e3caa208747326e6cbd29164bce6e,3621,2342,sRGB,source-review
+iliad-book-01-minerva-flaxman-design-blake-engraving,assets/source/iliad/met-337355-dp-14470-001.jpg,975fbdacbcc620c8b990635ee668c7c98b1e3caa208747326e6cbd29164bce6e,3621,2342,sRGB,source-review
 odyssey-book-22-hall-concept,assets/generated/odyssey/book-22-hall-v1.png,9beb4be8ed49e579185bca7cd0b6d1fc7f5969bcf52147a09ae4a275fe24334c,1122,1402,unprofiled,concept-review
 odyssey-book-05-raft-concept,assets/generated/odyssey/book-05-raft-v1.png,f7d90b67a2beda8bfc8f6cff11c8280ace323bbef1bde89910cc9baf2cf34eaf,1050,1498,unprofiled,concept-review
 iliad-book-03-helen-walls-concept,assets/generated/iliad/book-03-helen-walls-v1.png,f3e11af2ff8ba6099b0bf73a654dd733c93fa2a0a1bbe6c7d7a69b1deea24eb4,1024,1536,unprofiled,concept-review

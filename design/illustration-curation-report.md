@@ -68,9 +68,11 @@ particular Homer passage has been visually proven.
 
 1. **Historical attribution risk.** The Met record supports John Flaxman as
    designer and identifies the engraver plate by plate. It does not support
-   calling either scan a Blake composition. The `iliad-book-01-flaxman-blake`
-   identifier is especially easy to misread and should be treated as a
-   cataloging risk, not corrected silently in this report.
+   calling either scan a Blake composition. The former
+   `iliad-book-01-flaxman-blake` identifier was especially easy to misread and
+   has been replaced by the explicit
+   `iliad-book-01-minerva-flaxman-design-blake-engraving` identifier across the
+   manifest and checksum ledger.
 2. **Concept/final confusion.** Every generated manifest row is
    `concept-review`; the art-direction brief explicitly says the concepts are
    placeholders and not for print. The report therefore recommends selection

@@ -95,7 +95,9 @@ pending.
 Book 13 packets are now present for both epics; Iliad Book 13 has received a
 ship-front and disguise read-aloud/fidelity review log, and both books’ gates
 remain pending.
-Book 14 packets are now present for both epics, and their gates remain pending.
+Book 14 packets are now present for both epics; Iliad Book 14 has received a
+Hera-and-Sleep read-aloud/fidelity review log, and both books’ gates remain
+pending.
 Book 15 packets are now present for both epics, and their gates remain pending.
 Book 16 packets are now present for both epics, and their gates remain pending.
 Book 17 packets are now present for both epics, and their gates remain pending.

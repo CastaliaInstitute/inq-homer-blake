@@ -121,6 +121,8 @@ boundary correction read-aloud/fidelity review log; both books’ gates remain
 pending.
 Iliad Book 22 has now received a Hector-last-stand, chase, and mourning
 read-aloud/fidelity review log; both books’ gates remain pending.
+Iliad Book 23 has now received a funeral-games, contest-order, and synopsis
+correction read-aloud/fidelity review log; both books’ gates remain pending.
 Book 21 packets are now present for both epics, and their gates remain pending.
 Book 22 packets are now present for both epics, and their gates remain pending.
 Book 23 packets are now present for both epics, and their gates remain pending.

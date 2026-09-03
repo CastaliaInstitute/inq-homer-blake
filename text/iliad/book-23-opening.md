@@ -1135,12 +1135,12 @@ Achilles awarded Eumelus a special prize, though he had not finished;
 “He would have won if the goddess had not harmed him.”
 
 In the boxing, Epeius defeated Euryalus. Odysseus and Ajax wrestled,
-but neither could throw the other. Ajax won the foot race, though Athena
+but neither could throw the other. Odysseus won the foot race, though Athena
 made Odysseus slip in dung. The Achaeans laughed; Achilles still grieved.
 
-Diomedes won the spear contest; Meriones won the archery. Teucer missed
-the bird, and Meriones struck it. The final contest was the heavy stone.
-Polypoetes threw farthest, and the games ended near sunset.
+The heavy-stone contest followed: Polypoetes threw farthest. In the archery,
+Teucer missed the bird and Meriones struck it. The final prize distribution
+gave Agamemnon the cauldron and Meriones the spear; the games ended near sunset.
 
 Achilles gave the prizes, remembering Patroclus as each man competed.
 The games made the army's grief public; after them, the men returned

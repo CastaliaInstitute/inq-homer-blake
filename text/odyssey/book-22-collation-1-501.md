@@ -49,9 +49,28 @@ There is no flight, no bargain. Fight, or perish.”
 
 ### Lines 73–125 — The first counterattack
 
-Eurymachus urged the suitors to draw their swords, use tables as shields, and rush together upon the bowman. He seized a sharpened bronze spear, shouting, but Odysseus’s arrow struck his chest beside the nipple and fixed it in the liver. His sword fell; he collapsed upon the table, spilling food and cups. Amphinomus rushed with drawn sword, but Telemachus struck him from behind between the shoulders. Telemachus left the spear in the fallen man and ran for armor, fearing that another Achaean might wrench it free.
+Eurymachus cried, “Draw your swords! Use the tables
+As shields, and rush together at the bowman.”
+He seized a sharpened spear and shouted aloud;
+But Odysseus’ arrow struck him in the chest,
+Beside the nipple, and was fixed within
+The liver. From his hand the sword fell down;
+He sank upon the table, scattering food
+And cups. Amphinomus came with sword unsheathed;
+Telemachus struck him from behind, between
+The shoulders. He left the spear in him,
+And ran for armor, fearing some Achaean
+Might wrench it free and turn it back against him.
 
-He brought four shields, eight spears, and four helmets for Odysseus, himself, Eumaeus, and Philoetius. Odysseus laid aside the bow and quiver, put on a four-layered shield and horsehair helmet, and took two spears. At the far end of the hall was a narrow passage to the street; he ordered Philoetius to guard it, for one good man could hold it against all.
+He brought four shields, eight spears, four helmets,
+For the king, for himself, and for Eumaeus
+And Philoetius. Odysseus laid aside
+The bow and quiver, took a four-fold shield,
+Set on a horsehair-crested helmet, and grasped
+Two spears. At the far end of the hall
+A narrow passage opened toward the street.
+“Guard this,” he said to Philoetius; “one good man
+May hold it against them all.”
 
 ### Lines 126–204 — The storeroom and Melanthius
 

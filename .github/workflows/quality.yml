@@ -12,6 +12,8 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install PDF inspection tools
+        run: brew list poppler >/dev/null 2>&1 || brew install poppler
       - name: Validate manifest headers and CSV shape
         run: |
           scripts/validate_manifests.sh

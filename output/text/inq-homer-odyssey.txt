@@ -2403,27 +2403,31 @@ Telemachus worked and prayed, and sacrificed to Athena
 Beside the stern. A distant man then came near,
 Fleeing Argos after killing one of his own people.
 He was a prophet, descended from Melampus,
-Who had once lived in Pylos among rich sheep-rearing men,
+Who once dwelt in Pylos, rich in sheep,
 Then fled his native land and mighty Neleus,
-Who held much wealth from him for a full year.
-After suffering harsh bonds in the house of Phylacus
-Because of Neleus' daughter and the ruinous madness
-The dread Erinys had placed upon him, Melampus escaped,
-Drove the lowing cattle from Phylace to Pylos,
-Paid back godlike Neleus for his disgrace,
-And brought his brother's wife to his house.
-He went afterward to Argos, where fate ordained him to dwell,
-Married, and built a high-roofed house. There he fathered
-Antiphates and Mantios. Antiphates fathered Oicles;
-Oicles fathered the people-leading Amphiaraus,
-Loved by Zeus and Apollo, but slain at Thebes
-For the sake of a woman's gifts. Amphiaraus' sons
-Were Alcmaon and Amphilochus. Mantios fathered
-Polyphides and Cleitus; Dawn carried Cleitus away
-For his beauty, that he might dwell among the immortals.
-Apollo made Polyphides the best of mortal seers after
-Amphiaraus died. Angry with his father, he went to Hyperesia,
-Where he prophesied to all men. His son was Theoclymenus.
+Who held his wealth from him through all a year.
+For Neleus’ daughter and the madness laid
+Upon him by the dread Erinys, he endured
+Harsh bonds within the house of Phylacus;
+Then broke away, drove lowing cattle home
+From Phylace to Pylos, paid the debt
+To godlike Neleus, and brought back his brother’s wife.
+Afterward fate sent him to Argos, where
+He married, built a high-roofed house, and fathered
+Antiphates and Mantios. Antiphates
+Fathered Oicles; Oicles fathered
+The people-leading Amphiaraus,
+Beloved of Zeus and Phoebus, slain at Thebes
+For a woman’s gifts. His sons were Alcmaon
+And Amphilochus. Mantios fathered
+Polyphides and Cleitus; Dawn bore Cleitus
+Away for beauty, that he might live among
+The immortals. When Amphiaraus died,
+Apollo made Polyphides the best
+Of mortal seers. Angry with his father,
+He went to Hyperesia, and there foretold
+The future to all men. His son was called
+Theoclymenus.
 The seer stood near Telemachus, who was pouring a libation
 And praying beside the black ship. He spoke:
 “Friend, I find you sacrificing here. By these rites,
@@ -2452,19 +2456,22 @@ They passed by the streams of Cruni and fair-flowing Chalcis,
 And when the sun went down came by Phea and divine Elis,
 Where the Epeians rule; from there the ship ran among islands,
 While Telemachus considered whether he would escape death or be taken.
-In the hut Odysseus and the faithful swineherd ate supper,
-While the other men ate beside them. When the meal was over,
-Odysseus tested Eumaeus: “Would you still receive me here,
-Or urge me toward the city? At dawn I wish to go there as a beggar,
-So I will not burden you and your companions. Lead me well,
-And I will wander through the city by necessity, asking
-For a cup and a piece of bread. Perhaps I may reach Odysseus' house,
-Tell the prudent Penelope that I have news, and mix with the arrogant
-Suitors. They have abundant food; I could serve them well.
-By the favor of Hermes, who gives grace and glory to men's work,
-No mortal would surpass me at kindling fire, splitting dry wood,
-Carving meat, roasting it, or pouring wine—the services
-Which lesser men perform for their betters.”
+In the hut Odysseus and the faithful swineherd
+Ate their supper; other men ate near them.
+When the meal was done, Odysseus tested him:
+“Would you still receive me here, or send me down
+Toward the city? At dawn I wish to go
+As a beggar, lest I burden you and yours.
+Lead me, and I will wander through the streets,
+Compelled to ask a cup, a piece of bread.
+Perhaps I may reach the house of wise Penelope,
+Tell her I bear news, and mingle with the suitors.
+They have abundant food; I might serve them well.
+By Hermes’ grace, who crowns the work of men,
+No mortal would surpass me at the fire—
+To split dry wood, to carve and roast the meat,
+Or pour the wine, the offices by which
+The lesser serve the greater.”
 The swineherd groaned: “What thought has entered your mind?
 Do you desire utterly to die? If you would enter the suitors' crowd,
 Their violence and iron pride reaches the heavens. Their servants
@@ -2524,56 +2531,65 @@ Even in pain.
 “There is an island called Syria, if you have heard of it,
 Above Ortygia, where the sun turns. It is not crowded,
 But good—rich in cattle, sheep, wine, and grain.
-Hunger never enters that people, nor any hateful sickness.
-When the tribes of the island grow old, Apollo the Archer
-And Artemis come with gentle arrows and strike them down.
-There are two cities, and all things are divided between them;
-My father, Ctesius son of Ormenus, ruled them both,
-Like an immortal among men.
-“Phoenicians came there, famous sailors and greedy traders,
-Bringing countless trinkets in a black ship. In my father's house
-Was a Phoenician woman, tall, beautiful, and skilled at shining work.
-While she washed clothes near the hollow ship, the Phoenicians
-Enticed her with love. They asked her who she was and from where.
-She pointed toward my father's high-roofed house:
-‘I claim Sidon, rich in bronze, as my land; I am the daughter
-Of wealthy Arybas. Taphian pirates seized me from the fields,
-Brought me here, and sold me to this man, who paid a worthy price.’
-“The man who had secretly slept with her asked: ‘Will you come
-With us now, so that you may see again the high house of your father
-And your mother? They are surely alive and still called wealthy.’
-She answered: ‘That could be, sailors, if you would swear
-To carry me home unharmed.’ They all swore as she commanded.
-When they had sworn and completed the oath, she said:
-‘Be silent. Let none of your companions address me in the street
-Or at the spring. If someone comes to the old man and tells him,
-He may bind me in a painful chain and plan your death.
-Keep this in mind, and hasten your trade. When the ship is full
-Of goods, let a messenger quickly come to my house;
+No hunger enters there, nor any hateful sickness.
+When the island’s people grow old, Apollo
+And Artemis come with gentle arrows, and strike
+Them down. Two cities share the island; all
+Their wealth is divided between them. My father,
+Ctesius, son of Ormenus, ruled them both,
+Like an immortal among mortal men.
+“Phoenicians came there, sailors and greedy traders,
+Bringing many trinkets in a black ship. In
+My father’s house there lived a Phoenician woman,
+Tall, beautiful, and skilled in shining work.
+As she washed garments near the hollow ship,
+They tempted her with love, and asked her name
+And country. She pointed toward my father’s house:
+‘Sidon, rich in bronze, is my land; I am
+The daughter of wealthy Arybas. Taphian pirates
+Seized me from the fields, brought me here, and sold
+Me to this man, who paid a worthy price.’
+“The man who had secretly lain with her asked:
+‘Will you come with us, and see once more the house
+Of your father and your mother? They must live,
+And still be called wealthy.’ She answered: ‘Sailors,
+That might be so, if you would swear to carry me
+Home unharmed.’ They swore as she commanded.
+When the oath was finished, she said: ‘Be silent.
+Let none of you address me in the street or spring.
+If someone tells the old man, he may bind me fast
+And plan your death. Hasten now your trade.
+When the ship is full, send a messenger to me;
 I will bring gold for whoever comes beneath my hand,
-And I would gladly give more in payment: I am raising
-The child of the man himself, clever and eager to run outside.
-I could carry him aboard; he would earn you an immense price
-Wherever you pass among foreign peoples.’
-“She returned to the beautiful house. The Phoenicians remained
-With us a full year, trading their abundant cargo in the ship.
-When the hollow ship was loaded, they sent a messenger to tell her.
-A skillful man came to my father's house with a golden necklace,
-Set with amber; the handmaids and my honored mother
-Touched and examined it, promising the price, while he nodded silently.
-He went back to the ship, and she took my hand and led me out.
-In the forecourt she found the cups and tables of the men
-Who attended my father. They had gone to the assembly and public talk;
-She quickly hid three cups beneath her breast, and I followed,
-Foolish and unsuspecting. The sun set, and all the streets grew dark.
-We hurried to the famous harbor where the Phoenician ship lay.
-They boarded and sailed the watery road, and Zeus sent a fair wind.
+And more besides. I raise the man’s own child,
+Clever and eager to run outside; I could
+Carry him aboard, and he would bring a price
+Wherever you go among the foreign peoples.’
+“She returned into the beautiful house. The Phoenicians
+Stayed a full year, trading their abundant cargo.
+When the hollow ship was loaded, they sent
+A messenger. A skillful man came to my father’s house,
+Bearing a golden necklace set with amber.
+The handmaids and my honored mother touched
+And examined it, and promised him the price;
+He nodded silently, then went back to the ship.
+She took my hand and led me out. Within
+The forecourt stood the cups and tables used
+By those who served my father; they had gone
+To assembly and public speech. She hid
+Three cups beneath her breast, and I followed,
+Foolish, unsuspecting. The sun went down;
+The streets grew dark. We hurried to the harbor,
+Where the Phoenician ship lay. They climbed aboard,
+And sailed the watery road; Zeus sent a fair wind.
 “For six days we sailed by night and day. On the seventh,
-Artemis the Archer struck the woman; she fell into the bilge
-Like a diving sea-bird. They threw her to seals and fish;
-I remained, grieving in my heart. Wind and water drove us to Ithaca,
-Where Laertes bought me with his own possessions.
-Thus my eyes first saw this country.”
+Artemis the Archer struck the woman down.
+She fell into the bilge like a diving sea-bird;
+They threw her to the seals and fish. I stayed,
+Grieving in my heart. Wind and water drove us
+To Ithaca, where Laertes bought me with
+His own possessions. Thus my eyes first saw
+This country.”
 Odysseus answered: “Eumaeus, you have stirred my heart,
 Telling all the griefs you suffered. Yet Zeus placed something good
 Beside your evil: after much pain you came to the house of a gentle man

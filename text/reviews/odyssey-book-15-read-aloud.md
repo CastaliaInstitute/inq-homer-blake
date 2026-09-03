@@ -24,10 +24,10 @@ The chapter should move like a braided narrative: polished Lacedaemonian gifts
 and prophetic speech give way to the wet, plain textures of the swineherd’s hut.
 Helen’s omen is expansive and confident; Theoclymenus’s is brief and declarative.
 The Syrian story should gather through remembered domestic details rather than
-feel like an inserted genealogy. The opening of Eumaeus’s account of Laertes,
-Anticleia, and his place in the household was expanded into verse in this pass;
-the working text remains pending independent Greek-fidelity and read-aloud
-review.
+feel like an inserted genealogy. Theoclymenus’s Melampodid lineage and Eumaeus’s
+account of Syria, the Phoenician woman, the stolen cups, Artemis’s arrow, and
+Laertes’s purchase were expanded into more sustained verse in this pass. The
+working text remains pending independent Greek-fidelity and read-aloud review.
 
 ## Open decisions
 

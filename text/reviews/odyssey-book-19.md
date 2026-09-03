@@ -28,6 +28,14 @@ and bathing order. The added material preserves the report as Odysseus’s
 strategic falsehood while making its emotional pressure and narrative
 foreshadowing legible; independent approval remains open.
 
+The present revision also restores Telemachus’s lamp-lit astonishment and
+silence pact, the women’s night preparation of the hall, Penelope’s account of
+the suitors and her son’s changed maturity, the full hospitality-and-praise
+exchange, the hunt’s mountain and thicket imagery, and the dream’s return to
+the geese. These passages were checked against Odyssey 19.14–50, 19.103–162,
+19.213–240, 19.399–467, and 19.535–604; they remain a literary working pass,
+not independent approval evidence.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; arms plan, twelve-day Cretan delay, scar sequence, dream, and axe contest checked in review log | independent comparison and omissions/additions report |

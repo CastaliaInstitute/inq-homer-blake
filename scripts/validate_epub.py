@@ -38,6 +38,8 @@ def validate(volume: str, epubcheck_jar: Path | None) -> dict:
     require(manifest["publicDistributionApproved"] is False, "editorial EPUB must not be approved for public distribution")
     require(manifest["books"] == 24, "EPUB must contain 24 books")
     require(manifest["illustrationPlates"] == 0, "unapproved plate art must not be embedded")
+    require("Longfellow-inspired" in manifest["translator"], "translation credit must describe inspiration without false attribution")
+    require("Castalia Institute" in manifest["illustrator"], "illustration credit must identify the actual supplement creator")
     require(len(manifest["openEditorialGates"]) == 7, "all editorial and production gates must remain explicit")
     source = ROOT / manifest["source"]
     require(sha256(source.read_bytes()) == manifest["sourceSha256"], "source export checksum differs")

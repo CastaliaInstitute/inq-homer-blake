@@ -73,8 +73,8 @@ def package(title: str, identifier: str) -> str:
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="pub-id">urn:uuid:{identifier}</dc:identifier>
 <dc:title>{esc(title)}</dc:title><dc:creator>Homer</dc:creator><dc:language>en</dc:language>
-<dc:publisher>Castalia Institute</dc:publisher><dc:contributor>Translated by a.Longfellow</dc:contributor>
-<dc:contributor>Illustrated by a.Blake</dc:contributor>
+<dc:publisher>Castalia Institute</dc:publisher><dc:contributor>Castalia Institute translation in the manner of Henry Wadsworth Longfellow</dc:contributor>
+<dc:contributor>Historical Blake material and original Castalia Institute supplements, separately credited</dc:contributor>
 <dc:rights>Private editorial proof. Not approved for sale or public distribution.</dc:rights>
 <meta property="dcterms:modified">2026-09-03T00:00:00Z</meta>
 </metadata>
@@ -113,7 +113,7 @@ def build(volume: str) -> dict:
         shutil.copyfile(font, oebps / "fonts/CormorantGaramond-Regular.ttf")
         (oebps / "css/book.css").write_text("""@font-face{font-family:Cormorant;src:url('../fonts/CormorantGaramond-Regular.ttf')}body{font-family:Cormorant,Georgia,serif;line-height:1.42;margin:6%;color:#211713}p{margin:0 0 .34em}.verse{orphans:2;widows:2}.cover{margin:0;text-align:center}.cover img{display:block;width:100%;height:auto;max-height:100vh;object-fit:contain}.title{text-align:center;padding-top:18%}.title h1{font-size:2.8em;margin-bottom:.5em}.credit{letter-spacing:.06em}.notice{border:.08em solid #7d2d25;padding:1em;margin-top:18%;font-family:Georgia,serif}nav ol{list-style:none;padding:0}nav li{margin:.35em 0}h1{break-before:page;text-align:center}""", encoding="utf-8")
         (oebps / "text/cover.xhtml").write_text(document("Cover", '<img epub:type="cover" src="../images/cover.jpg" alt="Cover of ' + esc(spec["title"]) + '"/>', "cover"), encoding="utf-8")
-        title_body = f'<p>iNQ EPIC</p><h1>{esc(spec["title"])}</h1><p class="credit">Homer</p><p class="credit">Translated by a.Longfellow</p><p class="credit">Illustrated by a.Blake</p><p>Editorial proof</p>'
+        title_body = f'<p>iNQ EPIC</p><h1>{esc(spec["title"])}</h1><p class="credit">Homer</p><p class="credit">A Longfellow-inspired translation by Castalia Institute</p><p class="credit">Historical Blake material and original Castalia Institute supplements</p><p>Editorial proof</p>'
         (oebps / "text/title.xhtml").write_text(document(spec["title"], title_body, "title"), encoding="utf-8")
         notice = '<h1>Editorial proof notice</h1><div class="notice"><p>This edition is a private working proof. It is not approved for sale or public distribution.</p><p>All twenty-four books remain under review. Independent Greek-fidelity, literary, meter, notes, art-direction, production, and physical-proof approvals remain open. Illustration plates are intentionally omitted until final art and rights are locked.</p></div>'
         (oebps / "text/notice.xhtml").write_text(document("Editorial proof notice", notice), encoding="utf-8")
@@ -141,8 +141,8 @@ def build(volume: str) -> dict:
         "schemaVersion": 1,
         "title": spec["title"],
         "author": "Homer",
-        "translator": "a.Longfellow",
-        "illustrator": "a.Blake",
+        "translator": "Castalia Institute (Longfellow-inspired translation)",
+        "illustrator": "Historical Blake material and original Castalia Institute supplements",
         "releaseClass": "private_editorial_proof",
         "saleApproved": False,
         "publicDistributionApproved": False,

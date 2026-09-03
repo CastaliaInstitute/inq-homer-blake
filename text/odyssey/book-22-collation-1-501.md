@@ -168,25 +168,66 @@ Kept watch beside me—lies concealed from death.”
 
 For Medon crouched beneath a newly flayed
 Ox-hide, and there lay hidden from the swords.
-At once he rose and clasped the altar’s shelter.
+At once he rose and clasped Telemachus’ knees.
 Odysseus heard, and laid his anger down.
-“Let both sit here,” he said, “and wait the death
-That passes by them; they are innocent.”
+“Let both sit here,” he said, “beneath the altar;
+The death that sought them shall not find them here.”
 So singer and faithful herald sat apart,
 Their faces pale, their hands upon the stone,
 And watched the death that had passed over them.
 
 ### Lines 379–477 — Women, purification, and Melanthius
 
-Odysseus told Telemachus, the cowherd, and the swineherd to clean the chairs and tables with water and sponges, scrape the floor, and bring the disloyal women into the narrow place between the dome and the courtyard fence. The women carried the dead outside, leaning upon one another and weeping; they washed the chairs and tables, while the men scraped the floor and bore out the refuse.
+Then to Telemachus, and to both the herdsmen,
+The king gave orders: “Wash the chairs and tables;
+With water and the sponges scour the hall.
+Scrape from the floor this black and clotted shame,
+And carry forth the bodies to the door.
+Bring in the women who have turned against us;
+Set them apart, between the dome and fence.”
 
-When the house was ordered, the women were enclosed. Telemachus said that they had poured shame upon him and his mother and slept beside the suitors. He tied a rope from a great pillar around the dome, raised it high so no foot could reach the ground, and the women hung in a row, their necks in nooses, their feet twitching briefly. Melanthius was dragged down; they cut away his nose and ears, severed his hands and feet, and divided them for the dogs.
+The women bore the dead men from the house,
+Supporting one another, weeping low;
+Then washed the chairs and tables, while the men
+Scraped from the floor the blood and all its refuse.
+When ordered stood again the echoing hall,
+They drove the faithless women to the place
+Between the courtyard wall and rounded roof.
+
+Telemachus spoke: “They poured dishonor here
+Upon my mother and upon myself;
+They slept beside the men who sought our ruin.”
+Around the dome, from one great pillar stretched,
+He cast the cord, and lifted it so high
+That no foot touched the earth beneath the row.
+There, in a line, the women hung; their feet
+Moved for a little, then were still as dust.
+
+And Melanthius they dragged from his dark place.
+His nose and ears they severed; hands and feet
+They cut away, and portioned him to dogs—
+A final feast for those whose feast had turned
+The house of the returning king to death.
 
 ### Lines 478–501 — Fire and the faithful women
 
-Odysseus asked Eurycleia for sulfur and fire, so that he might cleanse the hall, house, and courtyard, and told her to summon Penelope and the women. The nurse urged him first to put on cloak and tunic, lest he stand in the hall covered only in rags. He answered that fire must come first. She brought it and the sulfur; Odysseus purified the house, hall, and courtyard.
+Then called Odysseus for sulfur and fire,
+That he might cleanse the house, the hall, the court,
+And told the nurse to summon forth the queen
+And all the women. But wise Eurycleia
+Answered him: “First put your mantle on;
+You stand in rags, not as a king should stand.”
+“Let fire be first,” he said; “the house must breathe.”
+She brought the sulfur and the living flame;
+He purified the hall, the house, the court.
 
-Eurycleia went through the rooms carrying the light and urging the women to come. They came out, embraced Odysseus, kissed his head, shoulders, and hands, and awakened in him the sweet desire for weeping and lamentation: he knew every one of them in his heart.
+Then through the rooms she moved, bearing the light,
+And called the women. From their chambers came
+The faithful ones; around Odysseus pressed,
+And kissed his head, his shoulders, and his hands.
+Within him rose the sweet desire to weep,
+The longing for lament; for in his heart
+He knew them every one, and they knew him.
 
 ## Decision log
 

@@ -4,6 +4,9 @@
 **Status:** First-pass literary draft; source-collated; not yet approved for layout.
 **Source-collated authority:** [Book 20, lines 1–394](book-20-collation-1-394.md)
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
@@ -38,7 +41,9 @@ Penelope awoke upon her soft bed, sat weeping, and prayed first to Artemis:
 carry me away through the misty paths and cast me into Ocean’s backward-flowing
 mouth. Let me die before I gladden the mind of a worse man than Odysseus.”
 Then she remembered the dream that had passed her in the night, like him
-as he was when he marched with the army, and her heart rejoiced as if it
+as he was when he marched with the army, and the daughters of Pandareus,
+carried away by the Harpies to serve the Erinyes after their parents’ death.
+Her heart rejoiced as if it
 had been waking truth. Yet the gods had left her grief and divided mind.
 
 Odysseus heard her crying and wondered whether she had recognized him.

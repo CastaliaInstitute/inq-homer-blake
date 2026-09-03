@@ -67,6 +67,8 @@ Odyssey Book 18 has now received an Irus-contest, Penelope-gifts, and
 warning-sequence fidelity/read-aloud review; its gates remain pending.
 Odyssey Book 19 has now received a scar-recognition, dream, and bow-contest
 fidelity/read-aloud review; its gates remain pending.
+Odyssey Book 20 has now received a night-omens, final-feast, and
+Theoclymenus-vision fidelity/read-aloud review; its gates remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

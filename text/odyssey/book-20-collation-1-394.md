@@ -10,13 +10,48 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ### Lines 1–56 — The forecourt and Athena
 
-Odysseus slept in the forecourt upon an untanned ox-hide, with many fleeces above him, while Eurynome laid a cloak over the sleeper. The women who had joined the suitors came out laughing together. Odysseus’s heart stirred; he considered whether to kill each woman or let them mingle with the arrogant men one final time. His heart growled within him like a dog guarding her young against an unknown man. He struck his breast and rebuked it: “Endure, my heart. You endured when the Cyclops devoured your strong companions, until your cunning led you out of the cave.”
+Odysseus lay in the forecourt on an ox-hide,
+Unworked and brown, with many fleeces heaped above him;
+And over him Eurynome spread a cloak.
+The women who had joined the suitors came forth,
+Laughing together, careless in the night.
+His heart was stirred: should he strike every one,
+Or leave them yet to mingle with the arrogant men?
+Within his breast it growled, as a bitch will growl
+Beside her young when some strange man draws near.
 
-He turned from side to side, like a man beside a great fire who turns an animal’s stomach, filled with fat and blood, so that it may roast quickly. Alone against many, he wondered how he should lay hands upon the suitors. Athena came down from heaven in a woman’s form and stood above his head. “This house is yours,” she said; “your wife is within, and your son is such as a man desires his son to be.”
+He struck his breast and spoke to his own spirit:
+“Endure, my heart. You endured a worse thing once,
+When the Cyclops ate your brave companions there,
+And craft brought you from the dark cave, though you
+Believed that you would die.” His heart obeyed.
 
-“All this is true, goddess,” he answered, “but how shall I face the shameless suitors, always gathered here? If I kill them by Zeus and your aid, where shall I flee? Think on this.”
+He turned from side to side, as one beside a fire
+Turns the great stomach of a sheep, filled with blood
+And fat, that it may roast on every side;
+So he revolved the thought of laying hands
+Upon the suitors, standing one man against so many.
 
-“Reckless man,” she replied, “a mortal trusts even a weaker companion, but I am a god who guards you through every labor. If fifty companies of men surrounded us, hungry for war, you would drive away their cattle and sheep. Let sleep take you; to watch all night is misery.” She returned to Olympus, and sleep loosened his limbs.
+Then Athena came from heaven in a woman’s likeness
+And stood above his head. “This house is yours,”
+She said; “your wife is here, and your son is such
+As any man would pray to see beside him.”
+
+“All this is true,” Odysseus answered, “goddess;
+Yet how shall I confront these shameless men,
+Who gather here continually? And when I have slain them,
+If Zeus and you have granted me the victory,
+Where shall I flee? Consider this for me.”
+
+“You are a reckless man,” the goddess said;
+“A mortal trusts a comrade even weaker than himself,
+But I am a god, and I will guard you through your labor.
+If fifty companies of men should ring us round,
+All hungry for the battle, you would drive them off,
+And carry home their cattle and their sheep.
+Let sleep receive you; to keep watch through the night
+Is weariness itself.” She went again to Olympus,
+And sleep, the loosener of the limbs, descended on him.
 
 ### Lines 57–101 — Penelope’s prayer
 

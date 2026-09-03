@@ -69,7 +69,7 @@ And told the women to prepare themselves. The singer
 Should lead a joyful dance, so that anyone outside
 Would think a wedding took place, and news of death
 Would not spread before they reached the orchard.
-The women armed themselves with clothing; Phemius
+The women arrayed themselves in festive dress; Phemius
 Raised in the house the desire for song and dance.
 Outside, a passerby heard the sound and thought
 The wife of a long-absent husband had at last
@@ -177,6 +177,11 @@ The orchard and old Laertes. Behind,
 The false wedding song still guarded their departure.
 
 ## Decision log
+
+- Replaced “armed themselves with clothing” with “arrayed themselves in
+  festive dress.” The earlier phrase was an awkward literalism that falsely
+  suggested weapons; the revised line restores the household ritual and the
+  wedding-cover deception.
 
 - Penelope’s resistance is preserved as prudence, not coldness; her recognition
   depends on the bed’s rooted olive-tree construction and the private witness

@@ -15,6 +15,11 @@ oar-sign and the final sacrifice to Poseidon. The wedding song and dance protect
 the household from immediate public discovery, and the departure toward Laertes
 keeps the suitors’ families and political consequences in view.
 
+One diction correction is now recorded in the collation authority: “The women
+armed themselves with clothing” became “The women arrayed themselves in
+festive dress.” The earlier phrase was neither graceful English nor a sound
+description of the wedding-cover ritual.
+
 ## Beauty and cadence
 
 The opening should move from the nurse’s urgent announcement to Penelope’s cool

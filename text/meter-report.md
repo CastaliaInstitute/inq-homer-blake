@@ -5,6 +5,6 @@ This report is a reproducible heuristic screen of the working verse. It counts a
 | Volume | Books | Extracted lines | Lines in 8–12 syllable band | Outliers | Status |
 |---|---:|---:|---:|---:|---|
 | Iliad | 24 | 12708 | 7445 | 5263 | screening-only |
-| Odyssey | 24 | 4467 | 2386 | 2081 | screening-only |
+| Odyssey | 24 | 4467 | 2385 | 2082 | screening-only |
 
 Detailed per-book values are in [`meter-report.csv`](meter-report.csv), and every heuristic exception is listed in [`meter-outliers.csv`](meter-outliers.csv) with `unreviewed` status. Human review must inspect stress, substitutions, intentional outliers, and read-aloud revisions.

@@ -107,13 +107,34 @@ Ctesippus of Same, trusting in immense wealth and desiring the wife of long-abse
 
 ### Lines 321–394 — The blood-wet vision
 
-Agelaus urged the suitors to stop striking the stranger or any servant. He advised Telemachus and his mother to let Penelope marry the best man, the one who brought the greatest gifts, so that Telemachus might enjoy and divide his father’s possessions. Telemachus answered that he did not delay his mother’s marriage: she might marry whom she wished, and he would give her countless gifts. But he would not drive her unwillingly from the house. May no god bring that about.
+Agelaus spoke: “Stop striking the stranger, or any servant. Let Telemachus
+and his mother give Penelope to the best man, the one who brings the greatest
+gifts, so that the prince may enjoy his father’s possessions.” Telemachus
+answered: “I do not hold my mother back. Let her marry whom she wishes; I will
+give her countless gifts. But may no god make me drive her, unwilling, from
+this house.”
 
-The suitors broke into an unnatural laughter. Their minds were shaken; they ate bloody flesh, and tears filled their eyes while their hearts imagined lamentation. Theoclymenus, godlike in appearance, spoke: “What evil is this? Your heads, faces, and knees are wrapped in darkness. Cries burn around you; your cheeks are wet with tears; the walls and beautiful crossbeams drip blood. The porch and courtyard swarm with shades rushing toward Erebus. The sun has vanished, and evil mist covers the world.”
+The suitors broke into unnatural laughter. Their minds were shaken; they ate
+bloody flesh, and tears filled their eyes, while each heart imagined mourning.
+Then Theoclymenus, godlike in form, spoke: “What evil is this? Your heads,
+your faces, and your knees are wrapped in darkness. Cries burn around you;
+your cheeks are wet with tears. The walls and beautiful crossbeams drip blood.
+The porch and courtyard swarm with shades that rush toward Erebus. The sun is
+gone, and evil mist covers the world.”
 
-Eurymachus called for the young men to lead him outside, because he spoke like night. Theoclymenus answered: “I need no guide. I have eyes, ears, feet, and a mind that is not contemptible. I go outside, for I see the evil coming upon you, and none of the suitors who devise outrage in Odysseus’s house will escape it.” He went to Peiraeus, who welcomed him.
+Eurymachus called for the young men to lead him outside, since the seer spoke
+like night. “I need no guide,” Theoclymenus answered. “I have eyes, ears, feet,
+and a mind not contemptible. I go, for I see the evil coming upon you; no
+suitor who devised outrage in Odysseus’ house will escape it.” He went to
+Peiraeus, who welcomed him.
 
-The suitors looked at one another and mocked Telemachus, laughing at his guest. One proposed putting the strangers on a ship and sending them to Sicily. Telemachus remained silent, watching his father and waiting for the hour when he would lift his hands against the shameless men. Penelope, seated among the women, heard every word. Their feast had been sweet and abundant, but never would another be so hateful as the meal that the goddess and the strong man were about to prepare for them, because they had first devised such outrage.
+The suitors looked at one another and mocked Telemachus, laughing at his guest.
+One proposed putting the strangers on a ship and sending them to Sicily.
+Telemachus stayed silent, watching his father, waiting for the hour when he
+would lift his hands against the shameless men. Penelope, among the women,
+heard every word. Their feast had been sweet and abundant; never would another
+be so hateful as the meal that goddess and strong man were preparing for them,
+since they had first devised such outrage.
 
 ## Decision log
 

@@ -86,7 +86,9 @@ embassy-and-two-fates read-aloud/fidelity review log, and both books’ gates
 remain pending.
 Book 10 packets are now present for both epics; Iliad Book 10 has received a
 night-raid read-aloud/fidelity review log, and both books’ gates remain pending.
-Book 11 packets are now present for both epics, and their gates remain pending.
+Book 11 packets are now present for both epics; Iliad Book 11 has received a
+wounds-and-healing read-aloud/fidelity review log, and both books’ gates remain
+pending.
 Book 12 packets are now present for both epics, and their gates remain pending.
 Book 13 packets are now present for both epics, and their gates remain pending.
 Book 14 packets are now present for both epics, and their gates remain pending.

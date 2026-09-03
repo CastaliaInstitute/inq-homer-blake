@@ -27,7 +27,7 @@ anchored to 11.618–11.848 in the plate manifest and remains `concept-review`.
 |---|---|---|
 | Greek fidelity | five source-collation records | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse; read-aloud log added | meter report, stress review, and independent read-aloud signoff |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof and concept plate | approved-text proof and page-map signoff |

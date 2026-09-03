@@ -58,7 +58,7 @@ commissioned artwork; these remain placeholders until exact line ranges,
 provenance, rights, and print masters are locked.
 
 Translation status is governed by the [review gates](text/review-gates.md);
-Books 1–16 and 19–24 are currently in review; Books 17–18 remain working drafts.
+Books 1–17 and 19–24 are currently in review; Book 18 remains a working draft.
 
 The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status

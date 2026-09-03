@@ -2,11 +2,11 @@
 
 **Source passage:** Book 14, lines 1–522 (complete working-book draft)
 
-**Status:** First-pass literary draft; source-collated; not yet approved for
+**Status:** Source-collated working translation under line-level review; not approved for
 layout. Revised passes for lines 1–522 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 
-**Source-collated authority:** [`book-14-collation-1-223.md`](book-14-collation-1-223.md)
+**Source-collated authority:** [`book-14-collation-1-223.md`](book-14-collation-1-223.md),
 [`book-14-collation-224-399.md`](book-14-collation-224-399.md), and
 [`book-14-collation-400-522.md`](book-14-collation-400-522.md)
 

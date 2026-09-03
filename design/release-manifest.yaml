@@ -10,11 +10,11 @@ format:
   printing: "Premium Color hardcover target"
   binding: hardcover
   cover_spread: pending_page_count_and_printer_lock
-  cover_template_authority: "Custom Lulu template after interior upload"
+  cover_template_authority: "Printer-specific custom template after interior upload; Lulu is only the working target"
   cover_safety_margin_casewrap_in: 0.75
   cover_spine_edge_clearance_in: 0.125
   cover_pdf_structure: single_page_integrated_spread
-  printer_spec_checked: 2026-09-02
+  printer_spec_checked: "working Lulu target documented 2026-09-02; final vendor confirmation pending"
 
 volumes:
   - id: iliad

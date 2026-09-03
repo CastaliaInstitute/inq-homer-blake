@@ -2,7 +2,7 @@
 
 ## Current production target
 
-- Product: Lulu hardcover casewrap
+- Product: hardcover casewrap (Lulu is the provisional working target; vendor not finally selected)
 - Trim: 6.625 × 10.25 inches (168.275 × 260.35 mm), standard US comic size
 - Interior: 80# White Coated, Premium Color
 - Cover: casewrap; current Lulu stock documentation lists an 80# gloss
@@ -16,9 +16,10 @@
 ## Template authority
 
 The final cover must be a one-page integrated spread containing back cover,
-spine, and front cover. The authoritative template is the custom Lulu
-template generated after each final interior PDF is uploaded; it supplies the
-actual spine width for that page count and paper/binding selection.
+spine, and front cover. The authoritative template is the selected printer’s
+custom template generated after each final interior PDF is uploaded; it supplies
+the actual spine width for that page count and paper/binding selection. Lulu is
+the current working target only and is not a final production lock.
 
 Do not calculate a release spine from an estimate. Store the downloaded
 template beside the final cover source and record its filename, download date,
@@ -45,7 +46,7 @@ not replace the custom printer templates required for final spine calculation.
 
 ```text
 interior_page_count: <locked count>
-template_filename: <downloaded Lulu template>
+template_filename: <downloaded printer template>
 template_downloaded: <YYYY-MM-DD>
 spine_width_in: <template value>
 cover_document_size_in: [<width>, <height>]
@@ -56,7 +57,7 @@ cover_preflight: <pending/pass/revise>
 
 ## Authority
 
-This specification was checked against Lulu's [casewrap guidance](https://help.lulu.com/en/support/solutions/articles/64000308572-creating-your-hardcover-casewrap-cover),
+This specification was checked against the current Lulu working target’s [casewrap guidance](https://help.lulu.com/en/support/solutions/articles/64000308572-creating-your-hardcover-casewrap-cover),
 [custom-cover upload requirements](https://help.lulu.com/en/support/solutions/articles/64000282777-upload-your-cover-file),
 [print-book workflow](https://help.lulu.com/en/support/solutions/articles/64000255486-how-to-create-a-print-book),
 and [paper-stock documentation](https://help.lulu.com/en/support/solutions/articles/64000255473-cover-and-interior-paper-stocks)

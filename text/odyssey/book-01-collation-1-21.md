@@ -31,5 +31,20 @@ narrative, verse, diction, notes, and production sign-off remain pending.
 - **“save Poseidon”:** keeps the emphatic exception in the Greek visible; the
   god's continuing hostility is not generalized to the Olympians.
 
+## Revision log — 2026-09-03
+
+- Recast the opening syntax as “Tell me, O Muse … who, having overthrown Troy's
+  sacred citadel, / wandered far” to restore the Greek sequence while giving
+  the invocation a more deliberate Longfellow-like procession.
+- Moved the sea-sorrow phrase out of “within his heart,” which was an awkward
+  literal carryover in English, while retaining both the maritime suffering
+  and the inward burden.
+- Recast “nor even there escape from toil” as “not even there was he released /
+  from toil among his friends” for clearer grammar and the Greek contrast
+  between homecoming and continuing labor.
+
+These are literary revisions to the working authority. They require renewed
+meter, Greek-fidelity, and independent read-aloud review before approval.
+
 This is a working collation, not a final approval record. Apparatus consultation
 and a second reader's sign-off are still required before the book can advance.

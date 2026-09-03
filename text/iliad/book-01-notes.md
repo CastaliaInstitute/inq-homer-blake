@@ -5,7 +5,7 @@ research notes, not final commentary.
 
 | Passage | Greek feature | Current choice | Review question |
 |---|---|---|---|
-| 1.1–5 | *mēnis*, the poem's opening wrath | “anger” | Should the final English retain “wrath” here to signal the term's exceptional, divine register? |
+| 1.1–5 | *mēnis*, the poem's opening wrath | “wrath” | Retain the exceptional, divine register of *mēnis*; confirm consistency with the epithet policy during independent review. |
 | 1.2–5 | Many lives sent to Hades; bodies left to dogs and birds | Concrete, unsentimental syntax | Preserve the poem's refusal to separate heroic glory from bodily aftermath. |
 | 1.7–8 | Agamemnon and Achilles brought into conflict | “broke apart in strife” | Test whether the line gives enough force to the causative movement without over-explaining it. |
 | 1.12–16 | Apollo's anger follows the priest's dishonor | “deadly sickness” | Confirm the chosen disease term against the final Greek edition and note any textual variant. |

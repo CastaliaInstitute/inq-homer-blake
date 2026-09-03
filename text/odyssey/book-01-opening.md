@@ -24,17 +24,17 @@ text/odyssey/book-01-collation-365-444.md.
 
 ## Translation
 
-Tell me of the man of many turnings, Muse,
+Tell me, O Muse, of the man of many turnings,
 
-who wandered far, after he had brought down Troy's
+who, having overthrown Troy's sacred citadel,
 
-sacred citadel; who saw the cities of many men
+wandered far, and saw the cities of many men,
 
-and learned their minds, and suffered many griefs
+and learned their minds, and suffered on the sea
 
-upon the sea within his heart, striving to save
+many deep sorrows, striving to save
 
-his life and bring his companions home. Yet still
+his life and bring his companions home. Still
 
 he could not save them, though he longed to do so:
 
@@ -62,9 +62,11 @@ But when the circling years had brought the hour
 
 the gods had spun for him to reach his home,
 
-to Ithaca, nor even there escape from toil
+to Ithaca, not even there was he released
 
-among his friends, the gods took pity on him all,
+from toil among his friends; yet all the gods
+
+took pity on him,
 
 save Poseidon; he, unrelenting, nursed his wrath
 

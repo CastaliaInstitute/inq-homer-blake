@@ -8,10 +8,10 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 19 current manifest
+The illustration system has 48 defined book slots and 20 current manifest
 plates. The current set is useful for editorial selection and art-direction
 review, but it contains no approved final art. Two plates are historical
-references from the 1805 Flaxman Homer edition; the other 17 are CastaliaInstitute
+references from the 1805 Flaxman Homer edition; the other 18 are CastaliaInstitute
 original generated concepts. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not
@@ -47,7 +47,7 @@ illustrated.
 | ILI-11 concept | Patroclus tending Eurypylus; useful connective plate toward ILI-16. | The manifest points to a 2100 × 3000 processed placement derivative, while the generated source is 1050 × 1498 px. The derivative is explicitly an enlargement, not a native master; unprofiled. | Keep as a sequence candidate, but regenerate or locate a native master and document the derivative relationship. |
 | ILI-11 v2 concept | Alternate Patroclus/Eurypylus treatment with a clearer hut interior and sea-facing frame. | 1008 × 1560 px, sRGB, concept-review; versioned prompt and checksum are recorded, but it remains below final print-master resolution. | Compare with v1 at thumbnail and passage level; select one canonical candidate before art-direction approval. |
 | ODY-09 concept | Cyclops escape; immediate visual hook and a clear Odyssey ordeal. | The manifest points to a 2100 × 3000 processed enlargement of a 1050 × 1498 generated source; unprofiled and concept-review. | High priority; retain the escape subject, but do not treat the placement derivative as print-ready. |
-| ILI-24 concept | Priam and Achilles; emotionally strong Iliad close. | The manifest points to a 2100 × 3000 processed enlargement of a 1049 × 1499 source; unprofiled and concept-review. Caption currently says clasping knees, while the brief requires the lamp-centered encounter and exact range check. | Highest original-concept priority; advance after caption/range reconciliation and native-master work. |
+| ILI-24 concept | Priam and Achilles; emotionally strong Iliad close. | The v1 manifest points to a 2100 × 3000 processed enlargement of a 1049 × 1499 source. The v2 candidate is a separate 1008 × 1560 sRGB-embedded concept with the lamp-centered encounter and a tighter 24.552–24.620 anchor; both remain concept-review. | Compare v2 against v1, then advance one canonical candidate after caption/range reconciliation and native-master work. |
 | ODY-16 concept | Father and son recognize one another in Eumaeus’s hut; a bridge between return and reclamation. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; keep Athena suggested through light and threshold rather than literal portraiture. |
 | ODY-23 concept | Penelope recognizes Odysseus beside the rooted olive bed; the return arc’s intimate close. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; verify the rooted-bed structure and caption against Book 23. |
 | ODY-13 concept | Odysseus lands at Ithaca as Athena reveals the harbor, olive, and nymphs’ cave; the return arc’s threshold plate. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; keep the action within Book 13 and verify the harbor/cave caption before approval. |

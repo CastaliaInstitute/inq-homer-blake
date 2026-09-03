@@ -43,6 +43,7 @@ approval are recorded.
 | `assets/generated/iliad/book-11-patroclus-eurypylus-v1.png` | `18978c055749ffdec4876f76d6591a573d69f655ccc8e684da062c5181c14da3` | concept-review |
 | `assets/generated/odyssey/book-09-polyphemus-escape-v1.png` | `6830d7c703ccdd54ba6faf33c0a9abc73a34cfbaacc0295de82c53108cf853ea` | concept-review |
 | `assets/generated/iliad/book-24-priam-achilles-v1.png` | `086edfbd4669873fa76ccd567b8728ef326eaa5a4db095a9d9766672205ef85a` | concept-review |
+| `assets/generated/iliad/book-24-priam-achilles-v2.png` | `6b4959925b21a9d87f47a983c546464a120384c915e4616b9fee8f814aae41d2` | concept-review |
 | `assets/generated/odyssey/book-22-hall-v1.png` | `9beb4be8ed49e579185bca7cd0b6d1fc7f5969bcf52147a09ae4a275fe24334c` | concept-review |
 | `assets/generated/iliad/book-16-patroclus-v2.png` | `9ea4fe09507f1fe67ce442081f4bba1e6fd3d3d21da106d2bf0bb20e3440cc7b` | concept-review |
 | `assets/generated/iliad/book-11-patroclus-eurypylus-v2.png` | `3a2a0f735b6fc7d5e7a321b3a8a4af0db9a8662092131bb73c87bc8a78d111a1` | concept-review |

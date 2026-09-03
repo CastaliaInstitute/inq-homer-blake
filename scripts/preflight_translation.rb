@@ -47,7 +47,7 @@ rows.each_with_index do |row, index|
     end
     cursor = 1
     intervals.sort.each do |start_line, end_line|
-      fail!("#{file} has a source-collation gap before line #{start_line}") if start_line > cursor
+      fail!("#{file} has a source-collation gap or overlap at line #{start_line}; expected #{cursor}") if start_line != cursor
       cursor = [cursor, end_line + 1].max
     end
     fail!("#{file} source collation ends at #{cursor - 1}, expected #{expected_end}") unless cursor == expected_end + 1

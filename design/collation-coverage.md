@@ -35,7 +35,7 @@ for row in csv.DictReader(open("text/source-coverage.csv")):
         if match:
             intervals.append((int(match.group(1)), int(match.group(2))))
     for start, stop in sorted(intervals):
-        assert start <= cursor, (volume, book, cursor, start)
+        assert start == cursor, (volume, book, cursor, start)
         cursor = max(cursor, stop + 1)
     assert cursor == end + 1, (volume, book, cursor, end)
 print("full-range gaps: none")

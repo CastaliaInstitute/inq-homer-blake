@@ -1,4 +1,4 @@
-# *Iliad* 1.430–611 — Chryse, Thetis, Zeus, and the divine feast collation
+# *Iliad* 1.431–611 — Chryse, Thetis, Zeus, and the divine feast collation
 
 **Copy text:** D. B. Monro and T. W. Allen, *Homeri Opera* (Oxford, 1920),
 Perseus `urn:cts:greekLit:tlg0012.tlg001.perseus-grc2`, pinned commit
@@ -12,7 +12,7 @@ narrative, verse, diction, notes, and production sign-off remain pending.
 
 | Greek lines | Required semantic units | English location |
 |---|---|---|
-| 430–445 | Odysseus reaches Chryse; the ship is moored; Chryseis is returned; Odysseus explains Agamemnon's commission and the hecatomb | Apollo's appeasement |
+| 431–445 | Odysseus reaches Chryse; the ship is moored; Chryseis is returned; Odysseus explains Agamemnon's commission and the hecatomb | Apollo's appeasement |
 | 446–474 | Chryses receives his daughter; the sacrifice, prayer, butchery, feast, wine, and paean are performed; Apollo rejoices | ritual restoration |
 | 475–492 | Night's rest and dawn departure; Apollo sends a fair wind; the ship returns; Achilles remains withdrawn from assembly and war | return and Achilles's isolation |
 | 493–510 | On the twelfth dawn the gods go to Olympus; Thetis ascends, clasps Zeus's knees, and asks that Achilles be honored by Trojan strength | Thetis before Zeus |

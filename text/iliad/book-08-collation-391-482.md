@@ -1,4 +1,4 @@
-# *Iliad*, Book 8, lines 350–482 — collation record
+# *Iliad*, Book 8, lines 391–482 — collation record
 
 **Source lock:** `data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml`
 
@@ -10,11 +10,11 @@ Iris’ threats, the return to Olympus, and Zeus’ Patroclus prophecy were chec
 
 ## Decisions recorded
 
-- **350–380 — divine frustration:** Restored Hera’s pity, Athena’s grievance over
+- **391–425 — divine frustration:** Restored Hera’s pity, Athena’s grievance over
   Heracles and Achilles, and the threatened destruction of the Achaean ships.
-- **381–425 — Iris’ recall:** Preserved Hera’s harnessing, Athena’s armor, the gates
+- **426–445 — Iris’ recall:** Preserved Hera’s harnessing, Athena’s armor, the gates
   of heaven, Zeus’ lightning threat, Iris’ message, and Hera’s withdrawal.
-- **426–482 — Olympus:** Restored the Hours, the chariot return, Zeus’ rebuke, the
+- **446–482 — Olympus:** Restored the Hours, the chariot return, Zeus’ rebuke, the
   goddesses’ silence and resentment, and the prophecy that Hector will continue until
   Achilles rises beside Patroclus’ body.
 

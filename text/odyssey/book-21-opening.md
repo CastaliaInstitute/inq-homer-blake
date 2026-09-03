@@ -108,10 +108,20 @@ Beside your lord, or beside the suitors? Speak.”
 Philoetius lifted both his hands to Zeus:
 “If you would fulfill this hope, let that man return;
 Then you would know my strength and hands.” The king
-Showed them the scar the boar had made above
-His knee on Parnassus. They knew him then,
-Embraced him, kissed his head and shoulders, nearly
-Weeping away the daylight, till he checked them.
+Answered them: “I am he. After twenty years of pain
+I have returned to my fatherland. I know that I come
+As welcome to you two alone among the servants;
+No other man has prayed to see me home again.
+If Zeus gives me the suitors, I will bring you both
+Wives, give you cattle and houses near my own,
+And you shall be companions to Telemachus,
+His brothers and his friends.” Then he showed the scar
+The boar had made above his knee on Parnassus.
+They knew him, flung their arms around their king,
+Kissed head and shoulders, and wept until the light
+Would fail; but he restrained them: “Stop your lament.
+Someone may come out, and carry word within.
+Go in first, one by one; I will follow after you.”
 
 He told Eumaeus: “When they refuse the bow,
 Bring it to me, with the quiver. Tell the women
@@ -151,15 +161,24 @@ The destroyer of men.”
 But the stranger answered: “I do not desire
 To match my youth against the strength of young men;
 Let us defer the trial until dawn.”
-Eurymachus said: “No man must hope to marry
-Penelope; yet we should be shamed indeed
-If some poor wanderer proved stronger than we.”
+Eurymachus answered: “Lady, we do not believe
+This man will take you from us; it is not fitting.
+But shame would reach the men and women of Achaea
+If, courting the wife of blameless Odysseus,
+We proved so much weaker than a wandering beggar
+That he could bend the bow and drive an arrow through.”
 
 Then wise Penelope defended the guest:
-“It is no shame that he should try the bow.
+“Eurymachus, what honor have you, or what good name,
+While you dishonor the house of the best of men
+And eat his wealth? A stranger who comes beneath
+Telemachus’s roof has a share by right; it is not
+Good or just to rob him. Let him try the bow.
 If Apollo grants him victory, I will clothe him,
 Give him a spear, a sword, and shining sandals,
-And send him where his heart desires to go.”
+And send him where his heart desires to go. I do not
+Think he expects to lead me from this house;
+Nor should any suitor sit here grieving for that.”
 
 Telemachus replied: “No Achaean here
 Has greater right than I to give or keep

@@ -33,6 +33,8 @@ jobs:
         run: scripts/preflight_translation.rb
       - name: Run review-packet coverage preflight
         run: ruby scripts/preflight_review_packets.rb
+      - name: Run read-aloud coverage preflight
+        run: ruby scripts/preflight_read_aloud.rb
       - name: Run source-lock preflight
         run: ruby scripts/preflight_source_lock.rb
       - name: Rebuild and verify Greek source coverage ledger

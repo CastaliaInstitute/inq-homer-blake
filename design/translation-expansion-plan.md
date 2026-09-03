@@ -6,7 +6,7 @@ Work in source order within each volume. For every book, compare the expanded En
 
 | Priority | Volume | Book | Source lines | Current words | Screen-floor words | Additional words to floor | Current density | Working file |
 |---:|---|---:|---:|---:|---:|---:|---:|---|
-| 1 | odyssey | 19 | 604 | 2909 | 3020 | 111 | 4.82 | `text/odyssey/book-19-opening.md` |
+| 1 | odyssey | 19 | 604 | 2925 | 3020 | 95 | 4.84 | `text/odyssey/book-19-opening.md` |
 | 2 | odyssey | 20 | 394 | 1659 | 1970 | 311 | 4.21 | `text/odyssey/book-20-opening.md` |
 | 3 | odyssey | 21 | 434 | 1200 | 2170 | 970 | 2.76 | `text/odyssey/book-21-opening.md` |
 | 4 | odyssey | 22 | 501 | 1462 | 2505 | 1043 | 2.92 | `text/odyssey/book-22-opening.md` |

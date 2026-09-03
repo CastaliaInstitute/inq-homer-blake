@@ -23,9 +23,9 @@ same 9.1–9.566 passage and remains `concept-review`.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|
-| Greek fidelity | one source-collation record and plate-range alignment | independent comparison and omissions/additions report |
+| Greek fidelity | source-collation record; singer frame, Circe reference, and Cicones mourning restored in review log | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse and read-aloud review log | meter report and independent read-aloud sign-off |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof and concept plate | approved-text proof and page-map signoff |

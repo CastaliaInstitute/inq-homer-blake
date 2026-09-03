@@ -4,22 +4,34 @@
 
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 Lines 1–566 are recorded in
 text/odyssey/book-09-collation-1-566.md.
 
 ## Translation
 
 Odysseus answered Alcinous: “You ask me my name and country.
+There is no sweeter thing than a singer whose voice delights a hall
+Where guests sit listening and the tables stand full of bread and meat.
 I am Odysseus, son of Laertes, known to men for many turns.
 I live in Ithaca, beneath Mount Neriton. It is rough, but dear.
 No place is sweeter to a man than his own land and people.
 
+Calypso held me in her hollow caverns, and Circe kept me
+In her house on Aeaea; both desired me for a husband,
+But neither persuaded the heart within me. Nothing is sweeter
+Than one’s own land and parents, though a man may live far away.
+
 Now hear the griefs I carried home from Troy. The Cicones lived
 near Ismarus. I sacked their city, killed the men, and divided
 the women and goods among my companions. I told them to leave,
-but they would not listen. The Cicones called neighboring warriors.
+but they would not listen. The Cicones called neighboring warriors,
+More numerous and stronger, skilled in battle from chariots and on foot.
 At dawn they came upon us, more numerous than autumn leaves.
-We fought, but six men from each ship fell, and the rest escaped.
+We fought, but six men from each ship fell, and before we escaped
+We raised each fallen man’s threefold cry, calling his name upon the plain.
 
 The gods sent a north wind against us. For two days we stayed
 beside the shore, with little food. On the third, we raised the mast

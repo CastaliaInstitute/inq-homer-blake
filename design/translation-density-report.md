@@ -46,7 +46,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 16 | review | 481 | 2823 | 5.87 | screen-pass |
 | odyssey | 17 | review | 606 | 3030 | 5.00 | screen-pass |
 | odyssey | 18 | review | 428 | 2559 | 5.98 | screen-pass |
-| odyssey | 19 | review | 604 | 2035 | 3.37 | hold |
+| odyssey | 19 | review | 604 | 2238 | 3.71 | hold |
 | odyssey | 20 | review | 394 | 1495 | 3.79 | hold |
 | odyssey | 21 | review | 434 | 1200 | 2.76 | hold |
 | odyssey | 22 | review | 501 | 1462 | 2.92 | hold |

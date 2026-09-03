@@ -19,6 +19,15 @@ recognition.
 
 ## Gate evidence register
 
+### Revision note — 2026-09-03
+
+The Thesprotian report was expanded to restore the companions’ loss at
+Thrinacia, the Phaeacians’ reception, Pheidon’s oath and treasure store, the
+Dodona consultation, the promised month-turn, and Penelope’s skeptical reply
+and bathing order. The added material preserves the report as Odysseus’s
+strategic falsehood while making its emotional pressure and narrative
+foreshadowing legible; independent approval remains open.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; arms plan, twelve-day Cretan delay, scar sequence, dream, and axe contest checked in review log | independent comparison and omissions/additions report |

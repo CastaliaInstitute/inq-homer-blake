@@ -177,13 +177,40 @@ Odysseus pitied her, yet hid his tears,
 As one who hides a spring beneath the stone.
 
 Again he shaped the lie: “I heard of him
-Near Thesprotis, where the king received him.
-He carried home much gold, and bronze, and iron;
-A seer had read his fate, and said he lived,
-That after many trials he would come,
-And bring his treasure and his friends together.
-The word gave comfort for a little while,
-But grief remained, deep-rooted in her heart.”
+Near Thesprotis, where Pheidon, its king, received him.
+Alive he was, and gathering gold and bronze,
+For he had lost his faithful friends and ship
+Upon Thrinacia, when the gods grew angry
+Because his men had slaughtered Helios’ cattle.
+The waves cast him upon the land of men
+Who live like gods, the Phaeacians; they honored
+His person as a god, and gave him gifts,
+And would themselves have sent him safely home.
+But he preferred to wander, gathering wealth,
+For no man understood the minds of men
+As well as that much-suffering Odysseus.
+
+Pheidon showed me the treasures he had stored—
+So much that ten generations might be fed—
+And swore beside his hearth that ship and crew
+Were ready to convey him to his country.
+But first he sent him to Dodona, there to hear
+From Zeus’s deep-leaved oak how he should go,
+Whether openly or hidden, after long absence.
+He lives, and soon will stand within this land;
+The waning month and the new month shall not pass
+Before he comes.”
+
+Penelope answered: “May the word be fulfilled!
+Then you would quickly know my love and gifts,
+And every man who met you would call you blessed.
+Yet my heart tells me he will never come,
+Nor you receive a convoy from this house;
+For such as he was, welcoming every guest,
+No longer rule here among the men.”
+Then she commanded the attendants to wash him,
+And spread a bed with blankets, fleeces, and bright cloth,
+That he might lie warm until the golden dawn.
 
 ### Lines 339–371 — The old nurse summoned
 

@@ -40,7 +40,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 10 | review | 574 | 3383 | 5.89 | screen-pass |
 | odyssey | 11 | review | 640 | 4047 | 6.32 | screen-pass |
 | odyssey | 12 | review | 453 | 2832 | 6.25 | screen-pass |
-| odyssey | 13 | review | 440 | 1641 | 3.73 | hold |
+| odyssey | 13 | review | 440 | 2202 | 5.00 | screen-pass |
 | odyssey | 14 | review | 533 | 3851 | 7.23 | screen-pass |
 | odyssey | 15 | review | 557 | 3622 | 6.50 | screen-pass |
 | odyssey | 16 | review | 481 | 2823 | 5.87 | screen-pass |
@@ -53,4 +53,4 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 23 | review | 372 | 1150 | 3.09 | hold |
 | odyssey | 24 | review | 548 | 1613 | 2.94 | hold |
 
-**Current holds:** 9 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.
+**Current holds:** 8 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.

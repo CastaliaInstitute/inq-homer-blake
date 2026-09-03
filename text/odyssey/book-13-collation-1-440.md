@@ -13,14 +13,19 @@ Review state: translator working pass; source-collated and awaiting literary rev
 When the great house had grown still, and all the people
 Sat silent, listening, Alcinous spoke:
 
-“Let us add now to the gifts already promised
-A great tripod and a cauldron for the stranger;
+“The garments, gold, and all the gifts already
+Lie in the polished chest; yet let us add
+ A great tripod and a cauldron for the stranger;
 And we, in common, will repay the cost. It is hard
 For one man alone to bear so large a burden.”
 
 Thus he spoke; and the men brought up the gifts,
 And set them in the hall, beneath the portico,
 Where the strong servants of the king might guard them.
+All praised the counsel, and approved the sending;
+The gifts were counted, and the feast prepared.
+And all the house rejoiced.
+Then each man went to sleep within his house.
 At dawn they went down to the sea, and brought
 The bronze aboard. The lord of the Phaeacians
 Placed all in the ship beneath the benches,
@@ -28,6 +33,9 @@ That nothing should hinder the oarsmen's work.
 
 Then Alcinous held a feast. Demodocus,
 The heaven-taught singer, came among them; and Odysseus,
+Honored by all the people, sang among the guests;
+The roasted thighs burned sweetly on the altar,
+And every heart was gladdened by the song.
 Turning continually toward the westering light,
 Longed for the sun to sink. As one who waits
 For supper waits for the oxen's return from the plough,
@@ -44,8 +52,17 @@ And children, with no sorrow entering in.”
 The king poured wine, and lifted up the cup:
 “Farewell, stranger; and when you reach your country,
 Remember us. You are not to forget
-That we have sent you home.” The herald carried
-The bread and meat down to the ship. A bed
+That we have sent you home.”
+Before he crossed the threshold, Odysseus gave
+The two-handled cup into Arete’s hands:
+“Farewell, O queen; may age and death find you
+In peace, as all things mortal must. I go;
+Remain in joy among your children, people,
+And Alcinous, your king.” Then through the doors
+He passed, and the herald went before him,
+To show the path toward the swift ship and sea.
+The herald then carried bread and meat down to the ship;
+A bed
 Was spread for Odysseus beneath the stern;
 He climbed aboard, and the rowers sat in order.
 Alcinous poured dark wine, and prayed to Zeus;
@@ -58,6 +75,10 @@ All night he lay in sleep, while the ship flew onward,
 Swift as a hawk, the swiftest of all winged things.
 No pilot held the helm; no steersman watched;
 The ship herself knew the road appointed her.
+The rowers leaned upon their oars in order,
+And sleep, most sweet, most like the sleep of death,
+Lay on the eyes of him who had endured
+So many wars of men and waves at sea.
 At the first light she reached Ithaca,
 The harbor called Phorcys, ancient lord of the sea.
 
@@ -76,6 +97,8 @@ Is open to mortals; the southern is sacred,
 And through it men may not pass.
 
 The Phaeacians drew up the ship upon the strand.
+She ran half her length upon the land,
+So eagerly the rowers drove her keel ashore.
 They lifted sleeping Odysseus from the stern
 And laid him gently on the sand, with all
 The gifts which great-hearted Athena had won for him
@@ -111,6 +134,10 @@ When the swift ship drew near, he struck it with his hand,
 And it became a stone, rooted beneath the water.
 The stone grew from the keel, and stood close by,
 So that the Phaeacians saw it and were afraid.
+They gazed at one another, speaking winged words:
+“What power has checked our ship upon the sea,
+Though homeward bound she hastened?” None of them
+Knew yet what hand had wrought the wonder there.
 
 Alcinous remembered the word his father once had spoken:
 “The day will come when the Earth-shaker shall hide
@@ -139,6 +166,15 @@ And left me wandering! Let me count the gifts.”
 He counted the bronze, the gold, and the woven garments;
 Nothing was missing. Yet he mourned beside the sea,
 And walked along the beach, thinking what to do.
+He beat his thighs with both hands and cried aloud:
+“What men are these whose land has taken me?
+Are they unjust and savage, or kind to strangers,
+And reverent toward the gods? Where shall I carry
+These riches? Where shall I myself wander now?
+Would I had stayed among the Phaeacians!
+Some other generous king might then have sent me
+To my own country. Yet I cannot leave
+These treasures here, lest others make them spoil.”
 
 Athena came toward him, in the likeness of a young man,
 A shepherd, handsome and tall, his cloak folded
@@ -187,6 +223,12 @@ Who kept your strength alive at Troy. I have hidden you
 From the Phaeacians; and now I come to plan
 The end of all your troubles. You must endure
 In silence, and reveal yourself to no one.”
+No god or man could pass you in all arts
+Of guile; and even here, upon your native soil,
+You cannot lay your many tales aside.
+I could not leave you, though your road was dark:
+I made the Phaeacians love you and receive you,
+And now I weave our counsel for the end.
 
 “I did not wish to leave you long,” she continued,
 “But first I will show you Ithaca.” She lifted
@@ -212,10 +254,26 @@ Odysseus answered: “I should have fallen by their hands,
 Had you not spoken. Stand beside me as at Troy;
 Then I could fight three hundred men, if only
 Your heart would help me.”
+“But why,” he asked, “did you not tell me sooner?
+You knew all things. Was it that I might wander,
+And suffer on the barren sea, while others fed
+Upon my goods? I have not ceased to hope
+That I should yet come home, though every comrade
+Was lost. I feared Poseidon’s ancient anger,
+And therefore you withheld your hand from me.
+Yet now, if you will stand as once at Troy,
+I could withstand three hundred men in battle.”
 
 Athena said: “I will stand with you; and when the hour
 Comes, I shall not be hidden. But first I must make
 You unrecognizable to every mortal eye.”
+“Another man,” she said, “would hurry first
+To see his wife and children after wandering;
+But you desire to test her in the house,
+Who sits through nights and days in grief and tears.
+I knew you would return, though I would not contend
+With Poseidon, your father’s brother, whose heart
+Was angered when you blinded his dear son.”
 
 She touched him with her wand. His skin shrank and withered;
 The dark hair fell from his head. The flesh grew old,
@@ -224,19 +282,28 @@ In a torn, smoke-stained tunic, foul with weather;
 She cast around his shoulders a great deer's hide,
 Worn thin and ragged. She gave him a staff and a patched
 And filthy bag, its strap twisted and broken.
+Thus he would seem a wretched thing to all who saw him—
+To the suitors, his wife, and the son he left
+Within the house—unlike the king he was.
 
 ### Lines 417–440 — Eumaeus and the parting
 
 “Go first,” she said, “to the swineherd Eumaeus.
-He keeps your pigs beside the Raven Rock,
-Near the spring Arethusa. He is faithful to you.
+He guards your swine and knows a gentle heart;
+He loves your son and prudent Penelope.
+He keeps the herd beside the Raven Rock,
+Near Arethusa’s spring, where acorns grow
+For the fat pigs, and black water gives them drink—
+A rich, dark pasture for the swine to feed in.
 Sit there, and ask him how the house is faring.
 I go to Lacedaemon, to summon your son.
 
 “Telemachus went there to ask Menelaus
-For news of you. He sits unharmed in Atreus' house;
-But the young nobles wait along the sea-road,
-Planning to kill him before he reaches home.”
+For tidings of your fame. He suffers nothing:
+He sits in peace within the house of Atreus,
+And countless treasures lie around him there.
+But young men lie in wait upon the sea-road,
+Desiring to kill him before he reaches home.”
 
 She touched him once again. The change was complete:
 Odysseus stood as an old beggar, bent and weathered.

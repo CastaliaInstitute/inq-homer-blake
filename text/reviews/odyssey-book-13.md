@@ -18,6 +18,17 @@ Athena's disguise, the hidden treasure, and the return to Lacedaemon.
 
 ## Gate evidence register
 
+### Revision note — 2026-09-03
+
+The reader-facing pass was expanded against the pinned Greek in the farewell,
+the Phaeacian ship’s transformation, Odysseus’s first lament on Ithaca, and
+the Athena–Odysseus recognition and disguise exchange. The revision restores
+Arete’s farewell, the Phaeacians’ uncertainty, the hero’s inventory and fear
+of theft, Athena’s motive for delaying recognition, Eumaeus’s character and
+pasture, and the precise danger facing Telemachus. The revised pass now clears
+the project’s conservative density screen, but this is not independent
+Greek-fidelity or literary approval.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; departure, Phorcys geography, treasure concealment, and disguise sequence checked in review log | independent comparison and omissions/additions report |

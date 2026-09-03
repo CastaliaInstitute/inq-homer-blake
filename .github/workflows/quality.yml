@@ -29,6 +29,8 @@ jobs:
         run: ruby scripts/preflight_fonts.rb
       - name: Run translation structure preflight
         run: scripts/preflight_translation.rb
+      - name: Run review-packet coverage preflight
+        run: ruby scripts/preflight_review_packets.rb
       - name: Run source-lock preflight
         run: ruby scripts/preflight_source_lock.rb
       - name: Rebuild and verify Greek source coverage ledger
@@ -37,3 +39,9 @@ jobs:
           git diff --exit-code -- text/source-coverage.csv
       - name: Run PDF geometry preflight
         run: python3 scripts/preflight_pdfs.py
+      - name: Run two-column layout preflight
+        run: python3 scripts/preflight_layout.py
+      - name: Run accessible text-export preflight
+        run: python3 scripts/preflight_text_exports.py
+      - name: Check repository diff hygiene
+        run: git diff --check

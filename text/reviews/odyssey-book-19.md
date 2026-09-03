@@ -58,3 +58,9 @@ The shortened duplicate has been removed from both the reading manuscript and
 the collation authority. Book 19 now presents one Cretan tale, followed by
 Penelope’s web and then the clothing test; the correction improves both
 accuracy and dramatic concealment, even though it lowers provisional density.
+
+The present pass also restores the opening’s practical rationale: wine may
+turn the suitors’ iron against one another and disgrace the feast and marriage.
+This is a small addition, but it gives Telemachus’s cover story the Greek’s
+social logic and lets the later arms removal echo the threat of weapons inside
+the banquet hall.

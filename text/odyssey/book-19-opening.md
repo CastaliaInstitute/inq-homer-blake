@@ -26,6 +26,9 @@ As when Odysseus sailed, but dimmed beneath the rafters.’
 Or say, ‘When wine has mastered men, the iron in their hands
 May turn against a brother; therefore we have removed it.’
 Leave us two swords, two spears, and two round shields.”
+“For wine may set a quarrel in their breasts,
+And brother strike at brother, shaming all
+The feast and marriage; iron draws a man.”
 
 Telemachus called the nurse, Eurycleia: “Mother, keep
 The women in the hall until I have concealed

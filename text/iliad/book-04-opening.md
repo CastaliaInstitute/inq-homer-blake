@@ -264,34 +264,45 @@ the younger men; I shall follow with my counsel,
 and they will obey, as is right.”
 
 The son of Atreus went on, rejoicing in his heart. He found
-Peteus’ son Menestheus standing, and around him the Athenians,
-masters of the war-cry. Nearby stood many-counseled Odysseus,
-and around him the unshaken ranks of the Cephallenians.
-Their people had not yet heard the battle-cry; their newly gathered
-phalanxes waited, watching for another Trojan tower to advance
-and begin the fight. Agamemnon rebuked them:
+Peteus’ son Menestheus standing, and round him
+the Athenians, masters of the battle-cry.
+Nearby stood Odysseus, rich in counsel,
+and round him the unshaken Cephallenians.
+Their people had not yet heard the battle-call;
+the newly gathered phalanxes waited, watching
+for another Trojan tower to advance and begin.
+Agamemnon rebuked them:
 
-“Son of Peteus, Zeus-nourished king, clever in evil tricks,
-why shrink back and wait for others? You should stand among the first,
-meet the burning encounter, and hear my feasts announced first,
-when we prepare a feast for the elders. There you gladly eat
-roasted meat and drink honey-sweet wine as long as you wish;
-now you would gladly see ten Achaean towers fighting before you.”
+“Son of Peteus, Zeus-nourished king, skilled
+in crooked counsel, why shrink back and wait
+for others? You should stand among the first,
+meet the burning battle, and hear my feasts
+proclaimed before the elders, when we prepare them.
+There you gladly eat roast meat and drink
+honey-sweet wine as long as you desire;
+now you would gladly see ten Achaean towers
+fighting before you.”
 
-Many-counseled Odysseus looked darkly at him: “Atreus’ son,
-what word escaped the fence of your teeth? How can you say
-we slacken war when we stir sharp Ares against the horse-taming Trojans?
-You will see, if you wish, and if it matters to you, Telemachus’ dear father
-mingling with the front ranks of the horse-taming Trojans.
-Your words are wind.”
+Many-counseled Odysseus looked darkly at him:
+“Atreus’ son, what word escaped the fence
+of your teeth? How can you say that we slacken
+the war, when we stir sharp Ares against
+the horse-taming Trojans? You shall see,
+if you desire it, Telemachus’ dear father
+mingling among the foremost ranks. Your words
+are wind.”
 
-Agamemnon smiled, knowing the man was angry, and took back his speech:
-“God-born son of Laertes, many in counsel, I do not rebuke or command you.
-I know your heart thinks gentle plans, the same plans I do. Let those words
-be healed later, if any harm was spoken; may the gods make all of it wind.”
-He left them and found Tydeus’ high-hearted son Diomedes standing
-among his horses and close-fitted chariots, with Sthenelus beside him,
-son of Capaneus. Agamemnon rebuked him:
+Agamemnon smiled, knowing the man was angry,
+and took back his speech: “God-born son of Laertes,
+rich in counsel, I do not rebuke or command you.
+I know your heart devises gentle plans,
+the same plans I devise. Let those words be healed
+hereafter, if any harm was spoken; may the gods
+make all of it wind.” He left them and found
+Tydeus’ high-hearted son Diomedes standing
+among his horses and close-fitted chariots,
+with Sthenelus beside him, son of Capaneus.
+Agamemnon rebuked him:
 
 “Son of Tydeus, why shrink back, why watch the bridges of battle?
 It was not dear to Tydeus to shrink so, but to fight far before his friends,

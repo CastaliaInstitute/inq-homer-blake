@@ -24,6 +24,7 @@ sign-off remain pending.
 | 4.148–170 | Agamemnon's grief joins the oath's blood, Zeus's future punishment, and Machaon's practical care. | Re-lineated the lament and treatment while preserving the prophecy, named healer, wound materials, and Cheiron's medicine. |
 | 4.171–230 | Agamemnon's exhortations shift between promise, rebuke, Cretan fellowship, and tactical speech. | Re-lineated the ranks, the oath's consequences, Idomeneus's response, and the contrast between courage and retreat. |
 | 4.231–260 | The Ajaxes and Nestor's formation combine a storm simile with practical battlefield order. | Re-lineated the cloud, sheep, chariot, and wall-of-war images while retaining the named commanders and tactical advice. |
+| 4.321–364 | Agamemnon's feast-based rebuke of Menestheus and Odysseus risks flattening the shift from anger to reconciliation. | Re-lineated the waiting ranks, Odysseus's sharp correction, and Agamemnon's restored fellowship while retaining the commanders and Telemachus reference. |
 
 ## Gate disposition
 

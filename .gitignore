@@ -2,6 +2,8 @@
 *.swp
 *.tmp
 tmp/
+__pycache__/
+*.py[cod]
 
 # Large working assets and generated exports
 assets/processed/*

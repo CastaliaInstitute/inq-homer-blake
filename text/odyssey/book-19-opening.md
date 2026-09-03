@@ -96,6 +96,62 @@ Now my parents urge me toward another marriage;
 My son, already grown, is grieved to watch the suitors
 Consume his inheritance, and cannot bear the shame.”
 
+### Lines 163–212 — The Cretan genealogy and storm
+
+Odysseus answered: “Lady, will you never cease
+From asking of my lineage? You will give me
+More grief than I possess. Yet I will speak,
+Though justice bids a man who has been long
+Away from his own country suffer much.
+
+“There is a land called Crete, amid the wine-dark sea,
+Beautiful, rich, and ringed with water; many
+Are the men who dwell there, and ninety cities
+Stand upon the land. Their tongues are mingled:
+Achaeans live among the Cretans born of Crete,
+The great-hearted Eteocretans, Cydonians,
+Dorians of three tribes, and godlike Pelasgians.
+In Crete is Cnossus, a great city, where
+Minos, the nine-year king, held converse with
+Great Zeus. Minos was the father of my father,
+Great-hearted Deucalion; Deucalion begot
+Me and the lord Idomeneus. But I was named
+Aethon, younger born; Idomeneus, older,
+Was stronger. He sailed in the hollow ships
+To Ilium with the sons of Atreus.
+
+“There I saw Odysseus, and gave him gifts.
+For the force of wind had driven him to Crete,
+When he was making for the land of Troy,
+And storms, after he rounded Malea, held him
+At Amnisus, where the cave of Eileithyia
+Opens beside the difficult harbor; barely
+Did he escape the storm. He climbed to Cnossus,
+To seek Idomeneus, and called Odysseus
+His guest and friend; but Idomeneus had gone
+Already with his ships to Ilium. He was
+The tenth or eleventh dawn away. I led
+Odysseus kindly to my house, and loved him,
+Though many treasures filled the rooms. For him
+And for his companions I brought up meal and wine
+From the people, and an ox to sacrifice,
+That they might fill their hearts. Twelve days the bright
+Achaeans stayed: the great North Wind held them fast,
+Nor let them stand upon the land; some god
+Had roused the bitter blast. On the thirteenth
+The wind fell, and they put out to sea.”
+
+He shaped the falsehoods, making them resemble truth.
+She heard him, and her tears ran down; her skin
+Melted like snow upon the mountain peaks
+When the East Wind thaws it, and the West pours
+Its warmer breath; the streams run full below.
+So her fair cheeks dissolved in tears for the husband
+Who sat beside her. Odysseus pitied her,
+Yet kept his eyes unmoving, as though horns
+Were fixed within his lids, or iron held them;
+By craft he hid the tears beneath his eyes.
+
 ### Lines 213–338 — The cloak and the report from Thesprotis
 
 Then prudent Penelope tested the tale again:
@@ -244,6 +300,10 @@ Poured sweet sleep upon her eyelids.
 - The compact opening preserves the complete Book 19 sequence: preparation,
   Penelope’s interview, the Cretan report, the web, the scar recognition,
   the dream, and the twelve-axe contest.
+- The restored lines 163–212 include the ninety Cretan cities, mixed peoples,
+  Deucalion and Aethon genealogy, Idomeneus's absence, the sacrifice for
+  Odysseus's companions, and the thirteenth-day departure; the account remains
+  an intentional falsehood shaped to resemble truth.
 - The literary register is ceremonial and blank-verse-oriented, while remaining
   a working Longfellow-inspired draft rather than a claim of exact imitation.
 - This draft requires independent Greek-fidelity review, literary review,

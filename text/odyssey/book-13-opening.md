@@ -232,7 +232,7 @@ She cast around his shoulders a great deer's hide,
 Worn thin and ragged. She gave him a staff and a patched
 And filthy bag, its strap twisted and broken.
 
-### Lines 404–440 — Eumaeus and the parting
+### Lines 417–440 — Eumaeus and the parting
 
 “Go first,” she said, “to the swineherd Eumaeus.
 He keeps your pigs beside the Raven Rock,

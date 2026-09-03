@@ -67,7 +67,7 @@ His word was not winged in vain. Penelope washed,
 Put on clean robes, and prayed to all the gods
 That Zeus would complete his vengeance.
 
-### Lines 61–161 — Penelope hears the report
+### Lines 74–161 — Penelope hears the report
 
 Telemachus crossed the hall, spear in hand; two bright dogs
 Followed him. Athena poured marvelous grace around him,

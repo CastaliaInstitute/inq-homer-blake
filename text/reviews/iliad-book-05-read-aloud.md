@@ -23,6 +23,7 @@ remain pending.
 | 5.166–240 | Aeneas and Pandarus' tactical dialogue can lose its specific material stakes when compressed. | Kept the shield-wall, Aesepus, the absent team, eleven chariots at Lycaon's house, Pandarus' bow-vow, and the deliberate division of reins and spear. |
 | 5.241–273 | Sthenelus' warning and Diomedes' reply must show confidence governed by Athena, not simple bravado. | Separated the two champions' identities, the refusal to crouch, the horse-taking command, and the descent from the chariot. |
 | 5.274–296 | Pandarus' final exchange depends on a precise chain from shield to corselet to eye, teeth, tongue, and loose horses. | Kept the spear claims, Ares' satisfaction, Athena's guidance, the bodily wound, and the clattering fall in distinct beats. |
+| 5.297–342 | Aeneas' lion-like defense and Aphrodite's intervention need to separate mortal force, maternal rescue, and the first wound to an immortal. | Preserved the hip/socket injury, black night, robe-shield, Sthenelus' horse seizure, Deipylus, the Graces' robe, and the flow of ichor. |
 
 ## Gate disposition
 

@@ -30,6 +30,20 @@ ledger.each_with_index do |row, index|
     fail!("#{packet_path} missing #{gate} gate row") unless packet.match?(/^\| #{Regexp.escape(gate)} \|/)
   end
 
+  ledger_gate_fields = {
+    "Greek fidelity" => "greek_review",
+    "Narrative" => "narrative_review",
+    "Verse" => "verse_review",
+    "Diction" => "diction_review",
+    "Notes" => "notes_review",
+    "Production" => "production_review",
+  }
+  passed_gates = ledger_gate_fields.select { |_, field| row[field] == "pass" }
+  unless passed_gates.empty?
+    fail!("#{packet_path} records a passed gate without a named reviewer") if packet.match?(/^\*\*Reviewer:\*\*\s*(?:unassigned|)$/i)
+    fail!("#{packet_path} records a passed gate without a review date") if packet.match?(/^\*\*Review date:\*\*\s*(?:unassigned|)$/i)
+  end
+
   coverage_row = coverage.find { |candidate| candidate["volume"] == volume && candidate["book"].to_i == book }
   fail!("#{packet_path} has no canonical source-coverage row") unless coverage_row
   expected_end = coverage_row["canonical_greek_last_line"].to_i

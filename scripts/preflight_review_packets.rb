@@ -46,6 +46,15 @@ ledger.each_with_index do |row, index|
     fail!("#{packet_path} source-map gap before line #{start_line}") if start_line > cursor
     target = File.expand_path(link, File.dirname(packet_path))
     fail!("#{packet_path} links to missing authority #{link}") unless File.file?(target)
+    authority = File.read(target)
+    has_translation_authority = authority.include?("## Revised translation pass") ||
+      authority.match?(/English location|Revised translation/i) ||
+      authority.match?(/## (?:Editorial )?decisions\b/i)
+    fail!("#{target} has no translation/collation authority section") unless has_translation_authority
+    fail!("#{target} has no pinned Greek source") unless authority.match?(/Perseus(?:DL)?|canonical Greek|source-lock\.md|Greek copy text/i)
+    has_checksum = authority.match?(/SHA-256\s*:\s*`[^`]+`|SHA-256\s*\n\s*`[^`]+`/)
+    has_source_revision = authority.match?(/(?:Source|Perseus) revision:|\*\*Source lock:\*\*|source-lock\.md/i)
+    fail!("#{target} has no source revision or checksum") unless has_checksum || has_source_revision
     cursor = [cursor, end_line + 1].max
   end
   fail!("#{packet_path} source map ends at #{cursor - 1}, expected #{expected_end}") unless cursor == expected_end + 1

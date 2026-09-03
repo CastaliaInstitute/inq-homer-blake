@@ -10,8 +10,8 @@
 - Material boundary: the requested 80# coated specification applies to the
   interior pages; casewrap cover stock and endsheet construction remain the
   printer's separate product specifications.
-- Release state: not yet exportable; page counts and printer templates are
-  still pending
+- Release state: architecture counts are recorded, but final printer templates
+  and release exports are still pending
 
 ## Template authority
 
@@ -38,6 +38,10 @@ page count, and template dimensions in the release manifest.
   protection, embedded fonts or outlined type, and flattened transparency.
 
 ## Release record required for each volume
+
+Current architecture counts are 349 pages for the Iliad and 139 pages for the
+Odyssey. These counts are suitable for regenerating design studies, but they do
+not replace the custom printer templates required for final spine calculation.
 
 ```text
 interior_page_count: <locked count>

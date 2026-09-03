@@ -53,3 +53,9 @@ slightly flatter than the prophetic texture of the Greek, and the long travel
 catalogue needs stress-by-stress read-aloud work. No Book 24 political
 settlement has been imported; the book still closes at the departure for
 Laertes’ orchard.
+
+The opening exchange now restores Eurycleia’s second oath, her scar evidence,
+her willingness to die if she has deceived Penelope, and Penelope’s decision
+to descend and see the dead suitors. These details are from Odyssey 23.69–84;
+they are essential to the recognition scene’s skeptical movement and were
+missing from the earlier compact pass.

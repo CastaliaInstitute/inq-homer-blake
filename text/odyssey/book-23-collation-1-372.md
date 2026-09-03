@@ -53,10 +53,14 @@ To reason with his father; perhaps the king
 Was angry that she did not know him at once,
 While they had slain the greatest men of Ithaca.
 
-She told Telemachus to reason with his father: perhaps Odysseus blamed her
-because she did not immediately recognize him, while the household had killed
-the greatest men of Ithaca. Telemachus praised his father’s wisdom and said
-they would follow him, lacking no courage.
+She told Telemachus to reason with his father: perhaps
+The king was angry that she did not know him,
+While they had slain the greatest men of Ithaca.
+But wise Telemachus answered: “Mother, why
+Do you accuse yourself? No other wife would wait
+So long, when once her husband seemed to perish.
+My father’s heart is wiser than our own;
+We shall obey him, and shall lack no courage.”
 
 ### Lines 128–180 — The false bed
 
@@ -74,14 +78,21 @@ like hyacinth. He sat before Penelope and said that the gods had given her a
 heart harder than stone. “Nurse,” he commanded, “make up a bed outside the
 bedchamber, with fleeces, cloaks, and shining coverlets.”
 
-Penelope had Eurycleia move the bedstead out of the chamber. Odysseus cried
-out that this was difficult even for a skilled man unless a god himself moved
-it. No living mortal could shift the bed, for he had made it around a living
-olive tree: he cut and polished the trunk, raised the chamber walls around it,
-fitted the doors, and built the bed from that rooted sign, decorating it with
-gold, silver, and ivory and stretching a shining ox-hide thong across it.
-He asked whether the rooted bed still stood or whether another man had cut
-away its base.
+Penelope told the nurse to move the steadfast bed.
+Then from the king there broke a startled cry:
+“No easy task is this, not even for
+A craftsman skilled, unless a god has come
+To lend his hand. No mortal man alive
+Could shift it. I myself constructed it:
+Within the court there grew an olive tree,
+Its trunk a pillar, broad and flowering still.
+Around its rooted stem I raised the chamber,
+Fitted the doors, and polished all the wood;
+I shaped the bed from that living sign,
+And over it stretched shining ox-hide thongs,
+With gold and silver and bright ivory.
+Tell me: does that rooted bed still stand,
+Or has some other hand cut through its base?”
 
 ### Lines 181–246 — Recognition and the lengthened night
 
@@ -112,23 +123,40 @@ grant such an age, she hoped they would also grant escape from present evils.
 
 ### Lines 288–372 — The wedding song and departure
 
-Eurynome and the nurse prepared the bed beneath the lamps. Eurycleia returned
-to the house, while Eurynome led Odysseus and Penelope to the old marriage bed.
-Telemachus, the cowherd, and the swineherd stopped the dance and rested in the
-shadowed halls. Husband and wife delighted one another with speech. Penelope
-recounted the suitors’ slaughter of cattle and sheep and the wine drawn from
-the jars; Odysseus told everything he had endured and everything he had made
-others endure, from the Lotus-Eaters and Cyclops through Aeolus, the Laestrygonians,
-Circe, Hades and Tiresias, the Sirens, Scylla and Charybdis, the cattle of the
-Sun, Zeus’s thunderbolt, Calypso, and the Phaeacians. Sleep finally loosened
-their cares.
+Then Eurynome and the nurse prepared the bed
+Beneath the lamps. The old Eurycleia
+Returned into the house; Eurynome led
+The reunited pair toward the marriage bed.
+Telemachus, the herdsmen, and the women
+Let fall the dance and rested in the shade.
 
-At dawn, Odysseus told Penelope that news of the dead suitors would spread
-with the rising sun. She was to remain upstairs with her women and not show
-herself or question anyone. He woke Telemachus, the cowherd, and the swineherd,
-and ordered them to arm. They opened the doors and went out, Odysseus leading.
-Athena hid them swiftly in night as they left the city for the orchard and
-Laertes, while the household’s false wedding song protected their departure.
+Long did the husband and the wife delight
+Their hearts with speech. Penelope recalled
+The suitors’ slaughter of the cattle and sheep,
+The wine they drew from jars within the house;
+And he told all he had endured, and all
+He had made others suffer: Lotus-Eaters,
+The Cyclops, Aeolus, the storming sons
+Of Laestrygon, Circe and the dead,
+The Sirens’ song, Scylla, Charybdis’ throat,
+The Sun’s forbidden cattle, and the bolt
+Of Zeus, Calypso, and the Phaeacians.
+Thus each exchanged the burden of the years,
+Till sleep came softly and released their cares.
+
+At dawn the king addressed his faithful wife:
+“The news will spread with the returning sun;
+The suitors’ kindred will arise for blood.
+Remain above with all your women; do not
+Go forth, nor question those who come and ask.”
+Then he awoke Telemachus, and called
+The cowherd and the swineherd; all were told
+To arm themselves. They opened wide the doors
+And went forth, with Odysseus at their head.
+Athena wrapped them swiftly round with night
+As through the city they went out toward
+The orchard and old Laertes. Behind,
+The false wedding song still guarded their departure.
 
 ## Decision log
 

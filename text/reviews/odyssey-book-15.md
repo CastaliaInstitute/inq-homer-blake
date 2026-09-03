@@ -21,9 +21,9 @@ and the arrival at the swineherd's yard.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|
-| Greek fidelity | one source-collation record | independent comparison and omissions/additions report |
+| Greek fidelity | source-collation record; twin journeys, gift inventory, omens, and Eumaeus biography checked in review log | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse and read-aloud review log | meter report and independent read-aloud sign-off |
 | Diction | collation decisions | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof | approved-text proof and page-map signoff |

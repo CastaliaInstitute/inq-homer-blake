@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; source-collated; not yet approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 **Source-collated authority:** [Book 15, lines 1–557](book-15-collation-1-557.md).
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.

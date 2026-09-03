@@ -4,6 +4,9 @@
 
 **Status:** First-pass literary draft; source-collated; not yet approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 **Source-collated authority:** [Book 16, lines 1–481](book-16-collation-1-481.md).
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
@@ -83,7 +86,7 @@ With cries sharper than birds of prey when farmers steal their young.
 He asked how Odysseus crossed the sea. “The Phaeacians carried me
 Sleeping to Ithaca,” said the king, “and gave me bronze, gold, and cloth,
 Stored in a cave by Athena's counsel.” He asked the number of the suitors.
-Telemachus counted fifty-two from Ithaca, six from Dulichium,
+Telemachus counted fifty-two from Ithaca, six servants from Dulichium,
 Twenty-four from Same, twenty from Zacynthus, twelve more Ithacans,
 The herald Medon, the singer, and two servants.
 

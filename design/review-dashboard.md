@@ -59,6 +59,8 @@ Odyssey Book 14 has now received an Eumaeus-hut and disguised-fiction
 fidelity/read-aloud review; its gates remain pending.
 Odyssey Book 15 has now received a twin-journey, omen, and biography
 fidelity/read-aloud review; its gates remain pending.
+Odyssey Book 16 has now received a recognition, suitor-census, and weapons-plan
+fidelity/read-aloud review; its gates remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

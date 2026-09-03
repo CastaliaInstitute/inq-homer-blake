@@ -23,14 +23,14 @@ Had mortal hands laid its foundations there;
 And therefore it was never made to stand.
 
 So long as Hector lived, while still Achilles
-Nursed his anger, and the city of the king
+Nursed his anger, and Priam’s city
 Remained unbroken, so long that great work
 Endured. But when the bravest Trojans fell,
 And many Argives too, and Priam’s town
 Was taken in the tenth returning year,
-And all the Greeks sailed homeward, then the gods
-Would find its ending. Poseidon and Apollo
-Would turn the rivers upon it: Rhesus, clear
+And all the Greeks sailed homeward, then Poseidon
+And Apollo would devise its ruin. They
+Would turn the rivers on it: Rhesus, clear
 Heptaporus, Caresus, Rhodius,
 Grenicus, Aesepus, sacred Scamander,
 And Simoeis, where so many shields

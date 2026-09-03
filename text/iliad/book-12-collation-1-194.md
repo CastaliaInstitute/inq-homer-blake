@@ -184,6 +184,10 @@ Iamenus, and Orestes, one after another, down upon the earth.
 
 ## Decision record
 
+- Recast “the city of the king” as “Priam’s city,” and made Poseidon and Apollo
+  the grammatical agents of the wall’s ruin. The revision restores the Greek’s
+  named agency and removes an unnecessary abstraction from the prophecy.
+
 | Greek range | Decision | Reason / remaining check |
 |---|---|---|
 | 12.1–9 | Keep the wall's lack of hecatombs and its consequent impermanence explicit. | The Greek makes ritual omission part of the architecture's fate; do not reduce it to a generic “temporary wall.” |

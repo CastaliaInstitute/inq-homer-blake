@@ -28,7 +28,12 @@ review.
 - The Longfellow-inspired register should make Sarpedon’s speech grave and lucid,
   while Hector’s breach needs shorter, heavier clauses to preserve impact.
 - The meter report is only a syllable screen. A named human reader must still
-  review stress, proper names, spatial transitions, and the long similes’ breath.
+review stress, proper names, spatial transitions, and the long similes’ breath.
+
+The opening received one clarity revision: “the city of the king” became
+“Priam’s city,” and Poseidon and Apollo now explicitly “devise its ruin.” This
+keeps the prophetic agency concrete and strengthens the transition into the
+river catalogue; it remains subject to independent Greek and meter review.
 
 ## Gate disposition
 

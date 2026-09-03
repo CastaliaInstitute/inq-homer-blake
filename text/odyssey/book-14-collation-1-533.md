@@ -184,35 +184,38 @@ To Ithaca? You did not come here on foot.”
 
 ### Lines 191–360 — The Cretan tale
 
-Odysseus answered: “If we had food and sweet wine
-For a full year within the hut, and other men went on with their work,
-I could not finish telling all the griefs my spirit has suffered
-By the will of the gods. I claim broad Crete as my birthplace,
-Son of a wealthy man. Many other sons, legitimate,
-Were born and raised in the house by his wedded wife;
-But my mother was a purchased concubine. Castor, son of Hylax,
-Honored me equally with his true-born sons—
-Castor, whom the Cretans revered like a god,
-For wealth, possessions, and famous children.
+Odysseus answered: “If within this hut
+We had food and sweet wine for a whole year,
+While other men went on with all their work,
+I could not finish telling every grief
+My spirit has endured by will of gods.
+Broad Crete I claim as my birthplace, son
+Of one whose wealth was great. His lawful wife
+Bore many sons and raised them in the house;
+My mother was a purchased concubine.
+Yet Castor, son of Hylax, honored me
+As much as those true-born—Castor, whom Crete
+Revered like a god for riches, goods, and sons.
 
-“The fates of death carried him to Hades; his proud sons
-Divided the estate and cast lots. They gave me little,
-And assigned me a small house. Yet I took to wife
-The daughter of a man whose land was broad,
-For I was not worthless, nor one who fled from battle.
-Now all that has gone. But you can see for yourself
-That the warlike strength which once was mine is gone.
-May you never endure such suffering. Ares and Athena
-Once gave me courage and daring; when I chose an ambush,
-And led the best men against the enemy, my fearless heart
-Never imagined death. I was the first to spring with the spear,
-And struck whichever foe my feet could reach.
+“The fates carried him to Hades. Then
+His proud sons divided all the wealth by lot;
+To me they gave a little and assigned
+A narrow house. Yet I took to wife the daughter
+Of one whose fields were broad; I was not worthless,
+Nor one who fled from battle. All is gone.
+You see yourself the strength that once was mine
+Has faded. May no friend endure such grief.
+Once Ares and Athena gave me courage;
+When I led the best men into ambush, death
+Was not within my thought. I sprang first with
+The spear, and struck the foe my feet could reach.
 
-“I loved no work that belonged to the house—not ploughing,
-Nor the care of a well-ordered household—but ships and war,
-Battles, polished spears, and arrows. Others would shudder;
-Those were the things my heart desired. Each man finds joy
-In a different task, and mine was war.
+“I loved no household labor—not the plough,
+Nor ordered rooms—but ships and war, the clash
+Of battle, polished spear and singing bow.
+Other men shuddered; these were dear to me.
+Each heart finds joy in its appointed task;
+Mine found its joy in war.”
 
 “Before Troy the Achaeans came, I had led nine ships;
 I was chosen commander. We sailed for Troy, and I was there
@@ -470,4 +473,3 @@ Lay beneath the hollow rock, sheltered from the North Wind.
 - This draft requires independent Greek-fidelity review, literary review,
   meter review, notes review, and production sign-off before promotion beyond
   `draft`.
-

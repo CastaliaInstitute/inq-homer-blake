@@ -1,6 +1,7 @@
 # Odyssey Book 14 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -21,6 +22,10 @@ The hut should sound warmer and more exact than the palace: brushwood, goat-hide
 hot meat, barley, and rain give hospitality a tactile register. The Cretan tale
 should lengthen into an alluring but unstable narrative, then yield to Eumaeus’s
 plain disbelief. The final watch beneath the rock provides a quiet, humane close.
+The opening of the Cretan tale was expanded into verse in this pass, preserving
+Castor’s household, the unequal inheritance, and the speaker’s lost appetite for
+war; the working text remains pending independent Greek-fidelity and read-aloud
+review.
 
 ## Open decisions
 

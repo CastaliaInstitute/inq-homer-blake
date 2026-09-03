@@ -13,7 +13,7 @@
 | Books with all six gates passed | 0 |
 | Books approved for layout | 0 |
 | Pending gate records | 288 |
-| Book-level review packets started | 1 |
+| Book-level review packets started | 2 |
 
 All 48 books have complete working verse and contiguous source-collation
 coverage. `review` means the verse is ready for line-level editorial review; it
@@ -25,7 +25,9 @@ layout or print.
 The current repository does not yet contain complete approval records for any
 book. Iliad Book 1 has a first review packet at
 [`text/reviews/iliad-book-01.md`](../text/reviews/iliad-book-01.md), but its
-gates remain pending.
+gates remain pending. Odyssey Book 1 has the matching packet at
+[`text/reviews/odyssey-book-01.md`](../text/reviews/odyssey-book-01.md); its
+gates also remain pending.
 
 - Greek-fidelity source map and omissions/additions report;
 - structural narrative inventory;

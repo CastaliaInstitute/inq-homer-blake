@@ -223,36 +223,45 @@ bringing a mighty storm, and he shudders and drives the sheep
 into a cave—so the dark, shield-and-spear-bristling ranks moved
 with the divinely reared young men beside the Ajaxes into war.
 
-Agamemnon rejoiced and addressed them: “Ajaxes, leaders of the Argives,
-you need no urging; I do not command you. You yourselves drive
-your people to fight with all their strength. Would that Zeus,
-Athena, and Apollo gave every heart such courage! Then Priam’s city
-would soon bow to our hands, taken and sacked.”
+Agamemnon rejoiced, and addressed them: “Ajaxes,
+leaders of the Argives, you need no urging;
+I do not command you. You yourselves drive your people
+to fight with all their strength. Would that Zeus,
+Athena, and Apollo gave such courage to every heart!
+Then Priam’s city soon would bow to our hands,
+taken and sacked.”
 
-He left them and found Nestor, the clear-voiced speaker of the Pylians,
-arranging and urging his companions to fight: great Pelagon, Alastor,
-Chromius, Haimon, lord Bias, and shepherd of the people. He placed
-the horsemen first with horses and chariots, and many excellent footmen
-behind them as a wall of war; the cowards he drove into the middle,
-so that even unwilling men would fight under compulsion.
-To the horsemen he first gave orders: keep your horses in check,
-do not let them plunge into the crowd, do not trust in horsemanship
-and courage to rush alone before the others or fall back—your line
-will be weaker. When a man reaches another chariot from his own,
-let him reach with his spear; thus the older warriors destroyed cities
-and walls, holding this thought and courage in their breasts.
+He left them, and found Nestor, clear-voiced speaker
+of the Pylians, arranging and urging on his friends:
+great Pelagon, Alastor, Chromius, Haimon, lord Bias,
+and shepherd of the people. He placed the horsemen
+first, with horses and chariots, and many excellent
+footmen behind them, a wall of war; the cowards
+he drove into the middle, so that even unwilling men
+should fight beneath compulsion. To the horsemen
+he first gave commands: “Keep your horses in check;
+do not let them plunge among the crowd. Do not trust
+in horsemanship and courage to rush alone before
+the others, or to fall back; your line grows weaker.
+When one man reaches another chariot from his own,
+let him reach forth with his spear. So older warriors
+destroyed cities and walls, holding this thought
+and courage in their breasts.”
 
-Agamemnon rejoiced to see the old man: “Elder, would that your knees
-followed the spirit in your dear breast and your strength remained firm!
-But age wears you down. Would that another man had your years,
-and you could belong among the younger.”
+Agamemnon rejoiced to see the old man: “Elder,
+would that your knees followed the spirit in your breast,
+and that your strength remained firm! But age wears you down.
+Would another man possess your years, and you
+belong among the young!”
 
-Gerenian horseman Nestor replied: “Atreus’ son, I too would wish
-to be as I was when I killed godlike Ereuthalion. But the gods
-do not give everything to men at once. If I were young then,
-or if strength were still firm in my limbs, I would stand
-among the horsemen and lead them. Now you should urge the young men;
-I will follow with my counsel, and they will obey as is right.”
+Gerenian horseman Nestor replied: “Atreus’ son,
+I too would wish to be as I was when I killed
+godlike Ereuthalion. Yet the gods do not give
+all things to men at once. If I were young again,
+or if strength were firm within my limbs, I would stand
+among the horsemen, and lead them. Now urge on
+the younger men; I shall follow with my counsel,
+and they will obey, as is right.”
 
 The son of Atreus went on, rejoicing in his heart. He found
 Peteus’ son Menestheus standing, and around him the Athenians,

@@ -55,9 +55,33 @@ And sleep, the loosener of the limbs, descended on him.
 
 ### Lines 57–101 — Penelope’s prayer
 
-Penelope awoke, sat upon her soft bed, and wept. When she had exhausted her lament, she prayed first to Artemis: “Strike me with an arrow and take my life now; or let a storm carry me away through the misty paths and cast me at Ocean’s backward-flowing mouth. Let the gods destroy me, or let Artemis shoot me, before I gladden the mind of a worse man than Odysseus.”
+Penelope woke upon her soft bed and wept.
+When she had spent the whole of her lament,
+She prayed to Artemis: “Strike me with your arrow;
+Take my life now. Or let a storm carry me
+Through misty ways, and cast me at the mouth
+Of Ocean’s backward-flowing stream. Let the gods
+Destroy me, or let Artemis release her shaft,
+Before I gladden any worse man’s heart
+Than that of my Odysseus.”
 
-The poem recalls the daughters of Pandareus, whom the Harpies carried away to serve the hateful Erinyes after their parents died, though Aphrodite had nourished them and Hera, Artemis, and Athena had given them beauty, wisdom, and skill. Penelope wished such a death for herself, that she might see Odysseus and not be made the joy of another. Yet even death has some consolation: after weeping by day, sleep can make a sufferer forget both good and evil. But the god had sent Penelope a cruel dream, in which Odysseus appeared beside her just as he had been with the army; her heart rejoiced as though the dream were waking truth.
+The song recalled the daughters of Pandareus,
+Whom Harpies bore away, when both their parents died,
+To serve the hateful Erinyes. Aphrodite
+Had fed them, while Hera, Artemis, and Athena
+Had granted beauty, wisdom, and the skills
+That women learn; yet still the Harpies took them.
+So Penelope desired a death that she
+Might see Odysseus, and not become the joy
+Of some new husband. Even in death there seemed
+One comfort: after weeping through the day,
+Sleep makes the sufferer forget good and evil.
+
+But the god sent her a cruel dream, in which
+Odysseus stood beside her, as he stood
+When he marched forth with the army. Her heart leapt,
+And for a moment she rejoiced as if the dream
+Were waking truth.
 
 ### Lines 102–143 — Thunder and the mill-woman
 

@@ -19,16 +19,16 @@ format:
 volumes:
   - id: iliad
     title: "The Iliad"
-    interior_pdf: pending_full_volume_assembly
-    cover_pdf: pending_page_count_and_spine_calculation
+    interior_pdf: architecture_proof_complete_final_assembly_pending
+    cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
     read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
   - id: odyssey
     title: "The Odyssey"
-    interior_pdf: pending_full_volume_assembly
-    cover_pdf: pending_page_count_and_spine_calculation
+    interior_pdf: architecture_proof_complete_final_assembly_pending
+    cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
@@ -81,11 +81,11 @@ proofs:
     spine_status: placeholder_only
 
 release_gates:
-  full_translation: incomplete
+  full_translation: working_authorities_complete_independent_approval_incomplete
   plate_manifest: development
   type_license_lock: incomplete
   printer_profile_lock: incomplete
-  interior_pdfs: incomplete
-  cover_pdfs: incomplete
+  interior_pdfs: architecture_proofs_complete_final_exports_incomplete
+  cover_pdfs: design_proofs_complete_printer_templates_incomplete
   physical_proof: incomplete
   editorial_signoff: incomplete

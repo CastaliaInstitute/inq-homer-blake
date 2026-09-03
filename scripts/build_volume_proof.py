@@ -94,7 +94,15 @@ def plate_for(epic, book_number):
     ]
     # Prefer a new, manifest-listed concept over a historical reference when
     # both exist for a book; all inserted plates remain visibly provisional.
-    candidates.sort(key=lambda record: (record["source_type"] != "generated", record["final_file"]))
+    def candidate_key(record):
+        filename = Path(record["final_file"]).stem.lower()
+        # Prefer explicitly versioned refinements when several concept
+        # candidates cover the same book; historical references remain a
+        # fallback and are never preferred over generated concepts.
+        version_rank = 0 if re.search(r"-v\d+$", filename) and not filename.endswith("-v1") else 1
+        return (record["source_type"] != "generated", version_rank, record["final_file"])
+
+    candidates.sort(key=candidate_key)
     return candidates[0] if candidates else None
 
 

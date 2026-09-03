@@ -25,7 +25,7 @@ must still be closed in `design/release-readiness.md`.
 - Translation ledger: 48 books; all remain under review.
 - Reader-facing density screen: 5 provisional holds; see `design/translation-density-report.md`.
 - Architecture page map: 594 traced pages.
-- Plate manifest: 22 records; all concept/source-review, none final.
+- Plate manifest: 26 records; all concept/source-review, none final.
 - Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.
 - Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.
 

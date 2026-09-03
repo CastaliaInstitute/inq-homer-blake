@@ -1,6 +1,7 @@
 # Odyssey Book 20 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -14,6 +15,11 @@ The moral pressure remains cumulative rather than random: the suitors are warned
 by omen, continue to consume the household, attack an equal guest portion, and
 mock the very signs of their approaching destruction. Theoclymenus’s blood-wet
 vision is kept distinct from the eagle omen and from Penelope’s private dream.
+
+The forecourt prayer, mill-woman’s omen, Eumaeus exchange, Melanthius’s insult,
+and Ctesippus episode were expanded into verse in the current pass. The revised
+cadence moves from inward endurance to public omen and then to the suitors’
+deliberate refusal of warning; it remains working evidence, not approval.
 
 ## Beauty and cadence
 

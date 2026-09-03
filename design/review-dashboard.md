@@ -51,6 +51,8 @@ Odyssey Book 10 has now received an Aeolus–Circe fidelity and read-aloud revie
 its gates remain pending.
 Odyssey Book 11 has now received a Nekyia ritual-order and read-aloud review;
 its gates remain pending.
+Odyssey Book 12 has now received a Sirens–Scylla–Sun’s-cattle fidelity and
+read-aloud review; its gates remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

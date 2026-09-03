@@ -4,6 +4,9 @@
 
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 Lines 1–453 are recorded in
 text/odyssey/book-12-collation-1-453.md.
 
@@ -22,15 +25,17 @@ against the mast; if you beg for release, they must bind you tighter.
 Let them stop their ears with wax.”
 
 “After the Sirens you will pass two ways. One holds the Wandering Rocks;
-no ship escapes them. The other has two cliffs: Scylla lives in one,
+no ship escapes them, save Argo, whom Hera once guided past for Jason.
+The other has two cliffs: Scylla lives in one,
 Charybdis beneath the other. Charybdis swallows the sea three times
 each day and sends it out three times. No ship can survive her whirlpool.
 Scylla has six necks and six heads, each with three rows of teeth.
 She will seize six men from your ship. Sail close to Scylla's rock;
 better to lose six than all your crew.”
 
-“Beyond lies Thrinacia, where the cattle of the Sun graze.
-Do not touch them. If you leave them unharmed, you may reach Ithaca.
+“Beyond lies Thrinacia, where the cattle of the Sun graze:
+seven herds of cattle and seven flocks of sheep, fifty in each,
+tended by the Sun’s daughters. Do not touch them. If you leave them unharmed, you may reach Ithaca.
 If you harm them, your ship and companions will be destroyed.”
 
 We returned to the ship. Circe's wind filled the sail,

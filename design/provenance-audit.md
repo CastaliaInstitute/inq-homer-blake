@@ -1,6 +1,6 @@
 # Image provenance audit
 
-**Audit date:** 2026-09-03  
+**Audit date:** 2026-09-03
 **Enforcement:** `ruby scripts/preflight_provenance.rb`
 
 ## Historical plates

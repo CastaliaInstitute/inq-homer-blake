@@ -12,6 +12,11 @@ replace an independent omissions/additions review.
 
 ## Revision log
 
+- **24.390–391, agency, geography, and cadence:** “one well-built ship brought
+  me from Myrmidon land” made the vessel the grammatical agent and blurred
+  Phthia’s place-name. It is now “I am his servant; in a well-built ship / I
+  came from Phthia, land of the Myrmidons,” restoring the disguised speaker’s
+  agency and the source geography in a cleaner Longfellow-like movement.
 - **24.540–544, fidelity and cadence:** “encloses thee above” confused the
   geographic bounds in Achilles’ comparison and weakened the line’s music. It
   is now “As far as Lesbos, Makar’s seat, bounds thee within, / And Phrygia lies

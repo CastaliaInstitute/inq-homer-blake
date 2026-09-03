@@ -422,7 +422,8 @@ I have seen him often in the glorious battle where men win fame;
 I saw him also when he drove the Argives toward the ships,
 slaying them with sharp bronze. We stood and wondered;
 for Achilles, angered with the son of Atreus, would not let us fight.
-I was his servant, and one well-built ship brought me from Myrmidon land.
+I am his servant; in a well-built ship
+I came from Phthia, land of the Myrmidons.
 My father is Polyctor. He is rich, but already old as thou art;
 six sons he has, and I am the seventh. By lot I was chosen
 to come here among them. Now I have come from the ships upon the plain;

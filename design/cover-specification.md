@@ -7,6 +7,9 @@
 - Interior: 80# White Coated, Premium Color
 - Cover: casewrap; current Lulu stock documentation lists an 80# gloss
   laminated white cover stock
+- Material boundary: the requested 80# coated specification applies to the
+  interior pages; casewrap cover stock and endsheet construction remain the
+  printer's separate product specifications.
 - Release state: not yet exportable; page counts and printer templates are
   still pending
 
@@ -50,6 +53,9 @@ cover_preflight: <pending/pass/revise>
 ## Authority
 
 This specification was checked against Lulu's [casewrap guidance](https://help.lulu.com/en/support/solutions/articles/64000308572-creating-your-hardcover-casewrap-cover),
-[PDF creation settings](https://help.lulu.com/en/support/solutions/articles/64000255519-pdf-creation-settings),
+[custom-cover upload requirements](https://help.lulu.com/en/support/solutions/articles/64000282777-upload-your-cover-file),
+[print-book workflow](https://help.lulu.com/en/support/solutions/articles/64000255486-how-to-create-a-print-book),
 and [paper-stock documentation](https://help.lulu.com/en/support/solutions/articles/64000255473-cover-and-interior-paper-stocks)
-on 2026-09-02.
+on 2026-09-02. The printer documentation states that the custom template is
+generated from the selected trim, binding, paper, and final page count; it also
+recommends 80# White Coated with Premium Color for image-rich interiors.

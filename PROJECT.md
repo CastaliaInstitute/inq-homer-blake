@@ -58,8 +58,8 @@ Each plate manifest record must include:
 ## Lulu production baseline
 
 The current target is a standard US comic-size 6.625 × 10.25 in trim with 80# White Coated interior
-paper and Premium Color printing. A full-bleed interior page is 7.25 × 10.25
-in, with 0.125 in bleed on each side. Final binding, page count, cover
+paper and Premium Color printing. A full-bleed interior page is 6.875 × 10.5
+in, with 0.125 in bleed on every edge. Final binding, page count, cover
 spread, and spine width must be locked in Lulu before cover export. Each
 volume will require one interior PDF and one cover PDF.
 

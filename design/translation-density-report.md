@@ -51,6 +51,6 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 21 | review | 434 | 1229 | 2.83 | hold |
 | odyssey | 22 | review | 501 | 1496 | 2.99 | hold |
 | odyssey | 23 | review | 372 | 1178 | 3.17 | hold |
-| odyssey | 24 | review | 548 | 1373 | 2.51 | hold |
+| odyssey | 24 | review | 548 | 1643 | 3.00 | hold |
 
 **Current holds:** 19 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.

@@ -34,29 +34,36 @@ while my horses were worn out gathering the people
 for Priam and his sons? Do it; but none of the gods
 will praise you.”
 
-Cloud-gathering Zeus answered in deep displeasure: “Strange woman,
-what have Priam and his sons done to you, that you rage without rest
-to destroy well-built Ilium? If you could enter through the gates
-and walls and devour Priam, his sons, and the other Trojans raw,
-then your anger might be healed. Do as you wish; let this quarrel
-between us not become a great dispute later. I say this also:
-when I desire to destroy a city where your beloved people live,
-do not delay my anger, but let me act. For I gave way to you,
-though unwillingly; of all the cities beneath the sun and starry sky,
-holy Ilium, Priam, and his well-speared people were most dear to me.
-Never did my altar lack its equal feast, libation, or savor of sacrifice;
+Cloud-gathering Zeus answered in displeasure:
+“Strange woman, what have Priam and his sons
+done to you, that you rage without rest to destroy
+well-built Ilium? If you could enter through
+the gates and walls, and devour Priam, his sons,
+and all the Trojans raw, your anger might be healed.
+Do as you wish; but let this quarrel between us
+not grow into a greater strife. I say this too:
+when I desire to destroy a city where your people
+live, do not delay my anger; let me act.
+For I gave way to you, though unwillingly.
+Of all the cities beneath the sun and starry sky,
+holy Ilium, Priam, and his well-speared people
+were most dear to me. Never did my altar lack
+its equal feast, libation, or savor of sacrifice;
 that honor was our portion.”
 
-Ox-eyed Hera replied: “Three cities are most dear to me—Argos,
-Sparta, and broad-wayed Mycenae. Destroy them when they anger you;
-I will not stand before you or begrudge it. But my labor must not be
-made fruitless. I too am a goddess, born from the same source as you;
-Cronus of crooked counsel bore me eldest, and I am called your wife,
-while you rule among all the immortals. Let us yield to one another,
-you to me and I to you; the other gods will follow. Now command Athena
-to go quickly into the grievous battle of Trojans and Achaeans,
-and see whether the Trojans will first harm the illustrious Achaeans,
-in violation of the oaths.”
+Ox-eyed Hera replied: “Three cities are most dear
+to me—Argos, Sparta, and broad-wayed Mycenae.
+Destroy them when they anger you; I will not stand
+before you, nor begrudge it. But do not make my labor
+fruitless. I too am a goddess, born from the same
+source as you; Cronus of crooked counsel bore me
+eldest, and I am called your wife, while you rule
+among the immortals. Let us yield to one another,
+you to me, and I to you; the other gods will follow.
+Now command Athena to go swiftly into the battle,
+the grievous battle of Trojans and Achaeans,
+and see whether the Trojans will first harm
+the illustrious Achaeans, breaking the oaths.”
 
 Her father and the father of gods did not disobey. He spoke winged words
 to Athena: “Go quickly among Trojans and Achaeans. See whether the Trojans

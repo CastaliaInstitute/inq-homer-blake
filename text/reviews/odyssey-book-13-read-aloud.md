@@ -1,6 +1,7 @@
 # Odyssey Book 13 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -14,7 +15,10 @@ Athena’s encounter is kept as a staged recognition: the disguised shepherd tes
 Odysseus, the Cretan tale is a deliberate lie rather than biography, the mist is
 lifted so Ithaca can be recognized, and only then does Athena reveal herself and
 set the suitor plan in motion. The ending correctly sends Athena toward Lacedaemon
-and Telemachus while Odysseus goes to Eumaeus.
+and Telemachus while Odysseus goes to Eumaeus. The Cretan account’s landing,
+killing of Orsilochus, Phoenician concealment, and abandoned gifts were expanded
+into verse in this pass; the working text remains pending independent
+Greek-fidelity and read-aloud review.
 
 ## Beauty and cadence
 

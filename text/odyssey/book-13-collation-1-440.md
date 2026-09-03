@@ -162,17 +162,18 @@ As Troy, though Troy lies beyond the sea.”
 
 ### Lines 252–286 — The false Cretan tale
 
-Odysseus answered: “I knew the name of Ithaca;
-But I did not speak, because I had fled from Crete,
-After killing the son of Idomeneus, Orsilochus,
-Who sought to take from me the Trojan spoils
-I had won by toil. I hid among the Phoenicians,
-And asked them to carry me to Pylos or to Elis.
-They swore an oath; but a storm drove them beyond
-Their course, and when I slept they left me here.
-They placed my goods beside me, gifts from Egypt,
-Phoenicia, and the people of Sidon. Then they sailed
-To Sidon, leaving me without a meal.”
+Odysseus answered: “I knew Ithaca’s name;
+I would not speak it, for I fled from Crete
+After I killed Orsilochus, the son
+Of Idomeneus. He sought to take from me
+The Trojan spoil I had won with toil.
+I hid among Phoenician sailors, asking
+To be carried to Pylos or to Elis.
+They swore an oath, but storms drove them beyond
+Their course; and while I slept, they left me here.
+Beside me they laid gifts from Egypt, Sidon,
+And Phoenicia, then sailed away,
+Leaving me without a meal.”
 
 ### Lines 287–373 — The goddess and the cave
 
@@ -258,4 +259,3 @@ To Lacedaemon, to bring the son of Odysseus home.
 - Athena's final instructions end Book 13 with her departure for Lacedaemon;
   the transformation and the warning about Telemachus remain within the
   book's final lines.
-

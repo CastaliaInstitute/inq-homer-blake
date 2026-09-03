@@ -58,6 +58,9 @@ commissioned artwork; these remain placeholders until exact line ranges,
 provenance, rights, and print masters are locked.
 The current candidate inventory and prioritized art-selection risks are recorded
 in the [illustration curation report](design/illustration-curation-report.md).
+The deterministic [plate asset checksum ledger](design/asset-checksums.csv) is
+rebuilt in CI from the plate manifest so replacement files cannot silently
+change beneath their provenance records.
 
 Translation status is governed by the [review gates](text/review-gates.md);
 All 48 books are currently in review; all six review gates remain pending for every book.

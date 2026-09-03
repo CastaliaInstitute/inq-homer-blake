@@ -22,7 +22,7 @@ jobs:
               rows = CSV.read(file)
               abort("malformed CSV: #{file}") unless rows.all? { |row| row.length == rows.first.length }
             end
-          ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv
+          ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv design/asset-checksums.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
       - name: Run image metadata preflight
@@ -31,6 +31,10 @@ jobs:
         run: ruby scripts/preflight_illustration_placeholders.rb
       - name: Run provenance preflight
         run: ruby scripts/preflight_provenance.rb
+      - name: Rebuild and verify plate asset checksums
+        run: |
+          python3 scripts/build_asset_checksums.py
+          git diff --exit-code -- design/asset-checksums.csv
       - name: Run font license preflight
         run: ruby scripts/preflight_fonts.rb
       - name: Run translation structure preflight

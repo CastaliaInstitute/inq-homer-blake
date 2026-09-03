@@ -32,7 +32,7 @@ Greek questions and should be read with each collation before approval.
 |---|---|---|
 | Greek fidelity | source map and source notes recorded; independent check pending | second-reader source comparison and omissions/additions report |
 | Narrative | decision log records the book's threshold structure; inventory pending | structural inventory checked against Greek |
-| Verse | Longfellow-inspired working lineation present; no meter report | meter count, outlier log, and read-aloud revision record |
+| Verse | Longfellow-inspired working lineation and read-aloud revision log recorded; independent stress review pending | meter count, outlier decisions, and named human read-aloud sign-off |
 | Diction | source notes identify governing terms; concordance pending | glossary/epithet/proper-name concordance |
 | Notes | working source notes exist; note audit pending | cited note audit |
 | Production | architecture proof exists; approved-text layout not started | production signoff against final proof and page map |

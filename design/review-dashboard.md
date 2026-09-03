@@ -26,7 +26,8 @@ The current repository does not yet contain complete approval records for any
 book. Iliad Book 1 has a first review packet and an associated read-aloud
 revision log at
 [`text/reviews/iliad-book-01.md`](../text/reviews/iliad-book-01.md), but its
-gates remain pending. Odyssey Book 1 has the matching packet at
+gates remain pending. Odyssey Book 1 has the matching packet and an associated
+read-aloud revision log at
 [`text/reviews/odyssey-book-01.md`](../text/reviews/odyssey-book-01.md); its
 gates also remain pending.
 Book 2 packets are now present for both epics, and their gates remain pending.

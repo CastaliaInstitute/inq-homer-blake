@@ -122,7 +122,9 @@ who has so long been kept from his friends and home,
 
 on an island in the sea, where the nymph, the daughter
 
-of the sea's old strength, holds him in her hollow caves.
+of great Atlas, who knows the sea's every depth,
+
+holds him in her hollow caves.
 
 Poseidon still keeps the anger that began with the Cyclops,
 

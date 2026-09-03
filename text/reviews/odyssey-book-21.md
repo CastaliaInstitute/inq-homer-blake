@@ -23,6 +23,11 @@ Messenian theft and Ortilochus setting were restored from Odyssey 21.15–24.
 The closing tableau now also retains the source’s final signal: Telemachus
 girds his sword, takes his spear, and stands helmeted beside his father.
 
+The Iphitus account was checked again against Odyssey 21.22–30. The Greek
+says his twelve mares had perished, with the hard-working mules beneath them;
+it does not describe those animals as stolen. Both the collation authority and
+the reading manuscript now use “had perished.”
+
 ## Source-map register
 
 | Greek span | Collation authority |

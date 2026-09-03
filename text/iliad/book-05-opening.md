@@ -186,20 +186,27 @@ the horses know your voice. I shall meet the attack
 with my spear.” They mounted the variegated chariot
 and drove against Diomedes.
 
-Sthenelus saw them and warned Diomedes: “Two powerful men come against you—
-Pandarus, the famous bowman, and Aeneas, son of Anchises, whose mother is Aphrodite.
+Sthenelus saw them and warned Diomedes:
+“Two powerful men are coming against you—
+Pandarus, the famous bowman, and Aeneas,
+son of Anchises, whose mother is Aphrodite.
 Let us withdraw upon the horses, lest you lose your life.”
-Diomedes replied that he would not flee or crouch, for his strength remained;
-Pallas Athena forbade his fear. He ordered Sthenelus to hold their horses,
-and, if Athena granted him both deaths, to seize Aeneas’ horses and drive them
-from the Trojans. They descended from the chariot and rushed at one another.
+Diomedes answered that he would not flee or crouch;
+his strength remained, and Pallas Athena forbade his fear.
+He ordered Sthenelus to hold their horses,
+and, if Athena granted him both deaths, to seize
+Aeneas’ horses and drive them from the Trojans.
+They descended from the chariot and rushed together.
 
-Pandarus cast his long-shadowed spear at Diomedes’ shield; the bronze passed
-through and touched the corselet. He shouted that Diomedes was wounded through
-the flank and would not long endure. Diomedes answered that Pandarus had missed,
-and that neither man would stop before one fell and satisfied Ares.
-Athena guided his spear beside Pandarus’ eye; it broke his white teeth,
-cut the back of his tongue, and passed beneath his chin. He fell from the chariot,
+Pandarus cast his long-shadowed spear at Diomedes’ shield;
+the bronze passed through and touched the corselet.
+He shouted that Diomedes was wounded through the flank
+and would not long endure. Diomedes answered:
+“You have missed. Neither of us shall cease
+before one man falls and satisfies fierce Ares.”
+Athena guided his spear beside Pandarus’ eye;
+it broke his white teeth, cut the root of his tongue,
+and passed beneath his chin. He fell from the chariot,
 his bright armor clattering, while his swift horses ran loose.
 
 Aeneas leapt down with shield and long spear, moving around the body like a lion,

@@ -10,8 +10,8 @@ intervals cover every canonical line range in `text/source-coverage.csv`:
 
 | Volume | Books | Coverage result | Review state |
 |---|---:|---|---|
-| *Iliad* | 24 | 1.1 through 24.804 covered; interval audit passed | All books remain `draft`; review gates pending |
-| *Odyssey* | 24 | 1.1 through 24.548 covered; interval audit passed | All books remain `draft`; review gates pending |
+| *Iliad* | 24 | 1.1 through 24.804 covered; interval audit passed | Books 19–24 are `review`; Books 1–18 are `draft`; gates pending |
+| *Odyssey* | 24 | 1.1 through 24.548 covered; interval audit passed | Books 19–24 are `review`; Books 1–18 are `draft`; gates pending |
 
 The audit checks filename intervals for gaps against the canonical final-line
 field. It does not certify that every English sentence is final, metrical, or

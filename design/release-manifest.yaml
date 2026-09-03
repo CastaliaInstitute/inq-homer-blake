@@ -23,6 +23,8 @@ volumes:
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
+    epub: output/epub/inq-homer-iliad-editorial-proof.epub
+    epub_status: private_editorial_proof_not_for_sale
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
     read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
   - id: odyssey
@@ -31,6 +33,8 @@ volumes:
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
+    epub: output/epub/inq-homer-odyssey-editorial-proof.epub
+    epub_status: private_editorial_proof_not_for_sale
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
     read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
 
@@ -89,3 +93,4 @@ release_gates:
   cover_pdfs: design_proofs_complete_printer_templates_incomplete
   physical_proof: incomplete
   editorial_signoff: incomplete
+  epub_sale: disabled_until_editorial_and_art_gates_close

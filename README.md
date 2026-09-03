@@ -133,6 +133,10 @@ current development state, printer target, pending locks, and proof classes.
 The deterministic [Iliad text export](output/text/inq-homer-iliad.txt) and
 [Odyssey text export](output/text/inq-homer-odyssey.txt) provide accessible
 plain-text reading copies; both remain provisional with the translation gates.
+Deterministic EPUB 3 editorial proofs can be built with
+`python3 scripts/build_epub.py` and checked with `python3 scripts/validate_epub.py`.
+Their package metadata and build manifests explicitly prohibit sale and public
+distribution while review gates remain open; unapproved plate art is omitted.
 PDF geometry and release-font requirements are checked by
 `scripts/preflight_pdfs.py`; the tracked PDFs remain architecture samples until
 the full-volume and cover gates are complete.

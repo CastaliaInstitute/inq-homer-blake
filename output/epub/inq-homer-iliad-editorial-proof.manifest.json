@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "title": "The Iliad",
+  "author": "Homer",
+  "translator": "a.Longfellow",
+  "illustrator": "a.Blake",
+  "releaseClass": "private_editorial_proof",
+  "saleApproved": false,
+  "publicDistributionApproved": false,
+  "books": 24,
+  "illustrationPlates": 0,
+  "illustrationStatus": "omitted_pending_final_art_and_rights",
+  "source": "output/text/inq-homer-iliad.txt",
+  "sourceSha256": "81706ccdb4017c43c840f5bbd166fe63cbe76ccc3a5c468663f2d3e83a90f03e",
+  "wordCount": 116355,
+  "identifier": "78381bda-f2f6-5c4d-af59-1f44c71586a1",
+  "epub": "inq-homer-iliad-editorial-proof.epub",
+  "epubSha256": "f6f41fc52c3ec12723bc1d9fea1cf6f2960ab9461e7a1c01c4eaa2ad42e6acae",
+  "bytes": 3464621,
+  "openEditorialGates": [
+    "greek_fidelity",
+    "literary",
+    "meter",
+    "notes_glossary",
+    "art_direction",
+    "production",
+    "physical_proof"
+  ]
+}

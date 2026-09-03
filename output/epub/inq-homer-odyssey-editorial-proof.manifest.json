@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "title": "The Odyssey",
+  "author": "Homer",
+  "translator": "a.Longfellow",
+  "illustrator": "a.Blake",
+  "releaseClass": "private_editorial_proof",
+  "saleApproved": false,
+  "publicDistributionApproved": false,
+  "books": 24,
+  "illustrationPlates": 0,
+  "illustrationStatus": "omitted_pending_final_art_and_rights",
+  "source": "output/text/inq-homer-odyssey.txt",
+  "sourceSha256": "6b5c6c26cf15bdf6d4d305200996ee5ccf86ba69e4e8b2f847c47bacd21c4ee9",
+  "wordCount": 71875,
+  "identifier": "0bc0064e-293a-5b92-b9c7-c796cf4d3919",
+  "epub": "inq-homer-odyssey-editorial-proof.epub",
+  "epubSha256": "3721a9b35f4ab17ac68e2ebf444d6ac4d2082c0c5d2b37f95a0e3ee94d175c5d",
+  "bytes": 3254044,
+  "openEditorialGates": [
+    "greek_fidelity",
+    "literary",
+    "meter",
+    "notes_glossary",
+    "art_direction",
+    "production",
+    "physical_proof"
+  ]
+}

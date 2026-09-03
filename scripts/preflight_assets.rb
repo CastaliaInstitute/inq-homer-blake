@@ -5,6 +5,8 @@ require "open3"
 
 ROOT = File.expand_path("..", __dir__)
 MIN_DPI = 300.0
+TRIM_WIDTH_IN = 6.625
+TRIM_HEIGHT_IN = 10.25
 
 def fail!(message)
   warn "FAIL: #{message}"
@@ -112,7 +114,7 @@ rows.each_with_index do |row, index|
 
   # The project trim is 6.625 × 10.25 inches. A concept may be below print resolution,
   # but a record marked final may not pass this gate.
-  dpi = [width / 7.0, height / 10.0].min
+  dpi = [width / TRIM_WIDTH_IN, height / TRIM_HEIGHT_IN].min
   if row["curation_status"] == "final" && dpi < MIN_DPI
     fail!("final asset #{file} is #{dpi.round(1)} dpi; minimum is #{MIN_DPI.to_i} dpi")
   end

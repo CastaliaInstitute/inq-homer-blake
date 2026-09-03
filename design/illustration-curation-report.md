@@ -8,10 +8,10 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 16 current manifest
+The illustration system has 48 defined book slots and 17 current manifest
 plates. The current set is useful for editorial selection and art-direction
 review, but it contains no approved final art. Two plates are historical
-references from the 1805 Flaxman Homer edition; the other 14 are CastaliaInstitute
+references from the 1805 Flaxman Homer edition; the other 15 are CastaliaInstitute
 original generated concepts. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not

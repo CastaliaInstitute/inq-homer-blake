@@ -24,15 +24,17 @@ retain the source master and acquire its own checksum and manifest row.
 
 ## Original supplements
 
-The Apollo, Athena, Patroclus/Eurypylus, Polyphemus, and Priam/Achilles plates are CastaliaInstitute
-concept candidates. They are original generated work, not William Blake works
-and not transformations of a specific Blake plate. Each record retains its
-prompt file, date, dimensions, curation status, and explicit credit. The v2
-Apollo/Athena candidates are 2100 × 3000 px (approximately 300 dpi at comic-size trim
-inches). Placement derivatives for the three newer candidates are also 2100 ×
-3000 px, but are enlargements for layout review rather than native print
-masters. All remain `concept-review` until a print master, color profile, and
-human art-direction approval are recorded.
+The generated manifest contains CastaliaInstitute concept candidates for the
+Apollo, Athena, dream, assembly, storm, Helen, Patroclus, Cyclops, Priam,
+Odysseus-and-Telemachus, father-and-son, Penelope, and Ithaca-return subjects.
+They are original generated work, not William Blake works and not
+transformations of a specific Blake plate. Each record retains its prompt file,
+date, dimensions, curation status, and explicit credit. The v2 Apollo/Athena
+candidates are 2100 × 3000 px (approximately 300 dpi at comic-size trim
+inches). Placement derivatives for several earlier candidates are enlargements
+for layout review rather than native print masters. All remain
+`concept-review` until a print master, color profile, and human art-direction
+approval are recorded.
 
 | Candidate | Local SHA-256 | Status |
 |---|---|---|
@@ -46,6 +48,7 @@ human art-direction approval are recorded.
 | `assets/generated/iliad/book-11-patroclus-eurypylus-v2.png` | `eacc7b1728f09c81e176dbc9bc4c11b623d6ab0904f3a1e29540e095dc623960` | concept-review |
 | `assets/generated/odyssey/book-23-penelope-bed-v1.png` | `88478a50d4c2e319ef088999364fbd16ca8f0c10a7ef8861d67fa5c902d92ce3` | concept-review |
 | `assets/generated/odyssey/book-16-father-son-v1.png` | `3aaf7cde0ce97e98b380a87f029422cd3f90364526b6674bf4dea2bfcc0d526e` | concept-review |
+| `assets/generated/odyssey/book-13-return-v1.png` | `6c6301bc0b5608836a228ef1630272266e0aacdedf50b9c8d5cf13245fba5b52` | concept-review |
 
 Run `shasum -a 256` against the local files after any asset replacement and
 update this dossier together with the relevant manifest record. The automated

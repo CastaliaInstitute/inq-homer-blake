@@ -45,6 +45,7 @@ human art-direction approval are recorded.
 | `assets/generated/iliad/book-16-patroclus-v2.png` | `9ea4fe09507f1fe67ce442081f4bba1e6fd3d3d21da106d2bf0bb20e3440cc7b` | concept-review |
 | `assets/generated/iliad/book-11-patroclus-eurypylus-v2.png` | `eacc7b1728f09c81e176dbc9bc4c11b623d6ab0904f3a1e29540e095dc623960` | concept-review |
 | `assets/generated/odyssey/book-23-penelope-bed-v1.png` | `88478a50d4c2e319ef088999364fbd16ca8f0c10a7ef8861d67fa5c902d92ce3` | concept-review |
+| `assets/generated/odyssey/book-16-father-son-v1.png` | `3aaf7cde0ce97e98b380a87f029422cd3f90364526b6674bf4dea2bfcc0d526e` | concept-review |
 
 Run `shasum -a 256` against the local files after any asset replacement and
 update this dossier together with the relevant manifest record. The automated

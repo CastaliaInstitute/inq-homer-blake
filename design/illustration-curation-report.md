@@ -8,10 +8,10 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 21 current manifest
+The illustration system has 48 defined book slots and 22 current manifest
 plates. The current set is useful for editorial selection and art-direction
 review, but it contains no approved final art. Two plates are historical
-references from the 1805 Flaxman Homer edition; the other 19 are CastaliaInstitute
+references from the 1805 Flaxman Homer edition; the other 20 are CastaliaInstitute
 original generated concepts. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not
@@ -44,6 +44,7 @@ illustrated.
 | ODY-01 Athena v2 concept | More viable Athena threshold candidate; visual family match with the Apollo direction. | Approximately 300 dpi at the working size, but still unprofiled and concept-review. | Advance as the Athena candidate, subject to the same handoff gates. |
 | ILI-02 concept | False dream / mustering concept; supplies scale and prophetic hierarchy. | 2100 × 3000 px and visually legible at thumbnail scale; unprofiled, concept-review, and not a native approved print master. | High priority for Volume I; lock whether the caption centers the dream, catalogue, or mustering. |
 | ODY-02 concept | Telemachus's assembly and departure; good early Odyssey transition. | 2100 × 3000 px; unprofiled and concept-review. Exact caption focus still needs editorial choice. | High priority for Volume II; advance after passage/caption lock. |
+| ODY-03 concept | Telemachus arrives at Nestor’s shore sacrifice; original Pylos threshold plate. | 1024 × 1536 px, unprofiled, approximately 154 dpi at comic trim, concept-review; prompt, checksum, and non-Blake credit are recorded; native print master, profile conversion, exact caption/range lock, and art-direction approval remain pending. | Advance for Pylos/hospitality sequence review; compare against the Book 3 text and retain the scene’s ritual and social clarity. |
 | ILI-11 concept | Patroclus tending Eurypylus; useful connective plate toward ILI-16. | The manifest points to a 2100 × 3000 processed placement derivative, while the generated source is 1050 × 1498 px. The derivative is explicitly an enlargement, not a native master; unprofiled. | Keep as a sequence candidate, but regenerate or locate a native master and document the derivative relationship. |
 | ILI-11 v2 concept | Alternate Patroclus/Eurypylus treatment with a clearer hut interior and sea-facing frame. | 1008 × 1560 px, sRGB, concept-review; versioned prompt and checksum are recorded, but it remains below final print-master resolution. | Compare with v1 at thumbnail and passage level; select one canonical candidate before art-direction approval. |
 | ODY-09 concept | Cyclops escape; immediate visual hook and a clear Odyssey ordeal. | The manifest points to a 2100 × 3000 processed enlargement of a 1050 × 1498 generated source; unprofiled and concept-review. | High priority; retain the escape subject, but do not treat the placement derivative as print-ready. |

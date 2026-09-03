@@ -25,8 +25,9 @@ retain the source master and acquire its own checksum and manifest row.
 ## Original supplements
 
 The generated manifest contains CastaliaInstitute concept candidates for the
-Apollo, Athena, dream, assembly, storm, Helen, Patroclus, Cyclops, Priam,
-Odysseus-and-Telemachus, father-and-son, Penelope, and Ithaca-return subjects.
+Apollo, Athena, dream, assembly, storm, Helen, Pylos hospitality, Patroclus,
+Cyclops, Priam, Odysseus-and-Telemachus, father-and-son, Penelope, and
+Ithaca-return subjects.
 They are original generated work, not William Blake works and not
 transformations of a specific Blake plate. Each record retains its prompt file,
 date, dimensions, curation status, and explicit credit. The v2 Apollo/Athena
@@ -51,6 +52,7 @@ approval are recorded.
 | `assets/generated/odyssey/book-23-penelope-bed-v1.png` | `f4882bfe27ebb315333a3a8fe2d643e43fe4a95261692480fcd28ed8634231fa` | concept-review |
 | `assets/generated/odyssey/book-16-father-son-v1.png` | `41b5cbc3d6198a221302faf228aef57c04a761c753ec75601139d6d20c01fc05` | concept-review |
 | `assets/generated/odyssey/book-13-return-v1.png` | `4f2fe7749e848c354c7783876d56a2b333dcdd1557c78fbc41e4a30c3a1371ba` | concept-review |
+| `assets/generated/odyssey/book-03-pylos-v1.png` | `a3db94f87366acb0791ff97b6d55809e80b3c7bdc9b28948350cfe74cbbf5cd5` | concept-review |
 
 Run `shasum -a 256` against the local files after any asset replacement and
 update this dossier together with the relevant manifest record. The automated

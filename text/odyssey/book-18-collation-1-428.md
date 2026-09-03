@@ -268,25 +268,31 @@ The grief to sink more deeply in the heart
 Of great Laertes’ son.
 
 Eurymachus began to mock him: “Listen, renowned suitors,
-While I speak what my heart commands. This man has not come
-To Odysseus’ house without a god’s direction. His head shines like a torch;
-There is no hair upon it. Stranger, would you work for me at the edge of my land?
-I would give you sufficient wages, repairing fences and planting tall trees;
-There you would have yearly grain, clothing, and sandals.
-But since you have learned evil work, you refuse labor and prefer to beg
-Throughout the people, only to feed your useless belly.”
+While I speak what my heart commands. This man has not
+Come to Odysseus’ house without a god’s direction.
+His head shines like a torch; there is no hair upon it.
+Stranger, would you work for me upon the edge of my land?
+I would give you wages enough, repairing fences,
+Planting tall trees; each year you would have grain,
+Clothing, and sandals. But you have learned evil work:
+You will not labor, but prefer to beg among the people,
+Only to feed your useless belly.”
 
-Odysseus answered: “Would that a contest of labor rose between us in spring,
-When the days are long and the meadow is green. Give me a curved sickle,
-And take another; let us work fasting until dark, with grass before us.
-Or let there be two great, tawny, well-fed oxen, equal in age and strength,
-To draw a four-acre fallow beneath the plough; then you would see
-Whether I could cut a straight furrow. If Zeus stirred war today,
-And I had shield, two spears, and a bronze helmet, you would see me
+Odysseus answered: “Would that a contest of labor
+Rose between us in spring, when the days are long
+And the green meadow opens. Give me a curved sickle,
+And take another; let us work fasting until dark,
+With grass before us. Or let there be two tawny,
+Well-fed oxen, equal in age and strength, to draw
+A four-acre fallow underneath the plough; then you
+Would see whether I could cut a straight furrow.
+If Zeus stirred war today, and I had shield,
+Two spears, and a bronze helmet, you would see me
 Among the foremost, and would not mock my belly.
-You are insolent and hard of mind, and think yourself great because
-You keep company with few who are no better than you. If Odysseus returned,
-These wide doors would grow narrow for you as you fled through them.”
+You are insolent and hard of mind, and think yourself
+Great because you keep company with men no better.
+If Odysseus returned, these wide doors would grow
+Narrow for you as you fled through them.”
 
 Eurymachus grew angry, seized a footstool, and raised it to strike.
 Odysseus, fearing him, sat at Amphinomus’ knees. Eurymachus struck
@@ -299,15 +305,18 @@ I drive no one away.” The suitors bit their lips in wonder at his bold speech.
 
 ### Lines 412–428 — The end of the feast
 
-Amphinomus, glorious son of Nisus, said: “Friends, no one should answer
-A just word with hostile speech. Do not strike the stranger,
-Nor any other servant in Odysseus’ house. Let the cupbearer fill the cups;
-Let us pour a libation and go home. Leave the stranger in this house
-To Telemachus, for he came to Telemachus’ door.”
+Amphinomus, glorious son of Nisus, said: “Friends,
+Let no one answer a just word with hostile speech.
+Do not strike the stranger, nor any servant in
+Odysseus’ house. Let the cupbearer fill the cups;
+Let us pour a libation and go home. Leave the stranger
+To Telemachus, for he came to his door.”
 
-His counsel pleased them. Mulius, herald of Dulichium and servant of Amphinomus,
-Mixed the bowl and distributed it. They poured for the blessed gods,
-Drank as much as the heart desired, and went away to sleep in their own houses.
+His counsel pleased them. Mulius, herald of Dulichium,
+Servant of Amphinomus, mixed the bowl and shared it.
+They poured for the blessed gods, drank as much
+As their hearts desired, and went away to sleep
+Within their own houses.
 
 ## Decision log
 

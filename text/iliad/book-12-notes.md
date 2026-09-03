@@ -13,7 +13,7 @@ line-level logic of the opening assault. Lines 195–311 are continued in
 | 12.1–54 | Wall's destined destruction | Historical/divine frame | Collated 2026-09-02; retain the missing hecatombs, rivers, and nine-day flood. |
 | 12.55–107 | Polydamas advises leaving chariots | Tactics and caution | Collated 2026-09-02; verify final meter and five-company names. |
 | 12.108–194 | Asius and the Lapith gate defense | Chariot error and rooted resistance | Collated 2026-09-02; preserve the oak, snow, and wasp/bee similes. |
-| 12.195–311 | Omen debate, wall assault, and Sarpedon's appeal to Glaucus | Contradictory readings of divine signs | Collated 2026-09-02; retain Hector's “one omen” aphorism, the dust-storm, and the kingship obligation. |
+| 12.195–311 | Eagle-and-serpent omen, wall assault, and Sarpedon's appeal to Glaucus | Contradictory readings of divine signs | Collated 2026-09-02; retain the eagle omen, Hector's “one omen” aphorism, the dust-storm, and the kingship obligation. |
 | 12.312–382 | Trojans press the wall | Similes of cutting and storm | Check battlement and defensive sequence. |
 | 12.383–471 | Ajax/Teucer defense and Hector breaches gate | Incremental wall failure | Collated 2026-09-02; retain Glaucus' concealment, parapet removal, hinges, bars, and inward fall. |
 

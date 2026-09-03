@@ -291,16 +291,6 @@ The stranger wanders through the house and begs;
 The others gave him food, but he alone
 Has answered hunger with a lifted stool.”
 
-Telemachus held great grief within him for the struck man,
-But did not let a tear fall. He bowed his head and thought evil.
-Penelope, hearing that the stranger had been struck, said:
-“Would that Apollo the Archer struck you so!” Her steward Eurynome
-Answered: “If our prayers could find their end, none of these men
-Would reach the bright Dawn.” Penelope said: “All are enemies,
-But Antinous is black-hearted above them all. A stranger wanders
-Through the house begging; others have filled his bag, but Antinous
-Struck him with the footstool.”
-
 ### Lines 492–606 — Penelope summons the stranger
 
 Penelope called Eumaeus: “Go, tell the stranger

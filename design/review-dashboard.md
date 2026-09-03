@@ -23,7 +23,8 @@ layout or print.
 ## Evidence required before approval
 
 The current repository does not yet contain complete approval records for any
-book. Iliad Book 1 has a first review packet at
+book. Iliad Book 1 has a first review packet and an associated read-aloud
+revision log at
 [`text/reviews/iliad-book-01.md`](../text/reviews/iliad-book-01.md), but its
 gates remain pending. Odyssey Book 1 has the matching packet at
 [`text/reviews/odyssey-book-01.md`](../text/reviews/odyssey-book-01.md); its

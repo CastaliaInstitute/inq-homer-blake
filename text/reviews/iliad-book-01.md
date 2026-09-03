@@ -31,7 +31,7 @@ no uncovered source line.
 |---|---|---|
 | Greek fidelity | source map and translator decisions recorded; independent check pending | second-reader source comparison, adopted readings, omissions/additions report |
 | Narrative | translator decision log records scene architecture; independent inventory pending | structural inventory checked against Greek |
-| Verse | Longfellow-inspired working lineation present; no meter report | meter count, outlier log, and read-aloud revision record |
+| Verse | Longfellow-inspired working lineation and read-aloud revision log recorded; independent stress review pending | meter count, outlier decisions, and named human read-aloud sign-off |
 | Diction | local decisions recorded; cross-book check pending | glossary/epithet/proper-name concordance |
 | Notes | book notes exist; note audit pending | cited note audit |
 | Production | architecture proof exists; approved-text layout not started | production signoff against final proof and page map |

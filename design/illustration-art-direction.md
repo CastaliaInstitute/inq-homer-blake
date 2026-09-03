@@ -36,7 +36,7 @@ manifest. Until those fields exist, status remains
 The five plates should read as one family while allowing each epic a distinct
 temperature.
 
-- **Format:** 7 × 10 inch portrait, with a quiet outer margin for caption,
+- **Format:** 6.625 × 10.25 inch comic-size portrait, with a quiet outer margin for caption,
   folio, trim, and any printer-required bleed. Compose for legibility at final
   placement size, not for detail that disappears when reduced.
 - **Mark:** original etched contour, relief-print pressure, handmade line
@@ -75,7 +75,7 @@ temperature.
   the focal event is Patroclus crossing the limit of the role.
 - **Prompt:**
 
-  > Create an original 7 × 10 inch portrait plate for Homer’s *Iliad*, Book 16,
+  > Create an original 6.625 × 10.25 inch comic-size portrait plate for Homer’s *Iliad*, Book 16,
   > for CastaliaInstitute. Show Patroclus entering battle in Achilles’ borrowed
   > armor, leaving the dark ships behind and moving toward the distant Trojan
   > wall. Let the helmet, shield, and spear form a bright vertical axis while
@@ -111,7 +111,7 @@ temperature.
   distance.
 - **Prompt:**
 
-  > Create an original 7 × 10 inch portrait plate for Homer’s *Iliad*, Book 24,
+  > Create an original 6.625 × 10.25 inch comic-size portrait plate for Homer’s *Iliad*, Book 24,
   > showing aged Priam entering Achilles’ tent to ask for Hector’s body. Place
   > Priam and Achilles as two grave, nearly equal vertical presences across a
   > small shared lamp; let the lamp illuminate hands, faces, and the space
@@ -145,7 +145,7 @@ temperature.
   as a veil of line and posture, not magical particles.
 - **Prompt:**
 
-  > Create an original 7 × 10 inch portrait plate for Homer’s *Odyssey*, Book
+  > Create an original 6.625 × 10.25 inch comic-size portrait plate for Homer’s *Odyssey*, Book
   > 13, showing Odysseus newly landed at Ithaca as Athena reveals the harbor,
   > olive tree, and cave of the nymphs before disguising him for the next stage
   > of his return. Compose a veiled harbor in dawn-dark light: Odysseus low and
@@ -179,7 +179,7 @@ temperature.
   geometry, while the road outside remains visible but secondary.
 - **Prompt:**
 
-  > Create an original 7 × 10 inch portrait plate for Homer’s *Odyssey*, Book
+  > Create an original 6.625 × 10.25 inch comic-size portrait plate for Homer’s *Odyssey*, Book
   > 16, showing Telemachus recognizing Odysseus in Eumaeus’ hut after Athena
   > restores the father's appearance. Center the composition on a low hearth:
   > father and son face one another across one doubled flame, their hands and
@@ -215,7 +215,7 @@ temperature.
   house.
 - **Prompt:**
 
-  > Create an original 7 × 10 inch portrait plate for Homer’s *Odyssey*, Book
+  > Create an original 6.625 × 10.25 inch comic-size portrait plate for Homer’s *Odyssey*, Book
   > 23, showing Penelope testing the returned Odysseus through the secret of the
   > rooted bed. Make a living olive trunk rise from the floor through the bed's
   > construction and continue into the chamber's beam-like geometry, physically
@@ -239,7 +239,7 @@ temperature.
 
 1. Lock the exact Greek/English passage for the selected concept and record the
    range in the illustration manifest.
-2. Test the prompt as a grayscale thumbnail at 7 × 10 inches. Reject any
+2. Test the prompt as a grayscale thumbnail at 6.625 × 10.25 inches. Reject any
    composition whose primary action is not legible beside the two-column text.
 3. Check the image for accidental quotation of a historical Blake/Flaxman
    plate, false archaeological specificity, or visual clichés that weaken the

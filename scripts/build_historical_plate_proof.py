@@ -14,7 +14,7 @@ FONT_DIR = Path("/System/Library/Fonts/Supplemental")
 for name, filename in (("TimesNR", "Times New Roman.ttf"), ("TimesNRI", "Times New Roman Italic.ttf"), ("TimesNRB", "Times New Roman Bold.ttf")):
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
-W, H = 7 * inch, 10 * inch
+W, H = 6.625 * inch, 10.25 * inch
 styles = getSampleStyleSheet()
 styles.add(ParagraphStyle(name="HTitle", fontName="TimesNRB", fontSize=23, leading=28, alignment=TA_CENTER, textColor="#1f1c18"))
 styles.add(ParagraphStyle(name="HSub", fontName="TimesNRI", fontSize=11, leading=15, alignment=TA_CENTER, textColor="#625b52"))
@@ -35,7 +35,7 @@ doc = BaseDocTemplate(str(OUT), pagesize=(W, H), leftMargin=0.72 * inch, rightMa
 frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="body")
 doc.addPageTemplates([PageTemplate(id="proof", frames=frame, onPage=footer)])
 
-story = [Spacer(1, 1.7 * inch), Paragraph("HISTORICAL PLATES", styles["HTitle"]), Spacer(1, 0.2 * inch), Paragraph("Homer / Flaxman / Blake and Piroli", styles["HSub"]), Spacer(1, 0.35 * inch), Paragraph("A source-treatment proof for the two-volume 7 x 10 inch hardcover edition. These are historical scans, not new illustrations and not compositions by William Blake.", styles["HSub"]), PageBreak()]
+story = [Spacer(1, 1.7 * inch), Paragraph("HISTORICAL PLATES", styles["HTitle"]), Spacer(1, 0.2 * inch), Paragraph("Homer / Flaxman / Blake and Piroli", styles["HSub"]), Spacer(1, 0.35 * inch), Paragraph("A source-treatment proof for the two-volume 6.625 x 10.25 inch comic-size hardcover edition. These are historical scans, not new illustrations and not compositions by William Blake.", styles["HSub"]), PageBreak()]
 
 plates = [
     ("assets/source/iliad/met-337355-dp-14470-001.jpg", "Plate 2: Minerva Repressing the Fury of Achilles", "John Flaxman, designer; William Blake, engraver; 1805 historical plate. Metropolitan Museum of Art, object 1970.565.63; scan DP-14470-001.") ,

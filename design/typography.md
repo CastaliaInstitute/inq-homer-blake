@@ -27,7 +27,7 @@ the exact files and checksums are recorded in `design/font-lock.md`.
 
 ## Plate-page rules
 
-Full-page plates use the 7 × 10 inch trim with 0.125 inch bleed when artwork
+Full-page plates use the 6.625 × 10.25 inch comic trim with 0.125 inch bleed when artwork
 reaches the edge. A plate page must carry its source type in the production
 manifest even when the printed caption is intentionally minimal. Historical
 and generated images must never share an undifferentiated credit line.
@@ -38,7 +38,7 @@ and generated images must never share an undifferentiated credit line.
 - Book opener: Cormorant Garamond SemiBold, 19 pt / 23 pt leading
 - Volume title: Cormorant Garamond SemiBold, 27 pt / 31 pt leading
 - Supporting text: Cormorant Garamond Italic or Regular, 8.7–11 pt
-- Page trim: 504 × 720 pt; text margins: 0.72 in outer/inner and 0.75 in top
+- Page trim: 477 × 738 pt; text margins: 0.72 in outer/inner and 0.75 in top
 - Folio rule: 0.48 in from page bottom; folio baseline 0.31 in from bottom
 
 These values describe the reproducible architecture proof. Final approved
@@ -46,7 +46,7 @@ lineation, notes, plates, and printer profile may require controlled page-break
 adjustments without changing the type license lock.
 
 The interior body uses two equal text columns with a 0.24 in gutter inside the
-7 × 10 in trim. Front matter and plate pages remain full-width; the translated
+Comic-size trim. Front matter and plate pages remain full-width; the translated
 books flow through the two-column frame sequence.
 
 ## Lock before final layout

@@ -117,7 +117,7 @@ who struck me, who shot first, and boasts that I shall not
 long behold the sun’s bright light.”
 
 He prayed, and Pallas Athena heard. She made his limbs
-light, his hands and feet above; then, standing near,
+light, and quickened hand and foot; then, standing near,
 she spoke winged words: “Take heart now, Diomedes,
 and fight the Trojans. I have set within your breast
 your father’s courage, the fearless force Tydeus carried

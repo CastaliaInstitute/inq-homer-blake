@@ -23,7 +23,7 @@ for name, filename in {
 }.items():
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
-TRIM_W, TRIM_H = 7 * inch, 10 * inch
+TRIM_W, TRIM_H = 6.625 * inch, 10.25 * inch
 BLEED = 0.125 * inch
 WRAP = 0.75 * inch
 DEFAULT_SPINE = 0.5 * inch

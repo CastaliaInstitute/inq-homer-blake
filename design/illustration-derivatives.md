@@ -3,7 +3,7 @@
 **Register date:** 2026-09-02
 
 The generated PNG is the provenance source. A placement derivative is a
-layout convenience for the 7 × 10 inch proof and is never treated as a native
+layout convenience for the 6.625 × 10.25 inch comic-size proof and is never treated as a native
 print master. Upscaling establishes the intended geometry and embedded 300 dpi
 metadata; it cannot restore detail absent from the generated source. Every
 derivative therefore remains `concept-review` and `unprofiled` until an art

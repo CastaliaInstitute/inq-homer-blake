@@ -27,7 +27,7 @@ pdfmetrics.registerFont(TTFont("TimesNR", str(FONT_DIR / "Times New Roman.ttf"))
 pdfmetrics.registerFont(TTFont("TimesNRI", str(FONT_DIR / "Times New Roman Italic.ttf")))
 pdfmetrics.registerFont(TTFont("TimesNRB", str(FONT_DIR / "Times New Roman Bold.ttf")))
 
-PAGE_W, PAGE_H = 7 * inch, 10 * inch
+PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
 COLUMN_GUTTER = 0.24 * inch
 
@@ -102,7 +102,7 @@ story += [Spacer(1, 1.3 * inch), Paragraph("HOMER", styles["ProofSub"]),
           Paragraph("A new translation in the formal spirit of Longfellow's Divine Comedy,\n"
                     "with an original plate by CastaliaInstitute.", styles["ProofSub"]),
           Spacer(1, 1.8 * inch),
-          Paragraph("7 x 10 inch hardcover edition / 80# coated paper target", styles["Small"]),
+          Paragraph("6.625 x 10.25 inch comic-size hardcover edition / 80# coated paper target", styles["Small"]),
           NextPageTemplate("two-column"), PageBreak()]
 
 story += [Paragraph("BOOK 1", styles["BookHead"]),

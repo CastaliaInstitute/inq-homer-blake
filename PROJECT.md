@@ -2,7 +2,7 @@
 
 ## Goal
 
-Produce a two-volume hardcover edition of Homer at a 7 × 10 inch trim size,
+Produce a two-volume hardcover edition of Homer at a 6.625 × 10.25 inch comic-size trim,
 printed on 80# coated paper:
 
 1. Homer's _Iliad_
@@ -57,7 +57,7 @@ Each plate manifest record must include:
 
 ## Lulu production baseline
 
-The current target is Lulu's 7 × 10 in trim with 80# White Coated interior
+The current target is a standard US comic-size 6.625 × 10.25 in trim with 80# White Coated interior
 paper and Premium Color printing. A full-bleed interior page is 7.25 × 10.25
 in, with 0.125 in bleed on each side. Final binding, page count, cover
 spread, and spine width must be locked in Lulu before cover export. Each
@@ -69,7 +69,7 @@ The authoritative preflight checklist is in `preflight/checklist.md`.
 
 1. Lock copy texts and source-image inventory.
 2. Build a book-by-book image map for both epics.
-3. Establish the 7 × 10 design system and proof pages.
+3. Establish the comic-size design system and proof pages.
 4. Generate and review supplemental plate candidates.
 5. Assemble print PDFs and run preflight checks.
 6. Conduct literary, art-historical, and production QA.

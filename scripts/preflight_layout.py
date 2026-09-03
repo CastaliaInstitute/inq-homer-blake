@@ -48,8 +48,8 @@ for pdf in TARGETS:
     for page_number, page in enumerate(pages(pdf), 1):
         width = float(page.attrib.get("width", "0"))
         height = float(page.attrib.get("height", "0"))
-        if round(width) != 504 or round(height) != 720:
-            fail(f"{pdf.name} page {page_number} is not 504 x 720 points")
+        if round(width) != 477 or round(height) != 738:
+            fail(f"{pdf.name} page {page_number} is not 477 x 738 points")
         words = []
         for word in page.findall(".//{*}word"):
             text = (word.text or "").strip()

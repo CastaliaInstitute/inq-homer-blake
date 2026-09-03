@@ -3,7 +3,7 @@
 ## Finished format
 
 - Two separate hardcover volumes: *Iliad* and *Odyssey*
-- Trim: 7 × 10 inches, portrait
+- Trim: 6.625 × 10.25 inches, portrait (standard US comic size)
 - Interior stock: 80# coated paper
 - Printing: color, subject to final printer profile and proof
 - Bleed: 0.125 inch on all trimmed edges when artwork reaches the edge

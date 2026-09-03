@@ -102,7 +102,7 @@ rows.each_with_index do |row, index|
   height = width_output[/pixelHeight:\s*(\d+)/, 1].to_i
   fail!("no dimensions found for #{file}") if width.zero? || height.zero?
 
-  # The project trim is 7 × 10 inches. A concept may be below print resolution,
+  # The project trim is 6.625 × 10.25 inches. A concept may be below print resolution,
   # but a record marked final may not pass this gate.
   dpi = [width / 7.0, height / 10.0].min
   if row["curation_status"] == "final" && dpi < MIN_DPI

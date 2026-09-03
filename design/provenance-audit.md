@@ -28,7 +28,7 @@ The Apollo, Athena, Patroclus/Eurypylus, Polyphemus, and Priam/Achilles plates a
 concept candidates. They are original generated work, not William Blake works
 and not transformations of a specific Blake plate. Each record retains its
 prompt file, date, dimensions, curation status, and explicit credit. The v2
-Apollo/Athena candidates are 2100 × 3000 px (approximately 300 dpi at 7 × 10
+Apollo/Athena candidates are 2100 × 3000 px (approximately 300 dpi at comic-size trim
 inches). Placement derivatives for the three newer candidates are also 2100 ×
 3000 px, but are enlargements for layout review rather than native print
 masters. All remain `concept-review` until a print master, color profile, and

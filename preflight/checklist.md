@@ -2,7 +2,7 @@
 
 - [ ] Final trim, bleed, binding, and spine width confirmed against the
       current printer specification.
-- [ ] Interior pages use the approved 7 × 10 inch grid and safe margins.
+- [ ] Interior pages use the approved 6.625 × 10.25 inch comic-size grid and safe margins.
 - [ ] Full-bleed pages extend 0.125 inch beyond every trimmed edge.
 - [ ] Images are high resolution, embedded, and converted to the approved
       print color profile.
@@ -16,7 +16,7 @@
       in the release manifest.
 - [ ] Interior and cover PDFs open without missing fonts or transparency
   warnings.
-- [x] Development PDFs are checked for 7 × 10 inch geometry and encryption by
+- [x] Development PDFs are checked for comic-size geometry and encryption by
       `scripts/preflight_pdfs.py`; release PDFs additionally require embedded fonts.
 - [x] Representative two-column pages are checked by
       `scripts/preflight_layout.py`.

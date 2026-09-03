@@ -3,7 +3,7 @@
 """Check tracked PDF samples and any future release PDFs.
 
 This gate intentionally permits development samples while enforcing the
-project's 7 x 10 inch interior geometry and explicit casewrap cover-proof
+project's comic-size interior geometry and explicit casewrap cover-proof
 geometry. Files named as release interiors/covers
 must additionally use embedded fonts and have no encryption.
 """
@@ -17,8 +17,8 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 PDF_DIR = ROOT / "output/pdf"
 RELEASE_MANIFEST = ROOT / "design/release-manifest.yaml"
-TRIM = (504, 720)  # 7 x 10 inches in points
-COVER_PROOF = (1152, 828)  # 16 x 11.5 inches with a 0.5 in spine placeholder
+TRIM = (477, 738)  # 6.625 x 10.25 inches in points
+COVER_PROOF = (1098, 846)  # comic spread with a 0.5 in spine placeholder
 
 
 def run(*args):
@@ -61,7 +61,7 @@ for pdf in pdfs:
     dimensions = [float(value) for value in re.findall(r"\d+(?:\.\d+)?", size)]
     expected = COVER_PROOF if "cover-design-proof" in pdf.stem else TRIM
     if len(dimensions) < 2 or tuple(round(value) for value in dimensions[:2]) != expected:
-        label = "cover-proof spread" if expected == COVER_PROOF else "7 x 10 in"
+        label = "cover-proof spread" if expected == COVER_PROOF else "comic trim"
         fail(f"{pdf.name} is not {label}: {fields.get('Page size', 'unknown')}")
     if fields.get("Encrypted", "").strip().lower() != "no":
         fail(f"{pdf.name} is encrypted")

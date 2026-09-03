@@ -3,7 +3,7 @@ status: development
 last_reviewed: 2026-09-02
 
 format:
-  trim_in: [7, 10]
+  trim_in: [6.625, 10.25]
   interior_bleed_in: 0.125
   interior_stock: "80# White Coated"
   printing: "Premium Color hardcover target"
@@ -47,32 +47,32 @@ color:
 proofs:
   - file: output/pdf/inq-homer-book-1-proof.pdf
     class: architecture_sample
-    page_size_pt: [504, 720]
+    page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-odyssey-book-1-proof.pdf
     class: architecture_sample
-    page_size_pt: [504, 720]
+    page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-historical-plate-proof.pdf
     class: provenance_sample
-    page_size_pt: [504, 720]
+    page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-iliad-volume-proof.pdf
     class: architecture_sample
-    page_size_pt: [504, 720]
-    pages: 346
+    page_size_pt: [477, 738]
+    pages: 347
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
-    page_size_pt: [504, 720]
-    pages: 125
+    page_size_pt: [477, 738]
+    pages: 123
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: cover_design_sample
-    page_size_pt: [1152, 828]
+    page_size_pt: [1098, 846]
     pages: 1
     assembly: scripts/build_cover_proof.py
     spine_status: placeholder_only
   - file: output/pdf/inq-homer-odyssey-cover-design-proof.pdf
     class: cover_design_sample
-    page_size_pt: [1152, 828]
+    page_size_pt: [1098, 846]
     pages: 1
     assembly: scripts/build_cover_proof.py
     spine_status: placeholder_only

@@ -14,7 +14,7 @@ a compact translation, the builder uses the complete contiguous source-collated
 authority files for that book, provided their filename ranges cover the whole
 source passage without gaps. Decision logs, working synopses, and editorial
 metadata are excluded from the interior text. The resulting PDFs are trimmed
-to 7 × 10 inches (504 × 720 points) and carry a visible
+to 6.625 × 10.25 inches (477 × 738 points) and carry a visible
 `PROVISIONAL VOLUME PROOF` footer.
 
 These files demonstrate two-column pagination, hierarchy, margins, running

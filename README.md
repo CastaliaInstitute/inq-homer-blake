@@ -23,7 +23,7 @@ conversation with Blake's visual language.
   captions.
 - Label newly generated or commissioned images as new work; never present
   them as Blake originals.
-- Produce two 7 × 10 inch hardcover volumes with 80# coated paper and
+- Produce two 6.625 × 10.25 inch comic-size hardcover volumes with 80# coated paper and
   print-safe margins and high-resolution image assets.
 
 ## Repository layout
@@ -74,7 +74,7 @@ appropriate unresolved-review warning.
 editorial packets exist and that each packet's source-map intervals are
 contiguous through its canonical Greek endpoint.
 
-`python3 scripts/preflight_layout.py` verifies the 7 × 10 inch proof geometry
+`python3 scripts/preflight_layout.py` verifies the comic-size proof geometry
 and confirms that representative rendered pages contain text in both columns.
 
 `python3 scripts/build_meter_report.py` produces a heuristic syllable-band
@@ -140,7 +140,7 @@ it is concept-review only until a print-resolution master is approved.
 
 The first [Iliad Book 1 interior proof](output/pdf/inq-homer-book-1-proof.pdf)
 and matching [Odyssey Book 1 interior proof](output/pdf/inq-homer-odyssey-book-1-proof.pdf)
-test the 7 × 10 page architecture and are samples, not release PDFs.
+test the comic-size page architecture and are samples, not release PDFs.
 
 The [historical plate proof](output/pdf/inq-homer-historical-plate-proof.pdf)
 tests role-level captions for acquired Flaxman/Blake and Flaxman/Piroli scans.

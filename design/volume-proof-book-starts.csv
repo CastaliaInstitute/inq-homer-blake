@@ -1,49 +1,49 @@
 volume,page_number,page_type,epic,book,source_range,text_file,proof_status,notes
-iliad-volume-proof,14,book-opener,Iliad,1,1.1-611,text/iliad/book-01-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,34,book-opener,Iliad,2,2.1-877,text/iliad/book-02-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,47,book-opener,Iliad,3,3.1-461,text/iliad/book-03-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,61,book-opener,Iliad,4,4.1-544,text/iliad/book-04-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,77,book-opener,Iliad,5,5.1-909,text/iliad/book-05-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,87,book-opener,Iliad,6,6.1-529,text/iliad/book-06-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,96,book-opener,Iliad,7,7.1-482,text/iliad/book-07-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,103,book-opener,Iliad,8,8.1-565,text/iliad/book-08-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,115,book-opener,Iliad,9,9.1-713,text/iliad/book-09-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,127,book-opener,Iliad,10,10.1-579,text/iliad/book-10-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,141,book-opener,Iliad,11,11.1-848,text/iliad/book-11-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,154,book-opener,Iliad,12,12.1-471,text/iliad/book-12-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,170,book-opener,Iliad,13,13.1-837,text/iliad/book-13-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,181,book-opener,Iliad,14,14.1-522,text/iliad/book-14-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,196,book-opener,Iliad,15,15.1-746,text/iliad/book-15-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,216,book-opener,Iliad,16,16.1-867,text/iliad/book-16-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,236,book-opener,Iliad,17,17.1-761,text/iliad/book-17-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,249,book-opener,Iliad,18,18.1-617,text/iliad/book-18-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,260,book-opener,Iliad,19,19.1-424,text/iliad/book-19-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,273,book-opener,Iliad,20,20.1-503,text/iliad/book-20-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,289,book-opener,Iliad,21,21.1-611,text/iliad/book-21-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,302,book-opener,Iliad,22,22.1-515,text/iliad/book-22-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,324,book-opener,Iliad,23,23.1-897,text/iliad/book-23-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-iliad-volume-proof,344,book-opener,Iliad,24,24.1-804,text/iliad/book-24-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,10,book-opener,Odyssey,1,1.1-444,text/odyssey/book-01-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,18,book-opener,Odyssey,2,2.1-434,text/odyssey/book-02-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,26,book-opener,Odyssey,3,3.1-497,text/odyssey/book-03-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,30,book-opener,Odyssey,4,4.1-847,text/odyssey/book-04-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,33,book-opener,Odyssey,5,5.1-493,text/odyssey/book-05-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,40,book-opener,Odyssey,6,6.1-331,text/odyssey/book-06-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,43,book-opener,Odyssey,7,7.1-347,text/odyssey/book-07-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,46,book-opener,Odyssey,8,8.1-586,text/odyssey/book-08-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,49,book-opener,Odyssey,9,9.1-566,text/odyssey/book-09-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,54,book-opener,Odyssey,10,10.1-574,text/odyssey/book-10-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,56,book-opener,Odyssey,11,11.1-640,text/odyssey/book-11-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,58,book-opener,Odyssey,12,12.1-453,text/odyssey/book-12-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,63,book-opener,Odyssey,13,13.1-440,text/odyssey/book-13-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,73,book-opener,Odyssey,14,14.1-533,text/odyssey/book-14-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,83,book-opener,Odyssey,15,15.1-557,text/odyssey/book-15-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,91,book-opener,Odyssey,16,16.1-481,text/odyssey/book-16-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,99,book-opener,Odyssey,17,17.1-606,text/odyssey/book-17-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,105,book-opener,Odyssey,18,18.1-428,text/odyssey/book-18-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,108,book-opener,Odyssey,19,19.1-604,text/odyssey/book-19-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,111,book-opener,Odyssey,20,20.1-394,text/odyssey/book-20-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,114,book-opener,Odyssey,21,21.1-434,text/odyssey/book-21-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,117,book-opener,Odyssey,22,22.1-501,text/odyssey/book-22-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,122,book-opener,Odyssey,23,23.1-372,text/odyssey/book-23-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
-odyssey-volume-proof,125,book-opener,Odyssey,24,24.1-548,text/odyssey/book-24-opening.md,verified-architecture-sample,Measured from current assembled proof; final pagination remains open.
+iliad-volume-proof,14,book-opener,Iliad,1,1.1-611,text/iliad/book-01-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,33,book-opener,Iliad,2,2.1-877,text/iliad/book-02-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,45,book-opener,Iliad,3,3.1-461,text/iliad/book-03-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,58,book-opener,Iliad,4,4.1-544,text/iliad/book-04-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,74,book-opener,Iliad,5,5.1-909,text/iliad/book-05-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,85,book-opener,Iliad,6,6.1-529,text/iliad/book-06-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,94,book-opener,Iliad,7,7.1-482,text/iliad/book-07-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,102,book-opener,Iliad,8,8.1-565,text/iliad/book-08-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,115,book-opener,Iliad,9,9.1-713,text/iliad/book-09-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,127,book-opener,Iliad,10,10.1-579,text/iliad/book-10-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,142,book-opener,Iliad,11,11.1-848,text/iliad/book-11-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,154,book-opener,Iliad,12,12.1-471,text/iliad/book-12-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,171,book-opener,Iliad,13,13.1-837,text/iliad/book-13-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,182,book-opener,Iliad,14,14.1-522,text/iliad/book-14-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,198,book-opener,Iliad,15,15.1-746,text/iliad/book-15-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,219,book-opener,Iliad,16,16.1-867,text/iliad/book-16-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,239,book-opener,Iliad,17,17.1-761,text/iliad/book-17-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,252,book-opener,Iliad,18,18.1-617,text/iliad/book-18-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,263,book-opener,Iliad,19,19.1-424,text/iliad/book-19-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,276,book-opener,Iliad,20,20.1-503,text/iliad/book-20-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,292,book-opener,Iliad,21,21.1-611,text/iliad/book-21-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,305,book-opener,Iliad,22,22.1-515,text/iliad/book-22-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,327,book-opener,Iliad,23,23.1-897,text/iliad/book-23-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+iliad-volume-proof,346,book-opener,Iliad,24,24.1-804,text/iliad/book-24-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,10,book-opener,Odyssey,1,1.1-444,text/odyssey/book-01-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,17,book-opener,Odyssey,2,2.1-434,text/odyssey/book-02-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,24,book-opener,Odyssey,3,3.1-497,text/odyssey/book-03-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,27,book-opener,Odyssey,4,4.1-847,text/odyssey/book-04-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,30,book-opener,Odyssey,5,5.1-493,text/odyssey/book-05-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,36,book-opener,Odyssey,6,6.1-331,text/odyssey/book-06-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,39,book-opener,Odyssey,7,7.1-347,text/odyssey/book-07-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,42,book-opener,Odyssey,8,8.1-586,text/odyssey/book-08-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,45,book-opener,Odyssey,9,9.1-566,text/odyssey/book-09-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,49,book-opener,Odyssey,10,10.1-574,text/odyssey/book-10-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,51,book-opener,Odyssey,11,11.1-640,text/odyssey/book-11-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,53,book-opener,Odyssey,12,12.1-453,text/odyssey/book-12-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,58,book-opener,Odyssey,13,13.1-440,text/odyssey/book-13-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,68,book-opener,Odyssey,14,14.1-533,text/odyssey/book-14-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,78,book-opener,Odyssey,15,15.1-557,text/odyssey/book-15-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,86,book-opener,Odyssey,16,16.1-481,text/odyssey/book-16-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,94,book-opener,Odyssey,17,17.1-606,text/odyssey/book-17-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,101,book-opener,Odyssey,18,18.1-428,text/odyssey/book-18-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,104,book-opener,Odyssey,19,19.1-604,text/odyssey/book-19-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,107,book-opener,Odyssey,20,20.1-394,text/odyssey/book-20-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,111,book-opener,Odyssey,21,21.1-434,text/odyssey/book-21-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,114,book-opener,Odyssey,22,22.1-501,text/odyssey/book-22-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,119,book-opener,Odyssey,23,23.1-372,text/odyssey/book-23-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.
+odyssey-volume-proof,123,book-opener,Odyssey,24,24.1-548,text/odyssey/book-24-opening.md,verified-architecture-sample,Measured from current comic-size assembled proof; final pagination remains open.

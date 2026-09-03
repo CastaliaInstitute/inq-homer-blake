@@ -3,7 +3,7 @@
 ## Current production target
 
 - Product: Lulu hardcover casewrap
-- Trim: 7 × 10 inches (178 × 254 mm)
+- Trim: 6.625 × 10.25 inches (168.275 × 260.35 mm), standard US comic size
 - Interior: 80# White Coated, Premium Color
 - Cover: casewrap; current Lulu stock documentation lists an 80# gloss
   laminated white cover stock

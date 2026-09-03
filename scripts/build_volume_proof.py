@@ -35,7 +35,8 @@ for name, filename in {
 }.items():
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
-PAGE_W, PAGE_H = 7 * inch, 10 * inch
+# Standard US comic trim: 6.625 x 10.25 inches.
+PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
 COLUMN_GUTTER = 0.24 * inch
 
@@ -130,7 +131,7 @@ def build(epic, title, out_name):
              Paragraph(title.upper(), styles["VolumeTitle"]),
              Paragraph("Complete provisional interior architecture proof", styles["Sub"]),
              Spacer(1, 0.25 * inch),
-             Paragraph("7 x 10 inch hardcover / 80# coated paper target", styles["Small"]),
+             Paragraph("6.625 x 10.25 inch comic-size hardcover / 80# coated paper target", styles["Small"]),
              Spacer(1, 2.2 * inch),
              Paragraph("Translation status: first-pass draft; Greek-fidelity and editorial gates remain open.", styles["Small"]),
              PageBreak(), Paragraph("FORWARD", styles["Book"])]

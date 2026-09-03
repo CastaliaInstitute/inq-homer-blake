@@ -7,7 +7,7 @@ locked before a final plate is commissioned, generated, or selected.
 
 ## Production rules
 
-- Trim: 7 × 10 in hardcover; full-bleed art requires 0.125 in bleed unless the
+- Trim: 6.625 × 10.25 in comic-size hardcover; full-bleed art requires 0.125 in bleed unless the
   printer template says otherwise.
 - Target stock: 80# coated paper. Final files must be checked at placement
   size, in the printer's requested color profile, with embedded provenance.
@@ -41,7 +41,7 @@ collation.
 | ILI-05 | 5 | Diomedes' aristeia and the wounding of gods; exact range to lock | Original plate: Diomedes blazing through the battlefield as Aphrodite withdraws wounded and Ares rises like a storm; human courage against divine scale, compressed space, expressive hands and spears, visionary black-and-cream design. |
 | ILI-06 | 6 | Hector in Troy; Andromache and Astyanax at the wall; exact range to lock | Original plate of Hector removing his helmet before Astyanax, Andromache between household and doomed wall; tenderness framed by looming masonry, child reaching toward the plume, grave luminous contour, restrained pathos, no sentimental prettiness. |
 | ILI-07 | 7 | Hector and Ajax in single combat; night burial and truce; exact range to lock | Original plate: Hector and Ajax separated by the pause after combat, shields lowered beneath a stark evening sky while attendants prepare the dead; two equal verticals, ritual stillness, ash-gray atmosphere, formal and humane. |
-| ILI-08 | 8 | Zeus turns the battle; the Achaeans driven to the ships; exact range to lock | Original plate of Zeus weighing the battle from above as the Trojan surge presses toward the ships; one scale of light descending, broken chariots below, thunder implied by geometry rather than effects; severe, panoramic, legible at 7 × 10. |
+| ILI-08 | 8 | Zeus turns the battle; the Achaeans driven to the ships; exact range to lock | Original plate of Zeus weighing the battle from above as the Trojan surge presses toward the ships; one scale of light descending, broken chariots below, thunder implied by geometry rather than effects; severe, panoramic, legible at comic size. |
 | ILI-09 | 9 | The embassy to Achilles and his refusal; exact range to lock | Original plate: Odysseus, Phoenix, and Ajax before Achilles' firelit shelter, gifts and armor unable to bridge the distance; Achilles turned partly away, lyre and spear in counterpoint; intimate architecture, moral stasis, high-contrast line. |
 | ILI-10 | 10 | Diomedes and Odysseus in the night raid; exact range to lock | Original plate of the two scouts moving under a starless sky, Dolon caught between fear and prophecy, Trojan horses and sleeping camp reduced to symbolic masses; moonless chiaroscuro, taut diagonals, no sensational gore. |
 | ILI-11 | 11 | Agamemnon's aristeia, the woundings, and Patroclus summoned; exact range to lock | Original plate: the battlefield buckles around wounded leaders while Patroclus stands at the tent opening, summoned toward the catastrophe; Ajax's shield as a dark wall, Machaon carried from danger, charged medical and martial geometry. A concept candidate now exists for 11.618–11.848; see the generated manifest, but it remains concept-review. |

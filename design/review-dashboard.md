@@ -40,8 +40,9 @@ Book 5 packets are now present for both epics; Odyssey Book 5 also has a
 read-aloud revision log, and both books' gates remain pending.
 Book 6 packets are now present for both epics; Iliad and Odyssey Book 6 also
 have read-aloud revision logs, and both books' gates remain pending.
-Book 7 packets are now present for both epics; Odyssey Book 7 has also had its
-Book 8 conflation removed and received a read-aloud/fidelity review log, while
+Book 7 packets are now present for both epics; Iliad Book 7 has received a
+Hector–Ajax read-aloud/fidelity review log, while Odyssey Book 7 has also had
+its Book 8 conflation removed and received a read-aloud/fidelity review log;
 both books' gates remain pending.
 Odyssey Book 8 has now received a song-order and factual-anchor review; its gates
 remain pending.

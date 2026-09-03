@@ -2,7 +2,7 @@
 
 **Source passage:** Book 13, lines 1–440 (complete working-book draft)
 
-**Status:** First-pass literary draft; source-collated; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 
 **Source-collated authority:** [Book 13, lines 1–440](book-13-collation-1-440.md).
 The compact translation below is kept for the current volume architecture;

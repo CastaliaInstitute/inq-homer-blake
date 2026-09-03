@@ -37,6 +37,9 @@ read-aloud review.
   scale of the threat.
 - **16.452–458, Greek fidelity:** “A yearling boar” is corrected to “a
   five-year-old boar,” restoring the explicit age of the sacrificial animal.
+- **16.15–20, Greek fidelity:** The father-and-son welcome simile now says
+  “After nine years,” restoring the duration in the Greek rather than rounding
+  it to ten.
 
 These are translator revisions, not independent approval. A named reviewer must
 still compare the census and closing household sequence against the pinned Greek.

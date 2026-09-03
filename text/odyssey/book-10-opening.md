@@ -4,6 +4,9 @@
 
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 Lines 1–574 are recorded in
 text/odyssey/book-10-collation-1-574.md.
 

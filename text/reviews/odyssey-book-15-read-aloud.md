@@ -1,6 +1,7 @@
 # Odyssey Book 15 — read-aloud and fidelity review
 
-**Review status:** translator self-review; independent reader still required
+**Review status:** translator self-review, revision pass; independent reader still required
+**Revision date:** 2026-09-03
 
 ## Findings
 
@@ -23,7 +24,10 @@ The chapter should move like a braided narrative: polished Lacedaemonian gifts
 and prophetic speech give way to the wet, plain textures of the swineherd’s hut.
 Helen’s omen is expansive and confident; Theoclymenus’s is brief and declarative.
 The Syrian story should gather through remembered domestic details rather than
-feel like an inserted genealogy.
+feel like an inserted genealogy. The opening of Eumaeus’s account of Laertes,
+Anticleia, and his place in the household was expanded into verse in this pass;
+the working text remains pending independent Greek-fidelity and read-aloud
+review.
 
 ## Open decisions
 

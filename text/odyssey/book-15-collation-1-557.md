@@ -275,37 +275,41 @@ He will clothe you and send you where your heart commands.”
 
 ### Lines 341–456 — Eumaeus tells his life
 
-Odysseus said: “May you be dear to Father Zeus, Eumaeus,
-As you have brought my wandering and bitter misery to an end.
-Nothing is worse for mortals than wandering;
-Yet for the sake of the cursed belly men endure grief,
-When wandering, pain, and sorrow overtake them.
-Since you keep me here and bid me await your master,
-Tell me of the mother and father Odysseus left
-Upon the threshold of old age. Do they yet live beneath the sun,
-Or have they died and gone to Hades?”
+Odysseus said: “May Father Zeus hold you dear,
+Eumaeus, for you end my bitter wandering.
+Nothing is worse for mortals than the road;
+Yet for the belly’s sake we bear its grief,
+When pain and hunger drive us on. Tell me:
+Do the old parents of the king still live,
+Whom he left standing at the edge of age,
+Or have they gone beneath the sun to Hades?”
 
-Eumaeus answered: “I will tell you all truly. Laertes lives,
-And prays to Zeus each day that his spirit may leave his limbs
-Within the house. He mourns terribly for his son who is gone,
-And for his prudent wife, whose death most afflicted him
-And brought him down in harsh old age. She died of grief
-For her glorious son; and I wish no friend of mine should die
-So painfully. While she lived, though she sorrowed,
-It was dear to me to ask and speak with her, for she raised me
-Together with long-robed Ctimene, her youngest daughter.
-We grew together, and she honored me scarcely less than the girl.
-When we came to lovely youth, they gave Ctimene to a husband
-In Same, and took countless bride-gifts; but she clothed me
-In a beautiful tunic and cloak, gave me sandals for my feet,
-And sent me to the fields. She loved me in her heart.
-Now I lack all this; yet the blessed gods make the work prosper
-By which I live. From it I eat and drink, and give to honored men.
-But from my mistress I hear no kind word or see no kind deed,
-Since this evil entered the house—the arrogant men.
-The servants greatly desire to speak with their mistress,
-Ask all they wish, eat and drink, and carry something home,
-As ever warms a servant's heart.”
+Eumaeus answered: “I will tell the truth.
+Laertes lives, and prays to Zeus each day
+That life may leave his limbs within his house.
+He mourns his son, and mourns his prudent wife,
+Whose death brought harsh old age upon him; grief
+For her great son consumed her. May no friend
+Die such a death. While she was living, though
+She sorrowed, it was sweet to speak with her;
+She raised me with Ctimene, her youngest child.
+We grew together, and she honored me
+No less than her own daughter. When the years
+Of youth came on, they gave Ctimene to a man
+In Same, taking countless bride-gifts; but
+They clothed me in a tunic and a cloak,
+Gave sandals to my feet, and sent me out
+Among the fields. She loved me in her heart.
+
+“That love is gone; yet still the blessed gods
+Make prosperous the labor by which I live.
+From it I eat and drink, and give to those
+Who merit honor. But I hear no kindness
+From my mistress since evil entered here—
+The arrogant men. The servants long to speak
+With her, ask what they desire, and eat and drink,
+Then carry something home; such things warm
+The heart of one who serves.”
 
 Odysseus answered: “How far you wandered, Eumaeus,
 Though still a child, from your country and your parents!
@@ -468,4 +472,3 @@ Lived through the year.
 - This draft requires independent Greek-fidelity review, literary review,
   meter review, notes review, and production sign-off before promotion beyond
   `draft`.
-

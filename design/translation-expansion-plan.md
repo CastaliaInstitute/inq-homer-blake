@@ -8,7 +8,7 @@ Work in source order within each volume. For every book, compare the expanded En
 |---:|---|---:|---:|---:|---:|---:|---:|---|
 | 1 | iliad | 8 | 565 | 2780 | 2825 | 45 | 4.92 | `text/iliad/book-08-opening.md` |
 | 2 | odyssey | 3 | 497 | 1929 | 2485 | 556 | 3.88 | `text/odyssey/book-03-opening.md` |
-| 3 | odyssey | 4 | 847 | 1230 | 4235 | 3005 | 1.45 | `text/odyssey/book-04-opening.md` |
+| 3 | odyssey | 4 | 847 | 1427 | 4235 | 2808 | 1.68 | `text/odyssey/book-04-opening.md` |
 | 4 | odyssey | 5 | 493 | 1230 | 2465 | 1235 | 2.49 | `text/odyssey/book-05-opening.md` |
 | 5 | odyssey | 6 | 331 | 1479 | 1655 | 176 | 4.47 | `text/odyssey/book-06-opening.md` |
 | 6 | odyssey | 8 | 586 | 710 | 2930 | 2220 | 1.21 | `text/odyssey/book-08-opening.md` |

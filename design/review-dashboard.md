@@ -43,6 +43,8 @@ have read-aloud revision logs, and both books' gates remain pending.
 Book 7 packets are now present for both epics; Odyssey Book 7 has also had its
 Book 8 conflation removed and received a read-aloud/fidelity review log, while
 both books' gates remain pending.
+Odyssey Book 8 has now received a song-order and factual-anchor review; its gates
+remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

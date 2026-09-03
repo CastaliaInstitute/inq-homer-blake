@@ -32,7 +32,7 @@ eagles, and Telemachus's departure.
 |---|---|---|
 | Greek fidelity | nine source-collation records | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
-| Verse | working blank verse | meter report and read-aloud log |
+| Verse | working blank verse and read-aloud revision log recorded; independent stress review pending | meter report, outlier decisions, and named human read-aloud sign-off |
 | Diction | decisions in collation files | concordance check |
 | Notes | book notes | cited note audit |
 | Production | architecture proof | approved-text proof and page-map signoff |

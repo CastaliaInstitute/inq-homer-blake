@@ -30,8 +30,8 @@ gates remain pending. Odyssey Book 1 has the matching packet and an associated
 read-aloud revision log at
 [`text/reviews/odyssey-book-01.md`](../text/reviews/odyssey-book-01.md); its
 gates also remain pending.
-Book 2 packets are now present for both epics; Iliad Book 2 also has a
-read-aloud revision log, and both books' gates remain pending.
+Book 2 packets are now present for both epics; Iliad and Odyssey Book 2 each
+also have a read-aloud revision log, and both books' gates remain pending.
 Book 3 packets are now present for both epics, and their gates remain pending.
 Book 4 packets are now present for both epics, and their gates remain pending.
 Book 5 packets are now present for both epics, and their gates remain pending.

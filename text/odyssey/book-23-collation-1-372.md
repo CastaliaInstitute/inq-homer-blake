@@ -48,29 +48,31 @@ He has returned, and you will not speak to him.”
 “I cannot speak, nor look upon his face,
 Nor ask him questions. But if truly he is he,
 We shall know one another by the signs
-That no one else has learned.” She told her son
-To reason with his father; perhaps the king
-Was angry that she did not know him at once,
-While they had slain the greatest men of Ithaca.
+That no one else has learned.” Odysseus smiled and said:
+“Let your mother prove me as she will; perhaps
+She holds me cheap because my garments cling
+With filth and rags, and does not yet believe
+I am the man I am. But we must find a way
+To bring this matter to its wisest end.
+We have destroyed the pillars of the town—
+The men whom Ithaca called its greatest sons;
+Consider now what answer we shall make.”
+But wise Telemachus replied: “You see it best.
+Your counsel is the keenest among men;
+We shall go with you, nor lack courage while
+Our strength remains.”
 
-She told Telemachus to reason with his father: perhaps
-The king was angry that she did not know him,
-While they had slain the greatest men of Ithaca.
-But wise Telemachus answered: “Mother, why
-Do you accuse yourself? No other wife would wait
-So long, when once her husband seemed to perish.
-My father’s heart is wiser than our own;
-We shall obey him, and shall lack no courage.”
+Then Odysseus answered: “First let us wash
+And clothe ourselves; command the women too.
+Let the divine singer lead a joyous dance,
+That those outside may think a wedding fills
+The house, and no swift rumor of the dead
+Run through the town before we reach our fields.”
 
 ### Lines 128–180 — The false bed
 
-Odysseus ordered them to wash and put on tunics,
-And told the women to prepare themselves. The singer
-Should lead a joyful dance, so that anyone outside
-Would think a wedding took place, and news of death
-Would not spread before they reached the orchard.
-The women arrayed themselves in festive dress; Phemius
-Raised in the house the desire for song and dance.
+They washed and dressed; Phemius took his lyre,
+And stirred the longing for song and dance.
 Outside, a passerby heard the sound and thought
 The wife of a long-absent husband had at last
 Chosen another man.

@@ -105,38 +105,66 @@ Then he struck Oileus, the horse-driver,
 As he came on, and left both men there,
 Their shining breastplates stripped.
 
-He went on to kill Isus and Antiphus, two sons of Priam in one chariot, one illegitimate
-and the other born in wedlock. Achilles had once found them tending sheep on Ida,
-bound them with willow and released them for ransom. Now Agamemnon struck Isus in
-the chest and Antiphus beside the ear with his sword, casting him from the horses.
-He hurried to strip their beautiful armor, recognizing it from the time Achilles
-had brought them from Ida. As a lion easily seizes the tender young of a swift deer
-when it finds the hidden lair, while the mother flees trembling through the dense
-wood, so no one could save the Trojans; they themselves fled before the Argives.
+Then he came upon Isus and Antiphus, two sons
+Of Priam, borne together in a single car—
+One bastard-born, the other from the marriage bed.
+Achilles, once upon the slopes of Ida,
+Had found them shepherding, and bound them fast
+With pliant willow; then he let them go,
+Accepting ransom. Now the son of Atreus
+Struck Isus through the breast; beside the ear
+He drove the sword into Antiphus and cast
+Them from the horses. Eagerly he stripped
+Their shining armor, knowing it from the day
+When swift Achilles led them down from Ida.
 
-Agamemnon then seized Pisander and strong Hippolochus, sons of warlike Antimachus,
-who had received splendid gold from Alexander and refused to let fair-haired Menelaus
-have Helen returned. The king took both in one chariot; their horses fled from their
-hands, and they, bewildered, fell to their knees before him: “Take us alive, son of
-Atreus, and accept a worthy ransom. Many treasures lie in the house of Antimachus—
-bronze, gold, and much-worked iron. Our father would give you immeasurable ransom if
-he heard that we were alive among the Achaean ships.”
+As when a lion in the forest finds
+The hidden fawns of a swift deer, and bears
+The tender young away, while far off runs
+The mother, trembling through the shadowed trees,
+So none could save the sons of Troy that day;
+They fled before the Argives, each from each.
 
-Agamemnon answered without mercy: “If you are the sons of Antimachus, who once urged
-the Trojans in their assembly to kill Menelaus and godlike Odysseus when they came as
-messengers, then you shall now pay your father’s shame.” He struck Pisander in the
-chest and threw him from the horses; Hippolochus sprang down, and he cut off his
-hands and neck and sent his body rolling through the crowd like a stone from a hill.
-He left them and rushed wherever the ranks were thickest, with the other bronze-clad
-Achaeans. Footmen killed fleeing footmen, horsemen killed horsemen; dust rose beneath
-the pounding hooves as bronze dealt death, while Agamemnon followed always, shouting
-and urging the Argives.
+Then Agamemnon seized Pisander, strong
+Hippolochus, the sons of Antimachus,
+Who, bribed with Alexander’s shining gold,
+Had barred the return of fair-haired Menelaus
+With Helen. Both were driven in one chariot;
+Their horses fled, and from the reins they fell,
+Confounded, on their knees before the king.
 
-As an irresistible fire runs through a dry forest when a wind drives it everywhere
-and the shrubs fall root and branch before its force, so Trojan heads fell under
-Agamemnon, and many high-necked horses rattled their empty chariots through the
-battle, longing for their blameless drivers. The men lay on the ground, dearer to
-the vultures than to their wives.
+“Take us alive, O son of Atreus; take
+Our ransom. In Antimachus’s house lie stores
+Of bronze and gold and iron wrought with care.
+Our father, hearing that we still drew breath
+Among the ships, would pay an endless price.”
+
+But Agamemnon answered, hard as bronze:
+“If you are sons of that Antimachus
+Who once in Troy’s assembly urged the death
+Of Menelaus and the godlike son
+Of Laertes, when they came as messengers,
+Then pay your father’s shame.” He struck Pisander
+Through the chest and hurled him from the car.
+Hippolochus leapt down; the sword took hands
+And neck, and sent his body rolling through
+The crowd, as down a hillside rolls a stone.
+
+Then, with the bronze-clad Danaans, he rushed
+Wherever battle thickened. Footmen slew
+The footmen fleeing; horsemen struck the horsemen;
+Dust climbed beneath the hammering hooves, and bronze
+Fed on the ranks, while Agamemnon pressed
+Behind them, shouting, driving on the Argives.
+
+As when a wind-fed fire runs through a wood
+Grown dry beneath the summer sun, and shrubs
+Fall root and branch before the leaping flame,
+So Trojan heads fell underneath the king;
+And many high-necked horses dragged their cars
+Unmanned through battle, grieving for the hands
+That once had held them. There the dead lay strewn,
+More welcome to the vultures than their wives.
 
 Zeus drew Hector away from the spears, the dust, the slaughter, and the blood. But
 Agamemnon pressed hard after the Danaans, shouting and commanding them. They raced

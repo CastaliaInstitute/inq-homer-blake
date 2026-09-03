@@ -12,6 +12,7 @@ from reportlab.platypus import (
     BaseDocTemplate,
     Frame,
     Image,
+    NextPageTemplate,
     PageBreak,
     PageTemplate,
     Paragraph,
@@ -28,6 +29,7 @@ pdfmetrics.registerFont(TTFont("TimesNRB", str(FONT_DIR / "Times New Roman Bold.
 
 PAGE_W, PAGE_H = 7 * inch, 10 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
+COLUMN_GUTTER = 0.24 * inch
 
 styles = getSampleStyleSheet()
 styles.add(ParagraphStyle(
@@ -82,8 +84,15 @@ doc = BaseDocTemplate(
     rightMargin=MARGIN_X, topMargin=MARGIN_Y, bottomMargin=0.7 * inch,
     title="Homer: Iliad Book 1 Proof", author="CastaliaInstitute",
 )
-frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="body")
-doc.addPageTemplates([PageTemplate(id="proof", frames=frame, onPage=footer)])
+full_frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="full")
+column_width = (doc.width - COLUMN_GUTTER) / 2
+left_frame = Frame(doc.leftMargin, doc.bottomMargin, column_width, doc.height, id="left-column")
+right_frame = Frame(doc.leftMargin + column_width + COLUMN_GUTTER, doc.bottomMargin,
+                    column_width, doc.height, id="right-column")
+doc.addPageTemplates([
+    PageTemplate(id="full", frames=full_frame, onPage=footer),
+    PageTemplate(id="two-column", frames=[left_frame, right_frame], onPage=footer),
+])
 
 story = []
 story += [Spacer(1, 1.3 * inch), Paragraph("HOMER", styles["ProofSub"]),
@@ -94,7 +103,7 @@ story += [Spacer(1, 1.3 * inch), Paragraph("HOMER", styles["ProofSub"]),
                     "with an original plate by CastaliaInstitute.", styles["ProofSub"]),
           Spacer(1, 1.8 * inch),
           Paragraph("7 x 10 inch hardcover edition / 80# coated paper target", styles["Small"]),
-          PageBreak()]
+          NextPageTemplate("two-column"), PageBreak()]
 
 story += [Paragraph("BOOK 1", styles["BookHead"]),
           Paragraph("The Anger of Achilles", styles["ProofSub"])]
@@ -116,14 +125,15 @@ story += verse([
 ])
 story += [Spacer(1, 0.22 * inch), Paragraph(
     "Working draft: Iliad 1.1-16. Greek base text: Monro and Allen, Homeri Opera. "
-    "Not approved for final layout.", styles["Caption"]), PageBreak()]
+    "Not approved for final layout.", styles["Caption"]),
+          NextPageTemplate("full"), PageBreak()]
 
 image_path = ROOT / "assets/generated/iliad/book-01-apollo-v2.png"
 story += [Image(str(image_path), width=5.55 * inch, height=7.92 * inch),
           Paragraph("Apollo descending upon the Achaean camp. Original concept plate by "
                     "CastaliaInstitute; informed by Blake's visionary line but not by "
                     "a specific Blake plate. Concept-review only; not final print resolution.",
-                    styles["Caption"]), PageBreak()]
+                    styles["Caption"]), NextPageTemplate("full"), PageBreak()]
 
 story += [Paragraph("PROOF NOTES", styles["BookHead"]),
           Paragraph("This four-page proof tests the shared page architecture: title page, "

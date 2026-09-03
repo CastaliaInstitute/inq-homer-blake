@@ -45,6 +45,10 @@ jobs:
         run: scripts/preflight_translation.rb
       - name: Run translation completeness preflight
         run: ruby scripts/preflight_translation_completeness.rb
+      - name: Run translation density preflight
+        run: |
+          ruby scripts/preflight_translation_density.rb
+          git diff --exit-code -- design/translation-density-report.md
       - name: Run review-packet coverage preflight
         run: ruby scripts/preflight_review_packets.rb
       - name: Run read-aloud coverage preflight

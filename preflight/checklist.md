@@ -31,6 +31,8 @@
       recorded before release.
 - [x] Compact or compressed translation material is blocked from promotion by
       `scripts/preflight_translation_completeness.rb`.
+- [ ] Translation-density holds in `design/translation-density-report.md` are
+      expanded or individually waived with documented editorial rationale.
 
 The current tracked proof in `output/pdf/` is an architecture sample only;
 its status must remain separate from final volume deliverables.

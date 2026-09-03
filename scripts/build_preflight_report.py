@@ -4,6 +4,7 @@
 
 from pathlib import Path
 import csv
+import re
 import subprocess
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -32,6 +33,19 @@ with (ROOT / "design/architecture-page-map.csv").open(newline="", encoding="utf-
     page_map = list(csv.DictReader(stream))
 with (ROOT / "text/translation-status.csv").open(newline="", encoding="utf-8") as stream:
     statuses = list(csv.DictReader(stream))
+
+density_holds = 0
+for status in statuses:
+    path = ROOT / status["translation_file"]
+    text = path.read_text(encoding="utf-8")
+    ranges = re.findall(r"\*\*Source passage:\*\* Book \d+, lines (\d+)[–-](\d+)", text)
+    translation = re.search(r"^## Translation\s*(.*?)(?=^## Decision log\b|\Z)", text, re.M | re.S)
+    if not ranges or not translation:
+        raise SystemExit(f"cannot measure translation density: {path}")
+    source_lines = max(int(end) for _, end in ranges) - min(int(start) for start, _ in ranges) + 1
+    words = len(re.findall(r"\b[\w’'-]+\b", translation.group(1)))
+    if words / source_lines < 5.0:
+        density_holds += 1
 
 lines = [
     "# Current production preflight report",
@@ -63,6 +77,7 @@ lines += [
     "## Coverage and provenance",
     "",
     f"- Translation ledger: {len(statuses)} books; all remain under review.",
+    f"- Reader-facing density screen: {density_holds} provisional holds; see `design/translation-density-report.md`.",
     f"- Architecture page map: {len(page_map)} traced pages.",
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",

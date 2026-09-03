@@ -14,7 +14,7 @@ or a physical proof.
 | Area | Evidence | Current result |
 |---|---|---|
 | Source coverage | `design/collation-coverage.md`; source-lock and Greek-coverage preflights | All 48 books have contiguous source authority |
-| Translation completeness | `ruby scripts/preflight_translation_completeness.rb` | Zero compact holds; all 48 working authorities are complete |
+| Translation completeness | `ruby scripts/preflight_translation_completeness.rb`; `scripts/preflight_translation_density.rb` | All 48 source authorities reach their endpoints; the density screen separately records provisional holds where reader-facing English remains materially compressed |
 | Accessible reading copies | `output/text/inq-homer-iliad.txt`, `output/text/inq-homer-odyssey.txt` | 24 books in each export; preflight passed |
 | Interior architecture | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Architecture proofs complete at 477 × 738 pt; final locked-text exports still pending |
 | Pagination | `design/release-manifest.yaml` | Iliad 350 pages; Odyssey 146 pages |

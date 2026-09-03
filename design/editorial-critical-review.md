@@ -14,12 +14,13 @@ Iliad draft is substantially closer to a continuous poetic translation than the
 Odyssey draft. Neither volume is publication-ready, because the six review gates
 remain pending for all 48 books and no independent human sign-off is recorded.
 
-The most important issue is not cosmetic. The completeness gate now verifies
-full revised collation authority across all 48 books, including the previously
-compressed Odyssey Books 13–24 and the completed Iliad Book 11 pass. All books
-remain provisional until the independent review gates are signed. Complete
-collation authority must not be mistaken for an approved or finished
-Longfellow-style translation.
+The most important issue is not cosmetic. Source-range continuity is now
+separated from reader-facing completeness: the density screen records books
+whose English remains materially compressed even when a revised collation file
+reaches the Greek endpoint. All books remain provisional until expansion,
+independent review, and the approval gates are complete. Complete collation
+authority must not be mistaken for an approved or finished Longfellow-style
+translation.
 
 ## Evidence and severity
 
@@ -27,7 +28,7 @@ Longfellow-style translation.
 |---|---|---|
 | Voice / beauty | Longfellow-like five-stress cadence and elevated diction are visible throughout the Iliad and early Odyssey books. | Promising; requires sustained line edit for monotony, abstraction, and occasional modern phrasing. |
 | Greek fidelity | Book-level review logs identify and correct concrete errors, including duplicated passages, altered counts, agency, spatial sense, and omitted objects. | Improving; independent omissions/additions review remains open. |
-| Translation completeness | `scripts/preflight_translation_completeness.rb` reports zero compact holds and verifies revised collation authority for Odyssey Books 13–24; Iliad Book 11 is now a continuous working translation. | **Pass for completeness;** independent fidelity and literary review remain open. |
+| Translation completeness | `scripts/preflight_translation_completeness.rb` verifies source-endpoint coverage; `design/translation-density-report.md` separately identifies materially compressed reader-facing books. | **Provisional hold;** expansion and independent fidelity/literary review remain open. |
 | Review governance | `text/translation-status.csv` keeps all 288 gate cells pending; no book is approved for layout. | Correctly conservative; retain these holds. |
 | Production | PDF and layout preflights pass at 477 × 738 pt with two columns; current proofs are structurally valid. | Production-ready as sample proofs only, not as final books. |
 

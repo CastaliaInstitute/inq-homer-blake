@@ -89,6 +89,11 @@ contiguous through its canonical Greek endpoint.
 an explicitly non-final read-aloud/fidelity review record with human review
 held open.
 
+`ruby scripts/preflight_translation_density.rb` screens the reader-facing
+Translation sections for material compression against their declared Greek
+source ranges. It is a conservative hold mechanism, not proof of literary
+quality or Greek fidelity; see the [density report](design/translation-density-report.md).
+
 `ruby scripts/preflight_illustration_placeholders.rb` verifies that all forty-
 eight book slots have unique prompts, exact canonical source ranges, and
 provenance direction before any candidate is promoted to final art.

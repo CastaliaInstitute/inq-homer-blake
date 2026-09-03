@@ -13,6 +13,7 @@ import re
 import sys
 from xml.sax.saxutils import escape
 
+from PIL import Image as PILImage
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
 from reportlab.lib.pagesizes import inch
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
@@ -115,7 +116,18 @@ def plate_block(record):
     max_width = PAGE_W - 2 * MARGIN_X
     max_height = PAGE_H - MARGIN_Y - 1.15 * inch
     scale = min(max_width / width, max_height / height)
-    image = Image(str(asset), width=width * scale, height=height * scale)
+    # PNG is retained as the provenance/master asset, but embedding its raw
+    # RGB pixels makes the architecture proof needlessly enormous. Encode a
+    # high-quality temporary placement stream; the source remains untouched.
+    placement_dir = ROOT / "tmp" / "pdfs" / "volume-plates"
+    placement_dir.mkdir(parents=True, exist_ok=True)
+    placement_path = placement_dir / f"{asset.stem}.jpg"
+    with PILImage.open(asset) as source:
+        placement = source.convert("RGB")
+        placement.save(placement_path, format="JPEG", quality=92, subsampling=0,
+                       optimize=False, progressive=False)
+        placement.close()
+    image = Image(str(placement_path), width=width * scale, height=height * scale)
     caption = escape(record["caption"])
     credit = escape(record["credit_line"])
     return [

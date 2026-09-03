@@ -15,10 +15,11 @@
 | Pending gate records | 288 |
 | Book-level review packets started | 48 |
 
-All 48 books have contiguous source-collation coverage, but that coverage is not
-uniformly a complete poetic translation. In particular, Odyssey Books 13–24
-retain compact or first-pass authorities that require expansion and literary
-review; see the [critical editorial review](editorial-critical-review.md).
+All 48 books have contiguous source-collation coverage. The completeness gate
+verifies full revised collation authority for Odyssey Books 13–24; Iliad Book 11
+retains the remaining compact/compressed working-book hold. Neither condition
+constitutes approval: all books still require the six review gates and human
+signoff; see the [critical editorial review](editorial-critical-review.md).
 `review` means the material is ready for line-level editorial review; it does
 not mean that the translation has been approved or that it is ready for layout
 or print.

@@ -88,6 +88,39 @@ have not hidden from me the names of the dead and returned:
 Achilles lies beneath the earth; Patroclus too; Ajax has died;
 and Agamemnon came home only to find a treacherous death.
 
+He did not fall in battle, nor beneath the storm
+That scatters ships and men across the sea.
+When he had reached his own dear land, he thought
+The years of labor ended. But Aegisthus,
+Who had remained behind, prepared a feast
+And sent a watching man to keep the road.
+For seven full years he watched from the high place,
+And when the king appeared, he ran to tell
+His master. Then Aegisthus went to meet him,
+And led him in with welcome, as though no
+Deceit were hidden in his heart. He spread
+A great banquet, and called the king his friend;
+But there, among the tables, he and those
+Who served him struck the home-returned lord down.
+No shield stood near him, and no spear was raised;
+He died as oxen die when men have bound them.
+
+I learned these things from one who saw the deed,
+And from the gods, whose anger did not sleep.
+For long the murderer ruled within the house,
+And took the wife of Agamemnon for his own;
+But Orestes, when he came from foreign lands,
+Remembered the great father whom he had lost.
+He waited till the people gathered round him,
+Then killed Aegisthus, and made payment for
+The blood of him who led the Greeks to Troy.
+May every man who has been long away
+Come home with such a son to meet his age.
+Yet do not think that I can name the path
+Odysseus took, or say if he is dead.
+The gods have kept that knowledge from my sight;
+I speak of what I know, and no more than that.
+
 Menelaus, who gathered many treasures, wandered far away.
 If he had been present, you could ask him everything.
 He was absent for a long time, driven by storm and hunger,

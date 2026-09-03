@@ -7,6 +7,16 @@
 
 This packet records source coverage; it is not approval evidence.
 
+## Current revision note
+
+The working pass restores the fuller bow-contest mechanics: Leodes’s position
+and warning, the fire, chair, fleeces, and fat used to warm the bow, the
+leaders’ postponement of the contest for Apollo’s feast, the suitors’ mockery
+of Eumaeus, Telemachus’s threat, and the separate fastening of the hall and
+courtyard doors. These additions were checked against Odyssey 21.101–143,
+21.167–204, and 21.359–395. The density screen remains a hold, and independent
+Greek-fidelity, literary, meter, notes, and production approval remain open.
+
 ## Source-map register
 
 | Greek span | Collation authority |

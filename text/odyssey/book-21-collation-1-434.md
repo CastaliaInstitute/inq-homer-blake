@@ -83,8 +83,18 @@ And set the arrow down beside the polished boards.
 
 ### Lines 144–220 — The suitors fail and the king reveals himself
 
-Leodes tried once again, but could not bend it;
-The young men warmed and greased it, one by one,
+Leodes, son of Oenops, who sat nearest the mixing-bowl,
+Took the bow first. He alone among the suitors
+Hated their lawless ways, and often warned them;
+Yet he could not bend the weapon. Before his hands
+Grew weary, he laid it down: “Friends, this bow will grieve
+Many among us. Better to die than live here waiting,
+Though some still hope to marry the wife of Odysseus;
+Let him try who can.” Antinous rebuked him,
+Then ordered Melanthius: “Make a fire within,
+Set a great chair and fleeces near it, bring us fat,
+That the young men may warm and oil the bow.”
+They kindled fire and rubbed the bow, one after one,
 Yet none possessed the strength. Then the king went out
 With cowherd and swineherd. “Am I still hidden?”
 He asked. “If Odysseus came suddenly, would you fight
@@ -108,10 +118,19 @@ And stood again beside their hidden king.
 ### Lines 221–320 — The bow requested
 
 Antinous could not bend the bow, and urged
-That they should leave the contest for the feast,
-And try again at dawn, when Melanthius
-Could bring the goats appointed for Apollo.
-After the libation, then the stranger spoke:
+That they should leave the contest for the feast.
+Eurymachus had warmed it too, and strained until
+His heart groaned; then he said: “This grief is not for marriage
+Alone. There are other women in Ithaca and elsewhere;
+But shame will reach the sons of men if we prove weaker
+Than great Odysseus, whose bow no hand can bend.”
+Antinous answered: “The people keep a holy feast
+To the Archer today; no man should string a bow now.
+Set it aside. Let the cupbearer begin the wine,
+And tomorrow bid Melanthius bring the finest goats,
+That we may sacrifice to Apollo and renew
+The contest.” They poured water over their hands
+And crowned the bowls; after the libation, then the stranger spoke:
 
 “Let me attempt the polished bow among you,
 And learn if wandering and hunger have not broken
@@ -149,14 +168,21 @@ Sent sweet sleep down upon her.
 
 ### Lines 321–434 — The stranger takes the bow
 
-The suitors mocked the prince and the beggar.
-Telemachus wished his strength were greater than
-The strength of all of them, and threatened stones.
-They swallowed down their anger. Then Eumaeus
-Bore the great bow toward Odysseus; within,
+The suitors mocked the prince and the beggar; one called
+Telemachus the worst host, for keeping such a wanderer,
+Starved for bread and wine, who knew no labor or strength.
+Another urged him to send the strangers to Sicily,
+That they might profit by them. The prince wished that
+His strength were greater than the strength of all of them;
+He threatened to drive the mockers from the court with stones,
+And even to send one home in grief. They swallowed down
+Their anger, laughing still. Then Eumaeus bore the bow
+Toward Odysseus; within,
 Eurycleia barred the doors of the hall,
 While loyal Philoetius locked the court
-And bound the ship’s hawser around the gate.
+And bound the ship’s hawser around the gate. He found
+The old ship’s rope beneath the portico, and fastened
+The well-built doors, then returned to watch his lord.
 
 The king turned over in his hands the bow,
 And searched it everywhere, lest worms had eaten

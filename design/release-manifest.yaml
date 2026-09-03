@@ -1,6 +1,6 @@
 edition_id: castalia-institute-inq-homer-blake
 status: development
-last_reviewed: 2026-09-02
+last_reviewed: 2026-09-03
 
 format:
   trim_in: [6.625, 10.25]
@@ -23,6 +23,7 @@ volumes:
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
+    read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: pending_full_volume_assembly
@@ -30,6 +31,7 @@ volumes:
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
     translation_status: All 24 books at review; source-collated authorities cover all 24 books; six review gates pending
+    read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
 
 typography:
   status: locked_for_architecture_proof

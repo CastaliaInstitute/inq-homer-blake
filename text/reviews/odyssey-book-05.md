@@ -21,6 +21,26 @@ This packet records source coverage; it is not approval evidence.
 These intervals cover Odyssey 5.1–493 and map the release from Calypso, raft
 construction, storm, Ino's veil, and Odysseus's river landing.
 
+## Critical expansion targets
+
+The working English is narratively coherent but materially compressed against
+the 493-line Greek span. The next revision should restore detail by unit, not
+pad the verse to satisfy a numerical threshold:
+
+| Span | Restoration target | Editorial test |
+|---|---|---|
+| 1–42 | Preserve the full divine council, Zeus's decree, Hermes's flight, and the material interior of Calypso's cave. | Distinguish divine command from Hermes's own speech and keep the island palpable before the plot turns. |
+| 43–147 | Deepen Calypso's grievance, the oath, and the complete sequence of tools, timber, lashings, provisions, and launch. | Keep her care and captivity in tension; do not reduce the raft to a plot device. |
+| 148–261 | Give Odysseus's seventeen-day steering and the named stars a fully audible voyage before Poseidon's return. | Preserve the hero's agency and the navigational particulars without turning the passage into modern exposition. |
+| 262–350 | Restore the storm's successive wind changes, the breaking of mast, sail, raft, and the hero's changing survival choices. | Track agency and physical sequence line by line; avoid generic “storm” language. |
+| 351–423 | Expand Ino's appearance, the veil's conditions, Athena's wind-calming, and the reef/shore reversals. | Make each divine intervention legible while keeping danger immediate. |
+| 424–493 | Restore the river's listening, the vomiting of seawater, the veil's return, and the paired olive/wild-olive shelter. | End on exhausted human craft and sacred landscape, not a summary of rescue. |
+
+The density screen currently holds this book; the target is a fuller poetic
+translation followed by an independent Greek omissions/additions check and a
+separate Longfellow/cadence pass. No numeric threshold may be used as a reason
+to introduce unsupported detail.
+
 ## Gate evidence register
 
 | Gate | Current evidence | Required before pass |

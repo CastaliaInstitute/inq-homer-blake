@@ -10,22 +10,22 @@ from reportlab.platypus import BaseDocTemplate, Frame, Image, PageBreak, PageTem
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "output/pdf/inq-homer-historical-plate-proof.pdf"
-FONT_DIR = Path("/System/Library/Fonts/Supplemental")
-for name, filename in (("TimesNR", "Times New Roman.ttf"), ("TimesNRI", "Times New Roman Italic.ttf"), ("TimesNRB", "Times New Roman Bold.ttf")):
+FONT_DIR = ROOT / "assets" / "fonts"
+for name, filename in (("Cormorant", "CormorantGaramond-Regular.ttf"), ("CormorantI", "CormorantGaramond-Italic.ttf"), ("CormorantB", "CormorantGaramond-SemiBold.ttf")):
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
 W, H = 6.625 * inch, 10.25 * inch
 styles = getSampleStyleSheet()
-styles.add(ParagraphStyle(name="HTitle", fontName="TimesNRB", fontSize=23, leading=28, alignment=TA_CENTER, textColor="#1f1c18"))
-styles.add(ParagraphStyle(name="HSub", fontName="TimesNRI", fontSize=11, leading=15, alignment=TA_CENTER, textColor="#625b52"))
-styles.add(ParagraphStyle(name="HHead", fontName="TimesNRB", fontSize=16, leading=20, alignment=TA_LEFT, textColor="#1f1c18", spaceAfter=8))
-styles.add(ParagraphStyle(name="HCaption", fontName="TimesNR", fontSize=8, leading=11, alignment=TA_LEFT, textColor="#3d3934"))
+styles.add(ParagraphStyle(name="HTitle", fontName="CormorantB", fontSize=23, leading=28, alignment=TA_CENTER, textColor="#1f1c18"))
+styles.add(ParagraphStyle(name="HSub", fontName="CormorantI", fontSize=11, leading=15, alignment=TA_CENTER, textColor="#625b52"))
+styles.add(ParagraphStyle(name="HHead", fontName="CormorantB", fontSize=16, leading=20, alignment=TA_LEFT, textColor="#1f1c18", spaceAfter=8))
+styles.add(ParagraphStyle(name="HCaption", fontName="Cormorant", fontSize=8, leading=11, alignment=TA_LEFT, textColor="#3d3934"))
 
 def footer(canvas, doc):
     canvas.saveState()
     canvas.setStrokeColorRGB(0.72, 0.69, 0.64)
     canvas.line(0.72 * inch, 0.48 * inch, W - 0.72 * inch, 0.48 * inch)
-    canvas.setFont("TimesNR", 7.5)
+    canvas.setFont("Cormorant", 7.5)
     canvas.setFillColorRGB(0.39, 0.36, 0.32)
     canvas.drawString(0.72 * inch, 0.31 * inch, "HOMER / HISTORICAL PLATE PROOF")
     canvas.drawRightString(W - 0.72 * inch, 0.31 * inch, str(doc.page))

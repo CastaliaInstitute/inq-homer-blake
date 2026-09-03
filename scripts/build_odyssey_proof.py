@@ -10,27 +10,27 @@ from reportlab.platypus import BaseDocTemplate, Frame, Image, NextPageTemplate, 
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "output/pdf/inq-homer-odyssey-book-1-proof.pdf"
-FONT_DIR = Path("/System/Library/Fonts/Supplemental")
-for name, filename in (("TimesNR", "Times New Roman.ttf"), ("TimesNRI", "Times New Roman Italic.ttf"), ("TimesNRB", "Times New Roman Bold.ttf")):
+FONT_DIR = ROOT / "assets" / "fonts"
+for name, filename in (("Cormorant", "CormorantGaramond-Regular.ttf"), ("CormorantI", "CormorantGaramond-Italic.ttf"), ("CormorantB", "CormorantGaramond-SemiBold.ttf")):
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
 PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
 COLUMN_GUTTER = 0.24 * inch
 styles = getSampleStyleSheet()
-styles.add(ParagraphStyle(name="ODTitle", fontName="TimesNRB", fontSize=25, leading=30, alignment=TA_CENTER, textColor="#1f1c18", spaceAfter=18))
-styles.add(ParagraphStyle(name="ODSub", fontName="TimesNRI", fontSize=12, leading=16, alignment=TA_CENTER, textColor="#625b52", spaceAfter=12))
-styles.add(ParagraphStyle(name="ODHead", fontName="TimesNRB", fontSize=18, leading=22, alignment=TA_LEFT, textColor="#1f1c18", spaceAfter=8))
-styles.add(ParagraphStyle(name="ODVerse", fontName="TimesNR", fontSize=11.2, leading=16, alignment=TA_LEFT, textColor="#1f1c18", leftIndent=0.05 * inch))
-styles.add(ParagraphStyle(name="ODCaption", fontName="TimesNR", fontSize=7.5, leading=10, alignment=TA_LEFT, textColor="#625b52", spaceBefore=6))
-styles.add(ParagraphStyle(name="ODSmall", fontName="TimesNR", fontSize=8.5, leading=12, alignment=TA_LEFT, textColor="#3d3934"))
+styles.add(ParagraphStyle(name="ODTitle", fontName="CormorantB", fontSize=25, leading=30, alignment=TA_CENTER, textColor="#1f1c18", spaceAfter=18))
+styles.add(ParagraphStyle(name="ODSub", fontName="CormorantI", fontSize=12, leading=16, alignment=TA_CENTER, textColor="#625b52", spaceAfter=12))
+styles.add(ParagraphStyle(name="ODHead", fontName="CormorantB", fontSize=18, leading=22, alignment=TA_LEFT, textColor="#1f1c18", spaceAfter=8))
+styles.add(ParagraphStyle(name="ODVerse", fontName="Cormorant", fontSize=11.2, leading=16, alignment=TA_LEFT, textColor="#1f1c18", leftIndent=0.05 * inch))
+styles.add(ParagraphStyle(name="ODCaption", fontName="Cormorant", fontSize=7.5, leading=10, alignment=TA_LEFT, textColor="#625b52", spaceBefore=6))
+styles.add(ParagraphStyle(name="ODSmall", fontName="Cormorant", fontSize=8.5, leading=12, alignment=TA_LEFT, textColor="#3d3934"))
 
 def footer(canvas, doc):
     canvas.saveState()
     canvas.setStrokeColorRGB(0.72, 0.69, 0.64)
     canvas.setLineWidth(0.35)
     canvas.line(MARGIN_X, 0.48 * inch, PAGE_W - MARGIN_X, 0.48 * inch)
-    canvas.setFont("TimesNR", 7.5)
+    canvas.setFont("Cormorant", 7.5)
     canvas.setFillColorRGB(0.39, 0.36, 0.32)
     canvas.drawString(MARGIN_X, 0.31 * inch, "HOMER / iNQ HOMER BLAKE / BOOK 1 PROOF")
     canvas.drawRightString(PAGE_W - MARGIN_X, 0.31 * inch, str(doc.page))

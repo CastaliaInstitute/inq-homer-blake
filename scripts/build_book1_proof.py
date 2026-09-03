@@ -21,11 +21,11 @@ from reportlab.platypus import (
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "output/pdf/inq-homer-book-1-proof.pdf"
-FONT_DIR = Path("/System/Library/Fonts/Supplemental")
+FONT_DIR = ROOT / "assets" / "fonts"
 
-pdfmetrics.registerFont(TTFont("TimesNR", str(FONT_DIR / "Times New Roman.ttf")))
-pdfmetrics.registerFont(TTFont("TimesNRI", str(FONT_DIR / "Times New Roman Italic.ttf")))
-pdfmetrics.registerFont(TTFont("TimesNRB", str(FONT_DIR / "Times New Roman Bold.ttf")))
+pdfmetrics.registerFont(TTFont("Cormorant", str(FONT_DIR / "CormorantGaramond-Regular.ttf")))
+pdfmetrics.registerFont(TTFont("CormorantI", str(FONT_DIR / "CormorantGaramond-Italic.ttf")))
+pdfmetrics.registerFont(TTFont("CormorantB", str(FONT_DIR / "CormorantGaramond-SemiBold.ttf")))
 
 PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
@@ -33,28 +33,28 @@ COLUMN_GUTTER = 0.24 * inch
 
 styles = getSampleStyleSheet()
 styles.add(ParagraphStyle(
-    name="ProofTitle", fontName="TimesNRB", fontSize=25, leading=30,
+    name="ProofTitle", fontName="CormorantB", fontSize=25, leading=30,
     alignment=TA_CENTER, textColor="#1f1c18", spaceAfter=18,
 ))
 styles.add(ParagraphStyle(
-    name="ProofSub", fontName="TimesNRI", fontSize=12, leading=16,
+    name="ProofSub", fontName="CormorantI", fontSize=12, leading=16,
     alignment=TA_CENTER, textColor="#625b52", spaceAfter=12,
 ))
 styles.add(ParagraphStyle(
-    name="BookHead", fontName="TimesNRB", fontSize=18, leading=22,
+    name="BookHead", fontName="CormorantB", fontSize=18, leading=22,
     alignment=TA_LEFT, textColor="#1f1c18", spaceAfter=8,
 ))
 styles.add(ParagraphStyle(
-    name="Verse", fontName="TimesNR", fontSize=11.2, leading=16,
+    name="Verse", fontName="Cormorant", fontSize=11.2, leading=16,
     alignment=TA_LEFT, textColor="#1f1c18", leftIndent=0.05 * inch,
     spaceAfter=0,
 ))
 styles.add(ParagraphStyle(
-    name="Caption", fontName="TimesNR", fontSize=7.5, leading=10,
+    name="Caption", fontName="Cormorant", fontSize=7.5, leading=10,
     alignment=TA_LEFT, textColor="#625b52", spaceBefore=6,
 ))
 styles.add(ParagraphStyle(
-    name="Small", fontName="TimesNR", fontSize=8.5, leading=12,
+    name="Small", fontName="Cormorant", fontSize=8.5, leading=12,
     alignment=TA_LEFT, textColor="#3d3934",
 ))
 
@@ -64,7 +64,7 @@ def footer(canvas, doc):
     canvas.setStrokeColorRGB(0.72, 0.69, 0.64)
     canvas.setLineWidth(0.35)
     canvas.line(MARGIN_X, 0.48 * inch, PAGE_W - MARGIN_X, 0.48 * inch)
-    canvas.setFont("TimesNR", 7.5)
+    canvas.setFont("Cormorant", 7.5)
     canvas.setFillColorRGB(0.39, 0.36, 0.32)
     canvas.drawString(MARGIN_X, 0.31 * inch, "HOMER / iNQ HOMER BLAKE / BOOK 1 PROOF")
     canvas.drawRightString(PAGE_W - MARGIN_X, 0.31 * inch, str(doc.page))

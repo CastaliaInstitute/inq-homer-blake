@@ -4,6 +4,9 @@
 
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 Lines 1–640 are recorded in
 text/odyssey/book-11-collation-1-640.md.
 
@@ -16,7 +19,8 @@ We drew the ship onto the shore and followed Circe's directions.
 
 I dug a trench and poured offerings to all the dead: milk and honey,
 wine, and water over barley. I prayed to the shades and promised
-a barren heifer when I reached Ithaca. Then I cut the throats
+a barren heifer when I reached Ithaca, and to Tiresias a black ram,
+the finest of my flocks. Then I cut the throats
 of two black sheep. The blood ran into the trench.
 
 The dead gathered. Women, old men, warriors, and children came,

@@ -106,9 +106,9 @@ Within the house and at the outer threshold.
 Athena came near in Mentor’s form and voice.
 Odysseus rejoiced: “Why stand apart from us,
 When we are pressed?” Agelaus warned the suitors:
-“Mentor may now be friend to this bowman. Let her
+“Mentor may now be friend to this bowman. Let him
 Fight at his side.” The goddess made no answer;
-She tested king and son, and both the servants.
+But stood apart, withholding her divine sign.
 
 “Cast now,” Odysseus said. He struck Demoptolemus;
 Telemachus struck Euryades; Eumaeus
@@ -124,7 +124,7 @@ Struck Ctesippus: “Take this guest-gift in return
 For the ox’s foot you cast at our master.”
 Telemachus struck Leiocritus in the belly.
 
-Athena lifted the deadly aegis from the roof.
+Athena shook the deadly aegis above the roof.
 The suitors’ minds gave way. They fled the hall
 Like cattle driven by a gadfly, while the friends
 Struck them from every side. Agelaus cried,

@@ -31,3 +31,29 @@ purification of the hall.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Critical review — 2026-09-03
+
+The book’s architecture is strong: it preserves the source’s rapid causal
+chain from Antinous’s cup to the sealed hall, the failed negotiation, the
+armory retrieval, Athena’s intervention, the spared singer and herald, and the
+purification. Its best poetic pressure comes from concrete objects—the cup,
+table, doorway, altar, cord, sulfur, and flame—which gives the violence a
+ceremonial rather than merely sensational shape.
+
+Accuracy corrections made in this pass:
+
+- “Let her fight” became “Let him fight”: Agelaus believes Athena is still
+  Mentor, a male ally, not a revealed goddess.
+- “Lifted the aegis from the roof” became “shook the deadly aegis above the
+  roof,” following the Greek action without inventing a location for the
+  shield.
+- “She tested king and son, and both the servants” was removed as explanatory
+  psychology not stated by the source; the translation now leaves Athena’s
+  withheld sign and subsequent divine action legible without over-interpreting
+  it.
+
+Beauty remains provisional: several lines still need stress-by-stress
+read-aloud work, especially in the battle catalogue and the Melanthius
+punishment. The book should remain an editorial hold until that pass and an
+independent Greek omissions/additions check are complete.

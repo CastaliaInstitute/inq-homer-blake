@@ -2,7 +2,7 @@
 
 **Source passage:** Book 6, lines 1–331 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 
 Lines 1–331 are recorded in
 text/odyssey/book-06-collation-1-331.md.

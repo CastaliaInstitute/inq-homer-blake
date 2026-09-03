@@ -55,6 +55,8 @@ Odyssey Book 12 has now received a Sirens–Scylla–Sun’s-cattle fidelity and
 read-aloud review; its gates remain pending.
 Odyssey Book 13 has now received an Ithaca-return and disguise-sequence
 fidelity/read-aloud review; its gates remain pending.
+Odyssey Book 14 has now received an Eumaeus-hut and disguised-fiction
+fidelity/read-aloud review; its gates remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

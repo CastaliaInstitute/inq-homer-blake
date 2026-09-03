@@ -245,8 +245,8 @@ From Iphidamas. Then with the sword he struck
 His neck and loosed his limbs. Far from his bride
 He fell into the bronze sleep, without joy
 Of marriage, though he had promised for her sake
-A hundred cattle first, then countless flocks
-Of goats and sheep to fill her father’s house.
+A hundred cattle first, then thousand goats
+And sheep to fill her father’s house.
 
 The son of Atreus stripped his armor clean
 And bore it through the Achaean throng. But Coon,

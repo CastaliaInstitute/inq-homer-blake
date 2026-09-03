@@ -8,10 +8,10 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 18 current manifest
+The illustration system has 48 defined book slots and 19 current manifest
 plates. The current set is useful for editorial selection and art-direction
 review, but it contains no approved final art. Two plates are historical
-references from the 1805 Flaxman Homer edition; the other 16 are CastaliaInstitute
+references from the 1805 Flaxman Homer edition; the other 17 are CastaliaInstitute
 original generated concepts. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not
@@ -22,8 +22,9 @@ The strongest immediate editorial arc is: Iliad 1, 2, 3, 11, 16, 24 and
 Odyssey 1, 2, 5, 9, 22. It gives both volumes an opening, threshold, crisis,
 and return/reclamation rhythm. The five-plate return arc in the art-direction
 brief—ILI-16, ILI-24, ODY-13, ODY-16, ODY-23—should remain the next original
-commissioning brief. Four of those five slots now have concept candidates;
-ODY-13 remains to be developed. Historical references should be retained as
+commissioning brief. All five slots now have concept candidates; ODY-13 is
+represented by a new original concept and remains subject to the same human
+art-direction and print gates. Historical references should be retained as
 contextual options, not used to imply that the 48-slot program is historically
 illustrated.
 
@@ -49,6 +50,7 @@ illustrated.
 | ILI-24 concept | Priam and Achilles; emotionally strong Iliad close. | The manifest points to a 2100 × 3000 processed enlargement of a 1049 × 1499 source; unprofiled and concept-review. Caption currently says clasping knees, while the brief requires the lamp-centered encounter and exact range check. | Highest original-concept priority; advance after caption/range reconciliation and native-master work. |
 | ODY-16 concept | Father and son recognize one another in Eumaeus’s hut; a bridge between return and reclamation. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; keep Athena suggested through light and threshold rather than literal portraiture. |
 | ODY-23 concept | Penelope recognizes Odysseus beside the rooted olive bed; the return arc’s intimate close. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; verify the rooted-bed structure and caption against Book 23. |
+| ODY-13 concept | Odysseus lands at Ithaca as Athena reveals the harbor, olive, and nymphs’ cave; the return arc’s threshold plate. | 1008 × 1560 px, sRGB, concept-review; prompt, passage range, and checksum are recorded; native print-master and profile conversion remain pending. | Advance for sequence review; keep the action within Book 13 and verify the harbor/cave caption before approval. |
 
 ### What the images currently demonstrate
 
@@ -103,9 +105,9 @@ selection is still needed.
 | Priority | Slots to review next | Rationale |
 |---|---|---|
 | 1 — advance now | ILI-01 (Apollo v2), ILI-02, ILI-03, ILI-11, ILI-16, ILI-24; ODY-01 (Athena v2), ODY-02, ODY-05, ODY-09, ODY-22 | Existing concepts cover the openings, dream/assembly, central Patroclus arc, Cyclops ordeal, storm, and both climaxes. Resolve duplicates and production risks first. |
-| 2 — commission the return arc | ILI-16, ILI-24; ODY-13, ODY-16, ODY-23 | The five-plate art-direction brief gives this set the clearest thematic sequence. ILI-16, ILI-24, ODY-16, and ODY-23 have concepts; ODY-13 still needs new original concept development. |
+| 2 — commission the return arc | ILI-16, ILI-24; ODY-13, ODY-16, ODY-23 | The five-plate art-direction brief gives this set the clearest thematic sequence. All five slots now have concepts; compare them as a sequence, then commission or regenerate native print masters. |
 | 3 — develop remaining Iliad slots | ILI-04, ILI-05, ILI-06, ILI-07, ILI-08, ILI-09, ILI-10, ILI-12, ILI-13, ILI-14, ILI-15, ILI-17, ILI-18, ILI-19, ILI-20, ILI-21, ILI-22, ILI-23 | Fills the 24-book arc around the selected opening, Patroclus, and Priam material. ILI-18 may be reviewed as historical Flaxman/Piroli context, but it is not a substitute for a new slot assignment. |
-| 4 — develop remaining Odyssey slots | ODY-03, ODY-04, ODY-06, ODY-07, ODY-08, ODY-10, ODY-11, ODY-12, ODY-13, ODY-14, ODY-15, ODY-17, ODY-18, ODY-19, ODY-20, ODY-21, ODY-24 | Completes the 24-book Odyssey arc around Athena, Telemachus, the storm, Cyclops, hall, and return concepts. Preserve the distinct domestic, underworld, and final-peace beats rather than overconcentrating on action. |
+| 4 — develop remaining Odyssey slots | ODY-03, ODY-04, ODY-06, ODY-07, ODY-08, ODY-10, ODY-11, ODY-12, ODY-14, ODY-15, ODY-17, ODY-18, ODY-19, ODY-20, ODY-21, ODY-24 | Completes the 24-book Odyssey arc around Athena, Telemachus, the storm, Cyclops, hall, and return concepts. Preserve the distinct domestic, underworld, and final-peace beats rather than overconcentrating on action. |
 
 The order intentionally leaves every slot visible. It does not imply that an
 unlisted placeholder has been rejected; it identifies the next editorial

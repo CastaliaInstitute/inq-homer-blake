@@ -6,9 +6,8 @@
 edition
 
 This brief turns five existing book-slot placeholders into a coherent priority
-set. It does not commission, generate, select, or approve artwork. No raster
-asset is associated with these records, and none may be treated as a print
-master.
+set. It does not select or approve artwork. Concept raster assets now exist for
+the five slots, but none may be treated as a print master.
 
 ## Attribution and provenance boundary
 

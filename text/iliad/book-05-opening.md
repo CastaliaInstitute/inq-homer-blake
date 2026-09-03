@@ -257,32 +257,39 @@ against Aphrodite: foolishly he did not know that a man who fights immortals
 does not return long from war, nor do children greet him at his knees.
 She wiped the ichor from Aphrodite’s hand; the hand healed and the pain eased.
 
-Hera and Athena watched and teased Zeus with sharp words. Athena began:
-“Father Zeus, will you be angry if I speak? Cypris has surely urged one of the
-Achaean women to follow the Trojans she loves, and while caressing one of our
-well-robed Achaean women she has scratched her delicate hand upon a golden brooch.”
-The father of gods and men smiled and called golden Aphrodite near:
-“My child, warlike deeds are not given to you; pursue instead the lovely works
+Hera and Athena watched, and teased Zeus with sharp words.
+Athena began: “Father Zeus, will you be angry if I speak?
+Cypris has surely urged one Achaean woman to follow
+the Trojans she loves; and, while caressing one of our
+well-robed Achaean women, she scratched her delicate hand
+upon a golden brooch.” The father of gods and men smiled,
+and called golden Aphrodite near: “My child, warlike deeds
+are not given to you; pursue instead the lovely works
 of marriage. Let swift Ares and Athena attend to these.”
 
-While they spoke, Diomedes rushed again at Aeneas, knowing Apollo himself
-held his hands above the hero. Yet he did not fear the great god; he still desired
-to kill Aeneas and strip away his famous armor. Three times he charged to kill him;
-three times Apollo struck his shining shield aside. At the fourth, like a god,
-Apollo shouted: “Beware, son of Tydeus, and draw back. Do not think like the gods;
-there is no equal race between immortals and men who walk the earth.”
-Diomedes withdrew a little, avoiding the anger of the far-shooter.
+While they spoke, Diomedes rushed again at Aeneas,
+knowing Apollo himself held his hands above the hero.
+Yet he did not fear the great god; still he desired
+to kill Aeneas and strip his famous armor. Three times
+he charged to kill him; three times Apollo struck
+his shining shield aside. At the fourth, like a god,
+Apollo shouted: “Beware, son of Tydeus, and draw back.
+Do not think as the gods do; no equal race is run
+between immortals and men who walk the earth.”
+Diomedes withdrew a little, avoiding the far-shooter’s anger.
 Apollo set Aeneas apart in sacred Pergamus, where his temple stood;
 Leto and Artemis healed and honored him in the great sanctuary.
-Apollo made an image like Aeneas in form and armor, and around that image
-Trojans and Achaeans beat one another, striking rounded ox-hide shields.
-Then Phoebus called fierce Ares:
+Apollo made an image like Aeneas, in form and armor,
+and around that image Trojans and Achaeans beat one another,
+striking their rounded ox-hide shields. Then Phoebus called Ares:
 
-“Ares, destroyer of mortals, wall-breaker, will you not go into battle
-and draw this man, Diomedes, out? He would fight even father Zeus now.
-First he wounded Cypris near the wrist, then he rushed against me like a god.”
-So Apollo seated himself on the height of Pergamus, while Ares entered the crowd
-in the likeness of Acamas, leader of the Thracians, urging the Trojans.
+“Ares, destroyer of mortals, wall-breaker, will you not
+go into battle and draw this man, Diomedes, out?
+He would fight even father Zeus now. First he wounded
+Cypris near the wrist; then against me he rushed like a god.”
+So Apollo sat upon the height of Pergamus, while Ares
+entered the crowd in the likeness of Acamas,
+leader of the Thracians, urging on the Trojans.
 
 The Trojans’ ranks were urged forward by fierce Ares, who had taken
 the form of swift Acamas, leader of the Thracians. He called to Priam’s sons:

@@ -24,6 +24,7 @@ remain pending.
 | 5.241–273 | Sthenelus' warning and Diomedes' reply must show confidence governed by Athena, not simple bravado. | Separated the two champions' identities, the refusal to crouch, the horse-taking command, and the descent from the chariot. |
 | 5.274–296 | Pandarus' final exchange depends on a precise chain from shield to corselet to eye, teeth, tongue, and loose horses. | Kept the spear claims, Ares' satisfaction, Athena's guidance, the bodily wound, and the clattering fall in distinct beats. |
 | 5.297–342 | Aeneas' lion-like defense and Aphrodite's intervention need to separate mortal force, maternal rescue, and the first wound to an immortal. | Preserved the hip/socket injury, black night, robe-shield, Sthenelus' horse seizure, Deipylus, the Graces' robe, and the flow of ichor. |
+| 5.343–360 | Apollo's rescue and warning must make divine boundary visible without erasing Diomedes' repeated courage. | Re-lineated the three charges, the shield turned aside, the warning, Pergamus, the image-double, and Apollo's handoff to Ares. |
 
 ## Gate disposition
 

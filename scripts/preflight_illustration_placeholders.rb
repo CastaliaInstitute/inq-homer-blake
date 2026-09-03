@@ -28,7 +28,7 @@ end
 records.each do |record|
   fail!("#{record[:slot]} has no source anchor") if record[:anchor].empty?
   fail!("#{record[:slot]} has no prompt text") if record[:prompt].empty?
-  fail!("#{record[:slot]} lacks exact-range caution") unless record[:anchor].match?(/exact range to lock/i)
+  fail!("#{record[:slot]} lacks exact-range caution") unless record[:anchor].match?(/canonical source range:/i)
   fail!("#{record[:slot]} prompt lacks original-work/provenance direction") unless
     record[:prompt].match?(/original|historical|Blake-informed/i)
 end

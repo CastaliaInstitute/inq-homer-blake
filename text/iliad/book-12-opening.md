@@ -2,7 +2,7 @@
 
 **Source passage:** Book 12, lines 1–471 (complete working-book draft)
 
-**Status:** First-pass literary draft; source-collated; not yet approved for
+**Status:** Source-collated working translation under line-level review; not approved for
 layout. Revised passes for lines 1–471 are incorporated below; independent
 meter and Greek-fidelity review remains pending.
 

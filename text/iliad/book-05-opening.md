@@ -379,40 +379,56 @@ raven cattle and sheep in the folds of men,
 until sharp bronze killed them in men’s hands,
 so Aeneas subdued them, and they fell like tall firs.
 
-The war-loving Menelaus pitied the fallen pair, and, helmeted in flashing
-bronze, went through the foremost ranks, brandishing his spear. Ares, thinking
-to bring him down beneath Aeneas' hands, stirred his courage. Antilochus,
-Nestor's great-hearted son, saw him and hurried through the battle, fearing
-for the shepherd of the people lest the labor of the day be lost. The two
-stood face to face, eager to fight, while Antilochus held close beside Menelaus.
-Aeneas, though swift in war, would not wait when he saw the two champions
-standing together. They dragged the dead back among the Achaeans, laid the
-fallen in the hands of their companions, and turned again into the foremost
-line. There they slew Pylæmenes, leader of the great shield-bearing Paphlagonians:
-Menelaus struck him beneath the collarbone, and Antilochus felled Mydon,
-his charioteer, striking the elbow that held the reins. The ivory-white reins
-dropped in the dust; Antilochus sprang upon him with the sword and drove him
-from the well-built car, face and shoulders buried in the sand, until the horses
+The war-loving Menelaus pitied the fallen pair.
+Helmeted in flashing bronze, he passed through
+the foremost ranks, brandishing his spear. Ares,
+intent on bringing him down beneath Aeneas’ hands,
+stirred his courage. Antilochus, Nestor’s great-hearted son,
+saw him and hurried through the battle, fearing for
+the shepherd of the people, lest the day’s labor be lost.
+The two stood face to face, eager for the fight;
+Antilochus kept close beside Menelaus.
+
+Aeneas, though swift in war, would not wait
+when he saw the two champions joined. They dragged
+the dead back among the Achaeans, laid the fallen
+in their companions’ hands, and turned again
+into the foremost line. There they slew Pylæmenes,
+leader of the great-shielded Paphlagonians:
+Menelaus struck him beneath the collarbone.
+Antilochus felled Mydon, his charioteer,
+striking the elbow that held the reins. The ivory-white
+reins dropped in dust; Antilochus sprang upon him
+with the sword and drove him from the well-built car,
+face and shoulders buried in sand, until the horses
 were seized and led away among the Achaean ranks.
 
-Hector saw them and came against them shouting, with the Trojan battalions
-behind him. Ares led the way, and shameless Enyo carried the tumult of war;
-Ares swung his enormous spear, now before Hector, now behind him. Diomedes,
-seeing the god, shuddered like a helpless traveler who, standing above a river
-pouring foaming into the sea, beholds the flood and runs backward. He called
-to his friends: “Look how we marvel at noble Hector, both spearman and daring
-warrior! Yet some god always stands beside him, warding off destruction; and
-now that god is Ares, made like a mortal man. Face the Trojans, and give ground
-ever backward. Do not desire to fight the gods by force.”
+Hector saw them and came shouting against them,
+with Trojan battalions behind. Ares led the way,
+and shameless Enyo carried the tumult of war.
+Ares swung his enormous spear, now before Hector,
+now behind him. Diomedes, seeing the god, shuddered
+like a helpless traveler who, standing above a river
+pouring foaming into the sea, sees the flood and runs back.
+He called to his friends: “Look how we marvel at Hector,
+noble spearman and daring warrior! Some god always
+stands beside him, warding off destruction—and now
+that god is Ares, made like a mortal man. Face the Trojans,
+but give ground ever backward. Desire not to fight
+the gods by force.”
 
-The Trojans came close. Hector killed Menesthes and Anchialus, two companions
-in one chariot. Great Telamonian Ajax pitied them, stood near, and cast his
-bright spear at Amphius, son of Selagus, a wealthy man who dwelt in Paesus
-among fields of grain, but fate had led him to fight beside Priam and his sons.
-Ajax struck him beneath the belt; the long shadowing spear fixed in his belly,
-and he fell with a crash. Ajax ran to strip his armor, but Trojan spears poured
-around him, and his shield received them all. He tore the bronze from the dead,
-yet could not take away the beautiful armor: the press of the many and the brave
+The Trojans came close. Hector killed Menesthes
+and Anchialus, two companions in one chariot.
+Great Telamonian Ajax pitied them, stood near,
+and cast his bright spear at Amphius, son of Selagus,
+a wealthy man who dwelt in Paesus among grain fields,
+but whom fate led to fight beside Priam and his sons.
+Ajax struck him beneath the belt; the long-shadowed spear
+fixed in his belly, and he fell with a crash.
+Ajax ran to strip his armor, but Trojan spears poured
+around him, and his shield received them all.
+He tore the bronze from the dead, yet could not take
+the beautiful armor; the press of the many and the brave
 drove him back, and he staggered beneath their charge.
 
 Then fate, strong and pitiless, raised against godlike Sarpedon the tall and

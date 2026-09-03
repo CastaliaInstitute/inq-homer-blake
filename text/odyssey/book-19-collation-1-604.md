@@ -92,9 +92,36 @@ Consume his inheritance, and cannot bear the shame.”
 
 ### Lines 213–338 — The cloak and the report from Thesprotis
 
-Penelope tested the tale by asking for Odysseus’s clothing, appearance, and companions. The cloak was double-folded purple, soft as dried onion skin; the golden brooch showed a hound holding a dappled fawn. His tunic shone close to the skin, white as snow; his dark hair curled like hyacinth. Aethon said he had given him a sword, purple cloak, and fringed tunic. Eurybates, his herald, followed him: broad-chested, rounded in the shoulders, dark of skin, and black-haired.
+Then prudent Penelope tested the tale again:
+“Tell me the clothes he wore, and how he looked;
+Tell me his companions. I would know the man.”
 
-Penelope recognized the clothing she had given her husband and melted in tears. Odysseus answered with another fiction, saying he had heard that Odysseus lived near Thesprotis, bringing home gold, bronze, and iron, and that a seer had foretold his return after many trials. The false report comforted her for a moment, but her grief remained.
+“His cloak was purple, double-folded, soft as skin
+Of a dried onion. Round the clasp of gold
+A hound held fast a dappled fawn between
+His forefeet, struggling, trembling, though the dog
+Held it and looked upon it. White as driven snow
+His tunic clung about him; in the sun
+It shone. His dark hair curled like hyacinth.
+I gave him sword and cloak, and on his body
+The fringed tunic. With him went Eurybates,
+His herald, broad of chest and rounded shoulder,
+Dark of skin, and black-haired.”
+
+She knew the clothes; they had been made and given
+By her own hands. Her knees grew weak beneath her,
+And tears fell down, dissolving all her beauty.
+Odysseus pitied her, yet hid his tears,
+As one who hides a spring beneath the stone.
+
+Again he shaped the lie: “I heard of him
+Near Thesprotis, where the king received him.
+He carried home much gold, and bronze, and iron;
+A seer had read his fate, and said he lived,
+That after many trials he would come,
+And bring his treasure and his friends together.
+The word gave comfort for a little while,
+But grief remained, deep-rooted in her heart.”
 
 ### Lines 339–371 — The old nurse summoned
 

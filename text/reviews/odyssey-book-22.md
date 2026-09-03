@@ -57,3 +57,13 @@ Beauty remains provisional: several lines still need stress-by-stress
 read-aloud work, especially in the battle catalogue and the Melanthius
 punishment. The book should remain an editorial hold until that pass and an
 independent Greek omissions/additions check are complete.
+
+## Critical expansion — 2026-09-03
+
+This revision restores the tactical middle of the battle: Telemachus’s return
+for arms, Melanthius’s warning about the passage, Agelaus’s challenge to
+Mentor and Athena’s rebuke of Odysseus, and Eurycleia’s count of the fifty
+serving women and twelve faithless ones. These details make the violence
+legible as a coordinated household action rather than a sequence of heroic
+name-calls. The passage remains an editorial hold because the added speeches
+must still be tested for breath and tonal pressure in the comic-size columns.

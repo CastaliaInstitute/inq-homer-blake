@@ -2,7 +2,7 @@
 
 **Source passage:** Book 3, lines 1–497 (complete working-book draft)
 
-**Status:** First-pass literary draft; not yet approved for layout.
+**Status:** Source-collated working translation under line-level review; not approved for layout.
 Lines 1–66 are recorded in
 text/odyssey/book-03-collation-1-66.md.
 Lines 67–200 are recorded in

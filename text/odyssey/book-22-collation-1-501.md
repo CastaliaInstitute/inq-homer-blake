@@ -10,9 +10,42 @@ Review state: translator working pass; source-collated and awaiting literary rev
 
 ### Lines 1–72 — Antinous and Eurymachus
 
-Odysseus cast away his rags and sprang upon the great threshold, bearing the bow and quiver. “The contest is finished,” he said. “Now I will try another mark, one no man has yet struck, if Apollo grants me glory.” Antinous lifted a golden cup. He did not imagine that, among so many feasters, one man could make death and black fate for them. Odysseus drew and struck him in the throat; the arrow passed through the neck, blood rushed from his nostrils, and food and cups spilled from the overturned table.
+Odysseus cast the beggar’s rags away
+And sprang upon the threshold, holding bow
+And quiver. “The great contest now is ended;
+I shall attempt another mark, one no man
+Has struck before—if Apollo grant me glory.”
 
-The suitors cried out and searched for shields and spears, but no weapon stood ready. “You thought I would never return,” Odysseus said. “You consumed my house, forced yourselves upon the women while I lived, and feared neither gods nor the judgment of men. Now the boundary of death is upon you all.” Eurymachus answered that Antinous had caused everything: he had plotted Telemachus’s ambush and desired to rule Ithaca. The rest would repay what they had eaten and drunk, adding twentyfold in bronze and gold. Odysseus rejected the bargain: even all their fathers’ wealth would not stop his hands before every suitor had paid for the outrage. They must fight or flee; none would escape.
+Antinous raised a golden cup, and watched
+The wine, not dreaming that, among so many,
+One man could bring black death upon them all.
+The bowstring sang. The arrow struck his throat;
+It passed clean through, and blood came rushing out
+From mouth and nostrils. From his hands the cup fell;
+His foot drove back the table, and the food,
+The roasted flesh, the vessels, rolled in dust.
+
+The suitors cried aloud and searched the walls
+For shields and spears, but no weapons waited there.
+Odysseus spoke: “You thought I would not return.
+You consumed my house, and forced yourselves upon
+The women while I lived, fearing no god,
+Nor any voice of men. Now death’s boundary
+Stands over every one of you.”
+
+Then Eurymachus answered: “If Antinous alone
+Had lived, the evil might have ended with him.
+He plotted Telemachus’s death, and sought
+To rule in Ithaca. We will repay you all
+The wine and food we consumed, and add twentyfold
+In bronze and gold; let that appease your heart.”
+
+But the son of Laertes answered him:
+“Not if you brought me all your fathers’ wealth,
+Not if you added more from every quarter,
+Would I hold back my hands before each man
+Had paid the full price of his outrage here.
+There is no flight, no bargain. Fight, or perish.”
 
 ### Lines 73–125 — The first counterattack
 

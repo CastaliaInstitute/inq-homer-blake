@@ -36,6 +36,11 @@ the geese. These passages were checked against Odyssey 19.14–50, 19.103–162,
 19.213–240, 19.399–467, and 19.535–604; they remain a literary working pass,
 not independent approval evidence.
 
+The nurse passage now also preserves Eurycleia’s household status: Laertes
+bought and honored her, while respecting his wife, and she had nursed
+Odysseus from birth. This is a source-grounded enlargement of the recognition
+scene, not an attempt to make the density screen pass by repeating action.
+
 | Gate | Current evidence | Required before pass |
 |---|---|---|
 | Greek fidelity | source-collation record; arms plan, twelve-day Cretan delay, scar sequence, dream, and axe contest checked in review log | independent comparison and omissions/additions report |

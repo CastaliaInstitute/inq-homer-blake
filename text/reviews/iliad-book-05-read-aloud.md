@@ -20,6 +20,7 @@ remain pending.
 | 5.95–113 | Pandarus' arrow, boast, extraction, and blood need to turn injury into a controlled pause rather than a prose summary. | Kept the right shoulder, swollen corselet, Lycia, horses and chariot, twisted tunic, and Sthenelus's straight extraction as separate beats. |
 | 5.114–143 | Diomedes' prayer and Athena's commission establish the rules of his new sight and the limits of violence against gods. | Re-lineated the inherited courage, removal of mist, recognition of god and man, and precise exception for Aphrodite. |
 | 5.144–165 | The wounded-lion surge risks making the catalogue merely triumphal, although Phaenops' grief and the orphaned inheritance keep its cost visible. | Preserved the threefold courage, each named death, the unfulfilled dream, Phaenops' old age and succession, and the lion-and-cattle image. |
+| 5.166–240 | Aeneas and Pandarus' tactical dialogue can lose its specific material stakes when compressed. | Kept the shield-wall, Aesepus, the absent team, eleven chariots at Lycaon's house, Pandarus' bow-vow, and the deliberate division of reins and spear. |
 
 ## Gate disposition
 

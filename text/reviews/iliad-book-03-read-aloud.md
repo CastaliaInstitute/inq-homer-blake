@@ -1,14 +1,14 @@
 # Iliad Book 3 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 3.1–320  
+**Scope:** cadence-revised working translation, Iliad 3.1–461  
 **Date:** 2026-09-02  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
 
-This log records a focused cadence pass on the opening 320 Greek lines. The
-pass is deliberately limited: it does not certify the whole book, and it does
-not substitute for a human reading aloud from the locked Greek alongside the
-English.
+This log records the cadence revision of the complete working translation for
+Iliad 3.1–461. The observations below identify the revised passages; the log
+does not certify the book, and it does not substitute for a human reading aloud
+from the locked Greek alongside the English.
 
 ## Changes made
 
@@ -37,9 +37,11 @@ English.
 | 3.186–224 | The Odysseus and Ajax identifications combine physical description with remembered speech. | Broke Antenor's long comparison into measured statements while retaining the scepter and winter-snow images. |
 | 3.225–244 | The Dioscuri transition and oath preparation move quickly from absence to material ritual. | Kept the earth-held brothers, Idaeus, Priam, the heralds, and the oath gifts as distinct beats. |
 | 3.245–320 | The oath, lots, arming, and duel move from ritual speech into physical action. | Re-lineated the prayer, weapons, spear exchange, broken sword, and Aphrodite's rescue into a measured sequence. |
+| 3.321–461 | The domestic aftermath and closing public claim require a controlled change from divine concealment to public demand. | Re-lineated the Aphrodite–Helen quarrel, the bed scene, and Agamemnon's public claim; full stress review remains open. |
 
 ## Gate disposition
 
 The Verse gate remains **pending**. The machine screen is only a syllable-band
-heuristic; the required stress analysis, complete-book read-aloud, outlier
-log, and independent human sign-off are still outstanding.
+heuristic. Required stress analysis, independent human read-aloud, outlier
+decisions, and human sign-off remain outstanding. The current heuristic result
+is 75.3% in the 8–12 syllable band, below the project threshold.

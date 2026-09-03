@@ -369,65 +369,83 @@ Paris away, wrapped him in a dense mist,
 and set him down within his fragrant chamber,
 filled with incense.
 
-Aphrodite went again to call white-armed Helen. She found her
-on the high tower, surrounded by many Trojan women. Taking
-the form of an old woman, a spinner who had lived beside Helen
-in Lacedaemon and whom she loved, the goddess shook her fragrant robe
-and spoke: “Come here. Alexander calls you home. He lies in his chamber,
-on the turned bed, shining in beauty and dress. You would not think
-he had come from fighting a man, but from a dance, or from sitting down
-after the dance.”
+Aphrodite went again to call white-armed Helen.
+She found her on the high tower, surrounded
+by many Trojan women. Taking the form of an old
+woman, a spinner who had lived beside Helen
+in Lacedaemon, and whom she loved, the goddess
+shook her fragrant robe, and spoke: “Come here.
+Alexander calls you home. He lies within his chamber,
+upon the turned bed, shining in beauty and dress.
+You would not think he had come from fighting a man,
+but from a dance, or from sitting down after the dance.”
 
-The goddess stirred Helen’s heart. When Helen saw her lovely throat,
-desiring breast, and flashing eyes, she marveled and named her:
-“Strange woman, why do you long to deceive me? Will you carry me farther,
-to one of the well-inhabited cities—Phrygia or lovely Maeonia—if there
-is another mortal man dear to you there? Menelaus has defeated godlike
-Alexander and wants to lead hateful me home. Is that why you stand here,
-weaving deceit? Go sit beside him yourself; leave the gods’ road,
-and do not turn your feet toward Olympus again. Worry over him always,
-until he makes you his wife—or his slave. I will not go there;
-it would be shameful to tend his bed. Every Trojan woman would reproach me;
-I carry unnumbered griefs within my heart.”
+The goddess stirred desire within her heart.
+When Helen saw her lovely throat, her longing breast,
+and flashing eyes, she marveled, and named her:
+“Strange woman, why do you long to deceive me?
+Will you carry me farther to some city rich in people—
+Phrygia, or lovely Maeonia—if another mortal man
+is dear to you there? Menelaus has defeated
+godlike Alexander, and would lead hateful me home.
+Is that why you stand here, weaving deceit?
+Go sit beside him yourself; leave the gods’ road,
+and do not turn your feet toward Olympus again.
+Worry over him always, till he makes you his wife,
+or else your slave. I will not go to him;
+it would be shameful to tend his bed. Each Trojan woman
+would reproach me. I carry griefs without number
+within my heart.”
 
-Golden Aphrodite answered in anger: “Do not provoke me, wretched woman,
-lest I abandon you in my anger. I will make you hated as terribly
-as I have loved you, and set hateful enmity between Trojans and Danaans;
-you will perish in an evil fate.”
+Golden Aphrodite answered in anger: “Do not provoke
+me, wretched woman, lest I leave you in my anger.
+I will make you hated as terribly as I have loved you,
+and set a hateful enmity between Trojans and Danaans;
+you shall perish in an evil fate.”
 
-Helen, daughter of Zeus, was afraid. She went silently, veiled in bright
-linen, unseen by all the Trojan women, and the goddess led her. When they
-reached Alexander’s beautiful house, the attendants turned quickly to work;
-Helen went into the high-roofed chamber. Smiling Aphrodite brought a chair
-and set it opposite Alexander. Helen sat, turned her eyes away, and rebuked
-her husband:
+Helen, daughter of Zeus, was afraid. She went
+in silence, veiled in bright linen, seen by none
+of all the Trojan women, and the goddess led her.
+When they reached Alexander’s beautiful house,
+the attendants turned at once to their work.
+Helen entered the high-roofed chamber. Smiling
+Aphrodite brought a chair, and set it opposite
+Alexander. Helen sat, turned away her eyes,
+and rebuked her husband:
 
-“You have come from war. Would that you had perished there,
+“You have come back from war. Would you had perished there,
 conquered by the strong man who was once my husband!
-You boasted before that you were better than war-loving Menelaus
-in strength, hands, and spear. Go now and challenge him again;
-but I tell you: stop fighting him face to face, foolishly,
+You boasted that you were better than war-loving Menelaus
+in strength, and hands, and spear. Go challenge him again;
+but I tell you, do not meet him face to face,
 lest soon his spear bring you down.”
 
 Paris answered: “Do not wound my heart with harsh reproaches.
-Menelaus defeated me with Athena beside him; I will defeat him another time,
-for we have gods with us. Come, let us turn to love and lie together.
-Never before has desire so enveloped my mind—not even when I first
-carried you away from lovely Lacedaemon in seafaring ships,
-and joined with you in love and bed on Cranae’s island.
-So now I love you, and sweet longing takes hold of me.”
+Menelaus defeated me with Athena at his side;
+another time I shall defeat him, for the gods
+are with us. Come, let us turn to love, and lie together.
+Never before has desire so wrapped my mind—not even
+when first I carried you away from lovely Lacedaemon
+in seafaring ships, and joined with you in love
+and bed upon Cranae’s island. So now I love you,
+and sweet longing takes hold of me.”
 
-He went first to the bed, and his wife followed. They slept in the bed’s
-perforated frame, while Atreus’ son prowled through the host like a wild beast,
-searching for Alexander; no Trojan or famous ally could point him out.
-No one hid him from love—he was hateful to them all,
-as hateful as black death. Agamemnon called across the ranks:
+He went first to the bed, and his wife followed.
+They slept within the bed’s perforated frame,
+while Atreus’ son went prowling through the host
+like a wild beast, seeking Alexander. No Trojan,
+no famous ally, could point him out. No one hid him
+from love—he was hateful to them all, as hateful
+as black death. Agamemnon called across the ranks:
 
-“Hear me, Trojans, Dardanians, and allies: victory plainly belongs
-to war-loving Menelaus. Give up Argive Helen and the possessions with her,
-and pay the honor that is due, an honor that will remain among men to come.”
+“Hear me, Trojans, Dardanians, and allies: victory
+plainly belongs to war-loving Menelaus. Give up
+Argive Helen, and all the possessions with her,
+and pay the honor due—an honor that shall remain
+among men yet to come.”
 
-So Atreus’ son spoke, and the other Achaeans applauded him.
+So Atreus’ son spoke, and the other Achaeans
+applauded him.
 
 ## Decision log
 

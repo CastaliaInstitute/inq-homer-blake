@@ -119,6 +119,8 @@ remain pending.
 Iliad Book 21 has now received a river-assault, divine-battle, and duplicate-
 boundary correction read-aloud/fidelity review log; both books’ gates remain
 pending.
+Iliad Book 22 has now received a Hector-last-stand, chase, and mourning
+read-aloud/fidelity review log; both books’ gates remain pending.
 Book 21 packets are now present for both epics, and their gates remain pending.
 Book 22 packets are now present for both epics, and their gates remain pending.
 Book 23 packets are now present for both epics, and their gates remain pending.

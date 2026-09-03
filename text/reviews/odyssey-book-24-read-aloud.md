@@ -1,8 +1,24 @@
-# Odyssey Book 24 — ending and settlement review
+# Odyssey Book 24 — read-aloud and fidelity revision log
 
-**Review status:** translator self-review; independent reader still required
+**Scope:** Odyssey 24.1–548, current working translation
+**Date:** 2026-09-03
+**Status:** editorial working evidence; not a gate pass
+**Reviewer:** AI-assisted draft review; human sign-off required
 
-## Findings
+This pass tests the underworld prologue, Laertes’s orchard recognition, the
+suitors’ families, and Athena’s forced settlement. It checks the Longfellow-
+inspired cadence against the locked Greek-collation unit; it does not certify
+meter or replace an independent omissions/additions review.
+
+## Findings and actions
+
+| Passage | Finding | Action or decision |
+|---|---|---|
+| 24.1–97 | The shades’ journey and Amphimedon’s account give the dead suitors a final narrative voice; Agamemnon’s praise of Penelope must not erase Clytemnestra’s counter-example. | Preserve Hermes’ route, the named dead, the web and bow sequence, and the sharp contrast between the two wives. |
+| 24.98–190 | Laertes is tested through place before he is recognized through blood. The orchard inventory is an accuracy-critical memory, not decorative abundance. | Retain the scar, thirteen pear trees, ten apple trees, forty fig trees, fifty vine-rows, and the servants’ washing and clothing of the old man. |
+| 24.191–340 | The household’s reunion widens into a civic crisis; Dolius, Medon, Phemius, and Halitherses have distinct functions. | Preserve Dolius and his sons’ armed arrival, Medon’s testimony, Phemius’s witness, Halitherses’ judgment, and Eupeithes’ leadership of the suitors’ kin. |
+| 24.341–448 | Laertes’ blow, Athena’s intervention, and Zeus’s thunder turn revenge into an externally imposed peace rather than a clean moral reset. | Keep Laertes’ prayer and strike, Odysseus’s pursuit, Zeus’s thunder, Athena’s stop, and the oath that ends the feud. |
+| 24.449–548 | The close must allow peace to settle over a damaged island without importing a later political resolution. | Preserve the final family formation, the explicit divine command, and the book’s boundary at the Ithacan settlement. |
 
 The manuscript preserves the underworld prologue: Hermes leads the suitors’
 shades, Amphimedon recounts the web, bow, and slaughter, and Agamemnon judges
@@ -31,5 +47,8 @@ peace sounds imposed, fragile, and earned by consequence.
 - Check the exact agency of Laertes’s blow, Zeus’s thunder, and Athena’s truce.
 - Commission an independent read-aloud and omissions/additions report.
 
-**Conclusion:** family recognition and political settlement are preserved; not
-approved for layout or final publication.
+## Gate disposition
+
+Greek fidelity, Verse, Diction, Notes, Narrative, and Production remain
+**pending**. Independent Greek comparison, an omissions/additions report, and
+named human approval are required before layout.

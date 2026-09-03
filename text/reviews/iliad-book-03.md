@@ -22,7 +22,7 @@ catalogue, duel, oath, Helen's wall scene, and divine intervention.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|
-| Greek fidelity | three source-collation records | independent comparison and omissions/additions report |
+| Greek fidelity | three source-collation records; oath sacrifice corrected to include Zeus's boar and logged for second-reader check | independent comparison and omissions/additions report |
 | Narrative | decision log | structural inventory |
 | Verse | working blank verse | meter report and read-aloud log |
 | Diction | collation decisions | concordance check |

@@ -107,8 +107,8 @@ and Trojans should be parted, for you have suffered
 enough because of my quarrel and Alexander’s.
 Let him for whom death and fate are fashioned die;
 let all the rest be parted quickly. Bring two lambs,
-one white, one black, for Earth and Sun, and one
-for Zeus. Bring mighty Priam, that he himself
+one white, one black, for Earth and Sun, and a dark
+boar for Zeus. Bring mighty Priam, that he himself
 may cut the oath, for his sons are insolent
 and faithless; lest the transgression of one man
 destroy the covenant of Zeus. The minds of youth
@@ -274,7 +274,7 @@ refuse to pay the honor due me when Alexander falls,
 then I will stay, and fight on for recompense,
 until the war has reached its end.”
 
-He cut the lambs’ throats with pitiless bronze,
+He cut the lambs’ and the boar’s throats with pitiless bronze,
 and laid them on the earth; they gasped as metal
 took their strength. Then from the bowl they drew
 the wine into the cups, and poured it forth,

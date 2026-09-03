@@ -13,7 +13,7 @@
 - **38–57 — Hector’s rebuke:** Preserved the hostile compound insults, Paris’s beauty without courage, the foreign voyage and abduction, the burden on Priam and Troy, and the image of a stone garment.
 - **58–75 — Paris’s proposal:** Preserved the axe simile for Hector’s mind, the non-transferable gifts of Aphrodite, the single combat over Helen and possessions, and the proposed covenant and return home.
 - **76–95 — Hector and the truce:** Restored Hector’s spear-held halt, the Achaeans’ arrows and stones, Agamemnon’s intervention, Hector’s public restatement, and the silence after the proposal.
-- **96–120 — Menelaus and the victims:** Restored Menelaus’s grief and wish to separate the armies, the white and black lambs for Earth and Sun, the lamb for Zeus, Priam’s required presence, the elder’s wider sight, the disarming, and the separate errands of Hector’s heralds and Talthybius.
+- **96–120 — Menelaus and the victims:** Restored Menelaus’s grief and wish to separate the armies, the white and black lambs for Earth and Sun, the dark boar for Zeus, Priam’s required presence, the elder’s wider sight, the disarming, and the separate errands of Hector’s heralds and Talthybius.
 
 ## Editorial status
 

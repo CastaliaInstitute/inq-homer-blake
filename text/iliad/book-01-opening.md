@@ -164,22 +164,6 @@ without a price or ransom; sacrifice at Chryse.
 
 Then the god may turn from us and end the plague.”
 
-He finished. Agamemnon, shepherd of the people,
-
-rose in anger. His dark heart filled with shadow:
-
-“Prophet of evil, never have you spoken good to me.
-
-You love to tell the army what will bring it sorrow;
-
-you have not once announced a thing accomplished.
-
-Now for the girl: I will give her back, if that is best.
-
-But bring me another prize at once, lest I alone
-
-among the Argives go without honor.”
-
 ## Extension: the quarrel and Achilles' withdrawal
 
 **Source passage:** Book 1, lines 101–430 (working range; verify against copy text)

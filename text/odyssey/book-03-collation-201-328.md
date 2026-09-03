@@ -40,7 +40,7 @@ As Pallas Athena then stood openly beside him—
 If she would love and care for thee in like manner,
 Some one of those men might forget even the thought of marriage.”
 
-Telemachus, wise in counsel, answered her:
+Telemachus, wise in counsel, answered him:
 “Old man, I do not think that this word can be fulfilled.
 Thou hast spoken far too greatly; amazement holds me.
 I could not hope for such a thing, nor would it come to pass,

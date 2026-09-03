@@ -5,8 +5,12 @@
 from pathlib import Path
 import csv
 import re
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+from translation_extract import book_translation
+
 THRESHOLD = 5.0
 rows = []
 
@@ -19,11 +23,10 @@ for record in ledger:
     path = ROOT / record["translation_file"]
     text = path.read_text(encoding="utf-8")
     ranges = re.findall(r"\*\*Source passage:\*\* Book \d+, lines (\d+)[–-](\d+)", text)
-    section = re.search(r"^## Translation\s*(.*?)(?=^## Decision log\b|\Z)", text, re.M | re.S)
-    if not ranges or not section:
+    if not ranges:
         raise SystemExit(f"cannot measure {path}")
     source_lines = max(int(end) for _, end in ranges) - min(int(start) for start, _ in ranges) + 1
-    words = len(re.findall(r"\b[\w’'-]+\b", section.group(1)))
+    words = len(re.findall(r"\b[\w’'-]+\b", " ".join(book_translation(path))))
     target = int(source_lines * THRESHOLD + 0.9999)
     density = words / source_lines
     if density < THRESHOLD:

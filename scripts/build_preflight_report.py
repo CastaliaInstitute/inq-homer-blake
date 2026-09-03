@@ -6,8 +6,12 @@ from pathlib import Path
 import csv
 import re
 import subprocess
+import sys
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts"))
+from translation_extract import book_translation
+
 OUT = ROOT / "design" / "preflight-report.md"
 PDFS = [
     ("Iliad interior proof", ROOT / "output/pdf/inq-homer-iliad-volume-proof.pdf"),
@@ -39,11 +43,10 @@ for status in statuses:
     path = ROOT / status["translation_file"]
     text = path.read_text(encoding="utf-8")
     ranges = re.findall(r"\*\*Source passage:\*\* Book \d+, lines (\d+)[–-](\d+)", text)
-    translation = re.search(r"^## Translation\s*(.*?)(?=^## Decision log\b|\Z)", text, re.M | re.S)
-    if not ranges or not translation:
+    if not ranges:
         raise SystemExit(f"cannot measure translation density: {path}")
     source_lines = max(int(end) for _, end in ranges) - min(int(start) for start, _ in ranges) + 1
-    words = len(re.findall(r"\b[\w’'-]+\b", translation.group(1)))
+    words = len(re.findall(r"\b[\w’'-]+\b", " ".join(book_translation(path))))
     if words / source_lines < 5.0:
         density_holds += 1
 

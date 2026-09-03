@@ -17,17 +17,13 @@ Work in source order within each volume. For every book, compare the expanded En
 | 9 | odyssey | 10 | 574 | 725 | 2870 | 2145 | 1.26 | `text/odyssey/book-10-opening.md` |
 | 10 | odyssey | 11 | 640 | 719 | 3200 | 2481 | 1.12 | `text/odyssey/book-11-opening.md` |
 | 11 | odyssey | 12 | 453 | 923 | 2265 | 1342 | 2.04 | `text/odyssey/book-12-opening.md` |
-| 12 | odyssey | 13 | 440 | 600 | 2200 | 1600 | 1.36 | `text/odyssey/book-13-opening.md` |
-| 13 | odyssey | 14 | 533 | 940 | 2665 | 1725 | 1.76 | `text/odyssey/book-14-opening.md` |
-| 14 | odyssey | 15 | 557 | 1033 | 2785 | 1752 | 1.85 | `text/odyssey/book-15-opening.md` |
-| 15 | odyssey | 16 | 481 | 1075 | 2405 | 1330 | 2.23 | `text/odyssey/book-16-opening.md` |
-| 16 | odyssey | 17 | 606 | 970 | 3030 | 2060 | 1.60 | `text/odyssey/book-17-opening.md` |
-| 17 | odyssey | 18 | 428 | 1023 | 2140 | 1117 | 2.39 | `text/odyssey/book-18-opening.md` |
-| 18 | odyssey | 19 | 604 | 454 | 3020 | 2566 | 0.75 | `text/odyssey/book-19-opening.md` |
-| 19 | odyssey | 20 | 394 | 1201 | 1970 | 769 | 3.05 | `text/odyssey/book-20-opening.md` |
-| 20 | odyssey | 21 | 434 | 1028 | 2170 | 1142 | 2.37 | `text/odyssey/book-21-opening.md` |
-| 21 | odyssey | 22 | 501 | 1290 | 2505 | 1215 | 2.57 | `text/odyssey/book-22-opening.md` |
-| 22 | odyssey | 23 | 372 | 398 | 1860 | 1462 | 1.07 | `text/odyssey/book-23-opening.md` |
-| 23 | odyssey | 24 | 548 | 367 | 2740 | 2373 | 0.67 | `text/odyssey/book-24-opening.md` |
+| 12 | odyssey | 13 | 440 | 1641 | 2200 | 559 | 3.73 | `text/odyssey/book-13-opening.md` |
+| 13 | odyssey | 17 | 606 | 2935 | 3030 | 95 | 4.84 | `text/odyssey/book-17-opening.md` |
+| 14 | odyssey | 19 | 604 | 1632 | 3020 | 1388 | 2.70 | `text/odyssey/book-19-opening.md` |
+| 15 | odyssey | 20 | 394 | 1495 | 1970 | 475 | 3.79 | `text/odyssey/book-20-opening.md` |
+| 16 | odyssey | 21 | 434 | 1200 | 2170 | 970 | 2.76 | `text/odyssey/book-21-opening.md` |
+| 17 | odyssey | 22 | 501 | 1462 | 2505 | 1043 | 2.92 | `text/odyssey/book-22-opening.md` |
+| 18 | odyssey | 23 | 372 | 1150 | 1860 | 710 | 3.09 | `text/odyssey/book-23-opening.md` |
+| 19 | odyssey | 24 | 548 | 1343 | 2740 | 1397 | 2.45 | `text/odyssey/book-24-opening.md` |
 
-**Open queue:** 23 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.
+**Open queue:** 19 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.

@@ -10,6 +10,17 @@ ROOT = File.expand_path("..", __dir__)
 MIN_WORDS_PER_SOURCE_LINE = 5.0
 PROMOTED = %w[approved laid-out proofed final]
 
+def effective_translation(path, text)
+  return text unless text.match?(/compact translation/i)
+  authorities = Dir.glob(File.join(File.dirname(path), "#{File.basename(path).sub('-opening.md', '')}-collation-*.md")).sort
+  bodies = authorities.each_with_object([]) do |candidate, collected|
+    candidate_text = File.read(candidate)
+    match = candidate_text.match(/^## Revised translation pass\s*\n(.*?)(?=^## Decision|\z)/m)
+    collected << match[1] if match
+  end
+  bodies.empty? ? text : "## Translation\n#{bodies.join("\n\n")}"
+end
+
 ledger = CSV.read(File.join(ROOT, "text/translation-status.csv"), headers: true)
 rows = []
 holds = []
@@ -22,7 +33,7 @@ ledger.each do |record|
   ranges = text.scan(/\*\*Source passage:\*\* Book \d+, lines (\d+)[–-](\d+)/)
   abort("#{record['translation_file']} has no parseable source passage") if ranges.empty?
 
-  translation = text[/^## Translation\s*(.*?)(?=^## Decision log\b|\z)/m, 1].to_s
+  translation = effective_translation(path, text)[/^## Translation\s*(.*?)(?=^## Decision log\b|\z)/m, 1].to_s
   words = translation.scan(/\b[[:alpha:]][[:alpha:]’'-]*\b/).length
   source_start = ranges.map { |start_line, _| start_line.to_i }.min
   source_end = ranges.map { |_, end_line| end_line.to_i }.max

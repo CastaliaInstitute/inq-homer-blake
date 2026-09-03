@@ -6,6 +6,9 @@
 
 **Source-collated authority:** [Book 24, lines 1–548](book-24-collation-1-548.md)
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
@@ -29,7 +32,8 @@ Odysseus could no longer hide. He embraced his father and said:
 the men who consumed our house.”
 
 Laertes doubted him until Odysseus showed the scar and named
-the trees he had received as a child. Laertes' strength returned;
+the trees he had received as a child: thirteen pear trees, ten apple trees,
+forty fig trees, and fifty vine-rows. Laertes' strength returned;
 he stood like a god. The old man was washed and dressed by the servants.
 
 Dolius and his sons came from the fields. They heard that Odysseus
@@ -38,7 +42,7 @@ had returned, and took up weapons. The household gathered around him.
 News of the suitors' death reached their families. They carried armor
 through the streets and demanded blood-price. Eupeithes, Antinous' father,
 called for revenge. Medon and the herald told the elders that Odysseus
-had acted with divine support.
+had acted with divine support; Phemius, the inspired singer, stood with them.
 
 The people split. Some wanted war; others remembered the years of feasting
 and theft. The suitors' families marched toward Laertes' farm.

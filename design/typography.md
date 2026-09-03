@@ -45,6 +45,10 @@ These values describe the reproducible architecture proof. Final approved
 lineation, notes, plates, and printer profile may require controlled page-break
 adjustments without changing the type license lock.
 
+The interior body uses two equal text columns with a 0.24 in gutter inside the
+7 × 10 in trim. Front matter and plate pages remain full-width; the translated
+books flow through the two-column frame sequence.
+
 ## Lock before final layout
 
 The production editor must record the selected typefaces, versions, licenses,

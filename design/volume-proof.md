@@ -17,8 +17,8 @@ metadata are excluded from the interior text. The resulting PDFs are trimmed
 to 7 × 10 inches (504 × 720 points) and carry a visible
 `PROVISIONAL VOLUME PROOF` footer.
 
-These files demonstrate pagination, hierarchy, margins, running folios, and
-book-to-book continuity. They are not release interiors: the translation
+These files demonstrate two-column pagination, hierarchy, margins, running
+folios, and book-to-book continuity. They are not release interiors: the translation
 drafts remain provisional, typography and printer profiles are not locked,
 image placement is not yet integrated, and cover-spread dimensions depend on
 the final page counts.

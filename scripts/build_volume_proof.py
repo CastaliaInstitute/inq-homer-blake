@@ -19,7 +19,7 @@ from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import BaseDocTemplate, Frame, Image, PageBreak, PageTemplate, Paragraph, Spacer
+from reportlab.platypus import BaseDocTemplate, Frame, Image, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT_DIR = ROOT / "output/pdf"
@@ -35,6 +35,7 @@ for name, filename in {
 
 PAGE_W, PAGE_H = 7 * inch, 10 * inch
 MARGIN_X, MARGIN_Y = 0.72 * inch, 0.75 * inch
+COLUMN_GUTTER = 0.24 * inch
 
 styles = getSampleStyleSheet()
 styles.add(ParagraphStyle(name="VolumeTitle", fontName="CormorantB", fontSize=27, leading=31,
@@ -165,11 +166,14 @@ def plate_block(record):
     caption = escape(record["caption"])
     credit = escape(record["credit_line"])
     return [
+        NextPageTemplate("full"),
         PageBreak(),
         image,
         Spacer(1, 0.12 * inch),
         Paragraph(f"PLATE — {caption}", styles["Small"]),
         Paragraph(f"{credit} Concept-review placement only.", styles["Small"]),
+        NextPageTemplate("two-column"),
+        PageBreak(),
     ]
 
 
@@ -204,8 +208,23 @@ def build(epic, title, out_name):
     doc = BaseDocTemplate(str(out), pagesize=(PAGE_W, PAGE_H), leftMargin=MARGIN_X,
                           rightMargin=MARGIN_X, topMargin=MARGIN_Y, bottomMargin=0.7 * inch,
                           title=f"Homer: {title} provisional volume proof", author="CastaliaInstitute")
-    frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="body")
-    doc.addPageTemplates([PageTemplate(id="volume", frames=frame, onPage=footer)])
+    full_frame = Frame(doc.leftMargin, doc.bottomMargin, doc.width, doc.height, id="full")
+    column_width = (doc.width - COLUMN_GUTTER) / 2
+    left_frame = Frame(doc.leftMargin, doc.bottomMargin, column_width, doc.height, id="left-column")
+    right_frame = Frame(doc.leftMargin + column_width + COLUMN_GUTTER, doc.bottomMargin,
+                        column_width, doc.height, id="right-column")
+    doc.addPageTemplates([
+        PageTemplate(id="full", frames=full_frame, onPage=footer),
+        PageTemplate(id="two-column", frames=[left_frame, right_frame], onPage=footer),
+    ])
+    # Front matter remains full width; the translated books use the requested
+    # two-column interior architecture.
+    story.insert(0, NextPageTemplate("full"))
+    # The final front-matter PageBreak is the first one after FORWARD.
+    for position, flowable in enumerate(story):
+        if isinstance(flowable, Paragraph) and getattr(flowable, "text", "") == "BOOK 1":
+            story.insert(position, NextPageTemplate("two-column"))
+            break
     doc.build(story)
     print(out)
 

@@ -1,0 +1,3 @@
+# Rendered proofs are binary publication artifacts; do not run textual diff
+# hygiene checks against compressed PDF streams.
+*.pdf binary

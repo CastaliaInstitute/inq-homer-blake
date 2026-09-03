@@ -20,7 +20,7 @@ This block is line-level collated against the locked source and remains subject 
 
 ## Cadence revision note
 
-On 2026-09-02 the English lineation for lines 121–185 was revised for a more
+On 2026-09-02 the English lineation for lines 121–244 was revised for a more
 audible, processional blank-verse movement. The revision preserves the
 recorded disguise, textile, elders, wall speech, and Phrygian comparison; the
 Verse gate remains pending. See the [read-aloud revision log](../reviews/iliad-book-03-read-aloud.md).

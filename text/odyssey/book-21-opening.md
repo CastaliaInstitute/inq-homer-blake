@@ -7,101 +7,184 @@
 **Greek-fidelity review:** open; this working pass requires an independent
 omissions-and-additions check before approval.
 
-The compact translation below is retained for the current volume architecture;
-the collation file is the editorial authority for line-level revision.
+The full revised translation pass from that collation is carried below for
+reading, export, and proof assembly. The collation remains the authority for
+individual adopted readings, and independent Greek-fidelity, literary, meter,
+diction, notes, and production review remain open.
 
 ## Translation
 
-Athena placed the thought in Penelope’s mind to bring Odysseus’ gray bow
-and the polished axes into the hall—the contest, and the beginning of death.
-Penelope climbed the high stair to the storeroom where the king’s treasures,
-bronze, gold, and laboring iron, lay. There the curved bow rested, and the
-quiver full of groaning arrows: a gift from Iphitus, whom Odysseus had met
-in Messenia. Iphitus sought twelve mares and mules that had been lost;
-Heracles killed him in his own house, forgetting Zeus’s guest-law and table,
-and took the horses. Odysseus had given Iphitus sword and spear in return;
-Iphitus had given the bow that great Eurytus once bore, and Odysseus kept it
-at home, a dear guest-friend’s memorial, rather than carry it to Troy.
+### Lines 1–80 — The bow brought forth
 
-Penelope loosened the strap, fitted the key, and opened the shining doors;
-they bellowed like a bull in a meadow. She climbed the raised floor,
-reached from its peg the bow and bright quiver, then sat with the weapon
-upon her knees and wept aloud. When her long lament was spent, she went
-to the suitors bearing the bow and arrows; attendants carried the chest
-of iron and bronze prizes. She stood beside the roof’s supporting post,
-her shining veil before her cheeks, with a trusted maid on either side:
+Athena breathed the thought into Penelope’s mind:
+“Bring forth the bow, and with it bring the axes—
+The contest and the beginning of death.” She climbed
+The stair to the chamber where the treasures lay,
+Gold, bronze, and iron fashioned by the hands of men.
+There, bent and polished, rested the great bow,
+And there the quiver held its arrows, groaning softly.
 
-“You have consumed the house of a man gone long away, and no other excuse
-could restrain you. Come, then: this is the contest. I will set forth
-the great bow of godlike Odysseus. Whoever strings it most easily and sends
-an arrow through all twelve axes shall have me, and I will leave this house,
-beautiful and rich, which I think I shall remember even in dreams.”
+Iphitus had given it, met by Odysseus
+In Messenia. Iphitus sought twelve mares,
+And twelve strong mules, that had been stolen from him;
+But Heracles, forgetting Zeus’s guest-right,
+And the table where a guest is held inviolate,
+Killed him within his own house and kept the horses.
+Before that darkness fell, Iphitus placed the bow
+In Odysseus’ hands. The king returned a sword
+And spear, the first beginning of their friendship.
+He left the bow at home, a faithful token,
+And never bore it with him to the war at Troy.
 
-Eumaeus received the bow in tears and set it down; the cowherd wept elsewhere
-when he saw his master’s weapon. Antinous rebuked them, saying that their
-tears disturbed the woman whose husband was lost, and that the bow would
-trouble many excellent men. Telemachus sprang up, set the twelve axes in a
-straight line, and tried three times to string the bow; on the fourth attempt
-Odysseus nodded him back. Leodes, the sacrificial seer who hated the
-suitors’ violence, tried first. He could not bend it. He said that it would
-break the hearts of many, and that dying was better than waiting here forever.
-Antinous scorned him and ordered Melanthius to light a fire, set a great chair
-and fleeces beside it, and bring fat so that the young men might warm and oil
-the bow. They tried in turn, but lacked the strength.
+Penelope’s hand unlocked the storeroom door;
+The bronze key, with its ivory handle, turned.
+The doors cried out, as a meadow-bull cries aloud
+When he is loosed from grazing. She stepped upon
+The raised threshold, reached upward, took the bow
+Down from its peg, and with the quiver sat,
+Weeping, across her knees. When she had spent
+The whole measure of her lament, she went
+Among the suitors, carrying bow and arrows;
+Her maids bore forth the chest where iron lay,
+And bronze, the prizes of the coming trial.
+Beside the roof’s supporting pillar she stood,
+The shining veil before her face, and either side
+A trusted maid attended her.
 
-Odysseus and the two loyal herdsmen went outside the doors. “Am I still hiding
-myself?” he asked. “If Odysseus came suddenly, would you fight beside him
-or beside the suitors? Speak as your hearts command.” Philoetius lifted his
-hands to Zeus: “Father, if you would fulfill this hope, let that man return;
-then you would see what strength and hands I have.” Odysseus revealed the scar
-from the boar’s tusk on Parnassus. They recognized him, embraced and kissed
-his head and shoulders, and nearly wept away the daylight, until he restrained
-them.
+“You have consumed the house of one long gone,”
+She said, “and no other excuse can hold you back.
+So now this contest: whoever strings the bow
+Of godlike Odysseus with the lightest hand,
+And sends an arrow through the twelve axes set,
+Shall have me. I will leave this lovely house,
+Rich as it is, and think of it hereafter,
+Even in dreams, remembering what I lost.”
 
-He instructed Eumaeus to bring the bow and quiver to him when the others
-refused it, and to tell the women to bar the well-fitted doors. If they heard
-the sound or groan of men within, they must not run out but remain quietly
-at their work. Philoetius was to lock the courtyard doors and fasten them
-with a rope. The two returned inside with their master.
+### Lines 81–143 — Telemachus sets the axes
 
-The suitors, fearing that the stranger might string the polished bow, stopped
-their efforts. Antinous called him a drunkard and threatened that, if he did
-so, they would send him to the cruel king Echetus. Odysseus answered that he
-would not be a rival to younger men; they should let the bow rest until dawn,
-when the god would give strength to whomever he chose. He asked for a drink,
-then requested the bow, saying he wished to learn whether the strength of his
-limbs remained after wandering and hunger.
+Eumaeus took the bow in tears and laid it down;
+The cowherd, elsewhere, wept to see the weapon
+Of his old master. Antinous rebuked them:
+“Why trouble the woman with your mourning? This bow
+Will break the hearts of many excellent men.”
 
-Penelope defended the guest: it was not shameful that he should try, and if
-Apollo granted him the victory she would clothe him and give him spear,
-sword, sandals, and a guide wherever his heart wished. Telemachus answered
-that no Achaean had more right than he to give or refuse the bow—not even
-those who ruled rocky Ithaca and the islands toward horse-pasturing Elis.
-He told his mother to return to her loom and spindle and leave the bow to men;
-in this house, he said, the power was his. Penelope admired the prudent word,
-went upstairs with her attendants, and wept for Odysseus until Athena sent
-her sweet sleep.
+Leodes, the sacrificial seer, came first.
+He hated all the suitors’ violent ways,
+Yet could not bend the bow. “It will humble many,”
+He said; “some man still hopes to take the wife,
+But death is better than remaining here.”
+Antinous scorned him, and commanded Melanthius:
+“Light us a fire; set a chair and fleeces near it;
+Bring fat, that we may warm and oil the bow.”
 
-The women mocked Telemachus and the beggar, but Telemachus threatened to drive
-them out with stones. He wished he were stronger than every suitor, so that
-he might send home those who devised evil. The suitors quieted their anger.
-Eumaeus carried the bow to Odysseus. Eurycleia barred the hall doors, and
-Philoetius locked the courtyard gate and fastened the ship’s hawser around it.
+Then Telemachus sprang up, laid aside his sword,
+And dug one trench, long and straight. He planted
+The twelve axes in a row, and packed the earth
+About them. Standing on the threshold, he tried.
+Three times he strained the bow; three times he let it go,
+Already hoping to string it. On the fourth
+He would have drawn it, but Odysseus nodded him back.
+Then he told all the suitors to attempt it in turn,
+And set the arrow down beside the polished boards.
 
-Odysseus turned the bow in his hands and examined it everywhere, lest worms
-had eaten the horns of the absent king. The suitors mocked him: perhaps such
-a bow lay at home, or perhaps this wanderer meant to handle one like it.
-But as a singer easily stretches a new cord around a lyre’s peg, so Odysseus,
-without effort, strung the great bow. He plucked the cord with his right hand;
-it sang like a swallow. The suitors’ skin changed color, and Zeus thundered
-as a sign. Odysseus rejoiced, took the single arrow lying ready beside him,
-drew from his stool, and shot. The arrow did not miss a single axe; it passed
-through the line and flew out beyond.
+### Lines 144–220 — The suitors fail and the king reveals himself
 
-He told Telemachus that he had not missed or wearied in drawing the bow,
-and that his strength was still firm, unlike the scorn with which the suitors
-had dishonored him. “Now is the hour to prepare the Achaeans’ supper;
-afterward there will be other sport, with song and lyre—the ornaments of a feast.”
+Leodes tried once again, but could not bend it;
+The young men warmed and greased it, one by one,
+Yet none possessed the strength. Then the king went out
+With cowherd and swineherd. “Am I still hidden?”
+He asked. “If Odysseus came suddenly, would you fight
+Beside your lord, or beside the suitors? Speak.”
+Philoetius lifted both his hands to Zeus:
+“If you would fulfill this hope, let that man return;
+Then you would know my strength and hands.” The king
+Showed them the scar the boar had made above
+His knee on Parnassus. They knew him then,
+Embraced him, kissed his head and shoulders, nearly
+Weeping away the daylight, till he checked them.
+
+He told Eumaeus: “When they refuse the bow,
+Bring it to me, with the quiver. Tell the women
+To bar the doors. If they hear groan or clash,
+Let none come running out; let each remain at work.”
+To Philoetius: “Lock the courtyard doors,
+And fasten them with rope.” They went within,
+And stood again beside their hidden king.
+
+### Lines 221–320 — The bow requested
+
+Antinous could not bend the bow, and urged
+That they should leave the contest for the feast,
+And try again at dawn, when Melanthius
+Could bring the goats appointed for Apollo.
+After the libation, then the stranger spoke:
+
+“Let me attempt the polished bow among you,
+And learn if wandering and hunger have not broken
+The strength that once was mine.” The suitors feared
+The beggar might string it. Then Antinous cried:
+“You are drunk. Wine once drove Eurytion mad
+Among the Lapiths, at Pirithous’ feast;
+His hosts dragged him from the house and maimed him.
+If you succeed, I’ll send you to King Echetus,
+The destroyer of men.”
+
+But the stranger answered: “I do not desire
+To match my youth against the strength of young men;
+Let us defer the trial until dawn.”
+Eurymachus said: “No man must hope to marry
+Penelope; yet we should be shamed indeed
+If some poor wanderer proved stronger than we.”
+
+Then wise Penelope defended the guest:
+“It is no shame that he should try the bow.
+If Apollo grants him victory, I will clothe him,
+Give him a spear, a sword, and shining sandals,
+And send him where his heart desires to go.”
+
+Telemachus replied: “No Achaean here
+Has greater right than I to give or keep
+The bow—not even those who rule in Ithaca,
+Or over all the islands toward Elis.
+Go to your chamber; take your loom and spindle;
+The bow belongs to men. Within this house
+The power is mine.” Penelope admired
+The prudent word, and went upstairs with all
+Her maids, weeping for Odysseus, till Athena
+Sent sweet sleep down upon her.
+
+### Lines 321–394 — The stranger takes the bow
+
+The suitors mocked the prince and the beggar.
+Telemachus wished his strength were greater than
+The strength of all of them, and threatened stones.
+They swallowed down their anger. Then Eumaeus
+Bore the great bow toward Odysseus; within,
+Eurycleia barred the doors of the hall,
+While loyal Philoetius locked the court
+And bound the ship’s hawser around the gate.
+
+The king turned over in his hands the bow,
+And searched it everywhere, lest worms had eaten
+The horns of him who once had borne it. Then
+The suitors mocked: “Perhaps such bows lie waiting
+At home; perhaps this stranger only longs
+To handle what he cannot master.” But as
+A singer stretches easily the cord
+Around a lyre’s peg, so the king strung it
+Without an effort. With his right hand he plucked
+The string; it sang as a swallow sings. Their skin
+Changed color, and Zeus thundered from above.
+
+Beside him lay one arrow, ready set.
+He drew it from the stool, and let it fly;
+It missed not one of all the axes, but passed
+Through the whole row and sped beyond. “I have not
+Missed or grown weary,” he told Telemachus;
+“My strength is firm, though these men have dishonored
+Me with their scorn. Now is the hour to make
+The Achaeans’ supper; after that, more sport—
+The song and lyre that crown a feast.”
 
 ## Decision log
 

@@ -361,14 +361,6 @@ this unit ends with Achilles overwhelmed by the River.
 
 ## Translation — source-collated lines 278–384
 
-“She told me I should perish beneath the wall of the armored Trojans,
-by the swift arrows of Apollo. Would that Hector had slain me,
-who was bred here, and was the best of men! Then a good man
-would have killed me, and a good man stripped my armor.
-But now it is ordained that I be taken by a wretched death,
-caught in the mighty River, as a swineherd’s boy,
-whom a torrent sweeps away while crossing in winter.”
-
 So he spoke; and Poseidon and Athena came very swiftly near him,
 likened in form to mortal men. They took him by the hand
 and strengthened him with words. Earth-shaking Poseidon began:

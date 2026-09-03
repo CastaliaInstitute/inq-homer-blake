@@ -13,36 +13,55 @@ the collation files are the editorial authority for line-level revision.
 
 ## Translation
 
-Dawn rose from the bed of noble Tithonus, bringing light to immortals and mortals.
-But Zeus sent Strife to the swift ships of the Achaeans, a sign of war holding its
-violence in both hands. She stood upon Odysseus’ great black ship, midway between
-the stations of Ajax son of Telamon and Achilles, whose ships lay at the two ends,
-trusting in their courage and strength. There she cried aloud, a great and terrible
-cry, and put unwearied strength for battle into every Achaean heart. War became
-sweeter to them than sailing home in the hollow ships to their beloved fatherland.
+Dawn rose from the bed of noble Tithonus,
+Bringing light to immortals and to mortals.
+But Zeus sent Strife to the swift ships of the Achaeans,
+A sign of war holding its violence in both hands.
+She stood upon Odysseus’ great black ship,
+Midway between the stations of Ajax, son of Telamon,
+And Achilles, whose ships lay at the two ends,
+Trusting in their courage and their strength.
+There she cried aloud, a great and terrible cry,
+And put unwearied battle-strength into
+Each Achaean heart. War grew sweeter to them
+Than sailing home in hollow ships toward
+Their beloved fatherland.
 
-Agamemnon shouted and ordered the Argives to arm. He himself clothed his body in
-bright bronze. First he fastened beautiful greaves with silver ankle-pieces around
-his shins; then he put on the breastplate that Cinyras had given him as a guest-gift.
-Cinyras had heard in Cyprus that the Achaeans would sail to Troy, and had given it
-to please the king. Ten dark-blue bands ran around it, twelve of gold, and twenty
-of tin; three dark-blue serpents rose toward the neck on either side, like rainbows
-that the son of Cronus sets in a cloud as a sign to mortals.
+Agamemnon shouted, and ordered the Argives to arm.
+He clothed his body in the bright bronze. First
+He fastened greaves, beautiful, with silver ankle-pieces,
+Around his shins; then put the breastplate on
+That Cinyras had given him, a guest-gift.
+Cinyras, hearing in Cyprus that the Achaeans
+Would sail to Troy, had sent it to please the king.
+Ten dark-blue bands ran around it, twelve of gold,
+And twenty of tin; three dark-blue serpents rose
+Toward the neck on either side, like rainbows
+The son of Cronus sets within a cloud,
+A sign to mortal men.
 
-Around his shoulders he hung a sword with golden nails and a silver scabbard held
-by golden straps. He took a great shield, elaborate and terrible, with ten bronze
-rings around it and twenty white bosses of tin, a dark-blue boss at the center. Upon
-it was the grim-eyed Gorgon, and around her were Deimos and Phobos; a silver strap
-held it, and a dark-blue serpent twisted along it, with three heads growing from one
-neck. He set upon his head a four-bossed, horse-haired helmet with a dreadful crest,
-and took two powerful spears sharpened with bronze. The bronze flashed toward heaven,
-while Athena and Hera thundered in honor of the king of golden Mycenae.
+Around his shoulders he hung a sword with golden nails,
+Its silver scabbard held by golden straps. He took
+A great shield, elaborate and terrible: ten bronze
+Rings circled it, twenty white bosses of tin,
+And at its center one dark-blue boss. Upon it
+Was the grim-eyed Gorgon; around her Deimos walked
+And Phobos. A silver strap held the shield,
+And a dark-blue serpent twisted along it,
+Three heads arising from a single neck.
+He set upon his head a four-bossed helmet,
+Horse-haired, with a dreadful crest, and took two spears,
+Powerful, sharpened with bronze. The bronze flashed
+Toward heaven, while Athena and Hera thundered
+In honor of the king of golden Mycenae.
 
-Each man instructed his charioteer to hold the horses in good order by the trench;
-the foot soldiers, armed in their armor, surged forward, and an unquenchable cry
-rose before morning. The chariots reached the trench first; the horsemen followed
-a little behind. From above Zeus sent a bloody mist of dew from the clear air,
-because many strong heads were destined to be sent to Hades.
+Each man instructed his charioteer to hold the horses
+In order by the trench. The foot soldiers, armed,
+Surged forward; an unquenchable cry rose before morning.
+Chariots reached the trench first; horsemen followed,
+A little way behind. From above, Zeus sent
+A bloody mist of dew from the clear air,
+Because many strong heads were destined for Hades.
 
 On the other side, the Trojans gathered around great Hector, blameless Polydamas,
 Aeneas, honored among the Trojans like a god, and the three sons of Antenor—Polybus,

@@ -7,6 +7,9 @@
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 ## Translation
 
 Odysseus and Telemachus moved the weapons from the hall, leaving them
@@ -23,7 +26,8 @@ a fleece, and the stranger’s story.
 
 He answered with his Cretan fiction: Crete, Cnossus, Minos, Deucalion,
 and Idomeneus; he called himself Aethon and said that he had welcomed
-Odysseus at Amnisus after a storm. He described the purple cloak,
+Odysseus at Amnisus after a storm. He and his companions remained twelve
+days before sailing. He described the purple cloak,
 the golden brooch with its hound and fawn, the snow-white tunic,
 the dark curled hair, and Eurybates, broad-chested and black-haired.
 Penelope knew the garments she had given her husband, and wept.

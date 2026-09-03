@@ -58,7 +58,7 @@ But happiest of all is the man whose gifts win you as his wife.
 
 I have suffered much. I came from the sea, and the waves
 have cast me upon this shore. I have no cloak, no city,
-no knowledge of where I am. Give me a rag to cover myself,
+no knowledge of where I am. Give me a garment to cover myself,
 and show me the road to your town. May the gods grant you
 whatever your heart desires: husband, house, and concord within it.”
 

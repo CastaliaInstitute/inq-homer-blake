@@ -131,6 +131,13 @@ Penelope answered: “May your word be fulfilled, stranger.
 Then you would quickly know my friendship and receive gifts,
 So that anyone meeting you might call me blessed.”
 
+### Lines 162–165 — Penelope answers the omen
+
+Penelope answered: “Stranger, may this word be fulfilled!
+Then you would quickly know my friendship and receive
+Many gifts from me, so that whoever met you afterward
+Would call me blessed.”
+
 ### Lines 166–246 — The road to the palace
 
 Before the house the suitors amused themselves with quoit and javelin,
@@ -195,7 +202,7 @@ While I go to the city to bring a feast. May the gods destroy him.
 He will never return.” He went toward the city;
 Eumaeus and his master followed.
 
-### Lines 247–404 — Argos and the hall
+### Lines 247–491 — Argos and the hall
 
 Near the house and the gate they found Argos, once the hound
 Odysseus had raised before sailing to Troy. In his youth

@@ -28,6 +28,19 @@ Penelope’s rebuke, and Eurymachus’s false reassurance were expanded into ver
 in this pass; the working text still awaits independent Greek-fidelity and
 read-aloud review.
 
+## Revision log — 2026-09-03
+
+- **16.262–270, Greek fidelity:** The suitor census now assigns the fifty-two
+  suitors and six servants to Dulichium, followed by twenty-four from Same,
+  twenty from Zacynthus, and twelve from Ithaca. The earlier draft incorrectly
+  attached the fifty-two to Ithaca, changing the political geography and the
+  scale of the threat.
+- **16.452–458, Greek fidelity:** “A yearling boar” is corrected to “a
+  five-year-old boar,” restoring the explicit age of the sacrificial animal.
+
+These are translator revisions, not independent approval. A named reviewer must
+still compare the census and closing household sequence against the pinned Greek.
+
 ## Open decisions
 
 - Independently verify the census categories, named servants, and weapon inventory.

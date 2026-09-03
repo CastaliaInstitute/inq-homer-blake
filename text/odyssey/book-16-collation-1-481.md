@@ -207,7 +207,7 @@ Or whether we should seek help from another quarter.”
 
 Telemachus answered: “I know your strength in battle,
 But two men could not overcome such a crowd. There are fifty-two
-From Ithaca, and six servants from Dulichium; twenty-four
+From Dulichium, and six servants; twenty-four
 Come from Same, and twenty from Zacynthus. Twelve are from Ithaca.
 There is the herald Medon, the singer, and two serving men.
 If all these men stand against us, consider whether someone
@@ -336,7 +336,7 @@ Sweet sleep upon her eyes.
 
 At evening the excellent swineherd came;
 Odysseus and Telemachus prepared
-Their supper, having sacrificed a yearling boar.
+Their supper, having sacrificed a five-year-old boar.
 Athena stood beside them, touched Odysseus
 Again with her golden wand, and made him old,
 Clothing him once more in miserable rags,
@@ -371,7 +371,7 @@ The gift of sleep.
   Athena appears only to Odysseus and the dogs; Odysseus is restored, revealed,
   doubted, and finally recognized before the practical plan begins.
 - Telemachus's suitor count preserves the source's separate groups: fifty-two
-  from Ithaca, six from Dulichium, twenty-four from Same, twenty from
+  from Dulichium, six servants, twenty-four from Same, twenty from
   Zacynthus, twelve additional Ithacans, the herald Medon, the singer, and two
   serving men. This count remains subject to editorial verification against
   the adopted Greek text.

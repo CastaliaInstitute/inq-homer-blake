@@ -1,6 +1,6 @@
 volume,book,status,source_range,translation_file,greek_review,narrative_review,verse_review,diction_review,notes_review,production_review,layout_status
 iliad,1,review,1.1-611,text/iliad/book-01-opening.md,pending,pending,pending,pending,pending,pending,not-started
-iliad,2,draft,2.1-877,text/iliad/book-02-opening.md,pending,pending,pending,pending,pending,pending,not-started
+iliad,2,review,2.1-877,text/iliad/book-02-opening.md,pending,pending,pending,pending,pending,pending,not-started
 iliad,3,draft,3.1-461,text/iliad/book-03-opening.md,pending,pending,pending,pending,pending,pending,not-started
 iliad,4,draft,4.1-544,text/iliad/book-04-opening.md,pending,pending,pending,pending,pending,pending,not-started
 iliad,5,draft,5.1-909,text/iliad/book-05-opening.md,pending,pending,pending,pending,pending,pending,not-started
@@ -24,7 +24,7 @@ iliad,22,review,22.1-515,text/iliad/book-22-opening.md,pending,pending,pending,p
 iliad,23,review,23.1-897,text/iliad/book-23-opening.md,pending,pending,pending,pending,pending,pending,not-started
 iliad,24,review,24.1-804,text/iliad/book-24-opening.md,pending,pending,pending,pending,pending,pending,not-started
 odyssey,1,review,1.1-444,text/odyssey/book-01-opening.md,pending,pending,pending,pending,pending,pending,not-started
-odyssey,2,draft,2.1-434,text/odyssey/book-02-opening.md,pending,pending,pending,pending,pending,pending,not-started
+odyssey,2,review,2.1-434,text/odyssey/book-02-opening.md,pending,pending,pending,pending,pending,pending,not-started
 odyssey,3,draft,3.1-497,text/odyssey/book-03-opening.md,pending,pending,pending,pending,pending,pending,not-started
 odyssey,4,draft,4.1-847,text/odyssey/book-04-opening.md,pending,pending,pending,pending,pending,pending,not-started
 odyssey,5,draft,5.1-493,text/odyssey/book-05-opening.md,pending,pending,pending,pending,pending,pending,not-started

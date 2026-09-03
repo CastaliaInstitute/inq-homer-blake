@@ -78,7 +78,9 @@ Odyssey Book 23 has now received a bed-recognition, delayed-dawn, and
 departure fidelity/read-aloud review; its gates remain pending.
 Odyssey Book 24 has now received an underworld-prologue, Laertes-recognition,
 and peace-settlement fidelity/read-aloud review; its gates remain pending.
-Book 8 packets are now present for both epics, and their gates remain pending.
+Book 8 packets are now present for both epics; Iliad Book 8 has received a
+divine-battle read-aloud/fidelity review log, and both books' gates remain
+pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.
 Book 11 packets are now present for both epics, and their gates remain pending.

@@ -63,33 +63,47 @@ A little way behind. From above, Zeus sent
 A bloody mist of dew from the clear air,
 Because many strong heads were destined for Hades.
 
-On the other side, the Trojans gathered around great Hector, blameless Polydamas,
-Aeneas, honored among the Trojans like a god, and the three sons of Antenor—Polybus,
-shining Agenor, and Acamas, like the immortals. Hector carried a shield even on all
-sides, appearing at times among the foremost like a baleful star that shines out
-from a cloud and at times sinks again into shadow. So he appeared in the front ranks
-and then at the rear, giving orders; all his bronze flashed like the lightning of
-aegis-bearing Zeus.
+On the other side the Trojans gathered round
+Great Hector, blameless Polydamas, and Aeneas,
+Honored among them like a god, with the three sons
+Of Antenor—Polybus, shining Agenor,
+And Acamas, like immortals. Hector bore
+A shield that covered him on every side;
+At times he shone among the foremost like a baleful star
+That breaks from cloud, then sinks again in shadow.
+So he appeared in front and then behind,
+Giving his orders; all his bronze flashed like
+The lightning of aegis-bearing Zeus.
 
-Trojans and Achaeans rushed upon one another like reapers driving their rows against
-each other through the field of a wealthy man, cutting wheat or barley, while the
-dense handfuls fall. They slaughtered one another, and neither side remembered ruinous
-flight. The battle held equal heads, and the fighters rushed like wolves. Strife alone
-rejoiced as she watched; none of the other gods came among them, but sat at ease in
-their own halls on Olympus. All blamed dark-clouded Cronus’ son because he meant to
-give glory to the Trojans. The father did not care; he sat apart, rejoicing in his
-power, watching the city of Troy and the ships of the Achaeans, the flash of bronze,
-the killing and the killed.
+Trojans and Achaeans rushed on one another,
+Like reapers driving rows against each other
+Through the rich field of a wealthy man, cutting
+Wheat or barley, while the dense handfuls fall.
+They slaughtered, and neither side remembered
+Ruinous flight. The battle held them equal;
+The fighters rushed like wolves. Strife alone rejoiced.
+None of the other gods came among them, but sat
+At ease in their own halls on Mount Olympus.
+All blamed dark-clouded Cronus’ son, because
+He meant to give the Trojans glory. But the Father
+Did not care; he sat apart, rejoicing in his power,
+Watching Troy and the Achaean ships, the flash
+Of bronze, the killing and the killed.
 
-While morning lasted and the sacred day grew strong, missiles struck both sides and
-men fell. But when a woodcutter has prepared his meal among the mountain valleys,
-his hands tired from cutting tall trees and his desire for food has come upon him,
-then the Danaans, calling to their companions rank by rank, broke the battalions.
-Agamemnon sprang first. He killed Bienor, shepherd of the people, who leapt from
-his horses and stood against him; Agamemnon drove his spear straight through his
-forehead, and the heavy bronze passed through the bone and scattered his brains.
-Then he struck Oileus, the horse-driver, as he came upon him, and left both men
-there, their shining breastplates stripped.
+While morning lasted and the sacred day grew strong,
+Missiles struck both sides, and men fell. But when
+A woodcutter has prepared his meal among
+The mountain valleys, his hands tired from cutting
+Tall trees, and hunger has come upon him, then
+The Danaans, calling rank by rank, broke
+The battalions. Agamemnon sprang first.
+He killed Bienor, shepherd of the people, who leapt
+From his horses and stood against him; straight
+Through his forehead drove the spear, and heavy bronze
+Passed through the bone and scattered all his brains.
+Then he struck Oileus, the horse-driver,
+As he came on, and left both men there,
+Their shining breastplates stripped.
 
 He went on to kill Isus and Antiphus, two sons of Priam in one chariot, one illegitimate
 and the other born in wedlock. Achilles had once found them tending sheep on Ida,

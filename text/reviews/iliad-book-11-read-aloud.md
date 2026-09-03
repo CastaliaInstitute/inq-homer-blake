@@ -30,7 +30,9 @@ meter or replace an independent omissions/additions review.
 - The Longfellow-inspired register should keep the catalogue stately while making
   each agency unmistakable; repeated epithets must not obscure who strikes,
   withdraws, counsels, or heals.
-- The meter report is only a syllable screen. A named human reader must still
+- The opening Dawn, arming catalogue, Trojan mustering, and first Agamemnon
+  advance were recast into sustained verse in this pass. The meter report is
+  only a syllable screen. A named human reader must still
   review stress, proper names, catalogue breath, and the transition into the
   newly recast blank-verse ending.
 

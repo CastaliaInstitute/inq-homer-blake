@@ -51,6 +51,10 @@ jobs:
         run: python3 scripts/preflight_pdfs.py
       - name: Run two-column layout preflight
         run: python3 scripts/preflight_layout.py
+      - name: Rebuild and verify architecture page map
+        run: |
+          python3 scripts/build_architecture_page_map.py
+          git diff --exit-code -- design/architecture-page-map.csv
       - name: Run accessible text-export preflight
         run: python3 scripts/preflight_text_exports.py
       - name: Rebuild and verify meter screening artifacts

@@ -404,7 +404,7 @@ so Aeneas subdued them, and they fell like tall firs.
 The war-loving Menelaus pitied the fallen pair.
 Helmeted in flashing bronze, he passed through
 the foremost ranks, brandishing his spear. Ares,
-intent on bringing him down beneath Aeneas’ hands,
+meaning him to fall beneath Aeneas’ hands,
 stirred his courage. Antilochus, Nestor’s great-hearted son,
 saw him and hurried through the battle, fearing for
 the shepherd of the people, lest the day’s labor be lost.
@@ -427,7 +427,7 @@ were seized and led away among the Achaean ranks.
 
 Hector saw them and came shouting against them,
 with Trojan battalions behind. Ares led the way,
-and shameless Enyo carried the tumult of war.
+and Enyo bore the shameless tumult of war.
 Ares swung his enormous spear, now before Hector,
 now behind him. Diomedes, seeing the god, shuddered
 like a helpless traveler who, standing above a river

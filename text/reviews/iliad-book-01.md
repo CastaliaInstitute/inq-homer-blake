@@ -19,7 +19,7 @@ translator decisions below are recorded; the independent checks remain open.
 | 101–187 | [`book-01-collation-101-187.md`](../iliad/book-01-collation-101-187.md) | semantic units mapped to quarrel and withdrawal |
 | 188–305 | [`book-01-collation-188-305.md`](../iliad/book-01-collation-188-305.md) | semantic units mapped to Athena/oath/Nestor sequence |
 | 306–430 | [`book-01-collation-306-430.md`](../iliad/book-01-collation-306-430.md) | semantic units mapped to Briseis/Thetis sequence |
-| 430–611 | [`book-01-collation-430-611.md`](../iliad/book-01-collation-430-611.md) | semantic units mapped to Chryse/Zeus/divine feast |
+| 431–611 | [`book-01-collation-431-611.md`](../iliad/book-01-collation-431-611.md) | semantic units mapped to Chryse/Zeus/divine feast |
 
 The intervals cover Iliad 1.1–611. The overlap at line 430 is retained because
 the two collations use the boundary for different scene movements; it creates

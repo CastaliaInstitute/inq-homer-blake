@@ -24,7 +24,7 @@ or a physical proof.
 | Review governance | `scripts/preflight_review_packets.rb` and all 48 packets | A gate cannot be recorded as passed without a named reviewer and review date |
 | Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |
 | Typography | `design/font-lock.md`, `design/typography.md` | Architecture font evidence recorded; final license lock pending |
-| Automation | `.github/workflows/editorial-quality.yml` | Editorial Quality CI passing on commit `265ea7d` (run `33757430677`) |
+| Automation | `.github/workflows/editorial-quality.yml` | Editorial Quality CI is the required validation path for every pushed commit; the current branch must retain a passing run before release |
 
 ## Required human and production signoffs
 

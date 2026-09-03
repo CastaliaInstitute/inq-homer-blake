@@ -2,7 +2,7 @@
 
 - Generated: 2026-09-02
 - Use case: illustration-story
-- Asset: print-oriented supplemental plate candidate, 7 x 10 inch interior
+- Asset: print-oriented supplemental plate candidate, 6.625 x 10.25 inch interior
 - Tool: built-in image generation
 - Source image: none; new composition
 - Intended status: concept-review; non-destructive v2 candidate
@@ -26,6 +26,6 @@ or visible typography.
 ## Production note
 
 The generated source was copied into the repository and resized to 2100 x 3000
-pixels, approximately 300 dpi at 7 x 10 inches. The resize improves placement
+pixels, approximately 300 dpi at 6.625 x 10.25 inches. The resize improves placement
 and preflight geometry but does not substitute for a native print-resolution
 master or final color-profile conversion.

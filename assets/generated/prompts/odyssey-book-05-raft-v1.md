@@ -1,12 +1,12 @@
 # Odyssey Book 5 — broken raft and the Phaeacian shore
 
-**Use case:** illustration-story  
-**Asset type:** original interior plate candidate for a 7 × 10 inch hardcover volume  
-**Source passage:** Odyssey 5; exact final line range to lock during editorial review  
-**Creator:** CastaliaInstitute  
-**Status:** concept-review; not by William Blake; not a reproduction or transformation of a specific Blake plate  
-**Generated:** 2026-09-02  
-**Mode:** built-in image generation  
+**Use case:** illustration-story
+**Asset type:** original interior plate candidate for a 6.625 × 10.25 inch hardcover volume
+**Source passage:** Odyssey 5; exact final line range to lock during editorial review
+**Creator:** CastaliaInstitute
+**Status:** concept-review; not by William Blake; not a reproduction or transformation of a specific Blake plate
+**Generated:** 2026-09-02
+**Mode:** built-in image generation
 
 ## Prompt
 

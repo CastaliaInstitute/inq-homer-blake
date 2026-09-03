@@ -2,13 +2,13 @@
 
 - Generated: 2026-09-02
 - Use case: illustration-story
-- Asset: original supplemental plate candidate, 7 x 10 inch interior
+- Asset: original supplemental plate candidate, 6.625 x 10.25 inch interior
 - Tool: built-in image generation
 - Source image: none; new composition
 - Intended status: concept-review
 - Credit: Original plate candidate by CastaliaInstitute; not by William Blake
 - Provenance: New generated composition; no historical Blake plate is copied or reconstructed
-- Planned dimensions: 2100 x 3000 px (7 x 10 in placement geometry at approximately 300 dpi)
+- Planned dimensions: 2100 x 3000 px (6.625 x 10.25 in placement geometry at approximately 300 dpi)
 
 ## Prompt
 

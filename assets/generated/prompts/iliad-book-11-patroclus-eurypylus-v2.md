@@ -1,7 +1,7 @@
 # Iliad 11 — Patroclus tends Eurypylus — v2
 
-**Created:** 2026-09-03  
-**Use case:** illustration-story  
+**Created:** 2026-09-03
+**Use case:** illustration-story
 **Asset:** original interior-plate concept candidate for Iliad 11.618–848
 
 ## Prompt

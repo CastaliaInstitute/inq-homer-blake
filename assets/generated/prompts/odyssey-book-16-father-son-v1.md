@@ -1,7 +1,7 @@
 # Odyssey 16 — Father and son — v1
 
-**Created:** 2026-09-03  
-**Use case:** illustration-story  
+**Created:** 2026-09-03
+**Use case:** illustration-story
 **Asset:** original interior-plate concept candidate for Odyssey 16.1–481
 
 ## Prompt

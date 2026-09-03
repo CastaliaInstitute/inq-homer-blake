@@ -1,9 +1,9 @@
 # Odyssey Book 1 — Athena at the threshold, version 1
 
-**Use case:** `illustration-story`  
-**Asset:** Interior plate candidate  
-**Generated:** 2026-09-02  
-**Tool:** Built-in image generation; model version not exposed by the tool  
+**Use case:** `illustration-story`
+**Asset:** Interior plate candidate
+**Generated:** 2026-09-02
+**Tool:** Built-in image generation; model version not exposed by the tool
 
 ## Prompt
 
@@ -30,6 +30,6 @@ gore, modern clothing, and copied artwork.
 
 - Strong companion to the *Iliad* Book 1 Apollo plate: exterior/interior,
   revelation/threshold, divine arrival in each volume.
-- The file is 1054 × 1492 pixels, approximately 149 dpi at 7 × 10 inches.
+- The file is 1054 × 1492 pixels, approximately 149 dpi at 6.625 × 10.25 inches.
 - Concept-review only; regenerate or obtain a higher-resolution master before
   print production.

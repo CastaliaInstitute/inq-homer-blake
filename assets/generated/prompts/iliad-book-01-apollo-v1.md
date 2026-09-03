@@ -1,9 +1,9 @@
 # Iliad Book 1 — Apollo, version 1
 
-**Use case:** `illustration-story`  
-**Asset:** Interior plate candidate  
-**Generated:** 2026-09-02  
-**Tool:** Built-in image generation; model version not exposed by the tool  
+**Use case:** `illustration-story`
+**Asset:** Interior plate candidate
+**Generated:** 2026-09-02
+**Tool:** Built-in image generation; model version not exposed by the tool
 
 ## Prompt
 
@@ -26,6 +26,6 @@ gore, modern clothing, and copied artwork.
 ## Review notes
 
 - Strong candidate for the plague/epiphany transition in Book 1.
-- The file is 1050 × 1498 pixels, approximately 150 dpi at 7 × 10 inches.
+- The file is 1050 × 1498 pixels, approximately 150 dpi at 6.625 × 10.25 inches.
 - Concept-review only; regenerate or obtain a higher-resolution master before
   print production.

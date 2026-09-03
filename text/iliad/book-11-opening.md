@@ -8,8 +8,9 @@
 [210–303](book-11-collation-210-303.md), [304–482](book-11-collation-304-482.md),
 [483–617](book-11-collation-483-617.md), and [618–848](book-11-collation-618-848.md)
 
-The compact translation below is retained for the current volume architecture;
-the collation files are the editorial authority for line-level revision.
+The continuous verse translation below is the current working text for the
+volume architecture; the collation files remain the editorial authority for
+line-level revision.
 
 ## Translation
 

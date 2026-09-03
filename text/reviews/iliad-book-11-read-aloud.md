@@ -1,11 +1,11 @@
 # Iliad Book 11 — read-aloud and fidelity revision log
 
 **Scope:** Iliad 11.1–848, current working translation  
-**Date:** 2026-09-02  
+**Date:** 2026-09-03
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
 
-This pass tests Agamemnon’s aristeia, the commanders’ wounds, the withdrawal
+This pass tests the complete 11.1–848 working translation: Agamemnon’s aristeia, the commanders’ wounds, the withdrawal
 around Ajax, and the Patroclus–Eurypylus ending. The book moves from bright
 metallic catalogue to bodily pain and medicinal care; this log does not certify
 meter or replace an independent omissions/additions review.

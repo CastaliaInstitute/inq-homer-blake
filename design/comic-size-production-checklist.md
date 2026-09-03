@@ -13,7 +13,7 @@ proof PDFs are printer-ready.
 | Interior stock | 80# White Coated, Premium Color | Confirm against the selected printer’s current stock name before upload |
 | Interior bleed | 0.125 in where artwork reaches the trim | Every full-bleed plate must include live-area and bleed review |
 | Interior color | Color-managed RGB/CMYK workflow selected with printer | Final profile and output intent are still pending |
-| Current proof counts | Iliad 350 pages; Odyssey 244 pages | Counts must be frozen before printer-template download |
+| Current proof counts | Iliad 372 pages; Odyssey 244 pages | Counts must be frozen before printer-template download |
 | Cover | One integrated casewrap spread per volume | Must use the printer-generated template, not an estimated spine |
 | Typography | Embedded, licensed Cormorant Garamond family | License lock and final PDF font inspection remain required |
 

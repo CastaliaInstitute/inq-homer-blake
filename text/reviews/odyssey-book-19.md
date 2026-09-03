@@ -36,10 +36,16 @@ the geese. These passages were checked against Odyssey 19.14–50, 19.103–162,
 19.213–240, 19.399–467, and 19.535–604; they remain a literary working pass,
 not independent approval evidence.
 
-The nurse passage now also preserves Eurycleia’s household status: Laertes
+The nurse passage now also preserves Eurycleia's household status: Laertes
 bought and honored her, while respecting his wife, and she had nursed
 Odysseus from birth. This is a source-grounded enlargement of the recognition
 scene, not an attempt to make the density screen pass by repeating action.
+
+The latest pass restores the nurse’s full protest before the washing and the
+otherwise compressed Autolycus household welcome and feast: Amphithea’s kiss,
+the sons’ greeting, the five-year bull, the shared roasting, the day-long meal,
+and sleep before the hunt. These are source-order details from Odyssey 19.372–
+427, added for narrative completeness rather than ornamental padding.
 
 | Gate | Current evidence | Required before pass |
 |---|---|---|

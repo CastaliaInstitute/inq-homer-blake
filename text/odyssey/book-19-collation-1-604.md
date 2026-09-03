@@ -249,8 +249,13 @@ She called the nurse, and ordered her to wash him.
 
 The old woman wept, and praised the absent lord,
 While cursing those who mocked the ragged guest.
-“No stranger ever came so like to him
-In body, voice, and feet.” The king replied:
+The nurse answered, “These shameless women, all of them,
+You do not let me wash you, though the daughter
+Of Icarius, wise Penelope, has ordered it;
+She whom I nursed, unhappy king, from your first hour.
+Many a stranger, worn with labor, has come here,
+But none so like in body, voice, and feet.”
+The king replied:
 “So all who have beheld us say the same.”
 
 ### Lines 372–507 — The scar and the silence pact
@@ -277,6 +282,16 @@ I will bestow my gifts upon him there.”
 In later years they feasted on a bull,
 Five years old; and at the dawn they went
 Up to the wooded mountain for the hunt.
+When Autolycus saw the child, his sons embraced him
+And spoke kind words; his mother Amphithea, bending,
+Kissed the child upon his head and both bright eyes.
+Then Autolycus called his glorious sons to prepare
+The meal. They led a five-year bull indoors,
+Skinned it, cut it skillfully, divided it,
+And set its portions on the spits to roast.
+They feasted through the whole day until the sun
+Went down, and lacked no share of equal banquet;
+When darkness came, they slept and took the gift of sleep.
 The dogs moved before them through the thickets, and the sons
 Of Autolycus came after them; the morning sun
 Struck the earth newly, rising out of Ocean’s stream.

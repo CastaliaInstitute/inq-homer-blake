@@ -17,6 +17,10 @@ courtyard doors. These additions were checked against Odyssey 21.101–143,
 21.167–204, and 21.359–395. The density screen remains a hold, and independent
 Greek-fidelity, literary, meter, notes, and production approval remain open.
 
+The pass also corrects a fidelity issue in the earlier draft: an invented
+“defer the trial until dawn” reply by the stranger was removed, and the
+Messenian theft and Ortilochus setting were restored from Odyssey 21.15–24.
+
 ## Source-map register
 
 | Greek span | Collation authority |

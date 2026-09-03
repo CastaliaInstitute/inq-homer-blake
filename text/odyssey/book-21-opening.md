@@ -24,8 +24,12 @@ Gold, bronze, and iron fashioned by the hands of men.
 There, bent and polished, rested the great bow,
 And there the quiver held its arrows, groaning softly.
 
-Iphitus had given it, met by Odysseus
-In Messenia. Iphitus sought twelve mares,
+Iphitus had given it, when Odysseus met him
+In Messenia, at the house of wise Ortilochus.
+Three hundred sheep and their keepers had been stolen
+By Messenian men from Ithaca, and Odysseus,
+Still young, had crossed the long road to demand their return.
+Iphitus sought twelve mares,
 And twelve strong mules, that had been stolen from him;
 But Heracles, forgetting Zeus’s guest-right,
 And the table where a guest is held inviolate,
@@ -67,15 +71,6 @@ The cowherd, elsewhere, wept to see the weapon
 Of his old master. Antinous rebuked them:
 “Why trouble the woman with your mourning? This bow
 Will break the hearts of many excellent men.”
-
-Leodes, the sacrificial seer, came first.
-He hated all the suitors’ violent ways,
-Yet could not bend the bow. “It will humble many,”
-He said; “some man still hopes to take the wife,
-But death is better than remaining here.”
-Antinous scorned him, and commanded Melanthius:
-“Light us a fire; set a chair and fleeces near it;
-Bring fat, that we may warm and oil the bow.”
 
 Then Telemachus sprang up, laid aside his sword,
 And dug one trench, long and straight. He planted
@@ -158,9 +153,6 @@ His hosts dragged him from the house and maimed him.
 If you succeed, I’ll send you to King Echetus,
 The destroyer of men.”
 
-But the stranger answered: “I do not desire
-To match my youth against the strength of young men;
-Let us defer the trial until dawn.”
 Eurymachus answered: “Lady, we do not believe
 This man will take you from us; it is not fitting.
 But shame would reach the men and women of Achaea

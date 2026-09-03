@@ -21,3 +21,10 @@
 ## Editorial status
 
 This block is line-level collated against the locked source and remains subject to final Greek-text and copyediting review. It is not yet approved for layout.
+
+## Cadence revision note
+
+On 2026-09-02 the English lineation for lines 245–320 was revised for a more
+audible, processional blank-verse movement. The revision preserves the oath,
+lots, arming, duel, and divine intervention recorded in this collation; the
+Verse gate remains pending. See the [read-aloud revision log](../reviews/iliad-book-03-read-aloud.md).

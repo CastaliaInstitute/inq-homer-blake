@@ -1,11 +1,11 @@
 # Iliad Book 3 — read-aloud revision log
 
-**Scope:** revised working passage, Iliad 3.1–244  
+**Scope:** revised working passage, Iliad 3.1–320  
 **Date:** 2026-09-02  
 **Status:** editorial working evidence; not a gate pass  
 **Reviewer:** AI-assisted draft review; human sign-off required
 
-This log records a focused cadence pass on the opening 244 Greek lines. The
+This log records a focused cadence pass on the opening 320 Greek lines. The
 pass is deliberately limited: it does not certify the whole book, and it does
 not substitute for a human reading aloud from the locked Greek alongside the
 English.
@@ -36,6 +36,7 @@ English.
 | 3.146–185 | The wall scene carries names, judgment, grief, and the Phrygian comparison. | Broke the catalogue into audible units and kept Priam's compassionate release of Helen from blame. |
 | 3.186–224 | The Odysseus and Ajax identifications combine physical description with remembered speech. | Broke Antenor's long comparison into measured statements while retaining the scepter and winter-snow images. |
 | 3.225–244 | The Dioscuri transition and oath preparation move quickly from absence to material ritual. | Kept the earth-held brothers, Idaeus, Priam, the heralds, and the oath gifts as distinct beats. |
+| 3.245–320 | The oath, lots, arming, and duel move from ritual speech into physical action. | Re-lineated the prayer, weapons, spear exchange, broken sword, and Aphrodite's rescue into a measured sequence. |
 
 ## Gate disposition
 

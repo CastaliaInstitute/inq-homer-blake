@@ -5,6 +5,9 @@
 **Status:** Source-collated working translation under line-level review; not approved for layout.
 
 **Source-collated authority:** [Book 18, lines 1–428](book-18-collation-1-428.md).
+
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 

@@ -73,6 +73,8 @@ Odyssey Book 21 has now received a bow-provenance, Telemachus-attempts, and
 recognition-sequence fidelity/read-aloud review; its gates remain pending.
 Odyssey Book 22 has now received a battle-escalation, Leiodes, and
 Phemius/Medon fidelity/read-aloud review; its gates remain pending.
+Odyssey Book 23 has now received a bed-recognition, delayed-dawn, and
+departure fidelity/read-aloud review; its gates remain pending.
 Book 8 packets are now present for both epics, and their gates remain pending.
 Book 9 packets are now present for both epics, and their gates remain pending.
 Book 10 packets are now present for both epics, and their gates remain pending.

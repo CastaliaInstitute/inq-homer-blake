@@ -6,6 +6,9 @@
 
 **Source-collated authority:** [Book 23, lines 1–372](book-23-collation-1-372.md)
 
+**Greek-fidelity review:** open; this working pass requires an independent
+omissions-and-additions check before approval.
+
 The compact translation below is retained for the current volume architecture;
 the collation file is the editorial authority for line-level revision.
 
@@ -31,8 +34,9 @@ She told the nurse: “Make up a bed outside the bedchamber.
 Move the bedstead; Odysseus can sleep there.”
 
 Odysseus heard and said: “Who moved my bed? It was built around
-an olive tree. I cut the trunk, raised walls around it, and fitted
-the bedposts. No man could move it without cutting the tree.”
+a living olive tree. I cut and polished the trunk, raised walls around it,
+and fitted the doors and bedposts. No man could move it without cutting
+the tree; only Penelope, I, and the maid Actoris knew this sign.”
 
 Penelope's knees failed. She ran to him and embraced him.
 She wept into his hair, while he wept for the wife and the house

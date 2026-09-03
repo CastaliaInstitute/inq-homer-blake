@@ -183,18 +183,26 @@ In Mentor’s shape, descended to the earth.
 
 ### Lines 465–548 — Eupeithes and the peace
 
-Odysseus and his companions armed themselves. Laertes prayed to Athena, and
-the goddess gave him strength and courage. The two sides met at the farm.
-Eupeithes raised his spear, and Laertes struck him between the eyes; his helmet
-and armor rang as he fell. Odysseus and Telemachus rushed forward and would
-have pursued the rest, killing them with sword and spear, but Zeus hurled
-a smoking thunderbolt before Athena’s feet.
+Odysseus and his companions armed themselves.
+Laertes prayed to Pallas, and the goddess
+Poured strength and courage through the old man’s limbs.
+The two lines met before the farm. Eupeithes
+Lifted his spear; Laertes struck him between
+The eyes. His helmet and his armor rang;
+He fell. Odysseus and Telemachus
+Rushed forward, eager to pursue the rest
+With sword and spear, and kill them as they fled.
 
-Athena cried to Odysseus: “Hold, and end the quarrel of equal war, lest wide-
-ruling Zeus grow angry.” Odysseus obeyed. The Ithacans dropped their weapons
-and fled toward the city, terrified. Zeus thundered again. Athena, in Mentor’s
-form, established oaths of friendship between both sides. Thus the gods made
-the peace, and Odysseus ruled again in Ithaca.
+But Zeus cast down a smoking thunderbolt
+Before Athena’s feet. The goddess cried:
+“Hold, son of Laertes; end this equal war,
+Lest wide-ruling Zeus grow angry.” He obeyed.
+The Ithacans let fall their arms and fled
+Toward the city, terrified; Zeus thundered once
+Again. Then Athena, wearing Mentor’s form,
+Established oaths of friendship on both sides.
+So peace was made by the immortal powers,
+And Odysseus ruled again in Ithaca.
 
 ## Decision log
 

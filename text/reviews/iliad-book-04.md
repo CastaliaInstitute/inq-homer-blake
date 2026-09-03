@@ -33,3 +33,10 @@ Pandarus, Menelaus's wound, and the battle catalogue.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Focused cadence pass
+
+The opening council (Iliad 4.1–29) has a working cadence revision documented
+in [`iliad-book-04-read-aloud.md`](iliad-book-04-read-aloud.md). This is not a
+gate pass; the complete book remains subject to Greek-fidelity, stress,
+read-aloud, diction, notes, and production review.

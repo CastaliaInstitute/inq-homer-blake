@@ -303,63 +303,81 @@ So Apollo sat upon the height of Pergamus, while Ares
 entered the crowd in the likeness of Acamas,
 leader of the Thracians, urging on the Trojans.
 
-The Trojans’ ranks were urged forward by fierce Ares, who had taken
-the form of swift Acamas, leader of the Thracians. He called to Priam’s sons:
-“Sons of Priam, Zeus-nourished king, how long will you let the Achaeans
-kill your people? Will you wait until they fight around your well-built gates?
-Aeneas lies there, a good companion whom we honored like Hector.
-Come, let us save him from the tumult.” His words stirred every heart.
+The Trojans’ ranks were urged on by fierce Ares,
+who had taken the form of swift Acamas,
+leader of the Thracians. He called to Priam’s sons:
+“Sons of Priam, Zeus-nourished king, how long
+will you let the Achaeans kill your people?
+Will you wait until they fight around your well-built gates?
+Aeneas lies there, a good companion whom we honored
+like Hector. Come, let us save him from the tumult.”
+His words stirred every heart.
 
-Then divine Sarpedon rebuked Hector: “Hector, where has the courage gone
-you once possessed? You said you could hold the city without its people
-or allies, alone with brothers and sons-in-law. Now I see none of them;
-they shrink like dogs around a lion, while we fight as the allies you summoned.
-I have come from far-off Lycia beside the whirling Xanthus,
-leaving a dear wife, a little son, and many possessions behind,
-yet I urge my Lycians and myself to meet a man. Here I have nothing
-for an Achaean to carry away, but you stand idle and do not command
-the people to remain and defend their walls. Take care lest you and your people
-become prey, caught like flax in a snare, while the enemy soon sacks your city.
-You must entreat the famous allies, night and day, to stand unceasingly,
+Then divine Sarpedon rebuked Hector:
+“Hector, where has the courage gone that once you had?
+You said you could hold the city without its people
+or allies, alone with brothers and sons-in-law.
+Now I see none of them; they shrink like dogs
+around a lion, while we fight as allies you summoned.
+I came from far-off Lycia beside the whirling Xanthus,
+leaving a dear wife, a little son, and many possessions;
+yet I urge my Lycians, and myself, to meet a man.
+Here I have nothing for an Achaean to carry away,
+but you stand idle, and do not command your people
+to remain and guard the walls. Take care lest you and yours
+become prey, caught like flax in a snare, while the enemy
+soon sacks your city. Entreat the famous allies,
+night and day, to stand without ceasing,
 and lay aside your harsh reproach.”
 
-His speech pierced Hector’s heart. Hector leapt from his chariot in armor,
-shook his sharp spears, and moved everywhere through the host,
-rousing the dreadful battle. They turned and faced the Achaeans;
-the Argives stood together and did not flee. As a wind carries chaff
-over a sacred threshing floor when men winnow grain, and the straw-heaps
-grow white beneath the wind, so the Achaeans grew white above in dust,
-as the horses’ hooves drove it up to the bronze sky and the drivers turned them.
-But fierce Ares covered the Trojans with darkness, moving everywhere
-to help them and fulfilling Apollo’s commands, who had sent him to raise
-the Trojan courage when he saw Athena withdraw, leaving the Danaans aid.
+His speech pierced Hector’s heart. Hector leapt
+from his chariot in armor, shook his sharp spears,
+and moved throughout the host, rousing dreadful battle.
+They turned and faced the Achaeans; the Argives stood
+together and did not flee. As a wind carries chaff
+across a sacred threshing floor when men winnow grain,
+and the straw heaps grow white beneath it, so the Achaeans
+grew white in dust, as hooves drove dust upward
+to the bronze sky and drivers wheeled their teams.
+But fierce Ares covered the Trojans with darkness,
+moving everywhere to aid them and fulfilling Apollo’s command,
+who sent him to raise Trojan courage when he saw
+Athena withdraw, leaving aid to the Danaans.
 
-Apollo himself brought Aeneas from the sanctuary and put strength into him.
-His companions rejoiced when they saw him alive, unhurt, and full of courage,
-but did not ask what had happened: another labor was being raised by Apollo,
-Ares, and unwearied Strife.
+Apollo himself brought Aeneas from the sanctuary
+and put strength into him. His companions rejoiced
+when they saw him alive, unhurt, and full of courage,
+but did not ask what had happened: another labor
+was being raised by Apollo, Ares, and unwearied Strife.
 
-The two Ajaxes, Odysseus, and Diomedes urged the Danaans to fight.
-They did not fear the Trojans’ strength or arrows, but stood like clouds
-that Cronus’ son holds still upon the mountain peaks until the force of Boreas
-and the other fierce winds sleeps. So the Danaans stood fast and did not flee.
-Agamemnon moved among them, calling: “Be men, friends; take a valiant heart,
-and respect one another in the fierce battle. More men survive when they feel shame;
-among the fleeing no glory rises, nor courage.”
-He cast his spear and struck Deicoon, companion of Aeneas,
-son of Pergasus, honored like Priam’s sons because he fought among the first.
-The spear passed through shield and belt into his lower belly;
+The two Ajaxes, Odysseus, and Diomedes urged
+the Danaans to fight. They did not fear Trojan strength
+or arrows, but stood like clouds that Cronus’ son holds
+still upon the mountain peaks until Boreas’ force,
+and that of the other fierce winds, sleeps.
+So the Danaans stood fast and did not flee.
+Agamemnon moved among them, calling:
+“Be men, friends; take a valiant heart,
+and honor one another in the fierce battle.
+More men survive when shame is felt;
+among the fleeing there is neither glory nor courage.”
+He cast his spear and struck Deicoon, companion
+of Aeneas, son of Pergasus, honored like Priam’s sons
+because he fought among the first. The spear passed
+through shield and belt into his lower belly;
 he fell, and his armor rang upon him.
 
-Aeneas killed two excellent Achaeans, Crethon and Orsilochus,
-sons of Diocles, a wealthy man in well-built Pherae whose line descended
-from Alpheius, the broad-flowing river through Pylian land.
-Diocles fathered the twins, skilled in war; when they grew, they followed
-the Argives to Ilium to win honor for Agamemnon and Menelaus,
-but the end of death covered them there. Like two lions raised by their mother
-in the thick forest, they ravaged cattle and sheep in men’s folds until
-sharp bronze killed them in men’s hands; so Aeneas subdued them,
-and they fell like tall firs.
+Aeneas killed two excellent Achaeans,
+Crethon and Orsilochus, sons of Diocles,
+a wealthy man in well-built Pherae, whose line descended
+from Alpheius, the broad-flowing river of Pylian land.
+Diocles fathered twins skilled in war. When they grew,
+they followed the Argives to Ilium, to win honor
+for Agamemnon and Menelaus; but death’s end covered them.
+As two lions raised by their mother in thick forest
+raven cattle and sheep in the folds of men,
+until sharp bronze killed them in men’s hands,
+so Aeneas subdued them, and they fell like tall firs.
 
 The war-loving Menelaus pitied the fallen pair, and, helmeted in flashing
 bronze, went through the foremost ranks, brandishing his spear. Ares, thinking

@@ -27,6 +27,9 @@ remain pending.
 | 5.343–360 | Apollo's rescue and warning must make divine boundary visible without erasing Diomedes' repeated courage. | Re-lineated the three charges, the shield turned aside, the warning, Pergamus, the image-double, and Apollo's handoff to Ares. |
 | 5.361–389 | Aphrodite's flight to Olympus can lose its ritual texture when treated as a simple retreat. | Preserved Iris, Ares' horses, the reins, Olympus, the unharnessing, ambrosial food, and Dione's maternal embrace. |
 | 5.390–460 | Dione's consoling exempla move from Ares to Hera to Hades, then turn into a warning about mortal limits. | Kept each wound, captor or archer, duration, Paeon's medicine, Athena's agency, the knee-level farewell, and the healing ichor. |
+| 5.461–493 | Ares' borrowed voice and Sarpedon's rebuke must distinguish divine manipulation from an allied leader's legitimate grievance. | Kept Acamas' likeness, the appeal for Aeneas, Lycia, the Xanthus, Sarpedon's wife and son, the flax snare, and his demand for sustained command. |
+| 5.494–527 | Hector's response and the opposed formations can blur dust, darkness, and divine agency into one battle effect. | Separated Hector's arming movement, the threshing-floor dust, Ares' darkness, Apollo's command, and the steadfast Danaans' cloud image. |
+| 5.528–560 | The opening human counterstroke needs to preserve Agamemnon's ethics of mutual shame and the twins' genealogy. | Re-lineated the exhortation, Deicoon's exact wound, Alpheius and Pherae, and the twin-lion comparison. |
 
 ## Gate disposition
 

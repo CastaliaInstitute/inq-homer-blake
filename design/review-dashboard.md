@@ -46,7 +46,9 @@ basis of source coverage alone.
 ## Automated safeguards
 
 - `scripts/preflight_translation.rb` requires every `review` or later book to
-  have contiguous source-collation intervals through its canonical final line.
+  have contiguous source-collation intervals through its canonical final line;
+  it also requires six passing gates and a named, dated, approved packet before
+  any later status.
 - `scripts/preflight_source_lock.rb` verifies the pinned Greek editions and
   hashes.
 - `scripts/preflight_pdfs.py` verifies geometry, fonts, and documented proof

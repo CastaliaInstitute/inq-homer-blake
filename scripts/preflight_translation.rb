@@ -52,6 +52,17 @@ rows.each_with_index do |row, index|
     end
     fail!("#{file} source collation ends at #{cursor - 1}, expected #{expected_end}") unless cursor == expected_end + 1
   end
+
+  if %w[approved laid-out proofed final].include?(status)
+    gates = %w[greek_review narrative_review verse_review diction_review notes_review production_review]
+    fail!("#{file} cannot be #{status} until all six review gates pass") unless gates.all? { |gate| row[gate] == "pass" }
+    packet = File.join(ROOT, "text", "reviews", "#{row['volume']}-book-#{row['book'].to_i.to_s.rjust(2, '0')}.md")
+    fail!("#{file} is missing signed review packet #{packet}") unless File.file?(packet)
+    packet_text = File.read(packet)
+    fail!("#{packet} is not marked approved") unless packet_text.match?(/^\*\*Decision:\*\* approved\s*$/)
+    fail!("#{packet} has no named reviewer") if packet_text.match?(/^\*\*Reviewer:\*\* unassigned\s*$/)
+    fail!("#{packet} has no review date") if packet_text.match?(/^\*\*Review date:\*\* unassigned\s*$/)
+  end
   puts "OK #{file}: #{status}"
 end
 

@@ -18,18 +18,29 @@ plates = CSV.read(plate_file, headers: true)
 sources = CSV.read(source_file, headers: true)
 generated = CSV.read(generated_file, headers: true)
 
+plate_ids = {}
+plate_files = {}
+
 plates.each do |row|
   id = row["plate_id"]
+  fail!("duplicate plate_id #{id}") if plate_ids[id]
+  plate_ids[id] = true
   fail!("#{id}: missing provenance URL") if row["provenance_url"].to_s !~ %r{\Ahttps://}
   fail!("#{id}: missing rights status") if row["rights_status"].to_s.strip.empty?
   fail!("#{id}: missing caption") if row["caption"].to_s.strip.empty?
   fail!("#{id}: missing credit line") if row["credit_line"].to_s.strip.empty?
   path = row["final_file"].to_s
   fail!("#{id}: missing local file #{path}") unless File.file?(File.join(ROOT, path))
+  fail!("#{id}: local file is already assigned to #{plate_files[path]}") if plate_files[path]
+  plate_files[path] = id
   if row["source_type"] == "historical-reference"
     fail!("#{id}: historical plate must say it is not a Blake composition") unless row["credit_line"].include?("not a Blake composition") || row["credit_line"].include?("Blake is not credited")
+    fail!("#{id}: historical credit must identify Flaxman as designer") unless row["credit_line"].include?("John Flaxman") && row["credit_line"].include?("designer")
+    fail!("#{id}: Blake must be identified only as engraver when named") if row["creator"].include?("William Blake") && !row["creator_role"].include?("engraver")
   elsif row["source_type"] == "generated"
     fail!("#{id}: generated plate must identify original work") unless row["credit_line"].include?("Original") && row["credit_line"].include?("not by William Blake")
+    fail!("#{id}: generated plate must be credited to CastaliaInstitute") unless row["creator"] == "CastaliaInstitute"
+    fail!("#{id}: generated plate must point to a prompt record") unless row["prompt_or_source_record"].start_with?("assets/generated/prompts/")
   else
     fail!("#{id}: unknown source type #{row['source_type']}")
   end

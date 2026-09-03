@@ -15,7 +15,9 @@ jobs:
       - name: Install PDF inspection tools
         run: brew list poppler >/dev/null 2>&1 || brew install poppler
       - name: Install image inspection tools
-        run: python3 -m pip install --user Pillow
+        run: |
+          python3 -m venv .ci-image-tools
+          .ci-image-tools/bin/python -m pip install Pillow
       - name: Validate manifest headers and CSV shape
         run: |
           scripts/validate_manifests.sh
@@ -34,7 +36,7 @@ jobs:
       - name: Run provenance preflight
         run: ruby scripts/preflight_provenance.rb
       - name: Verify Iliad print-review art
-        run: python3 scripts/preflight_iliad_print_art.py
+        run: .ci-image-tools/bin/python scripts/preflight_iliad_print_art.py
       - name: Rebuild and verify plate asset checksums
         run: |
           python3 scripts/build_asset_checksums.py

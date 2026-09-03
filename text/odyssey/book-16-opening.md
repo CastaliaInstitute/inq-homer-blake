@@ -22,7 +22,7 @@ Before he finished, Telemachus stood within the door.
 The swineherd dropped the vessels, ran, and kissed
 His head, his eyes, and hands, shedding a warm tear,
 As a father greets an only son returned
-After ten years of hardship in a distant land.
+After nine years of hardship in a distant land.
 
 “You have come, sweet light,” he cried. “I did not think
 To see you again, since you sailed away to Pylos.”
@@ -86,7 +86,7 @@ With cries sharper than birds of prey when farmers steal their young.
 He asked how Odysseus crossed the sea. “The Phaeacians carried me
 Sleeping to Ithaca,” said the king, “and gave me bronze, gold, and cloth,
 Stored in a cave by Athena's counsel.” He asked the number of the suitors.
-Telemachus counted fifty-two from Ithaca, six servants from Dulichium,
+Telemachus counted fifty-two from Dulichium, six servants,
 Twenty-four from Same, twenty from Zacynthus, twelve more Ithacans,
 The herald Medon, the singer, and two servants.
 

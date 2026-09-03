@@ -185,16 +185,42 @@ And bore a trembling dove. Amphinomus said:
 “Friends, this design will not go forward—the death
 Of Telemachus. Let us remember the feast.”
 Then he led them in.
-They sacrificed the sheep, the fattened goats,
+They laid their cloaks upon the chairs and benches,
+Then sacrificed the sheep, the fattened goats,
 The pigs, the cow; they roasted all the inward
-Parts, mixed wine, and divided out the meal.
-By order of Telemachus, an equal
-Portion was set for the disguised king
-Beside the threshold’s stone.
+Parts, mixed the wine in bowls, and served the cups.
+Philoetius apportioned bread in handsome baskets,
+While Melanthius poured the wine. Telemachus
+Set Odysseus within the well-built hall, beside
+The stone threshold, on a mean stool, and placed
+A little table there. He gave him inward parts
+And poured him wine in a golden cup, then said:
+“Sit here among the wine-drinkers. I will ward
+Their mockery and hands from you; this house is not
+Theirs, but my father’s, which he won for me.
+Hold back your angry words and hands, you suitors,
+Lest quarrel rise.” They bit their lips and marveled
+To hear the prince speak boldly. Antinous answered:
+“Though this is hard, Achaeans, still we must endure
+Telemachus; Zeus himself has made him insolent.”
+Yet no one stopped the feast, and no one moved the king.
+They marveled at the prince, though no man softened toward him.
+
+Heralds meanwhile led the sacred hecatomb through the town,
+And long-haired Achaeans gathered beneath Apollo’s shade.
+When the meat was roasted and drawn from the spits,
+They portioned out the splendid feast; the men who labored
+Set an equal share beside Odysseus, as Telemachus
+Had ordered. Athena would not let the suitors cease
+From their grievous insolence, that the king’s heart might ache
+The more, and gather wrath against them in his breast.
 
 Then Ctesippus of Same, trusting in wealth
 And desiring the wife of one long gone,
 Spoke: “It is wrong to rob a guest of his share.”
+“Let me too give him a guest-gift, that he may not say
+The bath-man or some other servant gave more honor
+Than I.” So speaking, he seized the ox-foot from the basket
 He took an ox’s foot from out the basket
 And hurled it. The king bent aside his head
 And smiled a dark and terrible smile;
@@ -211,10 +237,18 @@ Than watch such deeds.”
 
 ### Lines 321–394 — The blood-wet vision
 
-Agelaus spoke: “Stop striking the stranger, or any servant.
-Let Telemachus and his mother give Penelope
-To the best man, the one who brings the greatest gifts,
-So that the prince may still enjoy his father’s wealth.”
+Agelaus, son of Damastor, spoke: “Friends, let no man
+Answer a righteous word with violence or anger;
+Strike neither stranger nor servant in this house.
+And I would speak to Telemachus and his mother,
+If both could hear it kindly: while your hearts still hoped
+Odysseus would return, no blame attached to you
+For holding back the suitors. Better so, if he came.
+But now the truth is plain: he will not reach his home.
+Go, sit beside your mother, and persuade her to marry
+The best man, who will bring the greatest gifts, that you
+May feast and drink and keep your father’s wealth,
+While she goes to another’s house.”
 Telemachus answered: “I do not hold my mother back.
 Let her marry whom she wishes; I will give her gifts
 Without number. But may no god make me drive her,

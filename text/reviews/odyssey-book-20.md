@@ -17,6 +17,14 @@ These additions were checked against Odyssey 20.185–240 and 20.245–250 in
 the pinned Greek source; independent literary and Greek-fidelity review remain
 open.
 
+The current revision also restores the household’s twenty water-bearers and
+woodcutters, the heralds’ Apollo gathering, the equal distribution of the
+feast, Telemachus’s deliberate seating and defense of the disguised king,
+Antinous’s answer, and Agelaus’s full marriage proposal. The additions were
+checked against Odyssey 20.147–184, 20.241–286, and 20.321–344; the density
+screen passes, but independent literary, Greek-fidelity, meter, notes, and
+production approval remain open.
+
 ## Source-map register
 
 | Greek span | Collation authority |

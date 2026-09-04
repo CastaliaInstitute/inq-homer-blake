@@ -47,11 +47,14 @@ PDFs are legacy design proofs, not exact-trim production files. Final approved
 lineation, notes, plates, and printer profile may require controlled page-break
 adjustments without changing the type license lock.
 
-The exact-trim production interior uses one full-width verse column so each
-source manuscript line remains one printed line at 10.5 pt. The builder must
-fail if any line wraps; editorial line breaks are revised transparently in the
-manuscript, never manufactured by layout. Legacy architecture proofs retain
-their two-column experiment but are not production authorities.
+The primary comic-size architecture uses two verse columns, preserving the
+source manuscript's lineation and keeping the requested reading rhythm visible
+on the page. The alternate 168 × 260 mm BookVault candidate currently uses one
+full-width verse column so each source manuscript line remains one printed line
+at 10.5 pt; that alternate builder must fail if any line wraps. Editorial line
+breaks are revised transparently in the manuscript, never manufactured by
+layout. The BookVault candidate is a prepress engineering study, not authority
+for the primary two-column design.
 
 ## Lock before final layout
 

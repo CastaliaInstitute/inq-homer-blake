@@ -58,6 +58,57 @@ read-aloud work, especially in the battle catalogue and the Melanthius
 punishment. The book should remain an editorial hold until that pass and an
 independent Greek omissions/additions check are complete.
 
+## Critical beauty and accuracy review — 2026-09-03
+
+### Accuracy
+
+The draft preserves the book’s essential causal architecture: Antinous’s cup
+and throat wound; Eurymachus’s failed settlement; Telemachus’s return for
+weapons; Melanthius’s two journeys to the armory; the narrowing passage; the
+Mentor/Athena intervention; the named first-round deaths; and the separate
+mercies shown to Phemius and Medon. The final movement also keeps Eurycleia’s
+count of the serving women, the punishment of the disloyal women and
+Melanthius, and the sulfur purification before the faithful women enter.
+
+No new factual emendation is adopted in this pass. Verification remains needed
+for several compressed formulations: “one good man” should be checked each time
+against the source’s changing speaker and tactical referent; the translation
+should preserve the distinction between Athena’s withheld sign and her later
+shaking of the aegis; and the exact spatial sequence of the hall, passage,
+armory, courtyard, and women’s hanging place should be checked against the
+pinned Greek. The phrase “The king searched the house; not one had fallen
+outside / His reckoning” is especially vulnerable to sounding like narrator
+commentary rather than the source’s tactical closure.
+
+### Beauty and cadence
+
+The opening has excellent violence-in-ceremony: a golden cup, the singing bow,
+the throat wound, and food overturned into dust. The middle loses some of that
+authority by moving through named deaths as a report. The names should remain,
+but each blow needs a little more physical and spatial distinction so the
+reader can hear the battle turning rather than merely receive its tally.
+
+The fish-on-the-shore simile is powerful and should be given room to land. By
+contrast, “their minds gave way” and “the friends / Struck them from every side”
+are abstract summaries at the very point where the poem wants panic, bodies,
+and divine pressure. The purification sequence has the right ritual gravity,
+but “the house must breathe” is a potentially attractive supplement that should
+be marked as a translator’s image and tested against the source’s direct
+priority: fire and sulfur before clothing and public restoration.
+
+### Revision priorities
+
+1. Expand the battle by restoring tactical transitions and the changing geometry
+   of the hall, not by adding generalized emotional commentary.
+2. Re-line the Athena passage so withheld aid, rebuke, aegis, and divine reversal
+   remain four audible beats.
+3. Give the punishment scenes precise ritual and bodily diction without making
+   the violence ornamental.
+4. Preserve the distinction between source-grounded translation and poetic
+   supplement in the final line edit, especially around “the house must breathe.”
+5. Read the book aloud in the comic-size two-column setting; the catalogue and
+   purification passages need breath marks, not only metrical counting.
+
 ## Critical expansion — 2026-09-03
 
 This revision restores the tactical middle of the battle: Telemachus’s return

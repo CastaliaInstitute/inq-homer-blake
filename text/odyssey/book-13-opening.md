@@ -39,12 +39,12 @@ Placed all in the ship beneath the benches,
 That nothing should hinder the oarsmen's work.
 
 Then Alcinous held a feast. Demodocus,
-The heaven-taught singer, came among them; and Odysseus,
-Honored by all the people, sang among the guests;
+The heaven-taught singer, came among them, honored
+By all the people, and he sang among the guests;
 The roasted thighs burned sweetly on the altar,
 And every heart was gladdened by the song.
-Turning continually toward the westering light,
-Longed for the sun to sink. As one who waits
+He kept on turning toward the westering light,
+And longed for the sun to sink. As one who waits
 For supper waits for the oxen's return from the plough,
 So welcome was the darkness to his heart.
 

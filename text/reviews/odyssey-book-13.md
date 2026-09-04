@@ -39,5 +39,10 @@ Greek-fidelity or literary approval.
 | Production | architecture proof | approved-text proof and page-map signoff |
 
 **Reviewer:** unassigned  
+**Revision note — 2026-09-04:** The departure passage now keeps Demodocus as
+the singer and restores an explicit subject to Odysseus's repeated turning and
+longing for sunset. This corrects a grammatical ambiguity that could assign the
+song to Odysseus and improves the spoken line without adding source content.
+
 **Review date:** unassigned  
 **Decision:** not approved

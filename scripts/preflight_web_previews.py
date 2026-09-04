@@ -9,6 +9,8 @@ import shutil
 import subprocess
 import sys
 
+from reportlab.lib.units import mm
+
 from translation_extract import book_translation
 
 
@@ -50,7 +52,7 @@ def inspect(slug: str, expected: dict[str, int]) -> None:
         fail(f"{slug}: expected {expected['pages']} pages")
     expected_points = (477.0, 738.0)
     if not size or any(abs(actual - expected_value) > 0.01 for actual, expected_value in zip(map(float, size.groups()), expected_points)):
-        fail(f"{slug}: expected canonical 477 x 738 pt comic trim")
+        fail(f"{slug}: expected exact 6.625 x 10.25 inch comic trim (477 x 738 pt)")
 
     image_rows = [
         line.split() for line in run("pdfimages", "-list", str(pdf)).splitlines()
@@ -71,12 +73,15 @@ def inspect(slug: str, expected: dict[str, int]) -> None:
         fail(f"{slug}: source token count changed ({len(source_tokens)} != {expected['words']}); review pagination")
     # Poppler's default reading order follows the PDF's two column frames.
     # ``-layout`` visually interleaves some facing column lines.
-    extracted_tokens = tokens(run("pdftotext", str(pdf), "-"))
+    extracted_text = run("pdftotext", str(pdf), "-")
+    if "Longfellow-inspired translation / Castalia Institute" not in extracted_text:
+        fail(f"{slug}: required translation credit is missing")
+    extracted_tokens = tokens(extracted_text)
     if not is_subsequence(source_tokens, extracted_tokens):
         fail(f"{slug}: PDF does not contain the complete current Book I text in order")
 
     print(
-        f"PASS: {slug} — {expected['pages']} pages, canonical trim, "
+        f"PASS: {slug} — {expected['pages']} pages, exact 6.625 x 10.25 inch comic trim, "
         f"one cover + one plate, {len(source_tokens)} source tokens"
     )
 

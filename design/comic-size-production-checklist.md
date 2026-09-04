@@ -8,13 +8,13 @@ proof PDFs are printer-ready.
 
 | Control | Current target | Evidence / release condition |
 |---|---|---|
-| Trim | 6.625 × 10.25 in (168.275 × 260.35 mm) | `scripts/preflight_pdfs.py` reports 477 × 738 pt on interior proofs |
-| Format | Two-column hardcover casewrap | `design/typography.md`, `design/cover-specification.md` |
-| Interior stock | 80# White Coated, Premium Color | Confirm against the selected printer’s current stock name before upload |
-| Interior bleed | 0.125 in where artwork reaches the trim | Every full-bleed plate must include live-area and bleed review |
+| Trim | 6.625 × 10.25 in (168.275 × 260.35 mm) comic size | Architecture proofs report 477 × 738 pt; BookVault candidates are a separate provisional route with an exact 168 × 260 mm TrimBox |
+| Format | Two-column hardcover casewrap | Confirm the selected printer’s current hardcover option before activation |
+| Interior stock | 80# White Coated, Premium Color target | Confirm the printer’s current stock name before upload |
+| Interior bleed | 3 mm on all sides; 174 × 266 mm MediaBox | Validator checks every page and every full-page plate |
 | Interior color | Color-managed RGB/CMYK workflow selected with printer | Final profile and output intent are still pending |
-| Current proof counts | Iliad 398 pages; Odyssey 280 pages | Counts must be frozen before printer-template download |
-| Cover | One integrated casewrap spread per volume | Must use the printer-generated template, not an estimated spine |
+| Current architecture proof counts | Iliad 398 pages; Odyssey 280 pages | Counts must be frozen after publication approval and before template download; BookVault candidates remain separate prepress studies |
+| Cover | One-page integrated casewrap spread on the printer’s exact template | Must use the printer-generated template, not an estimated spine |
 | Typography | Embedded, licensed Cormorant Garamond family | License lock and final PDF font inspection remain required |
 
 ## Release gates
@@ -47,8 +47,9 @@ proof PDFs are printer-ready.
 
 ## Current state
 
-The working proofs satisfy the comic-size geometry and page-count checks, but
-the project is not yet a release artifact. Translation approvals, final art,
-printer-specific templates, color/profile controls, and physical proofs remain
-open. This distinction is intentional: a clean architecture proof is evidence
-of production readiness work, not evidence of publication approval.
+The working comic-size proofs and BookVault prepress candidates satisfy their
+respective geometry, source-text, font, and plate checks, but none is yet a
+release artifact. Translation approvals, final art, printer-specific covers,
+color/profile controls, stock confirmation, and physical proofs remain open.
+This distinction is intentional: a clean prepress candidate is evidence of
+production engineering, not evidence of publication approval.

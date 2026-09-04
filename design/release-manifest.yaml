@@ -5,21 +5,24 @@ readiness_control: design/release-readiness.md
 
 format:
   trim_in: [6.625, 10.25]
+  trim_mm_nominal: [168.275, 260.35]
   interior_bleed_in: 0.125
   interior_stock: "80# White Coated"
   printing: "Premium Color hardcover target"
   binding: hardcover
   cover_spread: pending_page_count_and_printer_lock
-  cover_template_authority: "Printer-specific custom template after interior upload; Lulu is only the working target"
+  cover_template_authority: "Printer-specific custom template after interior upload; BookVault is a provisional working route only"
   cover_safety_margin_casewrap_in: 0.75
   cover_spine_edge_clearance_in: 0.125
   cover_pdf_structure: single_page_integrated_spread
-  printer_spec_checked: "working Lulu target documented 2026-09-02; final vendor confirmation pending"
+  printer_spec_checked: "Comic-size hardcover working target documented; final vendor, stock, and template confirmation pending"
 
 volumes:
   - id: iliad
     title: "The Iliad"
-    interior_pdf: architecture_proof_complete_final_assembly_pending
+    interior_pdf: output/pdf/inq-homer-iliad-bookvault-interior.pdf
+    interior_pages: 320
+    interior_status: prepress_candidate_release_approval_pending
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
@@ -29,7 +32,9 @@ volumes:
     read_aloud_review_coverage: All 24 book-level editorial review logs present; AI-assisted evidence only; human signoff pending
   - id: odyssey
     title: "The Odyssey"
-    interior_pdf: architecture_proof_complete_final_assembly_pending
+    interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
+    interior_pages: 222
+    interior_status: prepress_candidate_release_approval_pending
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
@@ -89,7 +94,7 @@ release_gates:
   plate_manifest: development
   type_license_lock: incomplete
   printer_profile_lock: incomplete
-  interior_pdfs: architecture_proofs_complete_final_exports_incomplete
+  interior_pdfs: architecture_proofs_and_bookvault_candidates_complete_final_exports_pending
   cover_pdfs: design_proofs_complete_printer_templates_incomplete
   physical_proof: incomplete
   editorial_signoff: incomplete

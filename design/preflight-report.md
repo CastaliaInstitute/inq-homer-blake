@@ -6,10 +6,9 @@ must still be closed in `design/release-readiness.md`.
 
 ## Edition target
 
-- Trim: 6.625 × 10.25 inches (comic size)
+- Trim: 6.625 × 10.25 inches (comic size), with BookVault's provisional 168 × 260 mm candidate route documented separately
 - Interior: two columns, hardcover, 80# White Coated, Premium Color target
-- Interior page geometry: 477 × 738 points
-- Cover studies: one-page integrated casewrap spreads, template-dependent
+- Cover studies: one-page integrated casewrap spreads; printer-specific template required after page-count lock
 
 ## Proof inventory
 
@@ -17,6 +16,8 @@ must still be closed in `design/release-readiness.md`.
 |---|---:|---|---|
 | Iliad interior proof | 398 | 477 x 738 pts | no |
 | Odyssey interior proof | 280 | 477 x 738 pts | no |
+| Iliad BookVault prepress interior | 320 | 493.228 x 754.016 pts | no |
+| Odyssey BookVault prepress interior | 222 | 493.228 x 754.016 pts | no |
 | Iliad cover study | 1 | 1098 x 846 pts | no |
 | Odyssey cover study | 1 | 1098 x 846 pts | no |
 

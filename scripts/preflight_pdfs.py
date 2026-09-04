@@ -19,6 +19,8 @@ PDF_DIR = ROOT / "output/pdf"
 RELEASE_MANIFEST = ROOT / "design/release-manifest.yaml"
 TRIM = (477, 738)  # 6.625 x 10.25 inches in points
 COVER_PROOF = (1098, 846)  # comic spread with a 0.5 in spine placeholder
+BOOKVAULT_PAGE = (174 / 25.4 * 72, 266 / 25.4 * 72)
+BOOKVAULT_TRIM = (168 / 25.4 * 72, 260 / 25.4 * 72)
 
 
 def run(*args):
@@ -51,7 +53,8 @@ for line in RELEASE_MANIFEST.read_text(encoding="utf-8").splitlines():
         manifest_file = None
 
 for pdf in pdfs:
-    info = run("pdfinfo", str(pdf))
+    bookvault_interior = pdf.stem.endswith("-bookvault-interior")
+    info = run("pdfinfo", "-box", str(pdf)) if bookvault_interior else run("pdfinfo", str(pdf))
     if info.returncode != 0:
         fail(f"cannot inspect {pdf.relative_to(ROOT)}")
     fields = dict(
@@ -59,10 +62,26 @@ for pdf in pdfs:
     )
     size = fields.get("Page size", "").strip()
     dimensions = [float(value) for value in re.findall(r"\d+(?:\.\d+)?", size)]
-    expected = COVER_PROOF if "cover-design-proof" in pdf.stem else TRIM
-    if len(dimensions) < 2 or tuple(round(value) for value in dimensions[:2]) != expected:
+    web_preview = pdf.stem.endswith("-web-preview")
+    expected = (
+        BOOKVAULT_PAGE if bookvault_interior
+        else TRIM if web_preview
+        else COVER_PROOF if "cover-design-proof" in pdf.stem
+        else TRIM
+    )
+    size_valid = len(dimensions) >= 2 and (
+        all(abs(value - target) < 0.02 for value, target in zip(dimensions[:2], expected))
+        if bookvault_interior or web_preview
+        else tuple(round(value) for value in dimensions[:2]) == expected
+    )
+    if not size_valid:
         label = "cover-proof spread" if expected == COVER_PROOF else "comic trim"
         fail(f"{pdf.name} is not {label}: {fields.get('Page size', 'unknown')}")
+    if bookvault_interior:
+        trim = [float(value) for value in re.findall(r"\d+(?:\.\d+)?", fields.get("TrimBox", ""))]
+        trim_size = (trim[2] - trim[0], trim[3] - trim[1]) if len(trim) == 4 else ()
+        if len(trim_size) != 2 or any(abs(value - target) >= 0.02 for value, target in zip(trim_size, BOOKVAULT_TRIM)):
+            fail(f"{pdf.name} does not declare the exact 168 x 260 mm TrimBox")
     if fields.get("Encrypted", "").strip().lower() != "no":
         fail(f"{pdf.name} is encrypted")
     manifest_key = str(pdf.relative_to(ROOT))

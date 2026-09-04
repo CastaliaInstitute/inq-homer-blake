@@ -162,7 +162,7 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         Spacer(1, 11 * mm),
         Paragraph("Translated by a.Longfellow", STYLES["credit"]),
         Paragraph("Illustrated by a.Blake", STYLES["credit"]),
-        Paragraph("iNQ Epic - 168 x 260 mm edition", STYLES["credit"]),
+        Paragraph("iNQ Epic - provisional 168 x 260 mm prepress candidate", STYLES["credit"]),
         PageBreak(),
         Paragraph("FORWARD", STYLES["book"]),
     ]

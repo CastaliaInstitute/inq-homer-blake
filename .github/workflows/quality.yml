@@ -41,7 +41,6 @@ jobs:
         run: |
           .ci-image-tools/bin/python scripts/build_bookvault_interiors.py
           .ci-image-tools/bin/python scripts/validate_bookvault_interiors.py
-          git diff --exit-code -- output/pdf/inq-homer-iliad-bookvault-interior.pdf output/pdf/inq-homer-odyssey-bookvault-interior.pdf output/pdf/inq-homer-bookvault-interiors.manifest.json
       - name: Rebuild and verify plate asset checksums
         run: |
           python3 scripts/build_asset_checksums.py

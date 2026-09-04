@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import fcntl
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -21,10 +22,10 @@ from translation_extract import book_translation
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = ROOT / "output" / "pdf"
+TMP_DIR = ROOT / "tmp" / "pdfs" / "homer-web-previews"
 FONT_DIR = ROOT / "assets" / "fonts"
-# Use the repository's canonical PDF points exactly; metric conversion rounds
-# the nominal comic trim and fails the production geometry preflight.
-PAGE_W, PAGE_H = 477, 738
+# Standard US comic trim: 6.625 x 10.25 inches, expressed in points.
+PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_TOP, MARGIN_BOTTOM = 15 * mm, 16 * mm, 15 * mm
 COLUMN_GUTTER = 6 * mm
 
@@ -95,9 +96,11 @@ def build(slug: str, title: str, book_label: str) -> Path:
             raise FileNotFoundError(path)
 
     output = OUTPUT_DIR / f"inq-homer-{slug}-web-preview.pdf"
+    working = TMP_DIR / f"{slug}-web-preview.building.pdf"
     output.parent.mkdir(parents=True, exist_ok=True)
+    working.parent.mkdir(parents=True, exist_ok=True)
     doc = BaseDocTemplate(
-        str(output), pagesize=(PAGE_W, PAGE_H),
+        str(working), pagesize=(PAGE_W, PAGE_H),
         leftMargin=MARGIN_X, rightMargin=MARGIN_X,
         topMargin=MARGIN_TOP, bottomMargin=MARGIN_BOTTOM,
         title=f"{title} - Book I illustrated preview",
@@ -124,13 +127,17 @@ def build(slug: str, title: str, book_label: str) -> Path:
         story.extend([Paragraph(escape(line), styles["PreviewVerse"]), Spacer(1, 1.1)])
 
     doc.build(story, canvasmaker=DeterministicCanvas)
+    working.replace(output)
     print(output)
     return output
 
 
 def main() -> None:
-    build("iliad", "The Iliad", "The Anger of Achilles")
-    build("odyssey", "The Odyssey", "The Man of Many Turnings")
+    TMP_DIR.mkdir(parents=True, exist_ok=True)
+    with (TMP_DIR / "build.lock").open("w") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        build("iliad", "The Iliad", "The Anger of Achilles")
+        build("odyssey", "The Odyssey", "The Man of Many Turnings")
 
 
 if __name__ == "__main__":

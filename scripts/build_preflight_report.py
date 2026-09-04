@@ -17,6 +17,8 @@ OUT = ROOT / "design" / "preflight-report.md"
 PDFS = [
     ("Iliad interior proof", ROOT / "output/pdf/inq-homer-iliad-volume-proof.pdf"),
     ("Odyssey interior proof", ROOT / "output/pdf/inq-homer-odyssey-volume-proof.pdf"),
+    ("Iliad BookVault prepress interior", ROOT / "output/pdf/inq-homer-iliad-bookvault-interior.pdf"),
+    ("Odyssey BookVault prepress interior", ROOT / "output/pdf/inq-homer-odyssey-bookvault-interior.pdf"),
     ("Iliad cover study", ROOT / "output/pdf/inq-homer-iliad-cover-design-proof.pdf"),
     ("Odyssey cover study", ROOT / "output/pdf/inq-homer-odyssey-cover-design-proof.pdf"),
 ]
@@ -68,10 +70,9 @@ lines = [
     "",
     "## Edition target",
     "",
-    "- Trim: 6.625 × 10.25 inches (comic size)",
+    "- Trim: 6.625 × 10.25 inches (comic size), with BookVault's provisional 168 × 260 mm candidate route documented separately",
     "- Interior: two columns, hardcover, 80# White Coated, Premium Color target",
-    "- Interior page geometry: 477 × 738 points",
-    "- Cover studies: one-page integrated casewrap spreads, template-dependent",
+    "- Cover studies: one-page integrated casewrap spreads; printer-specific template required after page-count lock",
     "",
     "## Proof inventory",
     "",

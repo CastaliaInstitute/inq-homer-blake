@@ -2,7 +2,9 @@
 
 **Edition:** CastaliaInstitute / Homer–Blake-informed two-volume set  
 **Audit date:** 2026-09-03  
-**Format:** comic trim, 6.625 × 10.25 in; two columns; hardcover; 80# white coated interior
+**Format:** Standard US comic trim, 6.625 × 10.25 inches; two columns;
+hardcover; 80# White Coated interior, Premium Color target. BookVault’s
+168 × 260 mm interiors are provisional alternate prepress candidates.
 
 This sheet is the handoff control for the final publication review. A green
 automated preflight is evidence that the repository is internally consistent;
@@ -17,8 +19,8 @@ or a physical proof.
 | Translation completeness | `ruby scripts/preflight_translation_completeness.rb`; `scripts/preflight_translation_density.rb`; `design/translation-expansion-plan.md` | All 48 source authorities reach their endpoints; the density screen records provisional holds and the expansion plan makes each hold actionable |
 | Accessible reading copies | `output/text/inq-homer-iliad.txt`, `output/text/inq-homer-odyssey.txt` | 24 books in each export; preflight passed |
 | EPUB editorial proofs | `output/epub/*-editorial-proof.epub`; `scripts/validate_epub.py` | Deterministic 24-book EPUBs; fail-closed as private/not for sale; plates omitted pending art approval |
-| Interior architecture | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Architecture proofs complete at 477 × 738 pt; final locked-text exports still pending |
-| Pagination | `design/release-manifest.yaml` | Iliad 398 pages; Odyssey 280 pages |
+| BookVault prepress interiors | `output/pdf/inq-homer-*-bookvault-interior.pdf`; `scripts/validate_bookvault_interiors.py` | Iliad 320 pages and Odyssey 222 pages; exact 168 × 260 mm TrimBox, 174 × 266 mm MediaBox, 3 mm bleed, and 24 full-page plates each; release approval pending |
+| Historical architecture proofs | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Current comic-size development proofs at 477 × 738 pt; final locked-text exports pending |
 | Cover studies | `output/pdf/*cover-design-proof.pdf`; `design/cover-proof.md` | Single integrated 1098 × 846 pt studies; printer template and final spine remain pending |
 | Image provenance | `design/plate-manifest.csv`, `design/asset-checksums.csv`, `design/provenance-audit.md`, `design/blake-homer-source-register.md` | Historical Flaxman/engraver roles, primary collection corroboration, original non-Blake credits, and byte-level asset checksums recorded |
 | Homer print-review art | `design/*-plate-selection.csv`; `assets/print/illustrations/{iliad,odyssey}/manifest.json`; `scripts/preflight_homer_print_art.py` | All 48 books have checksum-bound 2055 × 3142 / 300-PPI embedded-sRGB derivatives; selections and human approval remain provisional |

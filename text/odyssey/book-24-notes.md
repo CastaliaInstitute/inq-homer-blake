@@ -10,7 +10,7 @@ final commentary.
 | 24.203–286 | Odysseus tests and reveals himself to Laertes | Family restoration | Preserve the orchard, Sicilian nurse, scar, pear/apple/fig/vine inventory, and Athena’s renewal. |
 | 24.287–371 | Dolius and his sons join the household | Labor becomes allegiance | Verify the orchard workers, their arming, and the household’s movement. |
 | 24.372–464 | Eupeithes’s assembly, Medon, Phemius, Halitherses | Civic aftermath | Check burial, blood-price, divine testimony, and the divided Ithacan response. |
-| 24.465–548 | Eupeithes dies; Zeus and Athena impose peace | Political closure | Verify Laertes’s spear, Zeus’s thunderbolts, Mentor’s form, oaths, and final rule. |
+| 24.465–548 | Meal and lookout; arming; Eupeithes dies; Zeus and Athena impose peace | Political closure | Verify the order of 24.489–548: meal, lookout, arming, Athena/Mentor, Laertes’s spear, clash, thunderbolts, oaths, and final rule. |
 
 ## Draft warning
 

@@ -144,9 +144,14 @@ By night she loosened every thread again.
 Three years she hid the work and held us fast;
 But in the fourth a woman who knew the secret
 Betrayed it. Then she had to finish the cloth.
-At last a god brought Odysseus to the farm,
-Disguised as some poor, miserable old beggar.
-No man knew him. They mocked him, struck him,
+At last a baleful god brought him to the farm,
+Where dwelt the swineherd; then his godlike son
+Came from sandy Pylos in a dark ship.
+Together they devised the suitors’ death
+And reached the famous city: Odysseus
+Came last, while his son went before him, led
+By the swineherd. In rags, like some poor beggar,
+He entered; no man knew him. They mocked him, struck him,
 Until Zeus roused the purpose in his heart.
 With his son he concealed the weapons; when
 The bow was brought, he strung it, sent the arrow
@@ -357,35 +362,34 @@ Down to the earth.
 
 ### Lines 465–548 — Eupeithes and the peace
 
-Odysseus and his friends put on their arms.
-Laertes prayed to Pallas; through his limbs
-The goddess poured new strength and youthful courage.
-His knees, once slack with age, grew firm beneath him;
-His hands remembered spear and shield. The two lines
-Met before the farm. Four stood by Odysseus,
-And six sons of old Dolius joined the line.
-Eupeithes
-Lifted his spear; but ere he cast it forth,
-Laertes struck him in the space between
-The eyes. The helmet rang; the old man fell.
-Then Odysseus urged his son to look ahead:
-“You know this day, when men are joined in war,
-How not to shame the fathers who have won
-Their fame by strength and courage through the world.”
-Telemachus answered that his father soon
-Would see the name of Laertes kept from shame;
-And the old man rejoiced to hear the two
-Stand ready, son and grandson, side by side.
-
 When they had eaten, Odysseus sent a son
 Of Dolius to the threshold, bidding him look
 Whether the avengers had drawn near. He stood,
 Saw all the armed men, and cried aloud:
 “They are upon us—arm yourselves with speed!”
 
-Then rushed Odysseus and his son against
-The fleeing ranks, with sword and spear; they struck
-The foremost men and drove them back in fear.
+Then all arose and clothed themselves in bronze:
+Four men stood round Odysseus, six sons of Dolius;
+Laertes and Dolius, though their hair was gray,
+Put on the armor too, compelled to fight.
+They opened wide the doors and went forth,
+Odysseus leading. Athena came near,
+In Mentor’s shape and with his very voice.
+Odysseus saw her gladly, and addressed
+Telemachus: “You know, returning here,
+Among men striving where the best are tested,
+How not to shame the fathers who have won
+Their fame by strength and courage through the world.”
+Telemachus answered: “You shall see, dear father,
+That I will bring no shame upon your line.”
+Laertes rejoiced: “What day is this, dear gods?
+My son and grandson vie in valor here!”
+
+Athena then gave Laertes strength. He prayed
+To Pallas and to Zeus, and hurled his spear;
+It struck Eupeithes through the helmeted brow,
+And down he fell. Then Odysseus and his son
+Rushed at the foremost men with sword and spear.
 They might have slain them all and left none living,
 Had not Athena lifted up her voice:
 “Hold, Ithacans, and cease this bitter war;

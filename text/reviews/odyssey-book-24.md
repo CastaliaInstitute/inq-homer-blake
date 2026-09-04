@@ -51,6 +51,22 @@ The book remains an editorial hold. The underworld opening and the final
 assembly need a separate read-aloud pass for tonal balance: the poem must move
 from elegy to civic danger without making the peace feel mechanically imposed.
 
+## Critical review — 2026-09-04
+
+The Greek comparison exposed and corrected a consequential sequence error in
+the closing movement. The earlier draft placed the arming, Laertes’ spear-cast,
+and the first clash before the household meal and the lookout’s warning. The
+revised passage now follows 24.489–548: meal, lookout, arming of the four men,
+the six sons of Dolius, Laertes and Dolius, Athena’s arrival as Mentor,
+Telemachus’ exchange with Odysseus, Laertes’ prayer and cast, then the clash
+and divine truce.
+
+The comparison also restores the omitted transition in 24.149–155: the
+swineherd’s farm, Telemachus’ return from sandy Pylos by ship, the pair’s plan,
+and Telemachus leading Odysseus toward the city. These are narrative facts,
+not decorative expansions. The passage remains unapproved pending an
+independent full-book omissions/additions check and read-aloud review.
+
 The opening revision restores Achilles’ address to Agamemnon, Agamemnon’s
 account of Achilles’ washing, lament, pyre, urn, tomb, and funeral games, and
 the transition in which Agamemnon—not Achilles—questions Amphimedon. The

@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "80622ee2ebb790663603a8e1bd987e023f823f785d47fa32b224b267517d68b5",
+      "pdfSha256": "f748dbf15ab9837bcb82493035d476d9ad6a6ee0be73b4162cd3ea280ce474f1",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -793,7 +793,7 @@
         {
           "book": 17,
           "source": "text/odyssey/book-17-opening.md",
-          "sourceSha256": "e48e8eb0934bb092efb2790917d2ec10e6e2bb35639407680824e10734a469e7",
+          "sourceSha256": "41e930c83f8d80fa60a907662f8eaa4f39311d421ad821edf4eeffdd64faaf6e",
           "plateId": "odyssey-book-17-argos-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-17-full-bleed.jpg",
@@ -844,7 +844,7 @@
         {
           "book": 20,
           "source": "text/odyssey/book-20-opening.md",
-          "sourceSha256": "6ff472bea2edbbe4a0aac8e526b4bf79bc7ca5e596bbf64aec6f1e7216467eae",
+          "sourceSha256": "2791b3b47677be0b8530a22b46be745221bc3a80940dd43765e3fdb02deef0f4",
           "plateId": "odyssey-book-20-omen-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-20-full-bleed.jpg",

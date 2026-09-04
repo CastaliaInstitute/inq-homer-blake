@@ -35,6 +35,11 @@ This interval covers Odyssey 20.1–394 and maps Odysseus's sleepless night,
 Penelope's prayer, the omens, the suitors' last feast, and the arrival of the
 two portents before the contest.
 
+The current pass also removes two literal duplications: the repeated ox-foot
+sentence in Ctesippus’s attack and the repeated final line of Theoclymenus’s
+vision. It also restores Telemachus’s spear and Eurycleia’s patronymic from
+the Greek. The density screen must be rerun after this correction.
+
 ## Gate evidence register
 
 | Gate | Current evidence | Required before pass |

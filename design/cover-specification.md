@@ -48,8 +48,8 @@ page count, and template dimensions in the release manifest.
 
 ## Release record required for each volume
 
-Legacy architecture counts are 398 pages for the Iliad and 282 pages for the
-Odyssey. These counts are suitable for regenerating design studies, but they do
+Current architecture-proof counts are 384 pages for the Iliad and 275 pages for
+the Odyssey. These counts are suitable for regenerating design studies, but they do
 not replace the custom printer templates required for final spine calculation.
 
 ```text

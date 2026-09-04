@@ -21,7 +21,7 @@ from reportlab.lib.units import inch
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
-from reportlab.platypus import BaseDocTemplate, Frame, Image, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer
+from reportlab.platypus import BaseDocTemplate, Frame, Image, KeepTogether, NextPageTemplate, PageBreak, PageTemplate, Paragraph, Spacer
 from translation_extract import book_translation
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -114,7 +114,9 @@ def plate_block(record):
     width = float(record["width_px"])
     height = float(record["height_px"])
     max_width = PAGE_W - 2 * MARGIN_X
-    max_height = PAGE_H - MARGIN_Y - 1.15 * inch
+    # Reserve enough room for the caption and two-line provenance block. A
+    # plate must never orphan its credit onto the following page.
+    max_height = PAGE_H - MARGIN_Y - 1.75 * inch
     scale = min(max_width / width, max_height / height)
     # PNG is retained as the provenance/master asset, but embedding its raw
     # RGB pixels makes the architecture proof needlessly enormous. Encode a
@@ -130,13 +132,16 @@ def plate_block(record):
     image = Image(str(placement_path), width=width * scale, height=height * scale)
     caption = escape(record["caption"])
     credit = escape(record["credit_line"])
-    return [
-        NextPageTemplate("full"),
-        PageBreak(),
+    plate_content = KeepTogether([
         image,
         Spacer(1, 0.12 * inch),
         Paragraph(f"PLATE — {caption}", styles["Small"]),
         Paragraph(f"{credit} Concept-review placement only.", styles["Small"]),
+    ])
+    return [
+        NextPageTemplate("full"),
+        PageBreak(),
+        plate_content,
         NextPageTemplate("two-column"),
         PageBreak(),
     ]

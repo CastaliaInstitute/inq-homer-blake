@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "6d6c49eba21003d20f5b6f8d9d52aabb53820d8514559c87257ab139992ce933",
+      "pdfSha256": "2e703f0417730a0345b2dfffe9d45c92f468389795207dfa59a5c378fde09ee8",
       "pageCount": 254,
       "trimMm": [
         168,
@@ -708,7 +708,7 @@
         {
           "book": 12,
           "source": "text/odyssey/book-12-opening.md",
-          "sourceSha256": "ec10657aacf753beaa48a5603d098372bef6a17dce95a6283521441062e1c5bc",
+          "sourceSha256": "c361aab60750f24f7e006f5c10e5df5e1801d7566b24d68a4c7ea926aa9fe7b4",
           "plateId": "odyssey-book-12-sirens-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-12-full-bleed.jpg",

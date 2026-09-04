@@ -140,7 +140,7 @@ Penelope answered: “May your word be fulfilled, stranger.
 Then you would quickly know my friendship and receive gifts,
 So that anyone meeting you might call me blessed.”
 
-### Lines 166–246 — The road to the palace
+### Lines 162–246 — The road to the palace
 
 Before the house the suitors amused themselves with quoit and javelin,
 Upon the ordered ground where they had long practiced insolence.

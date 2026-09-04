@@ -8,7 +8,7 @@
 
 ## Decisions recorded
 
-- **171–191 — Menelaus and Machaon:** Preserved Agamemnon’s fear of disgrace if Menelaus dies, Menelaus’s reassurance, and the belt, corselet, and guard as the defenses that stopped the arrow.
+- **171–191 — Menelaus and Machaon:** Restored Agamemnon’s fear of disgrace if Menelaus dies, his imagined return to Argos and Trojan epitaph, Menelaus’s reassurance, and the belt, corselet, and guard as the defenses that stopped the arrow.
 - **192–220 — Summoning and treatment:** Restored Talthybius’s errand, Machaon’s identity as Asclepius’ son, the Tricca contingent, the removal of the arrow with its barbs, and Cheiron’s medicine.
 - **221–250 — Agamemnon’s exhortation:** Restored the Trojans’ renewed advance, Agamemnon on foot, Eurymedon’s custody of the horses, his promise concerning oath-breakers’ bodies, and his rebuke of hesitant Achaeans as exhausted fawns.
 - **251–271 — Cretans:** Restored Idomeneus as a boar in strength, Meriones at the rear, Agamemnon’s esteem and feast imagery, and Idomeneus’s reaffirmation of loyalty and the consequences of the broken oath.

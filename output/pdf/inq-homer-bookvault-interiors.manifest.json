@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "716e967512ef2d380285077d45cf8314fca4f6cda514a8d095d6a98513958169",
+      "pdfSha256": "03e89762ddc68ebafb3bec70a3a4f0a04d31860fc5396ae3be286b36571725a2",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -110,7 +110,7 @@
         {
           "book": 4,
           "source": "text/iliad/book-04-opening.md",
-          "sourceSha256": "0818ff1dcb64724a7c2ad249d48b6e731ac6ba9ee5ffa11ec71c9487f0842f61",
+          "sourceSha256": "6d6f06d2ccaf6045368785f2b9378efa8ad1994031bc415f789dd1618b67b695",
           "plateId": "iliad-book-04-broken-oath-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-04-full-bleed.jpg",

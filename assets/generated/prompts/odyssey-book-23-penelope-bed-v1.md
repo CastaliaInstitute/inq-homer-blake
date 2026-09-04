@@ -1,7 +1,7 @@
 # Odyssey 23 — Penelope and the rooted bed — v1
 
 **Created:** 2026-09-03
-**Use case:** illustration-story
+**Use case:** illustration-story; provisional anchor Odyssey 23.163–23.246
 **Asset:** original interior-plate concept candidate for Odyssey 23.1–372
 
 ## Prompt

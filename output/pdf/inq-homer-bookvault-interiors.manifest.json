@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "21abbc17d350e3ce22fff27a1de9d1f2590d5d9956f9f49999d104bc6c48003e",
+      "pdfSha256": "7792ccf5620b8d38ea28d9e910d3f6d0422c20df08db6ee7ba66f4c7a1ed72e0",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -844,7 +844,7 @@
         {
           "book": 20,
           "source": "text/odyssey/book-20-opening.md",
-          "sourceSha256": "2791b3b47677be0b8530a22b46be745221bc3a80940dd43765e3fdb02deef0f4",
+          "sourceSha256": "26bcdc01f90232b19026c912bbc45530113875847bf58c55f61803d01adf612d",
           "plateId": "odyssey-book-20-omen-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-20-full-bleed.jpg",
@@ -861,7 +861,7 @@
         {
           "book": 21,
           "source": "text/odyssey/book-21-opening.md",
-          "sourceSha256": "395fefec38a2ae6078fe56f4567f1a3d6f10d37c95a4f25e156555700ce61830",
+          "sourceSha256": "aa3c980d4a9f772ed087d5d9868a98fae89f8f875f718648d21386277bc7490c",
           "plateId": "odyssey-book-21-bow-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-21-full-bleed.jpg",

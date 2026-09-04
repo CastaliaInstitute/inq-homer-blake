@@ -105,3 +105,12 @@ read-aloud review, because several lines carry long syntactic loads. Density
 remains a provisional hold, but expansion should occur only where it restores
 source detail or improves breath and music; repetition would damage the
 scene’s controlled suspense.
+
+## Accuracy follow-up — 2026-09-04
+
+The source-facing pass was rechecked at Odyssey 21.270–274 and 21.386–391.
+The ritual sequence now keeps the heralds’ hand-washing, the young men’s filling
+and distribution of the bowls, and the stranger’s speech after the guests have
+drunk. The courtyard is fastened with the papyrus cord named by the Greek.
+These corrections strengthen both the hospitality motif and the physical logic
+of the sealed hall, while all independent review gates remain pending.

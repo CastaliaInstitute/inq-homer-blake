@@ -42,3 +42,36 @@ no uncovered source line.
 
 No ledger gate should be changed from `pending` until the named reviewer adds
 the missing evidence and signs this packet.
+
+## Critical review — 2026-09-04
+
+The opening has the right governing tension: the invocation moves from
+Achilles’ wrath to the Achaeans’ bodily ruin, then the narrative narrows from
+Apollo’s plague to the contested honor of one priest and one captive woman.
+The dogs-and-birds image and the unbroken funeral fires carry the poem’s
+scale; the later quarrel gains force because its abstract language of honor is
+anchored in ships, divided spoils, ransom, and the threatened removal of
+Briseis. The register is convincingly elevated without relying on decorative
+archaism, and the recurring “swift,” “far-shooting,” and “great-hearted”
+epithets establish a coherent Longfellow-inspired surface.
+
+Accuracy is strongest in the sequence of divine and human causation: Chryses
+comes with the wreath and staff, Apollo strikes the animals before the men,
+Achilles calls the assembly on the tenth day, and Calchas asks for protection
+before naming Agamemnon’s offense. The draft also retains the logistical
+specificity of Chryseis’s return and the second prize demanded by the king.
+The independent Greek check must still test the long quarrel for speaker
+boundaries, shifts between public honor and private desire, and the exact
+agency of Athena, Thetis, and Zeus; these are the places where a graceful
+English compression could silently alter the argument.
+
+The principal beauty risk is not diction but pressure. Agamemnon’s and
+Achilles’ speeches sustain long syntactic runs, and a few generalized phrases
+could flatten the material contest into modern explanation if they are further
+revised for smoothness. Read aloud in the comic-size columns, the quarrel
+should be checked for breath at each change of speaker, while the return to
+Chryse and the divine feast should retain the poem’s second, deliberate
+movement rather than feeling like an appended epilogue.
+
+**Disposition:** critical review recorded; Greek-fidelity, literary, meter,
+notes, and human sign-off remain pending.

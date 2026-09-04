@@ -78,6 +78,9 @@ Two spears. At the far end of the hall
 A narrow passage opened toward the street.
 “Guard this,” he said to Philoetius; “one good man
 May hold it against them all.”
+And Telemachus, first of all, put on
+The bronze about his limbs; the herdsmen followed,
+Their arms made ready while the suitors watched.
 
 ### Lines 126–204 — The storeroom and Melanthius
 
@@ -121,6 +124,9 @@ Stand near me now, and see what aid a friend
 Can render friends amid their enemies.”
 Yet still she tested both the king and son,
 Not giving victory at once.
+She wished to prove their courage to the limit,
+And would not make the fearful hearts within them
+Forget that courage must be theirs, not lent.
 
 “Cast now,” Odysseus said. He struck Demoptolemus;
 Telemachus struck Euryades; Eumaeus
@@ -236,7 +242,8 @@ There, in a line, the women hung; their feet
 Moved for a little, then were still as dust.
 
 And Melanthius they dragged from his dark place.
-His nose and ears they severed; hands and feet
+His nose and ears they severed, and the parts
+That mark a man’s desire; hands and feet
 They cut away, and portioned him to dogs—
 A final feast for those whose feast had turned
 The house of the returning king to death.

@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "4171d30ca510c9a006c59e187a23745267d4cdd13162dbd277e83cda773cdc74",
+      "pdfSha256": "f48b16be883439d4b619a6803382a3c28e9ee6e4fd5eef90ef21bb4c108d8bdf",
       "pageCount": 250,
       "trimMm": [
         168,
@@ -878,7 +878,7 @@
         {
           "book": 22,
           "source": "text/odyssey/book-22-opening.md",
-          "sourceSha256": "88ebeb4b7ae0e04a8908fb9392a11f28e955d335641513799b155d61d78dcadd",
+          "sourceSha256": "1eda2c8e141bc821992814701a296acb11b8ef07e3984cbb4186136638f0bc29",
           "plateId": "odyssey-book-22-hall-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-22-full-bleed.jpg",

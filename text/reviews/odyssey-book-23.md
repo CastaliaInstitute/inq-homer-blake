@@ -67,3 +67,9 @@ her willingness to die if she has deceived Penelope, and Penelope’s decision
 to descend and see the dead suitors. These details are from Odyssey 23.69–84;
 they are essential to the recognition scene’s skeptical movement and were
 missing from the earlier compact pass.
+
+The recognition speech has also been tightened against Odyssey 23.210–212.
+“The gods who hold the wide heaven grudged us joy / In youth together” keeps
+the Greek’s active sense of the gods begrudging the couple their shared youth;
+“envied us” was less precise and was removed. The revision strengthens the
+line’s music without assigning the gods a different motive.

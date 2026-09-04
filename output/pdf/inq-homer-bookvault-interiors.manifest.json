@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "0c21e0ad2f3393a3cc2f21a8ee9dfb8b9de39ac2773b69466b760d7d5722c029",
+      "pdfSha256": "83d8137516e33ece79951405d8fc6c7ecc4ce93bfd6c39ebb08626bc7b85afa5",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -59,7 +59,7 @@
         {
           "book": 1,
           "source": "text/iliad/book-01-opening.md",
-          "sourceSha256": "4dfc0cc76b8df881145b48f7647617fbdedb80bdec884caff4d044b1c151c6a2",
+          "sourceSha256": "8840ed8bf571e82ed9f340770fef329b71a8d591abcdc7ce1a5abf71d25d1d4c",
           "plateId": "iliad-book-01-apollo-v2-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-01-full-bleed.jpg",

@@ -316,7 +316,7 @@ sent by the white-armed goddess Hera, who loved and cared
 
 for both alike.
 
-She stood behind him, visible to him alone, and caught his hair.
+She stood behind him, visible to him alone, and caught his golden hair.
 
 Achilles turned and said: “Why have you come, child of Zeus?
 
@@ -326,7 +326,7 @@ his life, I think, will soon pay for what he has done.”
 
 The goddess of flashing eyes answered him:
 
-“I came to restrain you. Put away the sword.
+“I came to restrain you, if you will obey me. Put away the sword.
 
 Speak against him as fiercely as you will, but do not strike.
 

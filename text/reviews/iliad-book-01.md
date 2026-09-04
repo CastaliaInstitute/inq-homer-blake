@@ -103,6 +103,22 @@ adding imagery.
 This is a source-led revision, not independent approval. Speaker-boundary,
 omission/addition, diction, meter, notes, and production gates remain pending.
 
+### Independent source check — Athena's intervention, Iliad 1.197–210
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg001.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.197–210
+
+Two compact details were restored. The Greek says Athena takes Achilles by his
+blond or golden hair, not merely “his hair”; and her arrival is conditional:
+she comes to stop his rage “if he will obey.” The adopted phrases “caught his
+golden hair” and “I came to restrain you, if you will obey me” preserve the
+scene's tactile vision and its dramatic choice. Neither addition changes the
+action or imports psychology.
+
+This is a source-led revision, not independent approval. Speaker-boundary,
+omission/addition, diction, meter, notes, and production gates remain pending.
+
 ### Independent source check — Hera's relation to both men, Iliad 1.195–196
 
 **Check date:** 2026-09-04

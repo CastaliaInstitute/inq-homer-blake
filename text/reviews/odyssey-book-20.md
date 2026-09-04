@@ -52,6 +52,14 @@ Melanthius pours the wine. These are source-fidelity corrections, not gate
 approvals; independent Greek, literary, meter, and read-aloud review remain
 required.
 
+## Accuracy spot-check — dream agency
+
+Odyssey 20.87 was checked separately during the current audit. The Greek names
+an adverse *daimōn* as the force that sends Penelope the dream; the working
+translation’s “the god sent her a cruel dream” keeps that supernatural agency
+without incorrectly assigning the dream to Athena, who appears elsewhere in the
+book. This is an affirmed reading, not a gate approval.
+
 ## Gate evidence register
 
 | Gate | Current evidence | Required before pass |

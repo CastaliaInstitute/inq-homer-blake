@@ -276,8 +276,8 @@ When hunger and thirst were satisfied, they mourned
 The companions Scylla had taken from the ship.
 At sunset they slept beside the breaking sea.
 At dawn the gods sent winds that held us there;
-The East and South Winds blew, then the West Wind,
-And the South Wind rose again. For a month they kept
+The South Wind blew unceasingly, and no other
+Rose but the East and South. For a month they kept
 The ships from sailing. While the provisions lasted,
 The men ate bread and wine from Circe’s stores.
 When these were gone, they hunted birds and fish

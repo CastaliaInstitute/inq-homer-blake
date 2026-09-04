@@ -15,6 +15,13 @@ structure is explicit: Tiresias and Circe give the same prohibition, the crew
 swears to obey it, and hunger plus Eurylochus’s argument produces the violation
 that Zeus punishes.
 
+## Source-fidelity correction recorded in this pass
+
+The contrary-winds sentence was corrected against Odyssey 12.325–326. The
+previous draft added a West Wind and repeated the South Wind; the Greek instead
+states that the South Wind blew without pause and that no other wind arose
+except East and South. The revised line preserves that narrower weather report.
+
 ## Beauty and cadence
 
 Circe’s speech should gather force by accumulation, while the strait should

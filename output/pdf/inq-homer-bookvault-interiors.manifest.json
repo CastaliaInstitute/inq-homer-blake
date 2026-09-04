@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "b9996d7a00759d4e575c08a9d0cd7a42df8a5c0a72831247ac634f47b851262c",
+      "pdfSha256": "716e967512ef2d380285077d45cf8314fca4f6cda514a8d095d6a98513958169",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -93,7 +93,7 @@
         {
           "book": 3,
           "source": "text/iliad/book-03-opening.md",
-          "sourceSha256": "14e1d21a51e5ef8a367dcfa53bdd284a86e62e69a4dc9fe061a7c632563139b3",
+          "sourceSha256": "d5567a17c1bfeae6603f79129612d252aef34108cea8a9a326699279b2eb390b",
           "plateId": "iliad-book-03-helen-walls-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-03-full-bleed.jpg",

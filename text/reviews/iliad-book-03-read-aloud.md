@@ -14,6 +14,9 @@ from the locked Greek alongside the English.
 
 - Re-lineated the crane and South-Wind similes into shorter, more audible
   blank-verse units while retaining their sequence and agents.
+- Restored the source’s “breathing battle-fury” for the silent Achaean advance;
+  the prior “breathing courage” and unsupported mutual-defense clause were
+  removed pending human stress review.
 - Restored a more ceremonial procession in the Paris–Menelaus approach by
   giving the action its own beats: challenge, recognition, joy, and
   dismounting.

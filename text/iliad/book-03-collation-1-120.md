@@ -8,7 +8,7 @@
 
 ## Decisions recorded
 
-- **1–14 — Advance:** Restored the cranes’ winter/Ocean/Pygmy image, the Achaeans’ silent mutual defense, and the South-Wind mist and dust sequence.
+- **1–14 — Advance:** Restored the cranes’ winter/Ocean/Pygmy image, the Achaeans’ silent advance while breathing battle-fury, and the South-Wind mist and dust sequence.
 - **15–37 — Paris and Menelaus:** Restored Alexander’s leopard skin, curved bow, sword, and two spears; Menelaus’s lion image and immediate dismount; Paris’s fear and the serpent simile.
 - **38–57 — Hector’s rebuke:** Preserved the hostile compound insults, Paris’s beauty without courage, the foreign voyage and abduction, the burden on Priam and Troy, and the image of a stone garment.
 - **58–75 — Paris’s proposal:** Preserved the axe simile for Hector’s mind, the non-transferable gifts of Aphrodite, the single combat over Helen and possessions, and the proposed covenant and return home.

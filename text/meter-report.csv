@@ -1,7 +1,7 @@
 volume,book,line_count,syllable_band_8_12,band_percent,outlier_count,method,status
 iliad,1,457,154,33.7,303,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
 iliad,2,649,204,31.4,445,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
-iliad,3,397,298,75.1,99,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
+iliad,3,396,296,74.7,100,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
 iliad,4,408,246,60.3,162,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
 iliad,5,607,319,52.6,288,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only
 iliad,6,288,8,2.8,280,heuristic syllable screen; stress and read-aloud cadence unverified,screening-only

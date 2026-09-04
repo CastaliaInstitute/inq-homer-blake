@@ -13,7 +13,7 @@ proof PDFs are printer-ready.
 | Interior stock | 80# White Coated, Premium Color target | Confirm the printer’s current stock name before upload |
 | Interior bleed | 3 mm on all sides; 174 × 266 mm MediaBox | Validator checks every page and every full-page plate |
 | Interior color | Color-managed RGB/CMYK workflow selected with printer | Final profile and output intent are still pending |
-| Current BookVault alternate counts | Iliad 360 pages; Odyssey 250 pages | Alternate candidates only; comic-size architecture proof counts remain primary until final printer lock |
+| Current BookVault alternate counts | Iliad 360 pages; Odyssey 252 pages | Alternate candidates only; comic-size architecture proof counts remain primary until final printer lock |
 | Cover | One-page integrated casewrap spread on the printer’s exact template | Must use the printer-generated template, not an estimated spine |
 | Typography | Embedded, licensed Cormorant Garamond family | License lock and final PDF font inspection remain required |
 
@@ -24,7 +24,7 @@ proof PDFs are printer-ready.
   diction, and narrative beauty for every book.
 - [ ] Meter and read-aloud outliers have either been revised or expressly
   waived by the named literary editor.
-- [ ] The two current Odyssey density holds (Books 22–23) have been
+- [ ] The current Odyssey density hold (Book 23) has been
   expanded and reviewed, or have a documented editorial waiver explaining why
   compression is intentional and faithful.
 - [ ] Names, notes, glossary, and source-range references have passed their

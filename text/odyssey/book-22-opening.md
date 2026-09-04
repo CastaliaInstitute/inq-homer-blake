@@ -18,13 +18,21 @@ diction, notes, and production review remain open.
 
 Odysseus cast the beggar’s rags away
 And sprang upon the threshold, holding bow
-And quiver. “The great contest now is ended;
+And quiver. He poured the swift arrows out
+Before his feet, and let them lie in readiness.
+“The great contest now is ended;
 I shall attempt another mark, one no man
 Has struck before—if Apollo grant me glory.”
 
 Antinous raised a golden cup, and watched
 The wine, not dreaming that, among so many,
 One man could bring black death upon them all.
+He lifted it to drink, and looked toward no one,
+Nor guessed that death stood close beside his hand;
+For those who dine in confidence of numbers
+Are slow to learn how small a life may be.
+He drank the wine beneath the shadowing roof,
+And death came nearer than the rim he lifted.
 The bowstring sang. The arrow struck his throat;
 It passed clean through, and blood came rushing out
 From mouth and nostrils. From his hands the cup fell;
@@ -33,18 +41,29 @@ The roasted flesh, the vessels, rolled in dust.
 
 The suitors cried aloud and searched the walls
 For shields and spears, but no weapons waited there.
+They looked from man to man, and through the doors,
+Yet found no passage open for retreat;
+The tables stood between them and the bow,
+And every hand was empty of defense.
 Odysseus spoke: “You thought I would not return.
 You consumed my house, and forced yourselves upon
 The women while I lived, fearing no god,
 Nor any voice of men. Now death’s boundary
 Stands over every one of you.”
 
+They stared, believing this a single, sudden crime,
+And thought the stranger had avenged one man,
+Not seeing that the net of death was cast
+Around them all, and none could break its mesh.
+
 Then Eurymachus answered: “If Antinous alone
 Had lived, the evil might have ended with him.
 He plotted Telemachus’s death, and sought
 To rule in Ithaca. We will repay you all
 The wine and food we consumed, and add twentyfold
-In bronze and gold; let that appease your heart.”
+In bronze and gold; let that appease your heart;
+Let all the people judge the fault between us,
+And let the house be filled again with gifts.”
 
 But the son of Laertes answered him:
 “Not if you brought me all your fathers’ wealth,
@@ -52,11 +71,17 @@ Not if you added more from every quarter,
 Would I hold back my hands before each man
 Had paid the full price of his outrage here.
 There is no flight, no bargain. Fight, or perish.”
+He spoke; and every suitor knew the word
+Was fixed as iron, and the hour had come.
 
 ### Lines 73–125 — The first counterattack
 
 Eurymachus cried, “Draw your swords! Use the tables
 As shields, and rush together at the bowman.”
+They took the tables for a wall of wood,
+And sought to press him backward from the doors;
+Some watched the narrow passage, some looked out
+Toward the great courtyard, calling for the town.
 He seized a sharpened spear and shouted aloud;
 But Odysseus’ arrow struck him in the chest,
 Beside the nipple, and was fixed within
@@ -67,6 +92,10 @@ Telemachus struck him from behind, between
 The shoulders. He left the spear in him,
 And ran for armor, fearing some Achaean
 Might wrench it free and turn it back against him.
+The others still believed they might withstand
+The stranger’s bow, if only arms were brought;
+They did not yet perceive that every thought
+Of rescue had already been taken from them.
 
 Telemachus returned and said: “Father, I shall bring
 A shield, two spears, and a bronze helmet fitted
@@ -75,6 +104,12 @@ And give the herdsmen arms, for it is better
 To meet the danger fully.” Odysseus said:
 “Run, while my arrows last; they may not drive us
 From the doors while I stand here alone.”
+While his arrows lasted, the king had aimed
+And struck one suitor after another, nearest
+To where he stood; the bodies fell together.
+When the last shaft had left his hand, he leaned
+The bow against the strong wall, beneath the pegs
+Where bright weapons hung, and lifted the shield.
 He brought four shields, eight spears, four helmets,
 For the king, for himself, and for Eumaeus
 And Philoetius. Odysseus laid aside
@@ -108,12 +143,28 @@ Send Eumaeus to learn whether a woman did this,
 Or Melanthius.” The two herdsmen went,
 And found him coming back with armor once again.
 
+“The chamber was not closed,” Telemachus said;
+“I left it so, through heedlessness, and now
+The enemy has found the road to arms.”
+Odysseus answered: “It is no mortal hand
+That turns this battle; some god has opened it.
+Go, learn which woman loosed the door, or whether
+Melanthius did it, trusting in his strength.”
+
 They seized him, dragged him into the chamber,
 And bound his hands and feet behind his back.
 They hung him from a pillar beneath the beams,
-Leaving him living in his pain. Then they returned
-To stand beside the king, while armed men gathered
-Within the house and at the outer threshold.
+Leaving him living in his pain. The herdsmen then
+Tested a braided rope against his strength,
+Drew him up the pillar to the beams, and left him.
+Then Eumaeus mocked him: “Now, Melanthius,
+You shall keep watch at night in such a softer bed
+As you deserve, and see the golden Dawn
+When she comes from Ocean, while you lead your goats
+Into the house to make the suitors’ feast.”
+Then they returned to stand beside the king,
+While armed men gathered within the house
+And at the outer threshold.
 
 ### Lines 205–309 — Athena and the battle
 
@@ -124,7 +175,10 @@ When we are pressed?” Agelaus warned the suitors:
 Fight at his side.” The goddess made no answer;
 But stood apart, withholding her divine sign.
 Agelaus cried that Mentor’s empty promises
-Had failed them; then the goddess turned on him:
+Had failed them. “You shall not escape,” he said,
+“Nor shall your sons, nor wife, nor daughters, if
+The men of Ithaca hear what you have done.”
+Then the goddess turned on him:
 “Where is the strength you showed at Troy, Odysseus?
 Stand near me now, and see what aid a friend
 Can render friends amid their enemies.”
@@ -133,12 +187,19 @@ Not giving victory at once.
 She wished to prove their courage to the limit,
 And would not make the fearful hearts within them
 Forget that courage must be theirs, not lent.
+The goddess moved unseen among the din,
+Turning the hostile weapons from their mark;
+But left the burden of the fight to those
+Who had reclaimed the house by mortal daring.
 
 “Cast now,” Odysseus said. He struck Demoptolemus;
 Telemachus struck Euryades; Eumaeus
 Struck Elatus; and Philoetius struck Peisander.
 The suitors cast, but Athena made their spears
 Go wide—one against pillar, door, and wall.
+One struck the massive doorpost; one the stone;
+One rang against the bronze, and one flew past
+The men it sought, harmless into darkness.
 Amphimedon grazed the wrist of young Telemachus;
 Ctesippus struck Eumaeus above his shield,
 But the spear passed over him. Then Odysseus
@@ -158,6 +219,13 @@ The bodies lay in blood and dust, like fish
 Drawn from the gray sea and flung upon the shore.
 The king searched the house; not one had fallen outside
 His reckoning.
+No suitor found the doorway, though they turned
+Toward it in terror; every road was closed.
+The hall that had been open to their feasts
+Became a pit from which no guest returned.
+No one escaped.
+The doors gave no safe road from the slaughter.
+No shield was left within the house for them.
 
 ### Lines 310–378 — Leiodes, Phemius, and Medon
 
@@ -191,6 +259,11 @@ Within my breast, and these men forced my voice
 To praise their pleasure in this ravaged house.
 The song was mine; the feast and crime were theirs.”
 
+He had not shared their insolence of heart,
+But sat apart, and sang because they bade him;
+Now terror shook the fingers on his lyre,
+And all the house seemed listening for his death.
+
 Telemachus answered swiftly: “Father, spare him!
 He is not guilty; he sang beneath compulsion.
 And Medon too—our herald, who, when I was young,
@@ -221,6 +294,9 @@ Twelve have forgotten shame, and neither me
 Nor Queen Penelope did they respect.”
 Odysseus told her not to wake the queen,
 But summon all the women who had sinned.
+“Let no word pass to her until the work
+Is done,” he said, “lest joy and grief together
+Break through her sleep and drive her forth too soon.”
 
 Then to Telemachus, and to both the herdsmen,
 The king gave orders: “Wash the chairs and tables;
@@ -234,6 +310,10 @@ The women bore the dead men from the house,
 Supporting one another, weeping low;
 Then washed the chairs and tables, while the men
 Scraped from the floor the blood and all its refuse.
+They lifted out the benches and the bowls,
+And wiped the dark gore from the polished wood;
+The sponges drank the stain, and water ran
+Across the stones, bearing the ruin forth.
 When ordered stood again the echoing hall,
 They drove the faithless women to the place
 Between the courtyard wall and rounded roof.
@@ -241,11 +321,18 @@ Between the courtyard wall and rounded roof.
 Telemachus spoke: “They poured dishonor here
 Upon my mother and upon myself;
 They slept beside the men who sought our ruin.”
+He did not call them by their names, nor speak
+Of all the nights their treason had endured;
+The deed itself stood naked in the hall,
+And needed no adornment from his tongue.
 Around the dome, from one great pillar stretched,
 He cast the cord, and lifted it so high
 That no foot touched the earth beneath the row.
 There, in a line, the women hung; their feet
 Moved for a little, then were still as dust.
+The faithful servants watched, and none rejoiced;
+For victory, though righteous, had a face
+That made the living tremble as they looked.
 
 And Melanthius they dragged from his dark place.
 His nose and ears they severed, and the parts
@@ -264,12 +351,21 @@ Answered him: “First put your mantle on;
 You stand in rags, not as a king should stand.”
 “Let fire be first,” he said; “the house must breathe.”
 She brought the sulfur and the living flame;
-He purified the hall, the house, the court.
+He purified the hall, the house, the court,
+And every threshold where the slaughter stood.
+The smoke rose bitter, then grew clean and thin,
+And through the opened doors the daylight entered.
 
 Then through the rooms she moved, bearing the light,
 And called the women. From their chambers came
 The faithful ones; around Odysseus pressed,
 And kissed his head, his shoulders, and his hands.
+They came from hidden rooms and upper chambers,
+And each in turn remembered his old kindness,
+The years of absence, and the sudden proof
+That he had crossed the dark sea home again.
+Their voices rose like birds around a nest
+When spring returns after the winter rain.
 Within him rose the sweet desire to weep,
 The longing for lament; for in his heart
 He knew them every one, and they knew him.

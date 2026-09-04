@@ -103,6 +103,21 @@ adding imagery.
 This is a source-led revision, not independent approval. Speaker-boundary,
 omission/addition, diction, meter, notes, and production gates remain pending.
 
+### Independent source check — public ransom appeal and refusal, Iliad 1.17–34
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg001.perseus-grc2`, lines 1.17–34
+
+The draft previously moved directly from the priest's arrival and public
+appeal to his private prayer, omitting the Achaeans' assent, Agamemnon's
+refusal and threat, and Chryses' fearful departure. The translation now
+restores those events before the prayer. “Sharing in my bed” preserves the
+king's explicit claim; “the staff and sacred wreath” keeps the priest's
+supplicant tokens in the threat; and “in silence beside the loud-resounding
+sea” restores the transition into the prayer. This is a source-fidelity
+correction, not an independent approval: Greek, narrative, verse, diction,
+notes, and production gates remain open.
+
 ### Independent source check — Athena's intervention, Iliad 1.197–210
 
 **Check date:** 2026-09-04

@@ -48,11 +48,41 @@ to Atreus' sons, the marshals of the people.
 
 **Source passage:** Book 1, lines 17–52
 
-The priest came then to the shore, and prayed to Apollo,
+Then all the other Achaeans cried assent,
 
-the lord who bears the silver bow, and called upon him:
+that they should honor the priest and take the ransom;
 
-“Hear me, you of the fair hair, you who keep Chryse
+but Agamemnon, son of Atreus, would not hear it.
+
+He sent the old man harshly away, and laid
+
+a stern command upon him: “Let me not find you,
+
+old man, beside the hollow ships—neither tarrying
+
+here now, nor coming back another time—
+
+lest the staff and sacred wreath of the god
+
+avail you nothing. I will not set her free,
+
+until old age comes upon her in my house,
+
+in Argos, far from her own land, toiling
+
+at the loom and sharing in my bed. Go;
+
+do not provoke me, that you may depart in safety.”
+
+So he spoke; and the old man, fearing, obeyed.
+
+He went in silence beside the loud-resounding sea,
+
+and, walking far away, prayed to his lord Apollo,
+
+the son of fair-haired Leto, who heard his prayer.
+
+“Hear me, you of the silver bow, you who keep Chryse
 
 and holy Cilla, and who rule Tenedos in power;
 

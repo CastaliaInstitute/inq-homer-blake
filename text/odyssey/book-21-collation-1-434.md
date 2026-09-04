@@ -150,8 +150,10 @@ To the Archer today; no man should string a bow now.
 Set it aside. Let the cupbearer begin the wine,
 And tomorrow bid Melanthius bring the finest goats,
 That we may sacrifice to Apollo and renew
-The contest.” They poured water over their hands
-And crowned the bowls; after the libation, then the stranger spoke:
+The contest.” They poured the water over their hands; young men
+Crowned the great mixing-bowls with wine, and dealt
+The cups to all. When each had drunk his fill,
+The stranger spoke:
 
 “Let me attempt the polished bow among you,
 And learn if wandering and hunger have not broken
@@ -235,7 +237,7 @@ Toward Odysseus; within,
 Eurycleia barred the doors of the hall,
 While loyal Philoetius locked the court
 And bound the ship’s hawser around the gate. He found
-The old ship’s rope beneath the portico, and fastened
+The papyrus cord beneath the portico, and fastened
 The well-built doors, then returned to watch his lord.
 
 The king turned over in his hands the bow,

@@ -48,7 +48,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 18 | review | 428 | 2559 | 5.98 | screen-pass |
 | odyssey | 19 | review | 604 | 3092 | 5.12 | screen-pass |
 | odyssey | 20 | review | 394 | 1976 | 5.02 | screen-pass |
-| odyssey | 21 | review | 434 | 2229 | 5.14 | screen-pass |
+| odyssey | 21 | review | 434 | 2241 | 5.16 | screen-pass |
 | odyssey | 22 | review | 501 | 2520 | 5.03 | screen-pass |
 | odyssey | 23 | review | 372 | 1864 | 5.01 | screen-pass |
 | odyssey | 24 | review | 548 | 2854 | 5.21 | screen-pass |

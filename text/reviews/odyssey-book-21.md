@@ -48,6 +48,17 @@ says his twelve mares had perished, with the hard-working mules beneath them;
 it does not describe those animals as stolen. Both the collation authority and
 the reading manuscript now use “had perished.”
 
+## Critical accuracy correction — 2026-09-04
+
+Rechecked against Odyssey 21.270–274 and 21.386–391 in the pinned Greek text.
+The feast transition now preserves the agents and order of the ritual: the
+heralds pour water over the hands, the young men fill the mixing-bowls and
+distribute the cups, and the stranger speaks only after the guests have drunk
+their fill. The courtyard gate is now secured with the source’s papyrus cord,
+not an invented old ship’s rope. These material details matter because the
+scene’s hospitality is being converted into a sealed ambush; independent
+Greek, literary, meter, and read-aloud review remain open.
+
 ## Source-map register
 
 | Greek span | Collation authority |

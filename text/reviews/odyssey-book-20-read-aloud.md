@@ -6,8 +6,8 @@
 ## Findings
 
 The manuscript preserves the forecourt’s sleepless calculation, Athena’s
-assurance, Penelope’s Artemis prayer, the Pandareus remembrance, Zeus’s clear-
-sky thunder, and the mill-woman’s prayer that the suitors’ meal be their last.
+assurance, Penelope’s Artemis prayer, the Pandareus remembrance, Zeus’s thunder
+from the clouds, and the mill-woman’s prayer that the suitors’ meal be their last.
 The sequence then moves through Telemachus’s arming, Eumaeus’s oath, Melanthius’s
 insult, the eagle and dove, Ctesippus’s ox-foot attack, and Theoclymenus’s vision.
 

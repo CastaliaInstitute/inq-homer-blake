@@ -101,7 +101,7 @@ You brought me home, give me a sign within;
 And let another sign appear without.”
 
 At once Zeus thundered from bright Olympus,
-Though not a cloud was seen across the sky.
+High from the clouds; and glad was brave Odysseus.
 A mill-woman heard the omen. Twelve there were
 Who ground the barley and the wheat for those
 Who ate within the house; but she alone,
@@ -128,7 +128,7 @@ Then went Telemachus to the assembly-place,
 His spear in hand; two white dogs followed him
 Swiftly toward the gathering of the Greeks.
 
-Penelope commanded Eurycleia, daughter of Ops,
+Penelope commanded Eurycleia, daughter of Peisenor,
 And all the women: “Spread the rugs upon
 The chairs well made; wipe every table clean;
 Wash out the mixing-bowls and shining cups;
@@ -189,9 +189,10 @@ Then he led them in.
 They laid their cloaks upon the chairs and benches,
 Then sacrificed the sheep, the fattened goats,
 The pigs, the cow; they roasted all the inward
-Parts, mixed the wine in bowls, and served the cups.
-Philoetius apportioned bread in handsome baskets,
-While Melanthius poured the wine. Telemachus
+Parts, mixed the wine in bowls; the swineherd dealt
+The cups. Philoetius apportioned bread
+In handsome baskets, while Melanthius poured
+The wine. Telemachus
 Set Odysseus within the well-built hall, beside
 The stone threshold, on a mean stool, and placed
 A little table there. He gave him inward parts

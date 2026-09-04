@@ -40,6 +40,18 @@ sentence in Ctesippus’s attack and the repeated final line of Theoclymenus’s
 vision. It also restores Telemachus’s spear and Eurycleia’s patronymic from
 the Greek. The density screen must be rerun after this correction.
 
+## Critical accuracy correction — 2026-09-04
+
+Rechecked against Odyssey 20.97–127 and 20.248–255 in the pinned Greek text.
+The prior working pass incorrectly made Zeus thunder under a cloudless sky;
+the Greek places the thunder high among the clouds, so the line now reads
+“High from the clouds.” It also gave Eurycleia the wrong patronymic: the Greek
+has Peisenor, not Ops. Finally, the feast service has been restored in its
+proper order: the swineherd distributes the cups, Philoetius the bread, and
+Melanthius pours the wine. These are source-fidelity corrections, not gate
+approvals; independent Greek, literary, meter, and read-aloud review remain
+required.
+
 ## Gate evidence register
 
 | Gate | Current evidence | Required before pass |

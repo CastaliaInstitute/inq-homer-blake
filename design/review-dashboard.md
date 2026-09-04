@@ -2,7 +2,8 @@
 
 **Audit date:** 2026-09-03
 **Authoritative ledger:** [`text/translation-status.csv`](../text/translation-status.csv)  
-**Review policy:** [`text/review-gates.md`](../text/review-gates.md)
+**Review policy:** [`text/review-gates.md`](../text/review-gates.md) and the
+[`human-review-protocol.md`](human-review-protocol.md)
 
 ## Current state
 

@@ -11,6 +11,9 @@
 A passing build proves only internal consistency. It cannot substitute for
 source, literary, art, rights, printer, or physical-proof approval.
 
+Human approval must follow the [human editorial review protocol](human-review-protocol.md);
+AI-assisted preparation and automated screens remain non-approval evidence.
+
 ## Repository evidence
 
 | Area | Result | Evidence / limitation |

@@ -38,3 +38,12 @@ and catalogue sequences.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Source-led correction — Agamemnon's waking, Iliad 2.41–52
+
+The transition from Zeus's narrator-level warning to the royal preparation
+previously began “and rose at once,” without naming the subject. The adopted
+reading, “Agamemnon rose at once,” restores the Greek's explicit action and
+keeps the deception's consequence attached to the king who receives it. This
+is a clarity and fidelity correction, not independent approval; all six book
+gates remain pending.

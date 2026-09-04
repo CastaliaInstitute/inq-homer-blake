@@ -66,9 +66,9 @@ he would take Priam's city. He did not know what the son of Cronus
 
 was still preparing: more pain and groaning for Trojans and Danaans
 
-through the violence of battle.
+through the violence of battle. Agamemnon rose at once,
 
-and rose at once, putting on his soft wool tunic.
+putting on his soft wool tunic.
 
 Over it he threw a great cloak, and bound beneath his feet
 

@@ -31,6 +31,10 @@ narrative, verse, diction, notes, and production sign-off remain pending.
   the assembly is framed by divine light and inherited authority.
 - “Test the army” preserves the fatal ambiguity of Agamemnon's instructions:
   he intends a test, while the soldiers will hear a command to flee.
+- The royal-preparation transition now names Agamemnon as the subject of the
+  waking and dressing movement. The prior sentence-initial “and rose at once”
+  was grammatically ambiguous and weakened the Greek's direct handoff from
+  the narrator's warning to the king's action.
 
 This is a working collation, not a final approval record. Apparatus consultation
 and a second reader's sign-off are still required before the book can advance.

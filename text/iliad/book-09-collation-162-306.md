@@ -20,7 +20,7 @@ catalogue of Agamemnon’s promised restitution.
   of the ships.
 - **245–306 — Persuasion and gifts:** Preserve the appeal to Peleus’ instruction,
   the seven tripods, ten talents, twenty cauldrons, twelve horses, seven Lesbian
-  women, Briseis’ restitution and oath, twenty Trojan women, marriage to one of the
+  women, Briseis’ separate restitution and oath, twenty Trojan women, marriage to one of the
   three daughters, and the seven Pylian cities.
 
 **Editorial status:** Line-level collated; final Greek-text and copyediting review

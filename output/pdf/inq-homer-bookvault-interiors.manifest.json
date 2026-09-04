@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "702692b8e11b381cff0efe2f5ff3659fe436f90566324623252c1bde016cf3ae",
+      "pdfSha256": "ff06aca6715ff54e0937fb47cd12a7a1b869917b7f46bcae814d1f5d45fc8689",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -195,7 +195,7 @@
         {
           "book": 9,
           "source": "text/iliad/book-09-opening.md",
-          "sourceSha256": "ba2222daf1e77bbd23089e5239929d82b2f66770c817a6a06640ace1d3f3a09e",
+          "sourceSha256": "5d39f09bdff1110662606cf3131efabd355d5e0611e92375f7783bf93322e60a",
           "plateId": "iliad-book-09-embassy-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-09-full-bleed.jpg",

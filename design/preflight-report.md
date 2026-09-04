@@ -27,7 +27,7 @@ must still be closed in `design/release-readiness.md`.
 - Translation ledger: 48 books; all remain under review.
 - Reader-facing density screen: 3 provisional holds; see `design/translation-density-report.md`.
 - Architecture page map: 680 traced pages.
-- Plate manifest: 55 records; all concept/source-review, none final.
+- Plate manifest: 56 records; all concept/source-review, none final.
 - Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Odyssey print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Raster cover studies: HOLD; both contain inaccurate A.Longfellow translator and A.Blake illustrator credits and must not ship.

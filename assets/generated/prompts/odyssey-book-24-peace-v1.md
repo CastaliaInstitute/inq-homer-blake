@@ -1,6 +1,6 @@
 # Odyssey Book 24 — Peace in Laertes's orchard
 
-**Source:** Odyssey 24.1–548 · **Status:** concept-review · **Generated:** 2026-09-03
+**Source:** Odyssey 24.203–286 · **Status:** concept-review · **Generated:** 2026-09-03
 **Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: in Laertes's orchard, the aged father recognizes

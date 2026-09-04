@@ -2,7 +2,8 @@
 
 **Use case:** illustration-story  
 **Asset type:** provisional full-page interior plate concept for the 6.625 × 10.25 inch comic-size hardcover edition  
-**Primary request:** Laertes renewed in the orchard as Odysseus approaches, with the final peace settling over Ithaca.  
+**Primary request:** the final peace settling over Ithaca after Laertes strikes Eupeithes and Athena commands the kindred to stop.
+**Source passage:** Odyssey 24.489–548.
 **Scene:** cultivated Mediterranean orchard at an island farm, ancient pear, apple, fig, and vine growth; distant town and sky after storm.  
 **Subjects:** Laertes upright but still aged, newly strengthened, holding a spear lowered in restraint; Odysseus and Telemachus beside him; opposing kin in the distance lowering weapons as peace is imposed.  
 **Style:** original monochrome relief-print and pen-and-ink literary illustration, Blake-informed in symbolic intensity and visionary line, but not by William Blake and not a reproduction or imitation of any specific Blake plate.  

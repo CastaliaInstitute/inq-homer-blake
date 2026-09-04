@@ -86,7 +86,7 @@ collation.
 | ODY-21 | 21 | Penelope's bow contest; Odysseus strings the bow; canonical source range: Odyssey 21.1–434 | Original plate: the impossible bow crossing Odysseus' hands while the suitors fail around him; Penelope's hidden test as a crescent behind the scene, architecture taut, line clean, no action-movie exaggeration. |
 | ODY-22 | 22 | The slaughter of the suitors; canonical source range: Odyssey 22.1–501 | Original plate: Odysseus and Telemachus reclaim the hall, arrows forming a disciplined pattern through the smoke; violence implied by gesture and fallen objects, not gore; moral clarity, severe interior geometry. A concept candidate now exists for 22.1–22.501; see the generated manifest, but it remains concept-review. |
 | ODY-23 | 23 | Penelope recognizes Odysseus; the rooted bed; canonical source range: Odyssey 23.1–372 | Original plate: Penelope and Odysseus beside the living olive-bed, the immovable root joining house, marriage, and island; quiet embrace after trial, moonlit room, symbolic but physically grounded. |
-| ODY-24 | 24 | The dead suitors, Laertes, and the final peace; canonical source range: Odyssey 24.1–548 | Original plate: Laertes renewed in the orchard as Odysseus approaches, while the dead and the living occupy separate planes; olive branches, returning names, and a sky settling after storm; concluding breadth and mercy. |
+| ODY-24 | 24 | Laertes recognizes Odysseus in the orchard; canonical source range: Odyssey 24.203–286 | Original plate: Laertes renewed in the orchard as Odysseus approaches, the scar and counted trees joining bodily history to cultivated place; Athena’s restorative presence held in reserve, with concluding breadth and mercy. |
 
 ## Handoff fields for every approved plate
 

@@ -102,3 +102,18 @@ adding imagery.
 
 This is a source-led revision, not independent approval. Speaker-boundary,
 omission/addition, diction, meter, notes, and production gates remain pending.
+
+### Independent source check — Hera's relation to both men, Iliad 1.195–196
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg001.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.195–196
+
+The earlier wording, “who loved both men,” retained Hera's affection but
+compressed the paired Greek verbs for loving and caring for both equally. The
+adopted revision, “who loved and cared / for both alike,” restores that
+symmetry and gives Hera's intervention a more precise ethical motive without
+adding psychology.
+
+This is a source-led revision, not independent approval. Speaker-boundary,
+omission/addition, diction, meter, notes, and production gates remain pending.

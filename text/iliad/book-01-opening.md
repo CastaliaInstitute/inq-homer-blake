@@ -312,7 +312,9 @@ and scatter the assembly, or to master his heart and endure.
 
 As he drew the great blade, Athena came down from heaven,
 
-sent by the white-armed goddess Hera, who loved both men.
+sent by the white-armed goddess Hera, who loved and cared
+
+for both alike.
 
 She stood behind him, visible to him alone, and caught his hair.
 

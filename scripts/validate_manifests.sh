@@ -25,5 +25,7 @@ check_header "design/asset-checksums.csv" \
   "plate_id,final_file,sha256,width_px,height_px,color_profile,curation_status"
 check_header "design/iliad-plate-selection.csv" \
   "book,plate_id,selection_status,approval_status,notes"
+check_header "design/odyssey-plate-selection.csv" \
+  "book,plate_id,selection_status,approval_status,notes"
 
 printf 'Manifest headers are valid.\n'

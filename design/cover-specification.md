@@ -12,6 +12,9 @@
   printer's separate product specifications.
 - Release state: architecture counts are recorded, but final printer templates
   and release exports are still pending
+- Current Odyssey cover study: the back panel uses the original CastaliaInstitute
+  Book 24 concept as a clearly provisional stand-in; no Iliad source scan is
+  reused on the Odyssey cover.
 
 ## Template authority
 
@@ -40,7 +43,7 @@ page count, and template dimensions in the release manifest.
 
 ## Release record required for each volume
 
-Current architecture counts are 398 pages for the Iliad and 264 pages for the
+Current architecture counts are 398 pages for the Iliad and 280 pages for the
 Odyssey. These counts are suitable for regenerating design studies, but they do
 not replace the custom printer templates required for final spine calculation.
 

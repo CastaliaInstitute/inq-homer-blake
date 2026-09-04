@@ -16,7 +16,7 @@ must still be closed in `design/release-readiness.md`.
 | Artifact | Pages | Page size | Encryption |
 |---|---:|---|---|
 | Iliad interior proof | 398 | 477 x 738 pts | no |
-| Odyssey interior proof | 264 | 477 x 738 pts | no |
+| Odyssey interior proof | 280 | 477 x 738 pts | no |
 | Iliad cover study | 1 | 1098 x 846 pts | no |
 | Odyssey cover study | 1 | 1098 x 846 pts | no |
 
@@ -24,9 +24,10 @@ must still be closed in `design/release-readiness.md`.
 
 - Translation ledger: 48 books; all remain under review.
 - Reader-facing density screen: 4 provisional holds; see `design/translation-density-report.md`.
-- Architecture page map: 662 traced pages.
-- Plate manifest: 48 records; all concept/source-review, none final.
+- Architecture page map: 678 traced pages.
+- Plate manifest: 55 records; all concept/source-review, none final.
 - Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
+- Odyssey print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.
 - Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.
 

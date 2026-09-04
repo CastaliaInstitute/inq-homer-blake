@@ -26,7 +26,7 @@ jobs:
               rows = CSV.read(file)
               abort("malformed CSV: #{file}") unless rows.all? { |row| row.length == rows.first.length }
             end
-          ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv design/asset-checksums.csv design/iliad-plate-selection.csv
+          ' assets/source/manifest.csv assets/generated/manifest.csv design/plate-manifest.csv design/asset-checksums.csv design/iliad-plate-selection.csv design/odyssey-plate-selection.csv
       - name: Run asset preflight
         run: scripts/preflight_assets.rb
       - name: Run image metadata preflight
@@ -35,8 +35,8 @@ jobs:
         run: ruby scripts/preflight_illustration_placeholders.rb
       - name: Run provenance preflight
         run: ruby scripts/preflight_provenance.rb
-      - name: Verify Iliad print-review art
-        run: .ci-image-tools/bin/python scripts/preflight_iliad_print_art.py
+      - name: Verify Homer print-review art
+        run: .ci-image-tools/bin/python scripts/preflight_homer_print_art.py
       - name: Rebuild and verify plate asset checksums
         run: |
           python3 scripts/build_asset_checksums.py

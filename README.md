@@ -62,12 +62,12 @@ The deterministic [plate asset checksum ledger](design/asset-checksums.csv) is
 rebuilt in CI from the plate manifest so replacement files cannot silently
 change beneath their provenance records.
 
-All 24 Iliad books now have a provisionally selected original candidate in
-[`design/iliad-plate-selection.csv`](design/iliad-plate-selection.csv). Run
-`python3 scripts/prepare_iliad_print_art.py` to rebuild the checksum-bound
-2055 × 3142 pixel, 300-PPI, embedded-sRGB print-review derivatives under
-`assets/print/illustrations/iliad/`, and
-`python3 scripts/preflight_iliad_print_art.py` to verify their complete source
+All 24 books in each volume now have a provisionally selected original
+candidate in `design/iliad-plate-selection.csv` and
+`design/odyssey-plate-selection.csv`. Run the corresponding
+`scripts/prepare_*_print_art.py` builder to rebuild the checksum-bound 2055 ×
+3142 pixel, 300-PPI, embedded-sRGB derivatives, and run
+`python3 scripts/preflight_homer_print_art.py` to verify their complete source
 lineage. These are interpolated placement derivatives for review, not native
 masters or approved final art.
 

@@ -112,7 +112,11 @@ def main() -> None:
     else:
         title = "The Odyssey"
         art = ROOT / "assets/generated/odyssey/book-01-athena-v2.png"
-        back_art = ROOT / "assets/source/iliad/met-337355-dp-15151-001.jpg"
+        # Keep the Odyssey study internally coherent. The repository currently
+        # has no historical Odyssey scan in the source lock, so use a clearly
+        # attributed original Odyssey concept on the provisional back panel
+        # rather than importing an Iliad image with the wrong subject matter.
+        back_art = ROOT / "assets/generated/odyssey/book-24-peace-v1.png"
     for path in (art, back_art):
         if not path.is_file():
             raise SystemExit(f"missing cover art: {path}")

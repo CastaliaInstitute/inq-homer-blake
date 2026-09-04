@@ -67,6 +67,12 @@ and Telemachus leading Odysseus toward the city. These are narrative facts,
 not decorative expansions. The passage remains unapproved pending an
 independent full-book omissions/additions check and read-aloud review.
 
+The final action was checked once more against 24.516–523: prayer, Athena’s
+renewal of Laertes, the spear-cast, and Eupeithes’ fall now appear in that
+order. The rendered proof was inspected at the Book 24 opener, closing text,
+and plate pages; no clipping, orphaned credit, or caption-legibility defect was
+found.
+
 The opening revision restores Achilles’ address to Agamemnon, Agamemnon’s
 account of Achilles’ washing, lament, pyre, urn, tomb, and funeral games, and
 the transition in which Agamemnon—not Achilles—questions Amphimedon. The

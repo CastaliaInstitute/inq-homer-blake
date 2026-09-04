@@ -1,0 +1,693 @@
+{
+  "schemaVersion": 1,
+  "work": "The Odyssey",
+  "artistCredit": "a.Blake",
+  "style": "original ink contour and restrained watercolor in the a.Blake house language",
+  "historicalScansIncluded": false,
+  "reviewStatus": "print-review derivatives; human art-direction and physical proof pending",
+  "nativeMasterClaim": false,
+  "trimMm": [
+    168,
+    260
+  ],
+  "bleedMm": 3,
+  "documentMm": [
+    174,
+    266
+  ],
+  "plateCount": 24,
+  "plates": [
+    {
+      "book": 1,
+      "plateId": "odyssey-book-01-athena-v2-concept",
+      "subject": "Athena at the threshold of Odysseus's household",
+      "passage": "1.1-21",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-01-athena-v2.png",
+      "sourcePixels": [
+        2100,
+        3000
+      ],
+      "sourceSha256": "0e749d23c2cf47856cb4a70cf99dc5c34ed8849e0712de23eb48e4e50d040490",
+      "cropBoxPixels": [
+        69,
+        0,
+        2031,
+        3000
+      ],
+      "print": "assets/print/illustrations/odyssey/book-01-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "f7f943ef324604853384deb643f94c417d7b68cf736893afa753f0eb1a6e8265"
+    },
+    {
+      "book": 2,
+      "plateId": "odyssey-book-02-ody-02-v1-concept",
+      "subject": "Telemachus's assembly and departure",
+      "passage": "2.1-2.434",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-02-ody-02-v1.png",
+      "sourcePixels": [
+        2100,
+        3000
+      ],
+      "sourceSha256": "ec4e3ac6b4be4e9b2ecc7f668a929ca82b516d13f12e2a324b252a4cf4ff3a5b",
+      "cropBoxPixels": [
+        69,
+        0,
+        2031,
+        3000
+      ],
+      "print": "assets/print/illustrations/odyssey/book-02-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "d693ebe3cd820cf4cc0dab885e697f0a81215e3e7f4c99a953ff1ad97d68a03e"
+    },
+    {
+      "book": 3,
+      "plateId": "odyssey-book-03-pylos-concept",
+      "subject": "Telemachus arrives at Nestor's shore sacrifice",
+      "passage": "3.1-3.66",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-03-pylos-v1.png",
+      "sourcePixels": [
+        1024,
+        1536
+      ],
+      "sourceSha256": "a3db94f87366acb0791ff97b6d55809e80b3c7bdc9b28948350cfe74cbbf5cd5",
+      "cropBoxPixels": [
+        9,
+        0,
+        1014,
+        1536
+      ],
+      "print": "assets/print/illustrations/odyssey/book-03-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "dc1b1bdc0662122414a26110b2a19a580b3c88e638f36ae064617de8f25929c3"
+    },
+    {
+      "book": 4,
+      "plateId": "odyssey-book-04-sparta-memory-concept",
+      "subject": "Helen and Menelaus remember Troy for Telemachus",
+      "passage": "4.1-4.847",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-04-sparta-memory-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "2c18dc03bc4c617ea1e79e1533f3cc2397286b3e07a9572f6049123af43ea315",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-04-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "67bc0f7c376c2d848b254f4f40a61761dd551251d352c47b5911e63f11df9ba7"
+    },
+    {
+      "book": 5,
+      "plateId": "odyssey-book-05-raft-v2-concept",
+      "subject": "Odysseus clings to the broken raft in the storm",
+      "passage": "5.1-5.493",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-05-raft-v2.png",
+      "sourcePixels": [
+        1008,
+        1561
+      ],
+      "sourceSha256": "f3cfb4639ea76b6cb8fb805b3b9ebba8eb2cd9fd2084d96e38d786b2daf71da2",
+      "cropBoxPixels": [
+        0,
+        10,
+        1008,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-05-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "d654e8a3a3046a851d594e54e4116de9ce503f5e44c0ec66f88d4a7594143af7"
+    },
+    {
+      "book": 6,
+      "plateId": "odyssey-book-06-nausicaa-concept",
+      "subject": "Nausicaa receives Odysseus at the river",
+      "passage": "6.1-6.331",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-06-nausicaa-v1.png",
+      "sourcePixels": [
+        1007,
+        1561
+      ],
+      "sourceSha256": "0a0a73465b906c47bf80a0f241e733008c35be0bb7dd023b5551c2ba7560a0a3",
+      "cropBoxPixels": [
+        0,
+        10,
+        1007,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-06-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "80238bd38b19e96a29339e7df5d0d54cbd257ffa91add5f0ddb1b01fa3444229"
+    },
+    {
+      "book": 7,
+      "plateId": "odyssey-book-07-arete-palace-concept",
+      "subject": "Odysseus crosses the threshold of Arete's palace",
+      "passage": "7.1-7.347",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-07-arete-palace-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "ccd3a0e8a7590aef8b409e7774cd4bd1e29f996766b76adec8e87a145bdeeee2",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-07-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "7f99c5d7666f11f4b9e12e7e1053bfbe8073e085e57c1912c925c6459be07ecb"
+    },
+    {
+      "book": 8,
+      "plateId": "odyssey-book-08-demodocus-concept",
+      "subject": "Demodocus sings while Odysseus grieves",
+      "passage": "8.1-8.586",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-08-demodocus-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "3ca6a42125a208af08ba26eee4aad52f43fb9a36b3048fa444d4f2ccf73c3713",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-08-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "c858eba194f03f65fa43f67a27ed3011e1dd828d03a786f6f7a5e3a3cb8af821"
+    },
+    {
+      "book": 9,
+      "plateId": "odyssey-book-09-polyphemus-escape-concept",
+      "subject": "Odysseus and his companions escape the Cyclops beneath the rams",
+      "passage": "9.1-9.566",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-09-polyphemus-escape-v1.png",
+      "sourcePixels": [
+        1050,
+        1498
+      ],
+      "sourceSha256": "6830d7c703ccdd54ba6faf33c0a9abc73a34cfbaacc0295de82c53108cf853ea",
+      "cropBoxPixels": [
+        35,
+        0,
+        1015,
+        1498
+      ],
+      "print": "assets/print/illustrations/odyssey/book-09-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "10deb651e78933f6d314cbde7bd59cbef7d0930e43f0e02599c39ef63f475b4c"
+    },
+    {
+      "book": 10,
+      "plateId": "odyssey-book-10-moly-concept",
+      "subject": "Circe and the moly",
+      "passage": "10.1-10.574",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-10-moly-v1.png",
+      "sourcePixels": [
+        1007,
+        1562
+      ],
+      "sourceSha256": "ec8a838b5720894da3d8042966fbeb4e7ccc18e4c289c07805feb76a258976d7",
+      "cropBoxPixels": [
+        0,
+        11,
+        1007,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-10-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "f089c8934224e8c9952282828fd3f940aacf505b2186da61eece5919be29527b"
+    },
+    {
+      "book": 11,
+      "plateId": "odyssey-book-11-tiresias-concept",
+      "subject": "Tiresias beneath the earth",
+      "passage": "11.1-11.640",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-11-tiresias-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "29ad2919eec20d10213085772bc29f2a5715d4bd8228c85d3c005d7a6d6cb95f",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-11-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "86dae9f3391c39c8756a6ccc9e2ee309b4c0875993a4ec6043477bd949fe492e"
+    },
+    {
+      "book": 12,
+      "plateId": "odyssey-book-12-sirens-concept",
+      "subject": "The Sirens",
+      "passage": "12.1-12.453",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-12-sirens-v1.png",
+      "sourcePixels": [
+        1008,
+        1561
+      ],
+      "sourceSha256": "dc92d078af24ffb56c6eae44e1883f301936b8c74d5c8ca0130c49504c5f2aa3",
+      "cropBoxPixels": [
+        0,
+        10,
+        1008,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-12-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "96800619294541a4f2db307d03fa75bccb87612c9d1fb9ec8c5001917eaf4302"
+    },
+    {
+      "book": 13,
+      "plateId": "odyssey-book-13-return-concept",
+      "subject": "Odysseus newly landed at Ithaca as Athena reveals the veiled harbor",
+      "passage": "13.1-13.440",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-13-return-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "4f2fe7749e848c354c7783876d56a2b333dcdd1557c78fbc41e4a30c3a1371ba",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-13-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "e454a04e8ee1f073dc6527bfa6fad30cad24f486fcbcdcfe936c06bc4d5ecff3"
+    },
+    {
+      "book": 14,
+      "plateId": "odyssey-book-14-eumaeus-concept",
+      "subject": "Eumaeus receives the stranger",
+      "passage": "14.1-14.533",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-14-eumaeus-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "efd178b30470af5b585935a63b5e34b727e507152f7e21f0855f27af48f74813",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-14-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "4976c103eb4f7a33fa170a7430542a93a80b9e48bd6d6d73a866146e9ef4a832"
+    },
+    {
+      "book": 15,
+      "plateId": "odyssey-book-15-return-omen-concept",
+      "subject": "Telemachus returns beneath the hawk omen",
+      "passage": "15.1-15.557",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-15-return-omen-v1.png",
+      "sourcePixels": [
+        1009,
+        1558
+      ],
+      "sourceSha256": "8a861957065ed29f6147cd6c9aa38e9d88b5d4fecf72d267565c20acb3440244",
+      "cropBoxPixels": [
+        0,
+        7,
+        1009,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-15-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "49ef69a9d45d262bb6adf76586e619fc0389b553d3395a1de768d209cf50feb6"
+    },
+    {
+      "book": 16,
+      "plateId": "odyssey-book-16-father-son-concept",
+      "subject": "Telemachus recognizes Odysseus in the swineherd\u2019s hut",
+      "passage": "16.1-16.481",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-16-father-son-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "41b5cbc3d6198a221302faf228aef57c04a761c753ec75601139d6d20c01fc05",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-16-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "abca89ee28daf3a486d39e4c32ef7c34c1405b9d020787caf4ed1349e38e38a4"
+    },
+    {
+      "book": 17,
+      "plateId": "odyssey-book-17-argos-concept",
+      "subject": "Argos recognizes the disguised Odysseus",
+      "passage": "17.1-17.606",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-17-argos-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "b268496c6bb7365ab0b1459f546c69333e8deb59c0ba4e04d33f4dedb8438884",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-17-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "a608987f06d81560b3b231515362f9111218db84dccea7905b68059b5699f6a9"
+    },
+    {
+      "book": 18,
+      "plateId": "odyssey-book-18-irus-concept",
+      "subject": "The disguised Odysseus faces Irus before the contest",
+      "passage": "18.1-18.428",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-18-irus-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "3141d26b96f4f402c701a123a99406cf2ef783a9b273c10f0b8b67be2511ab92",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-18-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "acbbf364cc63fcb6e3f54c446a2ff05c0e5dd1373e8f42bf642ec5d9280412de"
+    },
+    {
+      "book": 19,
+      "plateId": "odyssey-book-19-penelope-question-concept",
+      "subject": "Penelope questions the disguised Odysseus across the hearth",
+      "passage": "19.1-19.604",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-19-penelope-question-v1.png",
+      "sourcePixels": [
+        1008,
+        1561
+      ],
+      "sourceSha256": "67afa04cffc7076ac061f7e89b56b66b74b5d9650de2e34e38ca2ae485ab20df",
+      "cropBoxPixels": [
+        0,
+        10,
+        1008,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-19-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "ceae61da4daf2f422c77366a9b209852623714f655fb40531e1295ca8c635698"
+    },
+    {
+      "book": 20,
+      "plateId": "odyssey-book-20-omen-concept",
+      "subject": "Odysseus and Telemachus wait beneath the omen",
+      "passage": "20.1-20.394",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-20-omen-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "2b1848285fd44df2ba5dac15844331dcd34516f5a951d4c75830ea0a949b9632",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-20-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "833021f5630ad851bed6c8c3f579b144daf5c21470de45867b65c1c7be8c4b90"
+    },
+    {
+      "book": 21,
+      "plateId": "odyssey-book-21-bow-concept",
+      "subject": "Odysseus strings the great bow before the aligned axes",
+      "passage": "21.1-21.434",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-21-bow-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "6e74dc1e25913256434908981da5c258177afea48cc1fa059e39baefc0e6d129",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-21-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "6a0e5f6beb7fa44504a565f5a55f9e6216cd57d427bda98f812babb285a2a0ee"
+    },
+    {
+      "book": 22,
+      "plateId": "odyssey-book-22-hall-concept",
+      "subject": "Odysseus and Telemachus reclaim the hall",
+      "passage": "22.1-22.501",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-22-hall-v1.png",
+      "sourcePixels": [
+        1122,
+        1402
+      ],
+      "sourceSha256": "9beb4be8ed49e579185bca7cd0b6d1fc7f5969bcf52147a09ae4a275fe24334c",
+      "cropBoxPixels": [
+        102,
+        0,
+        1019,
+        1402
+      ],
+      "print": "assets/print/illustrations/odyssey/book-22-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "c73b933f11fdac5dd7630eee82464cdc811e2954e676d773921aa96b1fa702a1"
+    },
+    {
+      "book": 23,
+      "plateId": "odyssey-book-23-penelope-bed-concept",
+      "subject": "Penelope recognizes Odysseus beside the rooted olive bed",
+      "passage": "23.1-23.372",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-23-penelope-bed-v1.png",
+      "sourcePixels": [
+        1008,
+        1560
+      ],
+      "sourceSha256": "f4882bfe27ebb315333a3a8fe2d643e43fe4a95261692480fcd28ed8634231fa",
+      "cropBoxPixels": [
+        0,
+        9,
+        1008,
+        1550
+      ],
+      "print": "assets/print/illustrations/odyssey/book-23-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "5a5dd2d1ad4b232008b6c14e8cac902d0c39782b81cdf626c2d8bc28f7403953"
+    },
+    {
+      "book": 24,
+      "plateId": "odyssey-book-24-peace-concept",
+      "subject": "Peace returns in Laertes's orchard",
+      "passage": "24.1-24.548",
+      "selectionStatus": "provisional-print-review",
+      "approvalStatus": "pending",
+      "source": "assets/generated/odyssey/book-24-peace-v1.png",
+      "sourcePixels": [
+        1009,
+        1559
+      ],
+      "sourceSha256": "fcec1d570da67b80526d4f95da8bf5f8d6b7720670cf44dfdaab6a9e1716f643",
+      "cropBoxPixels": [
+        0,
+        8,
+        1009,
+        1551
+      ],
+      "print": "assets/print/illustrations/odyssey/book-24-full-bleed.jpg",
+      "printPixels": [
+        2055,
+        3142
+      ],
+      "printPpi": 300,
+      "embeddedProfile": "sRGB",
+      "printSha256": "5958b24997ac43336ea6c73f48f74caa40cab25ba2ee053acbb8e486718f568f"
+    }
+  ]
+}

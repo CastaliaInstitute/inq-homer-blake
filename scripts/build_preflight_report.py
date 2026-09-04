@@ -42,6 +42,10 @@ iliad_print_manifest = ROOT / "assets/print/illustrations/iliad/manifest.json"
 if not iliad_print_manifest.is_file():
     raise SystemExit(f"missing Iliad print-art manifest: {iliad_print_manifest}")
 iliad_print = json.loads(iliad_print_manifest.read_text(encoding="utf-8"))
+odyssey_print_manifest = ROOT / "assets/print/illustrations/odyssey/manifest.json"
+if not odyssey_print_manifest.is_file():
+    raise SystemExit(f"missing Odyssey print-art manifest: {odyssey_print_manifest}")
+odyssey_print = json.loads(odyssey_print_manifest.read_text(encoding="utf-8"))
 
 density_holds = 0
 for status in statuses:
@@ -89,6 +93,7 @@ lines += [
     f"- Architecture page map: {len(page_map)} traced pages.",
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
     f"- Iliad print-review art: {iliad_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
+    f"- Odyssey print-review art: {odyssey_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",
     "- Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.",
     "",

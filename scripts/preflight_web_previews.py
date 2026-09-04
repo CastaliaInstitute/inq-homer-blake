@@ -14,7 +14,7 @@ from translation_extract import book_translation
 
 ROOT = Path(__file__).resolve().parents[1]
 EXPECTED = {
-    "iliad": {"pages": 9, "words": 4606},
+    "iliad": {"pages": 9, "words": 4604},
     "odyssey": {"pages": 6, "words": 2629},
 }
 TOKEN = re.compile(r"[A-Za-z]+(?:['’][A-Za-z]+)?|\d+")

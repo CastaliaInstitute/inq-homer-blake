@@ -41,7 +41,7 @@ volumes:
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
-    interior_pages: 222
+    interior_pages: 224
     interior_status: provisional_prepress_candidate_source_locked_current_text_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
@@ -82,7 +82,7 @@ proofs:
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [477, 738]
-    pages: 281
+    pages: 282
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: cover_design_sample

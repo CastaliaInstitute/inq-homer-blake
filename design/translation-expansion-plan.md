@@ -9,6 +9,6 @@ Work in source order within each volume. For every book, compare the expanded En
 | 1 | odyssey | 21 | 434 | 2024 | 2170 | 146 | 4.66 | `text/odyssey/book-21-opening.md` |
 | 2 | odyssey | 22 | 501 | 1705 | 2505 | 800 | 3.40 | `text/odyssey/book-22-opening.md` |
 | 3 | odyssey | 23 | 372 | 1478 | 1860 | 382 | 3.97 | `text/odyssey/book-23-opening.md` |
-| 4 | odyssey | 24 | 548 | 2289 | 2740 | 451 | 4.18 | `text/odyssey/book-24-opening.md` |
+| 4 | odyssey | 24 | 548 | 2721 | 2740 | 19 | 4.97 | `text/odyssey/book-24-opening.md` |
 
 **Open queue:** 4 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.

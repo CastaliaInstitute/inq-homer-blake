@@ -29,6 +29,22 @@ among Achaean women, and his claim to test the bow himself. These details
 follow Odyssey 21.101–117 and restore the public and filial stakes of the
 trial.
 
+## Critical expansion — 2026-09-04
+
+The revised working pass restores three source-bearing compressions. Antinous
+now calls the grieving herdsmen “witless field-men,” recalls having seen
+Odysseus as a child, and dismisses their tears; Telemachus’s axe-setting now
+includes the red cloak, the astonishment of the onlookers, and his spoken fear
+that he may still be too young to defend himself. The late hall scene now also
+includes Theoclymenus’s omen—darkness, blood, tears, and shades fleeing toward
+Erebus—his warning that no suitor will escape, and his departure to Peiraeus.
+The additions follow Odyssey 21.80–95, 118–139, and 345–372 and move the book
+from a density hold to a screen-pass without importing Book 22’s slaughter.
+
+Beauty remains provisional: the omen’s visionary register must be tested aloud
+against the quieter bow suspense, and the named reviewer must still audit every
+addition against the pinned Greek.
+
 The Iphitus account was checked again against Odyssey 21.22–30. The Greek
 says his twelve mares had perished, with the hard-working mules beneath them;
 it does not describe those animals as stolen. Both the collation authority and

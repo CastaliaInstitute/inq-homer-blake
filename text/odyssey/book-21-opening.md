@@ -69,8 +69,14 @@ Even in dreams, remembering what I lost.”
 Eumaeus took the bow in tears and laid it down;
 The cowherd, elsewhere, wept to see the weapon
 Of his old master. Antinous rebuked them:
-“Why trouble the woman with your mourning? This bow
-Will break the hearts of many excellent men.”
+“Witless field-men, thinking only of the day,
+Why let these tears run down, and stir the woman’s heart,
+Whose spirit lies already in the grief of losing
+Her husband? Sit in silence, eat; or go beyond
+The doors and weep, leaving the bow to be our trial.
+For I do not think this finely fashioned bow
+Will bend with ease. No man among us is like Odysseus—
+I saw him once myself, when I was still a child.”
 
 Then wise Telemachus addressed the suitors:
 “What folly Zeus has planted in my mind! My mother,
@@ -89,12 +95,20 @@ Though I am grown and can take up the prizes
 My father won in contests before he sailed.”
 
 Telemachus sprang up, laid aside his sword,
-And dug one trench, long and straight. He planted
-The twelve axes in a row, and packed the earth
-About them. Standing on the threshold, he tried.
+And set the red cloak from his shoulders. He planted
+The twelve axes in a row, and dug one trench, long
+And straight, then packed the earth about them, level;
+All who looked on wondered, for no one had seen
+Such order made before. Standing on the threshold,
+He tried.
 Three times he strained the bow; three times he let it go,
 Already hoping to string it. On the fourth
 He would have drawn it, but Odysseus nodded him back.
+Then, turning from the weapon, he spoke aloud:
+“Am I so weak, and will the years still call me young?
+Have I no hands to drive a man away when first
+He brings me insult? Come, you who are stronger than I,
+Take up the bow, and let us end the contest.”
 Then he told all the suitors to attempt it in turn,
 And set the arrow down beside the polished boards.
 
@@ -128,9 +142,13 @@ Wives, give you cattle and houses near my own,
 And you shall be companions to Telemachus,
 His brothers and his friends.” Then he showed the scar
 The boar had made above his knee on Parnassus.
+He cast the rags aside and showed the unmistakable mark,
+The scar the boar had made above his knee on Parnassus.
 They knew him, flung their arms around their king,
-Kissed head and shoulders, and wept until the light
-Would fail; but he restrained them: “Stop your lament.
+Kissed his head and shoulders; he in turn embraced
+And kissed their heads and hands. Their weeping might have lasted
+Until the sun went down, but he restrained them:
+“Stop your lament.
 Someone may come out, and carry word within.
 Go in first, one by one; I will follow after you.”
 
@@ -147,15 +165,22 @@ And stood again beside their hidden king.
 Antinous could not bend the bow, and urged
 That they should leave the contest for the feast.
 Eurymachus had warmed it too, and strained until
-His heart groaned; then he said: “This grief is not for marriage
-Alone. There are other women in Ithaca and elsewhere;
-But shame will reach the sons of men if we prove weaker
-Than great Odysseus, whose bow no hand can bend.”
+His heart groaned beneath the effort; then he said:
+“My grief is not for marriage only. There are other women,
+Many Achaean women, here in sea-ringed Ithaca
+And in the towns beyond; but shame will travel far
+If men who seek the wife of blameless Odysseus
+Are found so much inferior in their hands and strength
+That we cannot bend his bow, and a wandering beggar,
+Who comes from nowhere, draws it easily before us.”
 Antinous answered: “The people keep a holy feast
 To the Archer today; no man should string a bow now.
-Set it aside. Let the cupbearer begin the wine,
-And tomorrow bid Melanthius bring the finest goats,
-That we may sacrifice to Apollo and renew
+Set it aside. Let the cupbearer first begin the wine;
+Let all sit quiet, and leave the axes standing, since
+I do not think a stranger entering Laertes’ house
+Will kill a man. Tomorrow bid Melanthius bring
+The finest goats, those prized above the herds of all,
+That we may set their thighs before Apollo, and renew
 The contest.” They poured water over their hands
 And crowned the bowls; after the libation, then the stranger spoke:
 
@@ -214,6 +239,24 @@ He threatened to drive the mockers from the court with stones,
 And even to send one home in grief; if he were stronger
 Than every suitor, he would quickly make one leave
 This house, though they devised their evil here. They swallowed down
+Their anger, laughing still. Then Theoclymenus, who saw
+The signs of gods, cried out: “Unhappy men, what evil
+Has overtaken you? Darkness is wrapped around your heads,
+Your faces, and your knees; a wailing fire is lit.
+Your cheeks run tears, the walls and fair cross-beams drip
+With blood; the vestibule and courtyard fill with shades
+That hurry down to Erebus beneath the dark;
+The sun has perished from the sky, and evil mist
+Has risen.” They laughed at him, and Eurymachus said:
+“This stranger has lost his wits. Put him outside,
+That he may walk into the market, since he sees
+The night already here.” But the seer answered him:
+“I ask no escort from you. I have eyes and ears,
+Two feet, and in my breast a mind not made for shame.
+I go: I see the evil coming upon you—no suitor
+Shall flee it.” He left the house and found Peiraeus,
+Who welcomed him.
+
 Their anger, laughing still. Then Eumaeus bore the bow
 Toward Odysseus; within,
 Eurycleia barred the doors of the hall,

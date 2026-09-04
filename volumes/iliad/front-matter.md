@@ -5,7 +5,7 @@ The final volume should include, in this order:
 1. Half title
 2. Title page and edition statement
 3. Copyright, translation, image, and source acknowledgments
-4. **Forward by a.thucydides**
+4. **Forward — contributor to be commissioned**
 5. Translator's note describing the Greek base text and Longfellow formal
   model
 6. Contents

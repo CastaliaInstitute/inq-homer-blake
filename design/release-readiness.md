@@ -37,7 +37,7 @@ source, literary, art, rights, printer, or physical-proof approval.
 | `assets/covers/epic/{iliad,odyssey}/cover-art.png` | HOLD | Distinct art-only studies (1024 × 1536 and 1009 × 1559); no built-in credits, final provenance/right grant, or full-bleed 300-PPI production master. |
 | `assets/covers/epic/{iliad,odyssey}/front-cover.jpg` | HOLD | 2055 × 3142 / 300-PPI derivatives, but both visibly miscredit A.Longfellow and A.Blake. |
 | `assets/covers/epic/{iliad,odyssey}/web-cover.webp` | HOLD | 900 × 1376 web derivatives repeat the unsafe built-in credits and are not print masters. |
-| `output/pdf/inq-homer-*-cover-design-proof.pdf` | HOLD | Distinct one-page casewrap studies with placeholder spines; title and Homer are present, but translator/cover-artist credits and exact printer templates are absent. |
+| `output/pdf/inq-homer-*-cover-design-proof.pdf` | HOLD — corrected provisional | Distinct one-page comic-size casewrap studies now carry Homer, Castalia Institute as translator, and truthful Castalia Institute cover-art credit; placeholder spines and exact printer templates remain unresolved. |
 
 The illustration-free EPUB cover pages are the only currently credit-safe
 cover treatment; they are deliberately not represented as final cover art.
@@ -51,9 +51,10 @@ cover treatment; they are deliberately not represented as final cover art.
    the 7,835 meter-screen outliers through human read-aloud review.
 3. Select 48 final plates; lock passage, caption, creator role, rights/license,
    native-resolution master, and printer profile for each.
-4. Replace both inaccurate cover studies with distinct exact-template covers
-   carrying Homer, Castalia Institute as translator, and truthful cover-art
-   creator credits. Do not invent an ISBN.
+4. Retire the inaccurate raster cover studies, then adapt the corrected
+   provisional proofs to distinct exact printer templates carrying Homer,
+   Castalia Institute as translator, and truthful cover-art creator credits.
+   Do not invent an ISBN.
 5. Lock the exact comic-size printer route, stock, binding, output profile,
    final page counts, generated cover templates, and spine widths.
 6. Rebuild from locked sources; pass text, EPUBCheck, PDF box/font/image/profile,

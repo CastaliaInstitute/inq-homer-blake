@@ -43,3 +43,34 @@ Greek questions and should be read with each collation before approval.
 
 No ledger gate should be changed from `pending` until a named reviewer adds the
 missing evidence and signs this packet.
+
+## Critical review — 2026-09-04
+
+The opening establishes a strong tonal contract for the whole translation.
+“The man of many turnings” gives the invocation a formal breadth, while the
+sequence from cities and minds to sea-sorrows and the lost companions keeps
+Odysseus’s intelligence embodied in travel and consequence. The finest
+Longfellow-inspired movement is the turn from the broad proem to the solitary
+figure held in Calypso’s caves: the poem contracts without losing its epic
+weather. The recurring “home,” “friends,” and “return” vocabulary also gives
+the translation a clear acoustic spine.
+
+The draft is accurate in its principal causality: the companions perish by
+their own folly after eating the Sun’s cattle; Calypso holds Odysseus apart
+from his home; Poseidon’s anger originates in the Cyclops episode; and Athena’s
+plan joins the hero’s release to Telemachus’s public maturation. The Aegisthus
+example is correctly retained as Zeus’s answer to the mortal claim that gods
+alone cause human suffering. A line-level Greek audit should still check the
+force of “learned their minds,” the geography and political sense of the
+Ethiopians, and the distinction between what Zeus decides, what Athena proposes,
+and what Hermes is commissioned to announce.
+
+The main beauty risk is explanatory smoothness. Phrases such as “he took from
+them the day of their returning” are powerful but syntactically unusual; they
+should be tested aloud before being normalized. The divine council must keep
+its ceremonial alternation of accusation, pity, and plan, while the later
+threshold scene should not let modern psychological language replace the
+poem’s concrete objects, guest-ritual, and household disorder.
+
+**Disposition:** critical review recorded; Greek-fidelity, literary, meter,
+notes, and human sign-off remain pending.

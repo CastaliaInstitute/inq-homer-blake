@@ -4,15 +4,15 @@
 **Audit scope:** `design/illustration-placeholders.md`, `design/plate-manifest.csv`,
 `design/provenance-audit.md`, `design/illustration-art-direction.md`, and the
 available assets  
-**Report date:** 2026-09-03
+**Report date:** 2026-09-04
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 55 current manifest
+The illustration system has 48 defined book slots and 56 current manifest
 records. They cover all 48 book slots with original generated candidates:
 24 Iliad books and 24 Odyssey books. The current set is useful for editorial selection and
 art-direction review, but it contains no approved final art. Two records are
-historical references from the 1805 Flaxman Homer edition; the other 53 are
+historical references from the 1805 Flaxman Homer edition; the other 54 are
 CastaliaInstitute original generated concepts, including alternates. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not

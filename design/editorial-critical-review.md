@@ -1,6 +1,6 @@
 # A+ critical editorial audit
 
-**Audit date:** 2026-09-03
+**Audit date:** 2026-09-04
 
 **Scope:** *The Iliad* and *The Odyssey* manuscripts and publication artifacts
 
@@ -21,7 +21,7 @@ credit-safe. No successful validator or PDF build overrides these holds.
 
 | Criterion | Grade | Finding | Gate to A+ |
 |---|:---:|---|---|
-| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority. Density holds remain for *Odyssey* 21 (4.66), 22 (3.40), and 23 (4.36 words/source-line). | Independent line-level omissions/additions and adopted-reading records for every book; resolve the three holds without padding. |
+| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority. Density holds remain for *Odyssey* 21 (4.66), 22 (3.52), and 23 (4.36 words/source-line). | Independent line-level omissions/additions and adopted-reading records for every book; resolve the three holds without padding. |
 | Book/line structure | B | Books 1–24 occur once and in order in both manuscripts and exports; duplicate regression screen passes. | Human structural inventory against every Greek book and a renewed post-lock duplicate/omission pass. |
 | Oral, musical English | D+ | Heuristic 8–12-syllable band: *Iliad* 58.6%; *Odyssey* 69.8% (5,910/8,462). 7,820 outliers are unreviewed; syllable count does not test stress or beauty. | Named stress/read-aloud review, revision of syntactic drag and prose lineation, documented intentional exceptions. |
 | Credits | D | Text metadata correctly names Homer and Castalia Institute, but both raster covers falsely say “Translated by A.Longfellow” and “Illustrated by A.Blake.” | Replace covers and verify title/author/translator/cover-artist/plate-role credits in every final format. |

@@ -2,7 +2,7 @@
 
 **Edition:** Castalia Institute / Homer two-volume set
 
-**Audit date:** 2026-09-03
+**Audit date:** 2026-09-04
 
 **Required format:** standard US comic trim, 6.625 × 10.25 in; 0.125 in bleed; two-column line-preserving verse
 
@@ -17,7 +17,7 @@ source, literary, art, rights, printer, or physical-proof approval.
 |---|---|---|
 | Book and source structure | PASS | 24 ordered books per volume; all 48 source-span authorities reach their canonical endpoint without a ledger gap or overlap. |
 | Duplicate screen | PASS | All 48 openings and collation authorities pass repeated-block and adjacent-duplicate checks. This is not an omissions audit. |
-| Reader-facing completeness | HOLD | *Odyssey* 21–23 remain below the conservative 5.0 words/source-line screen: 4.66, 3.40, and 4.36. *Iliad* has no density hold. |
+| Reader-facing completeness | HOLD | *Odyssey* 21–23 remain below the conservative 5.0 words/source-line screen: 4.66, 3.52, and 4.36. *Iliad* has no density hold. |
 | Human editorial gates | HOLD | All 48 books are `review`; all 288 Greek, narrative, verse, diction, notes, and production gate cells remain `pending`. |
 | Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 5,910/8,462 *Odyssey* lines (69.8%) fall in the heuristic 8–12-syllable band; 7,820 outliers remain unreviewed. |
 | Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |

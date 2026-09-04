@@ -6,6 +6,5 @@ Work in source order within each volume. For every book, compare the expanded En
 
 | Priority | Volume | Book | Source lines | Current words | Screen-floor words | Additional words to floor | Current density | Working file |
 |---:|---|---:|---:|---:|---:|---:|---:|---|
-| 1 | odyssey | 23 | 372 | 1621 | 1860 | 239 | 4.36 | `text/odyssey/book-23-opening.md` |
 
-**Open queue:** 1 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.
+**Open queue:** 0 books. A book leaves this queue only after expansion and documented editorial review; a density screen-pass does not itself approve a translation.

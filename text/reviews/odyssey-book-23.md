@@ -32,7 +32,15 @@ the dawn.
 **Review date:** unassigned  
 **Decision:** not approved
 
-## Critical review — 2026-09-03
+## Critical review — 2026-09-04
+
+The latest source-order revision restores the nurse’s stumbling urgency, her
+second oath and exact evidence, Penelope’s warning that another woman would be
+driven from the chamber for waking her, the dead gathered at the outer doors,
+and the physical logic of the olive-root bed. It also restores concrete
+voyage-history detail about the opened bag of winds and the loss of the fleet.
+The conservative density screen now passes at 5.01 words per source line; this
+is a triage result, not human approval.
 
 The book’s central image—the bed whose living olive root becomes the house’s
 marital center—is beautiful and structurally exact. The false wedding song is

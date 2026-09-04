@@ -16,9 +16,8 @@
 | Book-level review packets started | 48 |
 
 All 48 books have contiguous source-collation coverage. The reader-facing
-density screen currently holds only Odyssey Book 23 for material compression;
-Book 24 has cleared the provisional density screen but remains under all human
-editorial gates.
+density screen currently holds no book for material compression; all 48 books
+clear the provisional screen but remain under all human editorial gates.
 This establishes complete working source authorities, not complete or approved
 literary translations: all books still require the six review gates and human
 signoff; see the [critical editorial review](editorial-critical-review.md).

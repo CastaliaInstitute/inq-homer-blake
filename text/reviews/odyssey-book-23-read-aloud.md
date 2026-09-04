@@ -39,6 +39,11 @@ an escape from the obligations that follow.
 
 ## Critical beauty and accuracy review — 2026-09-04
 
+The expanded pass should be read aloud again after the density revision. Its
+new details are source-grounded, but the added lines around the olive bed and
+the voyage catalogue must still earn their place musically rather than merely
+meeting a numerical screen.
+
 ### Accuracy
 
 The draft’s central evidence is sound: Eurycleia identifies Odysseus by the

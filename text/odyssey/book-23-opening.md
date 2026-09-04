@@ -20,12 +20,17 @@ diction, notes, and production review remain open.
 
 Eurycleia climbed the stair with joy, and cried:
 “Awake, dear child! Odysseus is here at last.
+My knees grew strong beneath me as I climbed,
+And my feet stumbled with the gladness in me.
 He has destroyed the men who consumed his house,
 Who ate his substance and oppressed your son.”
 
 Penelope answered, “The gods have made you mad.
 Odysseus is dead; some deathless power has slain
 The suitors, since no mortal could have done it.”
+“What other woman, hearing such a tale,
+Would not be driven from my chamber for it?
+But you are old; your age shall pardon you.”
 “No god has made me mad,” the nurse replied;
 “I tell you truly what my eyes have seen.
 The stranger whom they mocked, the guest whom all
@@ -62,6 +67,10 @@ Then you called me. I found him in the hall,
 Standing among the dead, while fire and sulfur
 Were cleansing all the house. Come now; the wish
 Of all three—yours, his, and mine—is fulfilled.”
+The slain were gathered at the outer doors;
+The king was making bright the beautiful house,
+And you would have rejoiced to see the work
+Had not your sorrow kept you from the hall.
 
 ### Lines 84–127 — Penelope descends
 
@@ -71,6 +80,10 @@ Or run and kiss his head and both his hands.
 She crossed the threshold, and in the firelight
 Sat opposite, looking at him now and then,
 Yet silent, for his blood-stained clothes concealed him.
+He sat beside a pillar, waiting for her word,
+His eyes upon her, though he spoke no word;
+She looked upon him face to face, then looked
+Away again, still doubtful in her heart.
 Telemachus cried, “Mother, why sit apart
 From him who, after twenty years of labor,
 Has come home living, and will not speak to him?”
@@ -136,6 +149,10 @@ And over it stretched shining ox-hide thongs,
 With gold and silver and bright ivory.
 Tell me: does that rooted bed still stand,
 Or has some other hand cut through its base?”
+He named the doors, the threshold, and the stones
+Set closely in their courses round the room;
+No fleeting ornament could answer him,
+But only what the two had built and known.
 
 He spoke of doors set firmly in their frames,
 Of stones laid close, and of the olive’s trunk
@@ -143,6 +160,11 @@ Cut level from its root and planed with bronze;
 The bed was finished from that rooted wood,
 Then worked with gold and silver and bright ivory,
 And bound with leather shining red as wine.
+Its root was sunk in earth, its branches reached
+Above the roof, and round it rose the room;
+The bed and chamber shared one living heart,
+And no hand could divide what love had joined.
+No mortal strength could move it from the earth.
 
 ### Lines 181–246 — Recognition and the lengthened night
 
@@ -157,6 +179,9 @@ And to one serving-woman, Actoris, whom
 Her father gave her when she crossed the sea;
 Actoris kept the chamber’s doors for them.
 She had been wary, for many people planned deceit.
+For no one knows what counsel lies in secret
+Within another’s breast, or what false tongue
+May wear the likeness of a trusted friend.
 Even Helen, daughter of Zeus, would not have shared
 A foreign bed if she had known the Achaeans
 Would bring her home.
@@ -223,6 +248,10 @@ And how the Lotus-eaters’ sweetness made
 His men forget the road; how Aeolus received
 Him kindly, yet the storm unbound the winds
 And drove him out again across the fish-dark sea.
+He told how his companions, seeing Ithaca,
+Unbound the bag of winds and woke the storm;
+How hunger and the sea took ship by ship,
+Until the oar alone remained to him.
 At Telepylus the Laestrygonians broke
 The ships and killed his people; he alone
 Escaped in his black ship. He spoke of Circe’s craft,

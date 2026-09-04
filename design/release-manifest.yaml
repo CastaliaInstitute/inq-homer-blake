@@ -84,7 +84,7 @@ proofs:
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: legacy_architecture_sample_not_exact_trim
     page_size_pt: [477, 738]
-    pages: 284
+    pages: 285
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: legacy_cover_design_sample_not_exact_trim

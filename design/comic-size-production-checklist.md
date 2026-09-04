@@ -24,9 +24,8 @@ proof PDFs are printer-ready.
   diction, and narrative beauty for every book.
 - [ ] Meter and read-aloud outliers have either been revised or expressly
   waived by the named literary editor.
-- [ ] The current Odyssey density hold (Book 23) has been
-  expanded and reviewed, or have a documented editorial waiver explaining why
-  compression is intentional and faithful.
+- [x] All 48 books clear the conservative translation-density screen; human
+  Greek-fidelity and literary approval remains open for every book.
 - [ ] Names, notes, glossary, and source-range references have passed their
   independent audit.
 - [ ] Every illustration slot has an approved caption/range, rights record,

@@ -21,7 +21,7 @@ credit-safe. No successful validator or PDF build overrides these holds.
 
 | Criterion | Grade | Finding | Gate to A+ |
 |---|:---:|---|---|
-| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority. Density holds remain for *Odyssey* 22 (3.52) and 23 (4.36 words/source-line); Book 21 now screens at 5.14 after source-grounded expansion. | Independent line-level omissions/additions and adopted-reading records for every book; resolve the two holds without padding. |
+| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority, and all 48 now clear the conservative density screen. *Odyssey* 22 screens at 5.03 and 23 at 5.01; Book 21 screens at 5.14 after source-grounded expansion. | Independent line-level omissions/additions and adopted-reading records for every book; human approval remains open without padding. |
 | Book/line structure | B | Books 1–24 occur once and in order in both manuscripts and exports; duplicate regression screen passes. | Human structural inventory against every Greek book and a renewed post-lock duplicate/omission pass. |
 | Oral, musical English | D+ | Heuristic 8–12-syllable band: *Iliad* 58.6%; *Odyssey* 69.9% (5,928/8,490). 7,830 outliers are unreviewed; syllable count does not test stress or beauty. | Named stress/read-aloud review, revision of syntactic drag and prose lineation, documented intentional exceptions. |
 | Credits | D | Text metadata correctly names Homer and Castalia Institute, but both raster covers falsely say “Translated by A.Longfellow” and “Illustrated by A.Blake.” | Replace covers and verify title/author/translator/cover-artist/plate-role credits in every final format. |

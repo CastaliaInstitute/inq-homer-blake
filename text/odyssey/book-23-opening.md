@@ -133,7 +133,6 @@ The wife of a long-absent husband had at last
 Chosen another man.
 
 Eurynome washed and anointed Odysseus;
-Athena poured beauty over his head and shoulders,
 Made him larger and fairer to behold; his hair
 Fell in curls like hyacinth. As when a craftsman,
 Taught by Hephaestus and by Pallas, overlays

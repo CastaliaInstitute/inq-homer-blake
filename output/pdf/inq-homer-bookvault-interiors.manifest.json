@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "6b5d3ac4ecad0d0b7c314bfd9012e1c0ea5ae2228a5fc4dd0a6b068328584e1c",
+      "pdfSha256": "42a2857a6ca619d66e632f4ff19217e3f116ffd17e0358c9db289e83a76e44b3",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -895,7 +895,7 @@
         {
           "book": 23,
           "source": "text/odyssey/book-23-opening.md",
-          "sourceSha256": "9642edf3a756d11d324a66a0fd9b158343ecb4f4df966825c5fad22e7cf8b761",
+          "sourceSha256": "11da7dec5f06c4267f56f76e5da4db93fe650ff881a8548b9d337457de3c4381",
           "plateId": "odyssey-book-23-penelope-bed-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-23-full-bleed.jpg",

@@ -6,7 +6,7 @@
 
 **A+ standard:** evidence-backed fidelity and completeness; intact 24-book
 structure; musical, speakable Longfellow-inspired English without padding;
-truthful credits and provenance; exact 168 × 260 mm production; valid EPUB/PDF;
+truthful credits and provenance; exact comic-size production; valid EPUB/PDF;
 rights, accessibility, metadata, and reproducible-build evidence.
 
 ## Verdict
@@ -38,15 +38,15 @@ artifact-level status.
 ## Safe corrections made in this audit
 
 - Established standard US comic trim as the primary production target;
-  relabeled 6.625 × 10.25 inch files as legacy architecture samples.
+  relabeled 168 × 260 mm files as alternate BookVault prepress studies.
 - Corrected print-manifest authorship from `a.Blake` to `CastaliaInstitute` and
   added a validator guard against future blanket Blake attribution.
 - Removed unsafe raster cover studies from the EPUB build path and added
   explicit translator-role, source-edition, accessibility, and fail-closed
   cover-status metadata.
 - Corrected future interior and cover builders to use truthful Castalia
-  Institute translator/art credits and exact trim; the interior builder now
-  enforces single-column no-wrap lineation. PDF and image assets were not
+  Institute translator/art credits and exact trim; the primary architecture
+  builder preserves two-column source-line lineation. PDF and image assets were not
   altered by this audit.
 
 The edition remains a private editorial prototype. Do not publish, sell, or

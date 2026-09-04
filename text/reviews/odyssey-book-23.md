@@ -79,6 +79,20 @@ the Greek’s active sense of the gods begrudging the couple their shared youth;
 “envied us” was less precise and was removed. The revision strengthens the
 line’s music without assigning the gods a different motive.
 
+### Beauty and accuracy pass — audible diction
+
+Four lines were revised in the working translation and its collation authority
+to remove avoidable stiffness without adding content. “The great house rang
+beneath the feet of men / And women with fair girdles” is idiomatic English and
+retains the Greek’s public, bodily sound; “thundered under men's feet and the
+feet / Of women” was mechanically repetitive. “Made him taller” keeps the
+transformation’s visible enlargement while avoiding the abstract “larger.”
+“Then all her guarded knowledge yielded” and “So he made her guarded heart
+yield at last” preserve Penelope’s deliberate resistance and its release more
+exactly than the blunt “broke” and the syntactically awkward “overcame her
+heart.” These are controlled literary edits, not a meter approval: the revised
+lines still require independent read-aloud and stress review.
+
 ### Accuracy correction — rooted-bed speech
 
 The earlier working pass repeated the bed’s construction after Odysseus had

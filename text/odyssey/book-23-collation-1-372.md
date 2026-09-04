@@ -120,14 +120,14 @@ Run through the town before we reach our fields.”
 
 They washed and dressed; Phemius took his lyre,
 And stirred the longing for song and dance.
-The great house thundered under men's feet and the feet
-Of women with fair girdles, moving through it.
+The great house rang beneath the feet of men
+And women with fair girdles, moving through it.
 Outside, a passerby heard the sound and thought
 The wife of a long-absent husband had at last
 Chosen another man.
 
 Eurynome washed and anointed Odysseus;
-Made him larger and fairer to behold; his hair
+Made him taller, fairer to behold; his hair
 Fell in curls like hyacinth. As when a craftsman,
 Taught by Hephaestus and by Pallas, overlays
 Silver with gold and brings fine works to grace,
@@ -159,7 +159,7 @@ Or has some other hand cut through its base?”
 
 ### Lines 181–246 — Recognition and the lengthened night
 
-Then all her guarded knowledge broke. She ran to him,
+Then all her guarded knowledge yielded. She ran to him,
 Embraced his neck, and kissed his head, saying
 “Do not be angry; wisdom was my guard.
 The gods who envied us denied the years
@@ -176,7 +176,7 @@ May wear the likeness of a trusted friend.
 Even Helen, daughter of Zeus, would not have shared
 A foreign bed if she had known the Achaeans
 Would bring her home.
-So he overcame her heart, hard though it had been.
+So he made her guarded heart yield at last.
 They wept like sailors who, when Poseidon breaks
 Their ship, set foot at last upon the land; and still
 Odysseus would not loose his arms from her.

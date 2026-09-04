@@ -43,6 +43,11 @@ and its collation authority. The change improves fidelity and gives the battle
 the poem's sudden avian suspension before the next volley; independent review
 and read-aloud signoff remain open.
 
+The same pass restores Agelaus's six-man spear strategy and the first deflected
+volley before Odysseus orders his allies to cast. This closes a tactical gap in
+the earlier compression and prevents the density screen from rewarding
+omission; the added lines remain a working translation, not padding.
+
 ## Critical review — 2026-09-03
 
 The book’s architecture is strong: it preserves the source’s rapid causal

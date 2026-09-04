@@ -181,6 +181,18 @@ But put their strength and courage to the proof;
 Then sprang aloft and, like a swallow, sat
 Upon the smoke-dark beam above the hall.
 
+Agelaus urged the suitors: “Friends, this man
+Will soon be stayed; his hands are not immortal.
+Mentor has gone, with empty words behind him;
+The four who stand before the outer doors
+Are all that now remain beside the king.
+Cast not your spears together; six begin—
+Perhaps Zeus will grant that Odysseus be struck;
+The rest will matter little when he falls.”
+They cast; Athena turned their weapons wide:
+One struck the pillar, one the steadfast door,
+One smote the wall, and one fell harmlessly.
+
 “Cast now,” Odysseus said. He struck Demoptolemus;
 Telemachus struck Euryades; Eumaeus
 Struck Elatus; and Philoetius struck Peisander.

@@ -19,7 +19,7 @@ source, literary, art, rights, printer, or physical-proof approval.
 | Duplicate screen | PASS | All 48 openings and collation authorities pass repeated-block and adjacent-duplicate checks. This is not an omissions audit. |
 | Reader-facing completeness | HOLD | All 48 books now clear the conservative 5.0 words/source-line screen; *Odyssey* Book 23 now screens at 5.01. Every book remains under Greek-fidelity, literary, meter, notes, and human signoff gates. |
 | Human editorial gates | HOLD | All 48 books are `review`; all 288 Greek, narrative, verse, diction, notes, and production gate cells remain `pending`. |
-| Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 6,050/8,622 *Odyssey* lines (70.2%) fall in the heuristic 8–12-syllable band; 7,840 outliers remain unreviewed. |
+| Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 6,055/8,628 *Odyssey* lines (70.2%) fall in the heuristic 8–12-syllable band; 7,841 outliers remain unreviewed. |
 | Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |
 | EPUB | HOLD | Deterministic, reflowable, illustration-free private proofs can be built with semantic navigation and fail-closed rights metadata. Authoritative EPUBCheck is not installed locally; final covers are also unresolved. |
 | Interior geometry | HOLD | Comic-size architecture proofs are 477 × 738 pt. Separate BookVault candidates validate at exact 168 × 260 mm with 24 full-page plates and embedded fonts; they are alternate prepress candidates, not the primary comic-size edition. |
@@ -48,7 +48,7 @@ cover treatment; they are deliberately not represented as final cover art.
    with the late Odyssey recognition and reconciliation sequence, then complete
    independent omissions/additions and fidelity reports for all 48 books.
 2. Obtain named signoff for all 288 editorial gate cells and resolve/document
-   the 7,840 meter-screen outliers through human read-aloud review.
+   the 7,841 meter-screen outliers through human read-aloud review.
 3. Select 48 final plates; lock passage, caption, creator role, rights/license,
    native-resolution master, and printer profile for each.
 4. Retire the inaccurate raster cover studies, then adapt the corrected

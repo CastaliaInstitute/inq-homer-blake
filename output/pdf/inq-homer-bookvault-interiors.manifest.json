@@ -478,8 +478,8 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "7792ccf5620b8d38ea28d9e910d3f6d0422c20df08db6ee7ba66f4c7a1ed72e0",
-      "pageCount": 252,
+      "pdfSha256": "7690d57a79686802bbbdd2255e8312b6c0657ec3cc44c7671e65bd80b8d48ebc",
+      "pageCount": 254,
       "trimMm": [
         168,
         260
@@ -514,8 +514,8 @@
         212,
         219,
         227,
-        236,
-        243
+        237,
+        244
       ],
       "books": [
         {
@@ -878,7 +878,7 @@
         {
           "book": 22,
           "source": "text/odyssey/book-22-opening.md",
-          "sourceSha256": "a053b985b91114bcb61af89bfdfc3df62038a447fa185fc95e40864ebb146159",
+          "sourceSha256": "bdc221559710d9cd4b84ab6f5fc7800c28dc3ec068e140d59265b35a8e61fb37",
           "plateId": "odyssey-book-22-hall-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-22-full-bleed.jpg",
@@ -890,7 +890,7 @@
           "productionPpi": 300,
           "platePage": 227,
           "textStartPage": 228,
-          "textEndPage": 235
+          "textEndPage": 236
         },
         {
           "book": 23,
@@ -905,9 +905,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 236,
-          "textStartPage": 237,
-          "textEndPage": 242
+          "platePage": 237,
+          "textStartPage": 238,
+          "textEndPage": 243
         },
         {
           "book": 24,
@@ -922,9 +922,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 243,
-          "textStartPage": 244,
-          "textEndPage": 252
+          "platePage": 244,
+          "textStartPage": 245,
+          "textEndPage": 254
         }
       ],
       "releaseEligible": false,

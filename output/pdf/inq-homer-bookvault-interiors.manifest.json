@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "e65e2e6cdf9f8f4842a213fafaf009b6fe972b5e9ef0e7d2c4f7f4a60a01c344",
+      "pdfSha256": "cd1419a7ee75f3d08f2516a3846e85bcb736f2cfc6cbeeaf21d3c8ec65fd3c5e",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -725,7 +725,7 @@
         {
           "book": 13,
           "source": "text/odyssey/book-13-opening.md",
-          "sourceSha256": "2fff0ec44f5d64fd0bdde4ff78eae83769faf0e381542db18815649605722a01",
+          "sourceSha256": "36afba48b3fa335c77db808a18e00001252a52aa43daae1a991ed0c0672cb413",
           "plateId": "odyssey-book-13-return-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-13-full-bleed.jpg",

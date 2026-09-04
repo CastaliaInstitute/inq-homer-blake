@@ -43,6 +43,8 @@ Greek-fidelity or literary approval.
 the singer and restores an explicit subject to Odysseus's repeated turning and
 longing for sunset. This corrects a grammatical ambiguity that could assign the
 song to Odysseus and improves the spoken line without adding source content.
+The landing passage also now assigns the gifts to the Phaeacian kings, as in the
+Greek, rather than implying that Athena acquired them.
 
 **Review date:** unassigned  
 **Decision:** not approved

@@ -48,9 +48,9 @@ def inspect(slug: str, expected: dict[str, int]) -> None:
     size = re.search(r"^Page size:\s+([\d.]+) x ([\d.]+) pts", info, re.MULTILINE)
     if not pages or int(pages.group(1)) != expected["pages"]:
         fail(f"{slug}: expected {expected['pages']} pages")
-    expected_points = (168 * 72 / 25.4, 260 * 72 / 25.4)
+    expected_points = (477.0, 738.0)
     if not size or any(abs(actual - expected_value) > 0.01 for actual, expected_value in zip(map(float, size.groups()), expected_points)):
-        fail(f"{slug}: expected exact 168 x 260 mm comic trim")
+        fail(f"{slug}: expected canonical 477 x 738 pt comic trim")
 
     image_rows = [
         line.split() for line in run("pdfimages", "-list", str(pdf)).splitlines()

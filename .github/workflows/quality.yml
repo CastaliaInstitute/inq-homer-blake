@@ -43,6 +43,8 @@ jobs:
         run: |
           python3 scripts/build_plate_selection_audit.py
           git diff --exit-code -- design/plate-selection-audit.csv design/plate-selection-audit.md
+      - name: Run illustration gate preflight
+        run: python3 scripts/preflight_illustration_gates.py
       - name: Rebuild and verify plate review contact sheet
         run: |
           .ci-image-tools/bin/python scripts/build_plate_review_contact_sheet.py --output /tmp/plate-review-contact-sheet.jpg

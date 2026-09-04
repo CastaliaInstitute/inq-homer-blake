@@ -8,7 +8,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
-from build_volume_proof import book_translation  # noqa: E402
+from translation_extract import book_translation  # noqa: E402
 
 
 for volume, title in (("iliad", "The Iliad"), ("odyssey", "The Odyssey")):

@@ -7,6 +7,12 @@ The two-volume edition will be illustrated with William Blake's historical
 work where appropriate, supplemented by clearly identified new plates in
 conversation with Blake's visual language.
 
+Current status: the editorial EPUBs and comic-size volume proofs are
+illustration-free private proofs. The historically documented Blake-associated
+scans are source-review references, not blanket “Blake” illustrations; the
+current 48-slot plate selections are original CastaliaInstitute concepts and
+remain pending art-direction, rights, native-master, and physical-proof gates.
+
 ## Volumes
 
 - `iliad` — _The Iliad_, Homer

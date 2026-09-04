@@ -87,6 +87,8 @@ jobs:
         run: python3 scripts/preflight_web_previews.py
       - name: Run cover page-count preflight
         run: python3 scripts/preflight_cover_page_counts.py
+      - name: Run BookVault cover safety preflight
+        run: python3 scripts/preflight_bookvault_covers.py
       - name: Run two-column layout preflight
         run: python3 scripts/preflight_layout.py
       - name: Rebuild and verify architecture page map

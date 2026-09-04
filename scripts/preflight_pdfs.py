@@ -65,7 +65,7 @@ for pdf in pdfs:
     web_preview = pdf.stem.endswith("-web-preview")
     expected = (
         BOOKVAULT_PAGE if bookvault_interior
-        else BOOKVAULT_TRIM if web_preview
+        else TRIM if web_preview
         else COVER_PROOF if "cover-design-proof" in pdf.stem
         else TRIM
     )

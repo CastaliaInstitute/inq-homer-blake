@@ -143,28 +143,16 @@ Could shift it. I myself constructed it:
 Within the court there grew an olive tree,
 Its trunk a pillar, broad and flowering still.
 Around its rooted stem I raised the chamber,
-Fitted the doors, and polished all the wood;
-I shaped the bed from that living sign,
-And over it stretched shining ox-hide thongs,
-With gold and silver and bright ivory.
+With close-laid stones, and roofed it strongly over;
+I fitted doors, well joined within their frames.
+Then cut the olive's branches from its crown,
+And cut its trunk from root, and planed it smooth
+With bronze, and made it level, bored the wood;
+From this I shaped the bed, and worked it bright
+With gold and silver and the gleam of ivory;
+Then stretched the ox-hide leather, red as wine.
 Tell me: does that rooted bed still stand,
 Or has some other hand cut through its base?”
-He named the doors, the threshold, and the stones
-Set closely in their courses round the room;
-No fleeting ornament could answer him,
-But only what the two had built and known.
-
-He spoke of doors set firmly in their frames,
-Of stones laid close, and of the olive’s trunk
-Cut level from its root and planed with bronze;
-The bed was finished from that rooted wood,
-Then worked with gold and silver and bright ivory,
-And bound with leather shining red as wine.
-Its root was sunk in earth, its branches reached
-Above the roof, and round it rose the room;
-The bed and chamber shared one living heart,
-And no hand could divide what love had joined.
-No mortal strength could move it from the earth.
 
 ### Lines 181–246 — Recognition and the lengthened night
 

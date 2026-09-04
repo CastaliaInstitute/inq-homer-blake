@@ -73,3 +73,15 @@ The recognition speech has also been tightened against Odyssey 23.210–212.
 the Greek’s active sense of the gods begrudging the couple their shared youth;
 “envied us” was less precise and was removed. The revision strengthens the
 line’s music without assigning the gods a different motive.
+
+### Accuracy correction — rooted-bed speech
+
+The earlier working pass repeated the bed’s construction after Odysseus had
+already described it: the stones, doors, olive trunk, precious materials, and
+leather appeared twice. The canonical Greek gives one continuous account in
+Odyssey 23.183–204. The revised text removes the unsupported repetition and
+restores the sequence of roofing the chamber, cutting the olive trunk from its
+root, planing it level with bronze, boring the wood, shaping the bed, and
+stretching the ox-hide. This is a source-fidelity correction, not a stylistic
+abridgment; the Greek authority is the pinned Perseus text recorded in the
+collation header.

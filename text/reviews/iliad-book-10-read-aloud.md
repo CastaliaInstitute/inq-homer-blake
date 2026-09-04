@@ -33,6 +33,14 @@ meter or replace an independent omissions/additions review.
   review stress, proper names, repeated horse epithets, and the breath of the
   long interrogation.
 
+## Source-fidelity correction recorded in this pass
+
+The second consecutive copy of Nestor's reconnaissance proposal and Diomedes'
+answer was removed from the working translation. The source contains one such
+exchange; the retained passage preserves the complete reward, volunteer, and
+companion-selection sequence. This remains working evidence and requires
+independent human confirmation before any gate can pass.
+
 ## Gate disposition
 
 Greek fidelity, Verse, Diction, Notes, Narrative, and Production remain

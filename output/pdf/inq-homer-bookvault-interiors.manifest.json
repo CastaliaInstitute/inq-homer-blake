@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "ff06aca6715ff54e0937fb47cd12a7a1b869917b7f46bcae814d1f5d45fc8689",
+      "pdfSha256": "2aaf2c1b9f50ba990ade61e3ab150233cd2fc2588b0d72cd2cf2366cc859fe60",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -212,7 +212,7 @@
         {
           "book": 10,
           "source": "text/iliad/book-10-opening.md",
-          "sourceSha256": "7effedfca8756f9df8729589cc386ea60424b654de0344ee610f55ad87ca450e",
+          "sourceSha256": "b378354b105f16572e5e37782dbdef1cac38792e365d9e40076a753781cde2ae",
           "plateId": "iliad-book-10-night-raid-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-10-full-bleed.jpg",

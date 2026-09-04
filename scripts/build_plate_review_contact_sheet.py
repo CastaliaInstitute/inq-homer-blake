@@ -25,13 +25,10 @@ HEADER_H = 64
 
 
 def font(size: int):
-    candidates = [
-        "/System/Library/Fonts/Supplemental/Arial.ttf",
-        "/Library/Fonts/Arial.ttf",
-    ]
+    candidates = [ROOT / "assets/fonts/CormorantGaramond-Regular.ttf"]
     for candidate in candidates:
-        if Path(candidate).is_file():
-            return ImageFont.truetype(candidate, size)
+        if candidate.is_file():
+            return ImageFont.truetype(str(candidate), size)
     return ImageFont.load_default()
 
 

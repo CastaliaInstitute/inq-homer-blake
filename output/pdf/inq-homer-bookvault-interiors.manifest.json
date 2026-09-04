@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "f0526fd59128d3b690d551b621d904ce349ae96f9e1ac7d753dd06322d715130",
+      "pdfSha256": "acd024c423ff1a57d9ac7a0b66cf0efbe99d6d77addd778c5bd5be7aaf3dabd8",
       "pageCount": 320,
       "trimMm": [
         168,
@@ -475,7 +475,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "741cfefdb307c04fd181c733619536bb4756f8f30ded7eeac9e795f2a1e9948f",
+      "pdfSha256": "5dc2971485a07e46ba64ee598d592e0c1193faf8229696eaad6523b3e1a6d3c1",
       "pageCount": 222,
       "trimMm": [
         168,

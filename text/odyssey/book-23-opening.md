@@ -26,6 +26,10 @@ He has destroyed the men who consumed his house,
 Who ate his substance and oppressed your son.”
 
 Penelope answered, “The gods have made you mad.
+Why do you mock a heart so full of grief,
+And wake me from the sweet sleep that had bound
+My eyelids? Never since Odysseus went
+To see accursed Troy have I slept so deep.
 Odysseus is dead; some deathless power has slain
 The suitors, since no mortal could have done it.”
 “What other woman, hearing such a tale,
@@ -122,6 +126,8 @@ Run through the town before we reach our fields.”
 
 They washed and dressed; Phemius took his lyre,
 And stirred the longing for song and dance.
+The great house thundered under men's feet and the feet
+Of women with fair girdles, moving through it.
 Outside, a passerby heard the sound and thought
 The wife of a long-absent husband had at last
 Chosen another man.
@@ -129,7 +135,11 @@ Chosen another man.
 Eurynome washed and anointed Odysseus;
 Athena poured beauty over his head and shoulders,
 Made him larger and fairer to behold; his hair
-Fell in curls like hyacinth. He sat before Penelope:
+Fell in curls like hyacinth. As when a craftsman,
+Taught by Hephaestus and by Pallas, overlays
+Silver with gold and brings fine works to grace,
+So Athena poured her beauty over him.
+He sat before Penelope:
 “The gods have given you a heart harder than stone.
 Nurse, make up a bed outside the bedchamber,
 With fleeces, cloaks, and shining coverlets.”

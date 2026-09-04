@@ -39,8 +39,10 @@ second oath and exact evidence, Penelope’s warning that another woman would be
 driven from the chamber for waking her, the dead gathered at the outer doors,
 and the physical logic of the olive-root bed. It also restores concrete
 voyage-history detail about the opened bag of winds and the loss of the fleet.
-After the rooted-bed correction, the conservative density screen is 4.78 words
-per source line, so Book 23 is now an explicit compression hold. This is a
+After the rooted-bed correction and the restoration of Penelope's interrupted
+sleep, the household's resounding false-wedding scene, and Athena's goldsmith
+simile, the conservative density screen is 4.99 words per source line, so Book
+23 remains an explicit compression hold. This is a
 triage result, not human approval; the passage must be expanded only where
 Greek comparison identifies missing content, never by padding.
 

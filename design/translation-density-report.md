@@ -4,7 +4,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 
 | Volume | Book | Status | Source lines | English words | Words/source line | Result |
 |---|---:|---|---:|---:|---:|---|
-| iliad | 1 | review | 611 | 4605 | 7.54 | screen-pass |
+| iliad | 1 | review | 611 | 4603 | 7.53 | screen-pass |
 | iliad | 2 | review | 877 | 6128 | 6.99 | screen-pass |
 | iliad | 3 | review | 461 | 3233 | 7.01 | screen-pass |
 | iliad | 4 | review | 544 | 3456 | 6.35 | screen-pass |

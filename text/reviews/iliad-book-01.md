@@ -75,3 +75,12 @@ movement rather than feeling like an appended epilogue.
 
 **Disposition:** critical review recorded; Greek-fidelity, literary, meter,
 notes, and human sign-off remain pending.
+
+### Opening revision from accuracy/beauty review
+
+The opening now reads “sent many brave souls / down into the house of Hades”
+and “Zeus’s will moved on toward fulfillment.” The first removes an
+unnecessary claim of premature death from the Greek’s direct image of souls
+being sent to Hades; the second keeps the divine purpose active and audible
+without the passive construction “was brought.” The revision preserves the
+Longfellow-inspired elevated register while tightening the source relation.

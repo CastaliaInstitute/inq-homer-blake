@@ -39,6 +39,10 @@ jobs:
         run: ruby scripts/preflight_provenance.rb
       - name: Verify Homer print-review art
         run: .ci-image-tools/bin/python scripts/preflight_homer_print_art.py
+      - name: Rebuild and verify plate-selection audit
+        run: |
+          python3 scripts/build_plate_selection_audit.py
+          git diff --exit-code -- design/plate-selection-audit.csv design/plate-selection-audit.md
       - name: Rebuild and verify Bookvault prepress interiors
         run: |
           .ci-image-tools/bin/python scripts/build_bookvault_interiors.py

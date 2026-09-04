@@ -30,7 +30,8 @@ proof PDFs are printer-ready.
   independent audit.
 - [ ] Every illustration slot has an approved caption/range, rights record,
   role-accurate credit, and print master; concept-review assets are excluded
-  from release exports.
+  from release exports. The current 48-slot control matrix is
+  `design/plate-selection-audit.csv`; all rows remain provisional and pending.
 - [ ] Historical Blake material distinguishes Flaxman’s design from Blake’s
   engraving wherever applicable; original supplements are labeled as
   CastaliaInstitute work and never as Blake originals.

@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "03e89762ddc68ebafb3bec70a3a4f0a04d31860fc5396ae3be286b36571725a2",
+      "pdfSha256": "68ef16cace699abc307988f5d3b97f7459c63dbbb678efe1a04821c067e874a5",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -127,7 +127,7 @@
         {
           "book": 5,
           "source": "text/iliad/book-05-opening.md",
-          "sourceSha256": "ff89edb544d243516f96a2dd9e05aff22a7ca96e95f4776e0be62bb959afec4d",
+          "sourceSha256": "2c28b5a3ee2979c9ee7df08c0d87dfed59228b642d50b69034cdf6d4de018354",
           "plateId": "iliad-book-05-diomedes-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-05-full-bleed.jpg",

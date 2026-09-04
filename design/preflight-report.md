@@ -31,7 +31,7 @@ must still be closed in `design/release-readiness.md`.
 - Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Odyssey print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Raster cover studies: HOLD; both contain inaccurate A.Longfellow translator and A.Blake illustrator credits and must not ship.
-- BookVault source lock: 1 stale manuscript reference(s); rebuild required before candidate validation.
+- BookVault source lock: 0 stale manuscript reference(s); candidate hashes match current manuscript sources.
 - BookVault PDF manifest lock: 0 checksum mismatch(es); PDF hashes match the shared manifest.
 - Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.
 - Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.

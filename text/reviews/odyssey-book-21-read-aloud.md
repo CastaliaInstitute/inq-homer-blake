@@ -25,8 +25,9 @@ confinement to release; it remains working evidence pending independent review.
 An audit on 2026-09-03 removed Theoclymenus’s vision and departure, which had
 been imported from Book 20 into the Book 21 reading manuscript, and collapsed a
 double telling of Odysseus showing the Parnassus scar into one event. The book
-returns to a density hold; this is preferable to manufacturing completeness
-from duplicated or wrong-book text.
+now clears the provisional density screen at 5.14 words per source line; the
+remaining review is still open, and the added material is source-grounded
+rather than duplicated or imported from another book.
 
 ## Beauty and cadence
 

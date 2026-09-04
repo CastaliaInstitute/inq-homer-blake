@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "61d4dea0171eb1ba6b02b308220cabe6a4ef3531c6ddc0771f0322a8e6b86972",
+      "pdfSha256": "eacef3e61f8528ae47f2a209acc145d6218904cb0f592f8bf7897ab14ec092e2",
       "pageCount": 250,
       "trimMm": [
         168,
@@ -513,9 +513,9 @@
         202,
         212,
         219,
-        226,
-        233,
-        240
+        227,
+        234,
+        241
       ],
       "books": [
         {
@@ -861,7 +861,7 @@
         {
           "book": 21,
           "source": "text/odyssey/book-21-opening.md",
-          "sourceSha256": "59dc4b827da209adbfdb2096243aa97fa1356578bc690022d376724739203372",
+          "sourceSha256": "395fefec38a2ae6078fe56f4567f1a3d6f10d37c95a4f25e156555700ce61830",
           "plateId": "odyssey-book-21-bow-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-21-full-bleed.jpg",
@@ -873,7 +873,7 @@
           "productionPpi": 300,
           "platePage": 219,
           "textStartPage": 220,
-          "textEndPage": 225
+          "textEndPage": 226
         },
         {
           "book": 22,
@@ -888,9 +888,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 226,
-          "textStartPage": 227,
-          "textEndPage": 232
+          "platePage": 227,
+          "textStartPage": 228,
+          "textEndPage": 233
         },
         {
           "book": 23,
@@ -905,9 +905,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 233,
-          "textStartPage": 234,
-          "textEndPage": 239
+          "platePage": 234,
+          "textStartPage": 235,
+          "textEndPage": 240
         },
         {
           "book": 24,
@@ -922,8 +922,8 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 240,
-          "textStartPage": 241,
+          "platePage": 241,
+          "textStartPage": 242,
           "textEndPage": 250
         }
       ],

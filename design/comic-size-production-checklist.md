@@ -24,7 +24,7 @@ proof PDFs are printer-ready.
   diction, and narrative beauty for every book.
 - [ ] Meter and read-aloud outliers have either been revised or expressly
   waived by the named literary editor.
-- [ ] The three current Odyssey density holds (Books 21–23) have been
+- [ ] The two current Odyssey density holds (Books 22–23) have been
   expanded and reviewed, or have a documented editorial waiver explaining why
   compression is intentional and faithful.
 - [ ] Names, notes, glossary, and source-range references have passed their
@@ -47,8 +47,8 @@ proof PDFs are printer-ready.
 
 ## Current state
 
-The BookVault candidates use the required exact trim, but the Odyssey file must
-be revalidated after the current Book 23 revision. Legacy comic-size proofs do
+The BookVault candidates use the required exact trim, and the Odyssey file has
+been revalidated after the current Book 21 revision. Legacy comic-size proofs do
 not satisfy the exact-trim production target. None is yet a
 release artifact. Translation approvals, final art, printer-specific covers,
 color/profile controls, stock confirmation, and physical proofs remain open.

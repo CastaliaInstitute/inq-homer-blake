@@ -157,11 +157,33 @@ And crowned the bowls; after the libation, then the stranger spoke:
 And learn if wandering and hunger have not broken
 The strength that once was mine.” The suitors feared
 The beggar might string it. Then Antinous cried:
-“You are drunk. Wine once drove Eurytion mad
-Among the Lapiths, at Pirithous’ feast;
-His hosts dragged him from the house and maimed him.
-If you succeed, I’ll send you to King Echetus,
-The destroyer of men.”
+“Poor stranger, have you no sense, not even a little,
+That you should sit here feasting among proud men,
+Taking your portion, hearing all our speeches—
+As no other beggar or wanderer may hear them?
+Sweet wine devours the man who drinks it heedless,
+And wine once drove Eurytion mad, the famous Centaur,
+At mighty Pirithous’s feast among the Lapiths.
+When wine had clouded his mind, he did a monstrous deed
+Within the house; the heroes, seized by anguish,
+Dragged him beyond the doors, and with the ruthless bronze
+Cut nose and ears. He went away, bearing his madness.
+Since then the quarrel between Centaurs and men began—
+The first evil that drunkenness brought forth.
+So I foretell a mighty sorrow, if you string it:
+No help will meet you here among our people.
+At once, in a black ship, we’ll send you to King Echetus,
+Destroyer of all men; from him you will not escape.
+Drink quietly, and do not quarrel with younger men.”
+
+Penelope answered: “Antinous, it is neither fine
+Nor just to wrong the stranger who comes beneath
+Telemachus’s roof. Do you imagine that, if he
+Should string the great bow of Odysseus by his strength,
+He would take me home and make me his own wife?
+He does not harbor such a hope within his breast.
+Let no one here make that a grief within the feast;
+It would not suit you, nor should you think it so.”
 
 Eurymachus answered: “Lady, we do not believe
 This man will take you from us; it is not fitting.

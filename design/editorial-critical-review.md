@@ -14,16 +14,16 @@ rights, accessibility, metadata, and reproducible-build evidence.
 **HOLD — neither volume meets A+ release standard.** Both have complete
 book-level source coverage, but source-range continuity is not proof of a
 complete or faithful translation. All 288 human review gates are pending,
-three late-*Odyssey* books remain materially compressed, and neither cover is
+two late-*Odyssey* books remain materially compressed, and neither cover is
 credit-safe. No successful validator or PDF build overrides these holds.
 
 ## Criterion grades
 
 | Criterion | Grade | Finding | Gate to A+ |
 |---|:---:|---|---|
-| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority. Density holds remain for *Odyssey* 21 (4.66), 22 (3.52), and 23 (4.36 words/source-line). | Independent line-level omissions/additions and adopted-reading records for every book; resolve the three holds without padding. |
+| Text completeness and fidelity | C+ | 48/48 books have contiguous pinned-Greek source authority. Density holds remain for *Odyssey* 22 (3.52) and 23 (4.36 words/source-line); Book 21 now screens at 5.14 after source-grounded expansion. | Independent line-level omissions/additions and adopted-reading records for every book; resolve the two holds without padding. |
 | Book/line structure | B | Books 1–24 occur once and in order in both manuscripts and exports; duplicate regression screen passes. | Human structural inventory against every Greek book and a renewed post-lock duplicate/omission pass. |
-| Oral, musical English | D+ | Heuristic 8–12-syllable band: *Iliad* 58.6%; *Odyssey* 69.8% (5,910/8,462). 7,820 outliers are unreviewed; syllable count does not test stress or beauty. | Named stress/read-aloud review, revision of syntactic drag and prose lineation, documented intentional exceptions. |
+| Oral, musical English | D+ | Heuristic 8–12-syllable band: *Iliad* 58.6%; *Odyssey* 69.9% (5,928/8,490). 7,830 outliers are unreviewed; syllable count does not test stress or beauty. | Named stress/read-aloud review, revision of syntactic drag and prose lineation, documented intentional exceptions. |
 | Credits | D | Text metadata correctly names Homer and Castalia Institute, but both raster covers falsely say “Translated by A.Longfellow” and “Illustrated by A.Blake.” | Replace covers and verify title/author/translator/cover-artist/plate-role credits in every final format. |
 | Plate provenance | C+ | Historical records distinguish Flaxman design from Blake/Piroli engraving; original candidates are now credited to CastaliaInstitute and explicitly not to Blake. | Final selection, exact passage/caption, creator/system, rights grant, native master, checksum, and printed credit for all 48 plates. |
 | Comic-size production | C | Primary architecture proofs use exact 477 × 738 pt comic pages. Alternate BookVault candidates validate exact 168 × 260 mm trim, 24 full-page plates, and embedded fonts. | Lock vendor route, output intent, stock/binding, page counts, exact cover templates/spines, final exports, and physical proof. |

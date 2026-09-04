@@ -14,7 +14,8 @@ and warning, the fire, chair, fleeces, and fat used to warm the bow, the
 leaders’ postponement of the contest for Apollo’s feast, the suitors’ mockery
 of Eumaeus, Telemachus’s threat, and the separate fastening of the hall and
 courtyard doors. These additions were checked against Odyssey 21.101–143,
-21.167–204, and 21.359–395. The density screen remains a hold, and independent
+21.167–204, and 21.359–395. The density screen now clears provisionally at
+5.14 words per source line, and independent
 Greek-fidelity, literary, meter, notes, and production approval remain open.
 
 The pass also corrects a fidelity issue in the earlier draft: an invented
@@ -38,9 +39,9 @@ Parnassus scar has also been reduced to the single source event. Antinous’s
 rebuke of the grieving herdsmen and Telemachus’s fuller axe-setting remain as
 source-bearing revisions.
 
-Book 21 consequently returns to the density hold. Expansion must restore its
-own Greek detail and oral movement; material from another book cannot satisfy
-completeness.
+Book 21 consequently clears the density triage hold, but expansion must still
+survive independent Greek-fidelity and oral review; material from another book
+cannot satisfy completeness.
 
 The Iphitus account was checked again against Odyssey 21.22–30. The Greek
 says his twelve mares had perished, with the hard-working mules beneath them;

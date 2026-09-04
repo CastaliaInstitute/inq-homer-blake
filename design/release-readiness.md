@@ -17,9 +17,9 @@ source, literary, art, rights, printer, or physical-proof approval.
 |---|---|---|
 | Book and source structure | PASS | 24 ordered books per volume; all 48 source-span authorities reach their canonical endpoint without a ledger gap or overlap. |
 | Duplicate screen | PASS | All 48 openings and collation authorities pass repeated-block and adjacent-duplicate checks. This is not an omissions audit. |
-| Reader-facing completeness | HOLD | *Odyssey* 21–23 remain below the conservative 5.0 words/source-line screen: 4.66, 3.52, and 4.36. *Iliad* has no density hold. |
+| Reader-facing completeness | HOLD | *Odyssey* 22–23 remain below the conservative 5.0 words/source-line screen: 3.52 and 4.36. Book 21 now screens at 5.14 but remains under all human gates. *Iliad* has no density hold. |
 | Human editorial gates | HOLD | All 48 books are `review`; all 288 Greek, narrative, verse, diction, notes, and production gate cells remain `pending`. |
-| Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 5,910/8,462 *Odyssey* lines (69.8%) fall in the heuristic 8–12-syllable band; 7,820 outliers remain unreviewed. |
+| Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 5,928/8,490 *Odyssey* lines (69.9%) fall in the heuristic 8–12-syllable band; 7,830 outliers remain unreviewed. |
 | Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |
 | EPUB | HOLD | Deterministic, reflowable, illustration-free private proofs can be built with semantic navigation and fail-closed rights metadata. Authoritative EPUBCheck is not installed locally; final covers are also unresolved. |
 | Interior geometry | HOLD | Comic-size architecture proofs are 477 × 738 pt. Separate BookVault candidates validate at exact 168 × 260 mm with 24 full-page plates and embedded fonts; they are alternate prepress candidates, not the primary comic-size edition. |
@@ -44,10 +44,10 @@ cover treatment; they are deliberately not represented as final cover art.
 
 ## Exact remaining gates
 
-1. Expand or explicitly waive *Odyssey* 21–23 from the pinned Greek, then
+1. Expand or explicitly waive *Odyssey* 22–23 from the pinned Greek, then
    complete independent omissions/additions and fidelity reports for all 48 books.
 2. Obtain named signoff for all 288 editorial gate cells and resolve/document
-   the 7,820 meter-screen outliers through human read-aloud review.
+   the 7,830 meter-screen outliers through human read-aloud review.
 3. Select 48 final plates; lock passage, caption, creator role, rights/license,
    native-resolution master, and printer profile for each.
 4. Replace both inaccurate cover studies with distinct exact-template covers

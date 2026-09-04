@@ -32,6 +32,17 @@ purification of the hall.
 **Review date:** unassigned  
 **Decision:** not approved
 
+## Accuracy follow-up — 2026-09-04
+
+The Athena passage was checked against the pinned Greek at 22.236–240. The
+draft now retains the source's limited delay of victory while restoring the
+concrete transformation: Athena springs to the smoke-dark beam in the form of
+a swallow. Unsupported explanatory psychology and the claim that she moves
+unseen among the combatants were removed from both the reader-facing opening
+and its collation authority. The change improves fidelity and gives the battle
+the poem's sudden avian suspension before the next volley; independent review
+and read-aloud signoff remain open.
+
 ## Critical review — 2026-09-03
 
 The book’s architecture is strong: it preserves the source’s rapid causal

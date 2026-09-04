@@ -72,5 +72,24 @@ its ceremonial alternation of accusation, pity, and plan, while the later
 threshold scene should not let modern psychological language replace the
 poem’s concrete objects, guest-ritual, and household disorder.
 
+### Independent source check — Ethiopian feast and divine council, Odyssey 1.22–27
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg002.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.22–27
+
+The earlier draft collapsed two locations into one: it said Poseidon went to
+the Ethiopians “at the earth's far edge” and then placed the gods there with
+him. The Greek distinguishes Poseidon's feast from the council: the
+Ethiopians are the farthest people, divided between the setting and rising
+Sun; Poseidon sits at their hecatomb, while the other gods gather in Zeus's
+Olympian halls. The adopted revision restores the east/west geography, the
+bull-and-ram sacrifice, Poseidon's seated feast, and the council's separate
+location. This is both more accurate and more spacious in sound, giving the
+opening a clean ceremonial pause before Zeus speaks.
+
+This is a source-led revision, not independent approval. Greek-fidelity,
+narrative, verse, diction, notes, and production gates remain pending.
+
 **Disposition:** critical review recorded; Greek-fidelity, literary, meter,
 notes, and human sign-off remain pending.

@@ -80,9 +80,15 @@ the land he loved.
 
 But Poseidon had gone to the distant Ethiopians,
 
-to share their hecatomb, at the earth's far edge;
+the farthest of men, divided at the world's two ends,
 
-there the gods were gathered, and he among them.
+where the Sun goes down and rises, to share
+
+a hecatomb of bulls and rams. There he sat
+
+at the feast; the other gods were gathered
+
+in the halls of Zeus on high Olympus.
 
 The father of gods and men began to speak,
 

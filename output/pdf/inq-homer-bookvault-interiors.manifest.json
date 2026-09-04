@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "7690d57a79686802bbbdd2255e8312b6c0657ec3cc44c7671e65bd80b8d48ebc",
+      "pdfSha256": "18e9c2c4975a5f716cbe0f3aad8c79e0423f1d2fe92ecf88e12e3c036de9c720",
       "pageCount": 254,
       "trimMm": [
         168,
@@ -521,7 +521,7 @@
         {
           "book": 1,
           "source": "text/odyssey/book-01-opening.md",
-          "sourceSha256": "9570d87a4f5de0c897f9265082b84907f62f0fb9fbeed241bec8ac907845949e",
+          "sourceSha256": "533079447229b5afe7a9e40c96dad99c6266c55c837f4d5cb163dceace420445",
           "plateId": "odyssey-book-01-athena-v2-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-01-full-bleed.jpg",

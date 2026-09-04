@@ -197,8 +197,9 @@ His substance. Then this orchard and his house
 Would not have been devoured.”
 
 The king replied in the stranger’s feigned name:
-“I come from Alybas, and Eperitus
-Was the name my father gave me. A god’s storm
+“I come from Alybas, where splendid houses stand;
+Aphidas, son of King Polypemon, was my father;
+Eperitus is my name. A god’s storm
 Drove me unwilling from the Sicilian shore;
 My ship lies moored beyond the fields, apart
 From town. Five years ago your son came there;
@@ -212,6 +213,13 @@ That stranger—my own son, if he was ever mine.
 Did fish consume him in the open sea,
 Or beasts and birds upon the land? His mother
 And I could give him neither burial nor tears.”
+
+“Tell me as well, that I may know the truth:
+Who are you, and from what people? Where your city?
+Where is the swift ship that brought you here,
+And your godlike companions? Were you a merchant
+Come in another’s ship, while they went ashore
+And left you?”
 
 The king then answered, “I am that son. I have come
 In the twentieth year. The men who wronged me

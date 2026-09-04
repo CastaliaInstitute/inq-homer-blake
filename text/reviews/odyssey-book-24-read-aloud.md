@@ -39,6 +39,17 @@ confrontation, and stops sharply at Athena’s command. The new verse remains
 working evidence: names, agency, political settlement, and source boundaries
 still require independent human comparison.
 
+## Accuracy correction from source comparison
+
+The previous working pass compressed away Laertes’s follow-up questions about
+the stranger’s identity, city, ship, and companions (24.297–301), and it
+flattened Odysseus’s feigned genealogy by omitting Aphidas and Polypemon
+(24.304–306). Both synchronized manuscript files now restore those details.
+The correction improves the scene’s dramatic pressure: Laertes does not move
+directly from grief to recognition, but interrogates the stranger’s story before
+Odysseus reveals himself. This is a translator revision, not independent human
+approval; the full book remains pending.
+
 ## Beauty and cadence
 
 The underworld opening should be cool and ceremonial; the orchard should answer

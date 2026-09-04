@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "f748dbf15ab9837bcb82493035d476d9ad6a6ee0be73b4162cd3ea280ce474f1",
+      "pdfSha256": "21abbc17d350e3ce22fff27a1de9d1f2590d5d9956f9f49999d104bc6c48003e",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -912,7 +912,7 @@
         {
           "book": 24,
           "source": "text/odyssey/book-24-opening.md",
-          "sourceSha256": "73db62752d5b8b6e924ec620aaebe3807313cfcd86e67413a32fd83d029d2438",
+          "sourceSha256": "8b3e151797edc0b65f7463316ce58aebe29edf93b78af736f4cfe4eeb91ca541",
           "plateId": "odyssey-book-24-peace-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-24-full-bleed.jpg",

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Reject repeated multi-line blocks in the assembled Homer manuscripts."""
+"""Reject accidental repeated verse in Homer manuscripts and authorities."""
 
 from pathlib import Path
 import re
@@ -18,11 +18,21 @@ def normalized(line: str) -> str:
     return re.sub(r"[^a-z0-9 ]", "", line.lower())
 
 
+def adjacent_duplicate_lines(lines: list[str], label: str) -> None:
+    for index in range(1, len(lines)):
+        if lines[index] and lines[index] == lines[index - 1]:
+            failures.append(
+                f"{label}: repeated verse line at extracted lines "
+                f"{index} and {index + 1}: {lines[index]}"
+            )
+
+
 failures: list[str] = []
 checked = 0
 for volume in ("iliad", "odyssey"):
     for path in sorted((ROOT / "text" / volume).glob("book-??-opening.md")):
         lines = [normalized(line) for line in book_translation(path)]
+        adjacent_duplicate_lines(lines, str(path.relative_to(ROOT)))
         seen: dict[tuple[str, ...], int] = {}
         for index in range(len(lines) - BLOCK_LINES + 1):
             block = tuple(lines[index : index + BLOCK_LINES])
@@ -37,6 +47,16 @@ for volume in ("iliad", "odyssey"):
             else:
                 seen[block] = index
         checked += 1
+
+    for path in sorted((ROOT / "text" / volume).glob("book-??-collation-*.md")):
+        section = path.read_text(encoding="utf-8").split("## Revised translation pass", 1)[-1]
+        section = section.split("## Decision log", 1)[0]
+        lines = []
+        for raw in section.splitlines():
+            value = normalized(raw)
+            if value and not raw.lstrip().startswith("#"):
+                lines.append(value)
+        adjacent_duplicate_lines(lines, str(path.relative_to(ROOT)))
 
 if failures:
     for failure in failures:

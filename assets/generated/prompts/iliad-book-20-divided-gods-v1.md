@@ -1,7 +1,7 @@
 # Iliad Book 20 — The divided gods
 
 **Source:** Iliad 20.1–503 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: opposed Olympian ranks divide above the battlefield
 while Poseidon lifts Aeneas away from Achilles below. Crossing arcs of cloud,

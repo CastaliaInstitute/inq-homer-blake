@@ -56,4 +56,9 @@ generated.each do |row|
   fail!("generated #{row['final_file']}: missing original-work credit") unless row["credit_line"].to_s.include?("Original") && row["credit_line"].to_s.include?("not by William Blake")
 end
 
+prompt_files = Dir[File.join(ROOT, "assets", "generated", "prompts", "*.md")]
+prompt_files.each do |path|
+  fail!("#{path}: ambiguous a.Blake shorthand; use Blake-informed or a named creator role") if File.read(path).include?("a.Blake")
+end
+
 puts "OK provenance: #{plates.length} plates have sources, rights, captions, credits, and local files"

@@ -1,7 +1,7 @@
 # Iliad Book 8 — Zeus weighs the battle
 
 **Source:** Iliad 8.1–565 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Zeus above Ida weighs the battle while the Trojan
 surge presses toward the Achaean ships. One scale of light descends; broken

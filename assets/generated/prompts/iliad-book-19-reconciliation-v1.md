@@ -1,7 +1,7 @@
 # Iliad Book 19 — The reconciliation
 
 **Source:** Iliad 19.1–424 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Achilles and Agamemnon face one another before the
 assembled Achaeans in solemn public reconciliation. Briseis and the Myrmidons

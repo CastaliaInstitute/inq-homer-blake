@@ -1,7 +1,7 @@
 # Iliad Book 21 — Scamander rises
 
 **Source:** Iliad 21.1–611 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the river Scamander rises as a vast living current
 around Achilles, who braces on a narrow island of earth. Reeds, roots,

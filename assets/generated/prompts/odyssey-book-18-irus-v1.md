@@ -1,7 +1,7 @@
 # Odyssey Book 18 — Odysseus and Irus
 
 **Source:** Odyssey 18.1–428 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the disguised Odysseus and the beggar Irus face one
 another before the palace threshold with lowered hands before their contest.

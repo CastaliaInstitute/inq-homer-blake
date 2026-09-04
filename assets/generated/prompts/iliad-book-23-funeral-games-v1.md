@@ -1,7 +1,7 @@
 # Iliad Book 23 — The funeral games
 
 **Source:** Iliad 23.1–897 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the funeral-games chariot race curves around the
 turning post beside the sea. Horses, wheels, dust, and spectators sweep in one

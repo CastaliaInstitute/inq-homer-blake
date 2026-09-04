@@ -1,7 +1,7 @@
 # Odyssey Book 20 — The omen before judgment
 
 **Source:** Odyssey 20.1–394 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: before dawn in the palace hall, the disguised Odysseus
 and Telemachus wait in separate pools of shadow while the suitors gather beyond.

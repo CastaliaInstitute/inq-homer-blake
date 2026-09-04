@@ -3,13 +3,13 @@
 **Use case:** illustration-story  
 **Asset type:** full-page 168 × 260 mm interior plate candidate  
 **Source passage:** Iliad 5.1–909  
-**Creator:** CastaliaInstitute / a.Blake  
+**Creator:** CastaliaInstitute
 **Status:** concept-review; original contemporary work; not by William Blake  
 **Generated:** 2026-09-03 with built-in image generation
 
 ## Prompt
 
-Create an original portrait a.Blake plate for Iliad Book 5. Diomedes advances
+Create an original portrait Blake-informed plate for Iliad Book 5. Diomedes advances
 blazing at the center with spear raised; wounded Aphrodite withdraws upward
 and Ares looms like a storm behind; human courage is measured against divine
 scale. Use expressive hands, spears, severe negative space, visionary engraved

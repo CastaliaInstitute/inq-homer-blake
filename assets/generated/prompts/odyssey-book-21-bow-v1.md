@@ -1,7 +1,7 @@
 # Odyssey Book 21 — The great bow
 
 **Source:** Odyssey 21.1–434 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the disguised Odysseus calmly strings the great bow at
 the center of the hall while twelve axe heads align in a luminous corridor.

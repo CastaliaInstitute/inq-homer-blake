@@ -1,7 +1,7 @@
 # Odyssey Book 11 — Tiresias beneath the earth
 
 **Source:** Odyssey 11.1–640 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Tiresias rises from the underworld before Odysseus;
 the blood-filled trench, Persephone’s shades, and the dark river form a severe

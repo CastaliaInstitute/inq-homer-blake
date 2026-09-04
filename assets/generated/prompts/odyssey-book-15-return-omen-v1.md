@@ -1,7 +1,7 @@
 # Odyssey Book 15 — The return omen
 
 **Source:** Odyssey 15.1–557 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Telemachus's ship approaches Ithaca at first light as
 a hawk flies above carrying a small feather as omen. Athena appears only as a

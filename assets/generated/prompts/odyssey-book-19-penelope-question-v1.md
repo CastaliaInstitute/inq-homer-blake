@@ -1,7 +1,7 @@
 # Odyssey Book 19 — Penelope questions the stranger
 
 **Source:** Odyssey 19.1–604 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Penelope questions the disguised Odysseus across a low
 hearth while Eurycleia holds a lamp at the threshold. Smoke and olive-tree

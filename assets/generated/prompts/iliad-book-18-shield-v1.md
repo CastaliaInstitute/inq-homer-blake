@@ -1,7 +1,7 @@
 # Iliad Book 18 — The shield of Achilles
 
 **Source:** Iliad 18.1–617 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Thetis stands in Hephaestus's celestial forge as the
 new shield of Achilles is revealed like a radiant world. Its concentric fields

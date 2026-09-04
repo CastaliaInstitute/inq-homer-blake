@@ -1,7 +1,7 @@
 # Iliad Book 10 — The night raid
 
 **Source:** Iliad 10.1–579 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Diomedes and Odysseus move beneath a starless sky;
 Dolon is caught between fear and prophecy; Trojan horses and the sleeping camp

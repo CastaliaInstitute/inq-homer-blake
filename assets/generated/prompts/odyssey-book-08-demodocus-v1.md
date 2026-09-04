@@ -1,7 +1,7 @@
 # Odyssey Book 8 — The song of Demodocus
 
 **Source:** Odyssey 8.1–586 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the blind bard Demodocus sings with his lyre at the
 center of the Phaeacian feast while dancers and athletes circle him. Odysseus

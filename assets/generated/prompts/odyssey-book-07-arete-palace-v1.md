@@ -1,7 +1,7 @@
 # Odyssey Book 7 — The palace threshold
 
 **Source:** Odyssey 7.1–347 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Odysseus crosses the bronze threshold of the
 Phaeacian palace toward Queen Arete and King Alcinous. Athena's concealing mist

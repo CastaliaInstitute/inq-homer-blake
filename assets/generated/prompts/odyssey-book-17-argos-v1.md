@@ -1,7 +1,7 @@
 # Odyssey Book 17 — Argos recognizes Odysseus
 
 **Source:** Odyssey 17.1–606 · **Status:** concept-review · **Generated:** 2026-09-03
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: the disguised Odysseus pauses at the palace threshold
 as the old hound Argos lifts his head in recognition. The suitors are a distant,

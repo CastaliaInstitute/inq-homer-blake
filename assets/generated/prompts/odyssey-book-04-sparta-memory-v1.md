@@ -1,7 +1,7 @@
 # Odyssey Book 4 — Memory in Sparta
 
 **Source:** Odyssey 4.1–847 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: in the high hall at Sparta, Helen and Menelaus
 remember Troy for Telemachus. A bronze mixing bowl releases pale visionary forms

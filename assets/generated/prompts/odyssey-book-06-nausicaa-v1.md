@@ -1,7 +1,7 @@
 # Odyssey Book 6 — Nausicaa at the river
 
 **Source:** Odyssey 6.1–331 · **Status:** concept-review · **Generated:** 2026-09-03  
-**Creator:** CastaliaInstitute / a.Blake; original contemporary work, not by William Blake
+**Creator:** CastaliaInstitute; original contemporary work, not by William Blake
 
 Portrait full-page plate: Nausicaa stands beside the river with attendants,
 folded robes, and a mule cart as fully clothed Odysseus emerges cautiously from

@@ -3,13 +3,13 @@
 **Use case:** illustration-story  
 **Asset type:** full-page 168 × 260 mm interior plate candidate  
 **Source passage:** Iliad 4.1–544  
-**Creator:** CastaliaInstitute / a.Blake  
+**Creator:** CastaliaInstitute
 **Status:** concept-review; original contemporary work; not by William Blake  
 **Generated:** 2026-09-03 with built-in image generation
 
 ## Prompt
 
-Create an original portrait a.Blake plate for Iliad Book 4. A single descending
+Create an original portrait Blake-informed plate for Iliad Book 4. A single descending
 arrow cuts through the fragile stillness of the sworn truce; Athena's unseen
 agency is a narrow shaft of supernatural light; opposing armies fold toward
 collision in layered diagonals. Use visionary pen-and-ink engraving with

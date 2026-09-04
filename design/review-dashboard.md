@@ -1,6 +1,6 @@
 # Translation review dashboard
 
-**Audit date:** 2026-09-03
+**Audit date:** 2026-09-04
 **Authoritative ledger:** [`text/translation-status.csv`](../text/translation-status.csv)  
 **Review policy:** [`text/review-gates.md`](../text/review-gates.md) and the
 [`human-review-protocol.md`](human-review-protocol.md)

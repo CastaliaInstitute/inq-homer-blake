@@ -45,8 +45,8 @@ jobs:
           git diff --exit-code -- design/plate-selection-audit.csv design/plate-selection-audit.md
       - name: Rebuild and verify plate review contact sheet
         run: |
-          .ci-image-tools/bin/python scripts/build_plate_review_contact_sheet.py
-          git diff --exit-code -- design/plate-review-contact-sheet.jpg
+          .ci-image-tools/bin/python scripts/build_plate_review_contact_sheet.py --output /tmp/plate-review-contact-sheet.jpg
+          .ci-image-tools/bin/python scripts/build_plate_review_contact_sheet.py --verify design/plate-review-contact-sheet.jpg
       - name: Rebuild and verify Bookvault prepress interiors
         run: |
           .ci-image-tools/bin/python scripts/build_bookvault_interiors.py

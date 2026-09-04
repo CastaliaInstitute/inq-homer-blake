@@ -7,6 +7,7 @@ print-review derivatives and never changes their provisional approval state.
 
 from __future__ import annotations
 
+import argparse
 import csv
 from pathlib import Path
 
@@ -33,6 +34,11 @@ def font(size: int):
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--output", type=Path, default=OUT)
+    parser.add_argument("--verify", type=Path)
+    args = parser.parse_args()
+
     with AUDIT.open(newline="", encoding="utf-8") as stream:
         rows = list(csv.DictReader(stream))
     if len(rows) != 48:
@@ -71,9 +77,18 @@ def main() -> None:
         draw.text((x + 4, y + THUMB_H + 4), f"{slot}  {row['plate_id'][:24]}", fill="black", font=label_font)
         draw.text((x + 4, y + THUMB_H + 28), f"{row['selection_status']} / {status}", fill="#555555", font=small_font)
 
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    sheet.save(OUT, quality=92, optimize=True, progressive=True)
-    print(f"Wrote {OUT} ({width}x{height}, {len(rows)} slots)")
+    if args.verify:
+        with Image.open(args.verify) as existing:
+            if existing.size != (width, height) or existing.mode != "RGB":
+                raise SystemExit(
+                    f"contact sheet geometry mismatch: {existing.size} {existing.mode}; "
+                    f"expected {(width, height)} RGB"
+                )
+        print(f"Verified {args.verify} ({width}x{height}, {len(rows)} slots)")
+    else:
+        args.output.parent.mkdir(parents=True, exist_ok=True)
+        sheet.save(args.output, quality=92, optimize=True, progressive=True)
+        print(f"Wrote {args.output} ({width}x{height}, {len(rows)} slots)")
 
 
 if __name__ == "__main__":

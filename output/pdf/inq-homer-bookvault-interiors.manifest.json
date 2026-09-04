@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "cd1419a7ee75f3d08f2516a3846e85bcb736f2cfc6cbeeaf21d3c8ec65fd3c5e",
+      "pdfSha256": "80622ee2ebb790663603a8e1bd987e023f823f785d47fa32b224b267517d68b5",
       "pageCount": 252,
       "trimMm": [
         168,
@@ -793,7 +793,7 @@
         {
           "book": 17,
           "source": "text/odyssey/book-17-opening.md",
-          "sourceSha256": "d6d6a8d66e9ddf01e37aef33e9113ae39839f24bb27461cc643a49473390ad1c",
+          "sourceSha256": "e48e8eb0934bb092efb2790917d2ec10e6e2bb35639407680824e10734a469e7",
           "plateId": "odyssey-book-17-argos-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-17-full-bleed.jpg",

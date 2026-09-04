@@ -17,9 +17,10 @@ diction, notes, and production review remain open.
 
 ### Lines 1–73 — Telemachus returns
 
-When early Dawn appeared, Telemachus bound
-His sandals beneath his feet, and took the spear
-That rested in his hand. He longed to reach the city;
+When early Dawn appeared, Telemachus, beloved son
+Of godlike Odysseus, bound his sandals beneath his feet,
+And took the strong spear that rested in his hand.
+He longed to reach the city;
 He spoke to the swineherd:
 
 “Father, I go into the town, that my mother may see me.
@@ -146,13 +147,6 @@ Penelope answered: “May your word be fulfilled, stranger.
 Then you would quickly know my friendship and receive gifts,
 So that anyone meeting you might call me blessed.”
 
-### Lines 162–165 — Penelope answers the omen
-
-Penelope answered: “Stranger, may this word be fulfilled!
-Then you would quickly know my friendship and receive
-Many gifts from me, so that whoever met you afterward
-Would call me blessed.”
-
 ### Lines 166–246 — The road to the palace
 
 Before the house the suitors amused themselves with quoit and javelin,
@@ -222,7 +216,10 @@ Eumaeus and his master followed.
 Near the house and the gate they found Argos, once the hound
 Odysseus had raised before sailing to Troy. In his youth
 The hunters had admired his speed and scent; but his master left,
-And now he lay neglected upon a heap of dung before the doors.
+Every hunter once marveled at his speed and strength in the chase.
+And now he lay neglected upon a heap of dung before the doors,
+Where mules and oxen’s dung lay piled for servants to carry
+And spread across the fields.
 Ticks covered him. He had been strong and beautiful,
 But the servants, under the suitors’ rule, no longer cared for him.
 

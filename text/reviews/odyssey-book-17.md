@@ -24,7 +24,10 @@ the suitors' insults and omens.
 The reader-facing pass was expanded against the pinned Greek at the return to
 the palace: the ritual handwashing and table setting are now present, as are
 the elders’ questions to Telemachus about his voyage and father. The revised
-pass clears the project’s conservative density screen; independent
+pass also removes a duplicated four-line rendering of Penelope’s reply to
+Theoclymenus that had appeared under a second heading, and restores the source’s
+strong spear and the dung-pile’s agricultural use in the opening and Argos scene.
+It must now be re-screened for density; independent
 Greek-fidelity, literary, meter, notes, and production approvals remain open.
 
 | Gate | Current evidence | Required before pass |

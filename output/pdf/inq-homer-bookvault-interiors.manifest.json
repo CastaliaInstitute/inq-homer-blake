@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "68ef16cace699abc307988f5d3b97f7459c63dbbb678efe1a04821c067e874a5",
+      "pdfSha256": "702692b8e11b381cff0efe2f5ff3659fe436f90566324623252c1bde016cf3ae",
       "pageCount": 360,
       "trimMm": [
         168,
@@ -144,7 +144,7 @@
         {
           "book": 6,
           "source": "text/iliad/book-06-opening.md",
-          "sourceSha256": "912542dd4cba5b0ff4b3e0d31d0bfb3051063ef528bf3bdd2b98e476d7902869",
+          "sourceSha256": "dd75d5ec78e986c64ddc81fdddd0616a6e34383714aca73454bfbc15c76ed16e",
           "plateId": "iliad-book-06-hector-family-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-06-full-bleed.jpg",

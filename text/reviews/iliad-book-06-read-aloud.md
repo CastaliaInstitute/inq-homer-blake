@@ -34,6 +34,18 @@ and human sign-off remain open.
   alive in the mouth. Human read-aloud review should test names, compounds, and
   speech transitions at the comic-size two-column measure.
 
+## Source-fidelity corrections recorded in this pass
+
+- Corrected Euryalus' action at 6.21 from “stripped” to “slew” for Dresus and
+  Opheltius.
+- Corrected Bellerophon's divine gifts at 6.155 from “lovely courage” to “noble
+  stature.”
+- Changed Athena's temple response at 6.311 from an inferred gesture to the
+  source-faithful “gave no answer.”
+
+These changes remain editorial working evidence and require independent human
+confirmation before any gate can pass.
+
 ## Gate disposition
 
 The Verse gate remains **pending**. A named human reader must review stress,

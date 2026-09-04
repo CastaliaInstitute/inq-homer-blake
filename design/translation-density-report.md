@@ -9,7 +9,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | iliad | 3 | review | 461 | 3225 | 7.00 | screen-pass |
 | iliad | 4 | review | 544 | 3547 | 6.52 | screen-pass |
 | iliad | 5 | review | 909 | 5289 | 5.82 | screen-pass |
-| iliad | 6 | review | 529 | 4004 | 7.57 | screen-pass |
+| iliad | 6 | review | 529 | 4003 | 7.57 | screen-pass |
 | iliad | 7 | review | 482 | 3364 | 6.98 | screen-pass |
 | iliad | 8 | review | 565 | 2913 | 5.16 | screen-pass |
 | iliad | 9 | review | 713 | 4900 | 6.87 | screen-pass |

@@ -91,5 +91,23 @@ opening a clean ceremonial pause before Zeus speaks.
 This is a source-led revision, not independent approval. Greek-fidelity,
 narrative, verse, diction, notes, and production gates remain pending.
 
+### Independent source check — survival and exile, Odyssey 1.74–79
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg002.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.74–79
+
+The earlier wording, “He will not die before he sees his friends again,”
+changed the Greek's subject and claim. Zeus says that Poseidon will not kill
+Odysseus, but will drive him away from his fatherland; the line does not make
+a prediction about the timing of Odysseus's death or promise that he will see
+his friends. The adopted revision—“Poseidon will not kill him, but drive him
+far / from his own fatherland”—restores the divine agency and the poem's
+distinction between survival and exile. Its shorter, declarative cadence also
+sharpens Zeus's pronouncement.
+
+This is a source-led revision, not independent approval. Greek-fidelity,
+narrative, verse, diction, notes, and production gates remain pending.
+
 **Disposition:** critical review recorded; Greek-fidelity, literary, meter,
 notes, and human sign-off remain pending.

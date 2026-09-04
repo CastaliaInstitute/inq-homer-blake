@@ -148,7 +148,9 @@ go now and ask the swift one, Hermes, to tell the nymph
 
 that we have decided: let the steadfast man go home.
 
-He will not die before he sees his friends again.”
+Poseidon will not kill him, but drive him far
+
+from his own fatherland.”
 
 Athena said: “Father, if this is truly your will,
 

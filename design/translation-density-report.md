@@ -28,7 +28,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | iliad | 22 | review | 515 | 5726 | 11.12 | screen-pass |
 | iliad | 23 | review | 897 | 8804 | 9.81 | screen-pass |
 | iliad | 24 | review | 804 | 8372 | 10.41 | screen-pass |
-| odyssey | 1 | review | 444 | 2686 | 6.05 | screen-pass |
+| odyssey | 1 | review | 444 | 2689 | 6.06 | screen-pass |
 | odyssey | 2 | review | 434 | 2278 | 5.25 | screen-pass |
 | odyssey | 3 | review | 497 | 4714 | 9.48 | screen-pass |
 | odyssey | 4 | review | 847 | 7036 | 8.31 | screen-pass |

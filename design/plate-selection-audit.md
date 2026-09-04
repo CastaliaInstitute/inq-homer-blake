@@ -2,8 +2,8 @@
 
 This matrix is the release-control view of the forty-eight illustration
 slots. It binds each placeholder to exactly one current print-review
-candidate while keeping approval, rights, caption/range, native-master,
-and physical-proof gates explicitly open.
+candidate while keeping art direction, caption/range, rights/credit,
+native-master, and physical-proof gates explicitly open as separate fields.
 
 ## Current evidence
 
@@ -19,8 +19,8 @@ and physical-proof gates explicitly open.
 No row may be changed to approved until an editor locks the exact Greek/English
 range and caption, an art director approves the image, rights and creator
 credit are signed, the native master is archived, and a physical proof has
-passed inspection. The CSV is intentionally machine-readable so these holds
-cannot be hidden in prose.
+passed inspection. These five decisions are separate CSV fields so one green
+decision cannot obscure another open hold.
 
 | Volume | Slots | Current state |
 |---|---:|---|

@@ -71,6 +71,8 @@ jobs:
           git diff --exit-code -- text/source-coverage.csv
       - name: Run PDF geometry preflight
         run: python3 scripts/preflight_pdfs.py
+      - name: Verify Homer web samplers
+        run: python3 scripts/preflight_web_previews.py
       - name: Run cover page-count preflight
         run: python3 scripts/preflight_cover_page_counts.py
       - name: Run two-column layout preflight

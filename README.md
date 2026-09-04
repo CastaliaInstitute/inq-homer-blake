@@ -75,7 +75,9 @@ masters or approved final art.
 book-owned cover, the selected Book I print-review plate, and the complete
 current Book I translation. Their opening order is cover / plate / text, so PDF
 page 2 is the standalone plate and page 3 begins the two-column text sampler.
-The single plate is not repeated between text pages.
+The single plate is not repeated between text pages. Run
+`python3 scripts/preflight_web_previews.py` to verify canonical trim, page
+counts, image placement, and complete Book I text coverage.
 
 Because “illustrated by Blake” can obscure the distinction between designer
 and engraver, the [Blake–Homer source register](design/blake-homer-source-register.md)

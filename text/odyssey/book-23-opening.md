@@ -19,7 +19,9 @@ diction, notes, and production review remain open.
 ### Lines 1–83 — Eurycleia announces the return
 
 Eurycleia climbed the stair with joy, and cried:
-“Awake, dear child! Odysseus is here at last.
+“Awake, dear child, that your own eyes may see
+The thing you have desired through all these days:
+Odysseus has come home, though late in coming.
 My knees grew strong beneath me as I climbed,
 And my feet stumbled with the gladness in me.
 He has destroyed the men who consumed his house,

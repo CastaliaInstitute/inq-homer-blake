@@ -16,10 +16,9 @@
 | Pending gate records | 288 |
 | Book-level review packets started | 48 |
 
-All 48 books have contiguous source-collation coverage. The reader-facing
-density screen currently holds Odyssey Book 23 for material compression review;
-the other 47 books clear the provisional screen but remain under all human
-editorial gates.
+All 48 books have contiguous source-collation coverage and clear the reader-facing
+density screen. This is a triage result only; all 48 books remain under the
+human editorial gates.
 This establishes complete working source authorities, not complete or approved
 literary translations: all books still require the six review gates and human
 signoff; see the [critical editorial review](editorial-critical-review.md).

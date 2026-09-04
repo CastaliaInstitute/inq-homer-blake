@@ -20,7 +20,7 @@ AI-assisted preparation and automated screens remain non-approval evidence.
 |---|---|---|
 | Book and source structure | PASS | 24 ordered books per volume; all 48 source-span authorities reach their canonical endpoint without a ledger gap or overlap. |
 | Duplicate screen | PASS | All 48 openings and collation authorities pass repeated-block and adjacent-duplicate checks. This is not an omissions audit. |
-| Reader-facing completeness | HOLD | 47 books clear the conservative 5.0 words/source-line screen; *Odyssey* Book 23 is a documented 4.97-word/source-line compression hold after restoration of omitted source details and removal of redundant phrasing. Every book remains under Greek-fidelity, literary, meter, notes, and human signoff gates. |
+| Reader-facing completeness | PASS (triage only) | All 48 books clear the conservative 5.0 words/source-line screen; *Odyssey* Book 23 reaches 5.00 after restoration of omitted source details and removal of redundant phrasing. Every book remains under Greek-fidelity, literary, meter, notes, and human signoff gates. |
 | Human editorial gates | HOLD | All 48 books are `review`; all 288 Greek, narrative, verse, diction, notes, and production gate cells remain `pending`. |
 | Oral prosody | HOLD | 7,472/12,733 *Iliad* lines (58.7%) and 6,051/8,624 *Odyssey* lines (70.2%) fall in the heuristic 8–12-syllable band; 7,834 outliers remain unreviewed. |
 | Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |

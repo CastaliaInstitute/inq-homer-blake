@@ -35,14 +35,15 @@ the dawn.
 ## Critical review — 2026-09-04
 
 The latest source-order revision restores the nurse’s stumbling urgency, her
+invitation that Penelope see with her own eyes the return she has desired, and her
 second oath and exact evidence, Penelope’s warning that another woman would be
 driven from the chamber for waking her, the dead gathered at the outer doors,
 and the physical logic of the olive-root bed. It also restores concrete
 voyage-history detail about the opened bag of winds and the loss of the fleet.
 After the rooted-bed correction and the restoration of Penelope's interrupted
 sleep, the household's resounding false-wedding scene, and Athena's goldsmith
-simile, the conservative density screen is 4.97 words per source line, so Book
-23 remains an explicit compression hold. This is a
+simile, the conservative density screen is now 5.00 words per source line, so
+Book 23 clears the triage floor. This is a
 triage result, not human approval; the passage must be expanded only where
 Greek comparison identifies missing content, never by padding.
 

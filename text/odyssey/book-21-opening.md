@@ -140,8 +140,7 @@ No other man has prayed to see me home again.
 If Zeus gives me the suitors, I will bring you both
 Wives, give you cattle and houses near my own,
 And you shall be companions to Telemachus,
-His brothers and his friends.” Then he showed the scar
-The boar had made above his knee on Parnassus.
+His brothers and his friends.”
 He cast the rags aside and showed the unmistakable mark,
 The scar the boar had made above his knee on Parnassus.
 They knew him, flung their arms around their king,
@@ -239,24 +238,6 @@ He threatened to drive the mockers from the court with stones,
 And even to send one home in grief; if he were stronger
 Than every suitor, he would quickly make one leave
 This house, though they devised their evil here. They swallowed down
-Their anger, laughing still. Then Theoclymenus, who saw
-The signs of gods, cried out: “Unhappy men, what evil
-Has overtaken you? Darkness is wrapped around your heads,
-Your faces, and your knees; a wailing fire is lit.
-Your cheeks run tears, the walls and fair cross-beams drip
-With blood; the vestibule and courtyard fill with shades
-That hurry down to Erebus beneath the dark;
-The sun has perished from the sky, and evil mist
-Has risen.” They laughed at him, and Eurymachus said:
-“This stranger has lost his wits. Put him outside,
-That he may walk into the market, since he sees
-The night already here.” But the seer answered him:
-“I ask no escort from you. I have eyes and ears,
-Two feet, and in my breast a mind not made for shame.
-I go: I see the evil coming upon you—no suitor
-Shall flee it.” He left the house and found Peiraeus,
-Who welcomed him.
-
 Their anger, laughing still. Then Eumaeus bore the bow
 Toward Odysseus; within,
 Eurycleia barred the doors of the hall,

@@ -22,6 +22,12 @@ assertion of authority, the door-locking instructions, and the bow’s stringing
 were expanded into verse in this pass. The revised cadence moves from delay to
 confinement to release; it remains working evidence pending independent review.
 
+An audit on 2026-09-03 removed Theoclymenus’s vision and departure, which had
+been imported from Book 20 into the Book 21 reading manuscript, and collapsed a
+double telling of Odysseus showing the Parnassus scar into one event. The book
+returns to a density hold; this is preferable to manufacturing completeness
+from duplicated or wrong-book text.
+
 ## Beauty and cadence
 
 The bow should enter as a relic before it becomes a weapon. Penelope’s formal

@@ -31,6 +31,9 @@
       recorded before release.
 - [x] Compact or compressed translation material is blocked from promotion by
       `scripts/preflight_translation_completeness.rb`.
+- [x] Repeated multi-line manuscript blocks are blocked by
+      `scripts/preflight_manuscript_duplicates.py`; intentional repetition must
+      be rewritten or narrowly documented in that validator before promotion.
 - [ ] Translation-density holds in `design/translation-density-report.md` are
       expanded or individually waived with documented editorial rationale.
 

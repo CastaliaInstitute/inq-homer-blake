@@ -630,17 +630,8 @@ and left her bow there upon the ground.
 
 Then Hermes, the guide and slayer of Argus, addressed Leto:
 
-“Leto, I will not fight with you; it is a hard thing
-to box with the wives of Zeus, gatherer of the clouds.
-But among the immortal gods, boast freely that you defeated me
-by your strong might.”
-
-So he spoke; and Leto gathered the curved bow and arrows,
-scattered here and there in the whirling dust,
-and went back carrying them to her daughter.
-
-**Continuation:** line 498 completes Leto’s recovery of Artemis’s bow and
-continues the gods’ withdrawal; this unit ends after the divine quarrel.
+**Continuation:** line 498 begins Hermes’s speech to Leto; the following unit
+continues through Leto’s recovery of Artemis’s bow and the gods’ withdrawal.
 
 ## Translation — source-collated lines 498–611
 

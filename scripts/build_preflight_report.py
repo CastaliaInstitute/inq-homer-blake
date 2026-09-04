@@ -4,6 +4,7 @@
 
 from pathlib import Path
 import csv
+import hashlib
 import json
 import re
 import subprocess
@@ -48,6 +49,16 @@ odyssey_print_manifest = ROOT / "assets/print/illustrations/odyssey/manifest.jso
 if not odyssey_print_manifest.is_file():
     raise SystemExit(f"missing Odyssey print-art manifest: {odyssey_print_manifest}")
 odyssey_print = json.loads(odyssey_print_manifest.read_text(encoding="utf-8"))
+bookvault_manifest = json.loads(
+    (ROOT / "output/pdf/inq-homer-bookvault-interiors.manifest.json").read_text(encoding="utf-8")
+)
+stale_bookvault_sources = []
+for volume, record in bookvault_manifest["volumes"].items():
+    for book in record["books"]:
+        source = ROOT / book["source"]
+        current = hashlib.sha256(source.read_bytes()).hexdigest()
+        if current != book["sourceSha256"]:
+            stale_bookvault_sources.append(f"{volume} {book['book']}")
 
 density_holds = 0
 for status in statuses:
@@ -95,6 +106,7 @@ lines += [
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
     f"- Iliad print-review art: {iliad_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
     f"- Odyssey print-review art: {odyssey_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
+    f"- BookVault source lock: {len(stale_bookvault_sources)} stale manuscript reference(s); rebuild required before candidate validation.",
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",
     "- Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.",
     "",
@@ -104,7 +116,7 @@ lines += [
     "2. Separate literary, meter, and notes/glossary approvals.",
     "3. Art-direction selection, passage/caption locks, and rights confirmation.",
     "4. Final printer profile, cover templates, spine widths, and binding lock.",
-    "5. Final locked-text/art exports with PDF, trim, profile, overprint, and font checks.",
+    "5. Rebuild the stale BookVault candidates after text lock, then run PDF, trim, profile, overprint, font, and source-hash checks.",
     "6. Physical or printer proof inspection and dated correction record.",
 ]
 

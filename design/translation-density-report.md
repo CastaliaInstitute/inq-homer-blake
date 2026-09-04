@@ -24,7 +24,7 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | iliad | 18 | review | 617 | 4224 | 6.85 | screen-pass |
 | iliad | 19 | review | 424 | 3992 | 9.42 | screen-pass |
 | iliad | 20 | review | 503 | 4945 | 9.83 | screen-pass |
-| iliad | 21 | review | 611 | 6565 | 10.74 | screen-pass |
+| iliad | 21 | review | 611 | 6501 | 10.64 | screen-pass |
 | iliad | 22 | review | 515 | 5726 | 11.12 | screen-pass |
 | iliad | 23 | review | 897 | 8804 | 9.81 | screen-pass |
 | iliad | 24 | review | 804 | 8372 | 10.41 | screen-pass |
@@ -48,9 +48,9 @@ This is a conservative triage screen, not a literary or Greek-fidelity judgment.
 | odyssey | 18 | review | 428 | 2559 | 5.98 | screen-pass |
 | odyssey | 19 | review | 604 | 3092 | 5.12 | screen-pass |
 | odyssey | 20 | review | 394 | 1971 | 5.00 | screen-pass |
-| odyssey | 21 | review | 434 | 2196 | 5.06 | screen-pass |
+| odyssey | 21 | review | 434 | 2024 | 4.66 | hold |
 | odyssey | 22 | review | 501 | 1705 | 3.40 | hold |
 | odyssey | 23 | review | 372 | 1268 | 3.41 | hold |
 | odyssey | 24 | review | 548 | 2289 | 4.18 | hold |
 
-**Current holds:** 3 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.
+**Current holds:** 4 of 48 books. These books remain provisional and must not be represented as complete final translations solely because their collation files cover the source endpoint.

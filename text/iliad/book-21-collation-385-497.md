@@ -150,15 +150,6 @@ and left her bow there upon the ground.
 
 Then Hermes, the guide and slayer of Argus, addressed Leto:
 
-“Leto, I will not fight with you; it is a hard thing
-to box with the wives of Zeus, gatherer of the clouds.
-But among the immortal gods, boast freely that you defeated me
-by your strong might.”
-
-So he spoke; and Leto gathered the curved bow and arrows,
-scattered here and there in the whirling dust,
-and went back carrying them to her daughter.
-
 ## Decision log
 
 - Preserve Zeus’s laughter as a deliberate tonal counterpoint to the gods’ huge

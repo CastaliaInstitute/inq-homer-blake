@@ -39,7 +39,8 @@ def validate(volume: str, epubcheck_jar: Path | None) -> dict:
     require(manifest["books"] == 24, "EPUB must contain 24 books")
     require(manifest["illustrationPlates"] == 0, "unapproved plate art must not be embedded")
     require("Longfellow-inspired" in manifest["translator"], "translation credit must describe inspiration without false attribution")
-    require("Castalia Institute" in manifest["illustrator"], "illustration credit must identify the actual supplement creator")
+    require(manifest["illustrator"] is None, "illustration-free proof must not carry an illustrator credit")
+    require(manifest["illustrationCredit"].startswith("No illustrations included"), "illustration-free proof must state that no illustrations are included")
     require(len(manifest["openEditorialGates"]) == 7, "all editorial and production gates must remain explicit")
     source = ROOT / manifest["source"]
     require(sha256(source.read_bytes()) == manifest["sourceSha256"], "source export checksum differs")

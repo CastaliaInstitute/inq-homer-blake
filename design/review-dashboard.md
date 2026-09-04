@@ -15,10 +15,11 @@
 | Pending gate records | 288 |
 | Book-level review packets started | 48 |
 
-All 48 books have contiguous source-collation coverage, and the completeness
-gate reports zero compact holds. This establishes complete working authorities,
-not approval: all books still require the six review gates and human signoff;
-see the [critical editorial review](editorial-critical-review.md).
+All 48 books have contiguous source-collation coverage. The reader-facing
+density screen currently holds Odyssey Books 21–24 for material compression.
+This establishes complete working source authorities, not complete or approved
+literary translations: all books still require the six review gates and human
+signoff; see the [critical editorial review](editorial-critical-review.md).
 `review` means the material is ready for line-level editorial review; it does
 not mean that the translation has been approved or that it is ready for layout
 or print.

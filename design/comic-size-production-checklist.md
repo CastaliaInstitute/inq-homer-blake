@@ -24,7 +24,7 @@ proof PDFs are printer-ready.
   diction, and narrative beauty for every book.
 - [ ] Meter and read-aloud outliers have either been revised or expressly
   waived by the named literary editor.
-- [ ] The five current Odyssey density holds (Books 19, 21–24) have been
+- [ ] The four current Odyssey density holds (Books 21–24) have been
   expanded and reviewed, or have a documented editorial waiver explaining why
   compression is intentional and faithful.
 - [ ] Names, notes, glossary, and source-range references have passed their

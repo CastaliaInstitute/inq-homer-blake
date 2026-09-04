@@ -3,6 +3,14 @@ status: development
 last_reviewed: 2026-09-03
 readiness_control: design/release-readiness.md
 
+publication_credits:
+  author: "Homer"
+  translator: "Castalia Institute"
+  translation_note: "Translated from the pinned Greek copy texts in a Longfellow-inspired English verse form"
+  illustrator: pending_plate_level_selection
+  illustration_credit_rule: "Credit every included plate by documented creator role; do not apply a blanket William Blake credit"
+  illustration_free_proof_credit: "No illustrations included"
+
 format:
   trim_in: [6.625, 10.25]
   trim_mm_nominal: [168.275, 260.35]
@@ -22,7 +30,7 @@ volumes:
     title: "The Iliad"
     interior_pdf: output/pdf/inq-homer-iliad-bookvault-interior.pdf
     interior_pages: 320
-    interior_status: prepress_candidate_release_approval_pending
+    interior_status: prepress_candidate_stale_after_text_revision_rebuild_required
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
@@ -34,7 +42,7 @@ volumes:
     title: "The Odyssey"
     interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
     interior_pages: 222
-    interior_status: prepress_candidate_release_approval_pending
+    interior_status: prepress_candidate_stale_after_text_revision_rebuild_required
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
@@ -74,7 +82,7 @@ proofs:
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
     class: architecture_sample
     page_size_pt: [477, 738]
-    pages: 281
+    pages: 280
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
     class: cover_design_sample

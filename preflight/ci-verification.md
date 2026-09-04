@@ -5,8 +5,8 @@ currently executes the manifest-header check, CSV shape check, translation
 ledger check, illustration-placeholder coverage check, provenance-field check,
 prompt-file check, image-file check, duplicate-record check, review-packet
 coverage check, read-aloud coverage check, source-lock check, translation
-structure check, PDF geometry/layout checks, accessible-export check, and
-resolution/status preflight.
+structure check, multi-line manuscript-duplication check, PDF geometry/layout
+checks, accessible-export check, and resolution/status preflight.
 
 ## Reference verified run
 

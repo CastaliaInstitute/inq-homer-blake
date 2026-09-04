@@ -71,6 +71,12 @@ candidate in `design/iliad-plate-selection.csv` and
 lineage. These are interpolated placement derivatives for review, not native
 masters or approved final art.
 
+`python3 scripts/build_web_previews.py` builds the two web samplers from the
+book-owned cover, the selected Book I print-review plate, and the complete
+current Book I translation. Their opening order is cover / plate / text, so PDF
+page 2 is the standalone plate and page 3 begins the two-column text sampler.
+The single plate is not repeated between text pages.
+
 Because “illustrated by Blake” can obscure the distinction between designer
 and engraver, the [Blake–Homer source register](design/blake-homer-source-register.md)
 records the primary collection evidence and controlled attribution language.

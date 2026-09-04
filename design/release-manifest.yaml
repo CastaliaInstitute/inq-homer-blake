@@ -4,21 +4,18 @@ last_reviewed: 2026-09-03
 readiness_control: design/release-readiness.md
 
 format:
-  trim_mm: [168, 260]
-  document_mm_with_bleed: [174, 266]
-  interior_bleed_mm: 3
-  printing: "BookVault color print-on-demand"
-  standard_binding: perfect_bound
-  standard_interior_stock: "100gsm coated"
-  premium_binding: cloth_hardcover_with_matte_dust_jacket
-  premium_interior_stock: "115gsm coated"
-  premium_finishing: "gold spine foil; one black bookmark ribbon per physical volume"
+  trim_in: [6.625, 10.25]
+  trim_mm_nominal: [168.275, 260.35]
+  interior_bleed_in: 0.125
+  interior_stock: "80# White Coated"
+  printing: "Premium Color hardcover target"
+  binding: hardcover
   cover_spread: pending_page_count_and_printer_lock
-  cover_template_authority: "BookVault-generated template for the exact binding, stock, and approved page count"
+  cover_template_authority: "Printer-specific custom template after interior upload; BookVault is a provisional working route only"
   cover_safety_margin_casewrap_in: 0.75
   cover_spine_edge_clearance_in: 0.125
   cover_pdf_structure: single_page_integrated_spread
-  printer_spec_checked: "BookVault 168 x 260 mm target documented; live options, stock, and template confirmation pending"
+  printer_spec_checked: "Comic-size hardcover working target documented; final vendor, stock, and template confirmation pending"
 
 volumes:
   - id: iliad

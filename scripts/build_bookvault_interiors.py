@@ -126,7 +126,7 @@ def footer(title: str):
         canvas.setFont("Cormorant", 7.1)
         canvas.setFillColorRGB(0.34, 0.31, 0.27)
         canvas.drawString(MARGIN_X, (BLEED_MM + 6.3) * mm, title.upper())
-        canvas.drawCentredString(PAGE[0] / 2, (BLEED_MM + 6.3) * mm, "Translated by a.Longfellow")
+        canvas.drawCentredString(PAGE[0] / 2, (BLEED_MM + 6.3) * mm, "Longfellow-inspired translation / Castalia Institute")
         canvas.drawRightString(PAGE[0] - MARGIN_X, (BLEED_MM + 6.3) * mm, str(doc.page))
         canvas.restoreState()
 
@@ -160,8 +160,8 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         Paragraph(title, STYLES["title"]),
         Paragraph("Homer", STYLES["subtitle"]),
         Spacer(1, 11 * mm),
-        Paragraph("Translated by a.Longfellow", STYLES["credit"]),
-        Paragraph("Illustrated by a.Blake", STYLES["credit"]),
+        Paragraph("A Longfellow-inspired translation by Castalia Institute", STYLES["credit"]),
+        Paragraph("Historical Blake material and original Castalia Institute supplements", STYLES["credit"]),
         Paragraph("iNQ Epic - provisional 168 x 260 mm prepress candidate", STYLES["credit"]),
         PageBreak(),
         Paragraph("FORWARD", STYLES["book"]),

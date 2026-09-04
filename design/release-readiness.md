@@ -2,10 +2,9 @@
 
 **Edition:** CastaliaInstitute / Homer–Blake-informed two-volume set  
 **Audit date:** 2026-09-03  
-**Format:** BookVault comic trim, exactly 168 × 260 mm; two columns. Standard
-is 100gsm coated perfect-bound. Premium is 115gsm coated cloth hardcover with
-a matte dust jacket, gold spine foil, and one black bookmark ribbon per
-physical volume.
+**Format:** Standard US comic trim, 6.625 × 10.25 inches; two columns;
+hardcover; 80# White Coated interior, Premium Color target. BookVault’s
+168 × 260 mm interiors are provisional alternate prepress candidates.
 
 This sheet is the handoff control for the final publication review. A green
 automated preflight is evidence that the repository is internally consistent;

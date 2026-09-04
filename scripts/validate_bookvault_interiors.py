@@ -80,8 +80,8 @@ def main() -> None:
 
         title = subprocess.check_output(["pdftotext", "-f", "1", "-l", "1", str(pdf), "-"], text=True)
         assert volume["title"] in title
-        assert "Translated by a.Longfellow" in title
-        assert "Illustrated by a.Blake" in title
+        assert "A Longfellow-inspired translation by Castalia Institute" in title
+        assert "Historical Blake material and original Castalia Institute supplements" in title
         assert "Edited by Castalia Institute" not in title
 
         for book in volume["books"]:

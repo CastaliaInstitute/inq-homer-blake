@@ -65,7 +65,7 @@ for pdf in pdfs:
     web_preview = pdf.stem.endswith("-web-preview")
     expected = (
         BOOKVAULT_PAGE if bookvault_interior
-        else TRIM if web_preview
+        else BOOKVAULT_TRIM if web_preview
         else COVER_PROOF if "cover-design-proof" in pdf.stem
         else TRIM
     )
@@ -75,7 +75,7 @@ for pdf in pdfs:
         else tuple(round(value) for value in dimensions[:2]) == expected
     )
     if not size_valid:
-        label = "cover-proof spread" if expected == COVER_PROOF else "comic trim"
+        label = "cover-proof spread" if expected == COVER_PROOF else "exact BookVault trim" if web_preview else "comic trim"
         fail(f"{pdf.name} is not {label}: {fields.get('Page size', 'unknown')}")
     if bookvault_interior:
         trim = [float(value) for value in re.findall(r"\d+(?:\.\d+)?", fields.get("TrimBox", ""))]

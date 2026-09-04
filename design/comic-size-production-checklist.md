@@ -8,13 +8,13 @@ proof PDFs are printer-ready.
 
 | Control | Current target | Evidence / release condition |
 |---|---|---|
-| Trim | 6.625 × 10.25 in (168.275 × 260.35 mm) comic size | Architecture proofs report 477 × 738 pt; BookVault candidates are a separate provisional route with an exact 168 × 260 mm TrimBox |
-| Format | Two-column hardcover casewrap | Confirm the selected printer’s current hardcover option before activation |
-| Interior stock | 80# White Coated, Premium Color target | Confirm the printer’s current stock name before upload |
+| Trim | Exactly 168 × 260 mm BookVault comic size | BookVault candidates carry the authoritative exact TrimBox; old 477 × 738 pt proofs are historical references only |
+| Standard format | Two-column, 100gsm coated, perfect-bound | Confirm live BookVault option IDs before activation |
+| Premium format | Two-column, 115gsm coated, cloth hardcover, matte dust jacket, gold spine foil, and one black bookmark ribbon per physical volume | Confirm live BookVault bespoke option IDs and obtain the exact jacket/foil template before activation |
 | Interior bleed | 3 mm on all sides; 174 × 266 mm MediaBox | Validator checks every page and every full-page plate |
 | Interior color | Color-managed RGB/CMYK workflow selected with printer | Final profile and output intent are still pending |
-| Current architecture proof counts | Iliad 398 pages; Odyssey 280 pages | Counts must be frozen after publication approval and before template download; BookVault candidates remain separate prepress studies |
-| Cover | One-page integrated casewrap spread on the printer’s exact template | Must use the printer-generated template, not an estimated spine |
+| Current BookVault candidate counts | Iliad 320 pages; Odyssey 222 pages | Counts must be frozen after publication approval and before template download |
+| Cover | Standard paperback wrap or premium dust jacket, each on its exact BookVault template | Must use the printer-generated template, not an estimated spine |
 | Typography | Embedded, licensed Cormorant Garamond family | License lock and final PDF font inspection remain required |
 
 ## Release gates

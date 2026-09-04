@@ -24,7 +24,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_DIR = ROOT / "output" / "pdf"
 TMP_DIR = ROOT / "tmp" / "pdfs" / "homer-web-previews"
 FONT_DIR = ROOT / "assets" / "fonts"
-# Standard US comic trim: 6.625 x 10.25 inches, expressed in points.
+# BookVault's canonical comic trim is exactly 168 x 260 mm.
 PAGE_W, PAGE_H = 6.625 * inch, 10.25 * inch
 MARGIN_X, MARGIN_TOP, MARGIN_BOTTOM = 15 * mm, 16 * mm, 15 * mm
 COLUMN_GUTTER = 6 * mm

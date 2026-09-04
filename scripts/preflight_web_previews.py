@@ -50,9 +50,9 @@ def inspect(slug: str, expected: dict[str, int]) -> None:
     size = re.search(r"^Page size:\s+([\d.]+) x ([\d.]+) pts", info, re.MULTILINE)
     if not pages or int(pages.group(1)) != expected["pages"]:
         fail(f"{slug}: expected {expected['pages']} pages")
-    expected_points = (477.0, 738.0)
+    expected_points = (168 * mm, 260 * mm)
     if not size or any(abs(actual - expected_value) > 0.01 for actual, expected_value in zip(map(float, size.groups()), expected_points)):
-        fail(f"{slug}: expected exact 6.625 x 10.25 inch comic trim (477 x 738 pt)")
+        fail(f"{slug}: expected exact 168 x 260 mm BookVault trim")
 
     image_rows = [
         line.split() for line in run("pdfimages", "-list", str(pdf)).splitlines()
@@ -74,14 +74,14 @@ def inspect(slug: str, expected: dict[str, int]) -> None:
     # Poppler's default reading order follows the PDF's two column frames.
     # ``-layout`` visually interleaves some facing column lines.
     extracted_text = run("pdftotext", str(pdf), "-")
-    if "Longfellow-inspired translation / Castalia Institute" not in extracted_text:
+    if "Translated by a.Longfellow" not in extracted_text:
         fail(f"{slug}: required translation credit is missing")
     extracted_tokens = tokens(extracted_text)
     if not is_subsequence(source_tokens, extracted_tokens):
         fail(f"{slug}: PDF does not contain the complete current Book I text in order")
 
     print(
-        f"PASS: {slug} — {expected['pages']} pages, exact 6.625 x 10.25 inch comic trim, "
+        f"PASS: {slug} — {expected['pages']} pages, exact 168 x 260 mm trim, "
         f"one cover + one plate, {len(source_tokens)} source tokens"
     )
 

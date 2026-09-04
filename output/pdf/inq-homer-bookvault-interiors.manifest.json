@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 1,
+  "format": "BookVault prepress candidate",
+  "trimMm": [
+    168,
+    260
+  ],
+  "documentMm": [
+    174,
+    266
+  ],
+  "bleedMm": 3,
+  "historicalScansIncluded": false,
+  "releaseEligible": false,
+  "volumes": {
+    "iliad": {
+      "title": "The Iliad",
+      "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
+      "pdfSha256": "f0526fd59128d3b690d551b621d904ce349ae96f9e1ac7d753dd06322d715130",
+      "pageCount": 320,
+      "trimMm": [
+        168,
+        260
+      ],
+      "documentMm": [
+        174,
+        266
+      ],
+      "bleedMm": 3,
+      "plateCount": 24,
+      "colourPages": [
+        3,
+        15,
+        32,
+        42,
+        53,
+        68,
+        77,
+        85,
+        93,
+        105,
+        117,
+        131,
+        141,
+        157,
+        167,
+        181,
+        200,
+        216,
+        229,
+        240,
+        252,
+        268,
+        281,
+        302
+      ],
+      "books": [
+        {
+          "book": 1,
+          "source": "text/iliad/book-01-opening.md",
+          "sourceSha256": "0d122eb5f4f26a4f3090cd44ddc38ae81b2df2cbedcc99e36648f093f555104c",
+          "plateId": "iliad-book-01-apollo-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-01-full-bleed.jpg",
+          "productionSha256": "f24dc896eb7695dc0f0c654e5e3b27f2ea87959cbebb8d39bf93ef163f20b73d",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 3,
+          "textStartPage": 4,
+          "textEndPage": 14
+        },
+        {
+          "book": 2,
+          "source": "text/iliad/book-02-opening.md",
+          "sourceSha256": "49fa2689b3bc30ed858facdaa82c60e5bc8edf5242deef73a1cc44806a162b03",
+          "plateId": "iliad-book-02-ili-02-v1-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-02-full-bleed.jpg",
+          "productionSha256": "30a2b7b482c66cc3c335ad58075681a39fc11c3fd5f0e852d5c001e86991e50f",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 15,
+          "textStartPage": 16,
+          "textEndPage": 31
+        },
+        {
+          "book": 3,
+          "source": "text/iliad/book-03-opening.md",
+          "sourceSha256": "14e1d21a51e5ef8a367dcfa53bdd284a86e62e69a4dc9fe061a7c632563139b3",
+          "plateId": "iliad-book-03-helen-walls-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-03-full-bleed.jpg",
+          "productionSha256": "0859a82b19d82d67fcf49b1c75d884002d1b9163a76320cd12065914ffb88bdc",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 32,
+          "textStartPage": 33,
+          "textEndPage": 41
+        },
+        {
+          "book": 4,
+          "source": "text/iliad/book-04-opening.md",
+          "sourceSha256": "0818ff1dcb64724a7c2ad249d48b6e731ac6ba9ee5ffa11ec71c9487f0842f61",
+          "plateId": "iliad-book-04-broken-oath-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-04-full-bleed.jpg",
+          "productionSha256": "babcc08d5c59f979de4f277835d81b03cfb5a3ba21c5babbf35cebf5384417ad",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 42,
+          "textStartPage": 43,
+          "textEndPage": 52
+        },
+        {
+          "book": 5,
+          "source": "text/iliad/book-05-opening.md",
+          "sourceSha256": "ff89edb544d243516f96a2dd9e05aff22a7ca96e95f4776e0be62bb959afec4d",
+          "plateId": "iliad-book-05-diomedes-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-05-full-bleed.jpg",
+          "productionSha256": "424fadd61388654c1d647022f4b290ab4cb380ec9cf845837b7d8eaab670374e",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 53,
+          "textStartPage": 54,
+          "textEndPage": 67
+        },
+        {
+          "book": 6,
+          "source": "text/iliad/book-06-opening.md",
+          "sourceSha256": "912542dd4cba5b0ff4b3e0d31d0bfb3051063ef528bf3bdd2b98e476d7902869",
+          "plateId": "iliad-book-06-hector-family-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-06-full-bleed.jpg",
+          "productionSha256": "37ded981902ad4103c2e593b498d92ab41399b2f4924f7685e5667dee934dda5",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 68,
+          "textStartPage": 69,
+          "textEndPage": 76
+        },
+        {
+          "book": 7,
+          "source": "text/iliad/book-07-opening.md",
+          "sourceSha256": "ebbf346fb12d03164954618274694742f017c7fb4f7a69d05ffda683b206c24c",
+          "plateId": "iliad-book-07-hector-ajax-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-07-full-bleed.jpg",
+          "productionSha256": "2e572ae312c1dc87a9e8524b1cfe245e37673f4cef6fcaa2680d26f839d94f48",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 77,
+          "textStartPage": 78,
+          "textEndPage": 84
+        },
+        {
+          "book": 8,
+          "source": "text/iliad/book-08-opening.md",
+          "sourceSha256": "eb84d59c8da1855225ab4dd0857d93268bb0cfa790cb7c6eedbb0d5cb1003d67",
+          "plateId": "iliad-book-08-zeus-balance-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-08-full-bleed.jpg",
+          "productionSha256": "77c28ba1d79eb8498a12d0e3f5ea423b77b9477f2ae280b3beaaea1778d96ca2",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 85,
+          "textStartPage": 86,
+          "textEndPage": 92
+        },
+        {
+          "book": 9,
+          "source": "text/iliad/book-09-opening.md",
+          "sourceSha256": "ba2222daf1e77bbd23089e5239929d82b2f66770c817a6a06640ace1d3f3a09e",
+          "plateId": "iliad-book-09-embassy-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-09-full-bleed.jpg",
+          "productionSha256": "8afee9b3176182aa538cdc454b2ce011d7d71bc74f4a65f9e597750a44b3745d",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 93,
+          "textStartPage": 94,
+          "textEndPage": 104
+        },
+        {
+          "book": 10,
+          "source": "text/iliad/book-10-opening.md",
+          "sourceSha256": "7effedfca8756f9df8729589cc386ea60424b654de0344ee610f55ad87ca450e",
+          "plateId": "iliad-book-10-night-raid-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-10-full-bleed.jpg",
+          "productionSha256": "11f8b810927f9babcb797b43e2b86c30ba573b0455f66e779fe835a1725d5894",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 105,
+          "textStartPage": 106,
+          "textEndPage": 116
+        },
+        {
+          "book": 11,
+          "source": "text/iliad/book-11-opening.md",
+          "sourceSha256": "200dcb6e01b458483f6d152af1e3d141460f0cbac13235735653c0561d850be8",
+          "plateId": "iliad-book-11-patroclus-eurypylus-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-11-full-bleed.jpg",
+          "productionSha256": "c90565287170805f72513c42ad2cf31513661ada5d15c53e16604635ec8a4b85",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 117,
+          "textStartPage": 118,
+          "textEndPage": 130
+        },
+        {
+          "book": 12,
+          "source": "text/iliad/book-12-opening.md",
+          "sourceSha256": "2f4217c33f27f65a8ff4514eb7d99b63e46543e362e0d9b2929cd5e8be9cb9a8",
+          "plateId": "iliad-book-12-wall-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-12-full-bleed.jpg",
+          "productionSha256": "ff35d39d62f82d0a5cdb292e535429bc597b6f8a03e85efb78aee6e5e9373e6a",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 131,
+          "textStartPage": 132,
+          "textEndPage": 140
+        },
+        {
+          "book": 13,
+          "source": "text/iliad/book-13-opening.md",
+          "sourceSha256": "30bd5a16c9eed67ac839b51e6829840966bfe932dd2a0100b94ee36b218f751c",
+          "plateId": "iliad-book-13-poseidon-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-13-full-bleed.jpg",
+          "productionSha256": "f34007562f6b3b7e7771f6261fc15aeff1364e4b9b6648f7f2f1ccd525f5ec4c",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 141,
+          "textStartPage": 142,
+          "textEndPage": 156
+        },
+        {
+          "book": 14,
+          "source": "text/iliad/book-14-opening.md",
+          "sourceSha256": "e6678e6506e29f7561360360b0670570a7127a8906d278ee3f6467b387d91b9a",
+          "plateId": "iliad-book-14-hera-strategy-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-14-full-bleed.jpg",
+          "productionSha256": "915ddb37952ef4d3f708ce556a41e0a134a5e5339536c59caebbce67e58670c0",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 157,
+          "textStartPage": 158,
+          "textEndPage": 166
+        },
+        {
+          "book": 15,
+          "source": "text/iliad/book-15-opening.md",
+          "sourceSha256": "3adbe9ec301d66cc6f1f1cb82aa98e72be563ddb35d71ddaf310e741a7868d18",
+          "plateId": "iliad-book-15-zeus-wakes-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-15-full-bleed.jpg",
+          "productionSha256": "fd7d1e9a0f3713b960d394fdc092e124464123b39c7b4ea7ee15864bbeb35611",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 167,
+          "textStartPage": 168,
+          "textEndPage": 180
+        },
+        {
+          "book": 16,
+          "source": "text/iliad/book-16-opening.md",
+          "sourceSha256": "c4212d70a709a93b334f69f6535fcf050910d091964c78065d9816b7b83c5e81",
+          "plateId": "iliad-book-16-patroclus-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-16-full-bleed.jpg",
+          "productionSha256": "71d188e42176ede94f3208adf57816f728469ee9ba4b4abe75e8a2572bde46f9",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 181,
+          "textStartPage": 182,
+          "textEndPage": 199
+        },
+        {
+          "book": 17,
+          "source": "text/iliad/book-17-opening.md",
+          "sourceSha256": "53670e6da47d3b51483e1091523e2e46856bf52260d1e42b52dd3e12030a1d58",
+          "plateId": "iliad-book-17-menelaus-patroclus-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-17-full-bleed.jpg",
+          "productionSha256": "4cfa0ac6605e3462450b1ac6ec4def2e76147a96ae0650a5765a8bf37adca03c",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 200,
+          "textStartPage": 201,
+          "textEndPage": 215
+        },
+        {
+          "book": 18,
+          "source": "text/iliad/book-18-opening.md",
+          "sourceSha256": "4222355d23d934c7dfb2c16471a007750db53b51c8972a8501bb2ef54bf3df01",
+          "plateId": "iliad-book-18-shield-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-18-full-bleed.jpg",
+          "productionSha256": "4e296824dc42c1300a165f53bc8a59141010b2cc178fb14dd0d13fb110e43e20",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 216,
+          "textStartPage": 217,
+          "textEndPage": 228
+        },
+        {
+          "book": 19,
+          "source": "text/iliad/book-19-opening.md",
+          "sourceSha256": "d16c6f762a81a0620f1a598ceda1981a4ab80e3628225fffda374981ab83f677",
+          "plateId": "iliad-book-19-reconciliation-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-19-full-bleed.jpg",
+          "productionSha256": "01cfc202ebef7aae8ce780919ae2cc93c181dce9dd29538d5bfc25ff603ea52b",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 229,
+          "textStartPage": 230,
+          "textEndPage": 239
+        },
+        {
+          "book": 20,
+          "source": "text/iliad/book-20-opening.md",
+          "sourceSha256": "25abac50d90aaa76003af26398215f4077319531bb4ef6249edc630c83c3e13b",
+          "plateId": "iliad-book-20-divided-gods-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-20-full-bleed.jpg",
+          "productionSha256": "7a321217c048feb759e288d05acf5aed63d3d81aa8d6dc936aadd82170ebf9f0",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 240,
+          "textStartPage": 241,
+          "textEndPage": 251
+        },
+        {
+          "book": 21,
+          "source": "text/iliad/book-21-opening.md",
+          "sourceSha256": "65ca237f4ba1caf11a0b807e690dfe56bcdb294b2f67f3a200abd66a8e769966",
+          "plateId": "iliad-book-21-scamander-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-21-full-bleed.jpg",
+          "productionSha256": "04434e6dfa5a3506b6647ef0a412a6c10e30e7c3caf768bcad74aca48807fa45",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 252,
+          "textStartPage": 253,
+          "textEndPage": 267
+        },
+        {
+          "book": 22,
+          "source": "text/iliad/book-22-opening.md",
+          "sourceSha256": "7b8f7d9c5b13d1214919b8d1ba6b04fb2f5ebb9740d26ed9c0f4b38230b23534",
+          "plateId": "iliad-book-22-hector-gate-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-22-full-bleed.jpg",
+          "productionSha256": "d1641521f3814d01e78dadca29f0fcdb93c54dc326754cee23450ba37d9e5bc4",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 268,
+          "textStartPage": 269,
+          "textEndPage": 280
+        },
+        {
+          "book": 23,
+          "source": "text/iliad/book-23-opening.md",
+          "sourceSha256": "cfd74806cfc74d05f306f5a14c2d992aa388f216dc504524480f7fa8a2755ad1",
+          "plateId": "iliad-book-23-funeral-games-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-23-full-bleed.jpg",
+          "productionSha256": "fcf903ca064849e964cf5a0e43675cfc87c024ab4cce5d7a97a79ea9b8c05b91",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 281,
+          "textStartPage": 282,
+          "textEndPage": 301
+        },
+        {
+          "book": 24,
+          "source": "text/iliad/book-24-opening.md",
+          "sourceSha256": "7d94a587a9495508f23d47135c37fc2d572be514532814b5bf799a2463a61c99",
+          "plateId": "iliad-book-24-priam-achilles-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/iliad/book-24-full-bleed.jpg",
+          "productionSha256": "f89df08c69b612d382f03eb5ed282cb5594638a09af3a17dc705189359ae71b0",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 302,
+          "textStartPage": 303,
+          "textEndPage": 320
+        }
+      ],
+      "releaseEligible": false,
+      "releaseBlockers": [
+        "translation-signoff",
+        "illustration-signoff",
+        "font-license-lock",
+        "physical-proof"
+      ]
+    },
+    "odyssey": {
+      "title": "The Odyssey",
+      "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
+      "pdfSha256": "741cfefdb307c04fd181c733619536bb4756f8f30ded7eeac9e795f2a1e9948f",
+      "pageCount": 222,
+      "trimMm": [
+        168,
+        260
+      ],
+      "documentMm": [
+        174,
+        266
+      ],
+      "bleedMm": 3,
+      "plateCount": 24,
+      "colourPages": [
+        3,
+        11,
+        18,
+        31,
+        50,
+        62,
+        69,
+        76,
+        87,
+        97,
+        107,
+        119,
+        128,
+        135,
+        146,
+        156,
+        165,
+        174,
+        181,
+        190,
+        197,
+        203,
+        209,
+        214
+      ],
+      "books": [
+        {
+          "book": 1,
+          "source": "text/odyssey/book-01-opening.md",
+          "sourceSha256": "9570d87a4f5de0c897f9265082b84907f62f0fb9fbeed241bec8ac907845949e",
+          "plateId": "odyssey-book-01-athena-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-01-full-bleed.jpg",
+          "productionSha256": "f7f943ef324604853384deb643f94c417d7b68cf736893afa753f0eb1a6e8265",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 3,
+          "textStartPage": 4,
+          "textEndPage": 10
+        },
+        {
+          "book": 2,
+          "source": "text/odyssey/book-02-opening.md",
+          "sourceSha256": "a04805aeb7c788af7721f921dc236eec45e1db9637a06b70ca37456442979f9d",
+          "plateId": "odyssey-book-02-ody-02-v1-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-02-full-bleed.jpg",
+          "productionSha256": "d693ebe3cd820cf4cc0dab885e697f0a81215e3e7f4c99a953ff1ad97d68a03e",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 11,
+          "textStartPage": 12,
+          "textEndPage": 17
+        },
+        {
+          "book": 3,
+          "source": "text/odyssey/book-03-opening.md",
+          "sourceSha256": "e6460cb1c422b8dd7176a0b1aaa0fe73ca60bfe3468ca6b4aee78e2f3495ce3a",
+          "plateId": "odyssey-book-03-pylos-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-03-full-bleed.jpg",
+          "productionSha256": "dc1b1bdc0662122414a26110b2a19a580b3c88e638f36ae064617de8f25929c3",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 18,
+          "textStartPage": 19,
+          "textEndPage": 30
+        },
+        {
+          "book": 4,
+          "source": "text/odyssey/book-04-opening.md",
+          "sourceSha256": "e2f4d3c2121197b0b0bbad1d3432aee7fbf9641755a4980c24d186ed03f147fd",
+          "plateId": "odyssey-book-04-sparta-memory-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-04-full-bleed.jpg",
+          "productionSha256": "67bc0f7c376c2d848b254f4f40a61761dd551251d352c47b5911e63f11df9ba7",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 31,
+          "textStartPage": 32,
+          "textEndPage": 49
+        },
+        {
+          "book": 5,
+          "source": "text/odyssey/book-05-opening.md",
+          "sourceSha256": "138a2f9f3fedd33859a1c13d3b1bca8d4561ae96fe7e7f9ef07f0a6643648ac4",
+          "plateId": "odyssey-book-05-raft-v2-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-05-full-bleed.jpg",
+          "productionSha256": "d654e8a3a3046a851d594e54e4116de9ce503f5e44c0ec66f88d4a7594143af7",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 50,
+          "textStartPage": 51,
+          "textEndPage": 61
+        },
+        {
+          "book": 6,
+          "source": "text/odyssey/book-06-opening.md",
+          "sourceSha256": "f336b6cf47a90ed807dcfc3ef5485965db3408da56ee475585100becf9c7e38e",
+          "plateId": "odyssey-book-06-nausicaa-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-06-full-bleed.jpg",
+          "productionSha256": "80238bd38b19e96a29339e7df5d0d54cbd257ffa91add5f0ddb1b01fa3444229",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 62,
+          "textStartPage": 63,
+          "textEndPage": 68
+        },
+        {
+          "book": 7,
+          "source": "text/odyssey/book-07-opening.md",
+          "sourceSha256": "ad82bc33df35f254097a414b45edc48a9c6251cbdcbe3e4f5462e185f89a1285",
+          "plateId": "odyssey-book-07-arete-palace-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-07-full-bleed.jpg",
+          "productionSha256": "7f99c5d7666f11f4b9e12e7e1053bfbe8073e085e57c1912c925c6459be07ecb",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 69,
+          "textStartPage": 70,
+          "textEndPage": 75
+        },
+        {
+          "book": 8,
+          "source": "text/odyssey/book-08-opening.md",
+          "sourceSha256": "3ffa9c24420b134fbe39752aa4b43c7d5a9b7b4ceb7f90bfc6c80b270f7e0e64",
+          "plateId": "odyssey-book-08-demodocus-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-08-full-bleed.jpg",
+          "productionSha256": "c858eba194f03f65fa43f67a27ed3011e1dd828d03a786f6f7a5e3a3cb8af821",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 76,
+          "textStartPage": 77,
+          "textEndPage": 86
+        },
+        {
+          "book": 9,
+          "source": "text/odyssey/book-09-opening.md",
+          "sourceSha256": "0cbadf32b5e9662531d739d44a65b3c5cfa496255f66ebdd6c10feb6821f622d",
+          "plateId": "odyssey-book-09-polyphemus-escape-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-09-full-bleed.jpg",
+          "productionSha256": "10deb651e78933f6d314cbde7bd59cbef7d0930e43f0e02599c39ef63f475b4c",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 87,
+          "textStartPage": 88,
+          "textEndPage": 96
+        },
+        {
+          "book": 10,
+          "source": "text/odyssey/book-10-opening.md",
+          "sourceSha256": "ce97ae48bd59f0eb5f51df5a6f3834b140afc6df607a833aec7f823a974f905d",
+          "plateId": "odyssey-book-10-moly-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-10-full-bleed.jpg",
+          "productionSha256": "f089c8934224e8c9952282828fd3f940aacf505b2186da61eece5919be29527b",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 97,
+          "textStartPage": 98,
+          "textEndPage": 106
+        },
+        {
+          "book": 11,
+          "source": "text/odyssey/book-11-opening.md",
+          "sourceSha256": "a5c67405616429fa5873927988240c52072e5b75b594d07d35d070058299726e",
+          "plateId": "odyssey-book-11-tiresias-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-11-full-bleed.jpg",
+          "productionSha256": "86dae9f3391c39c8756a6ccc9e2ee309b4c0875993a4ec6043477bd949fe492e",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 107,
+          "textStartPage": 108,
+          "textEndPage": 118
+        },
+        {
+          "book": 12,
+          "source": "text/odyssey/book-12-opening.md",
+          "sourceSha256": "ec10657aacf753beaa48a5603d098372bef6a17dce95a6283521441062e1c5bc",
+          "plateId": "odyssey-book-12-sirens-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-12-full-bleed.jpg",
+          "productionSha256": "96800619294541a4f2db307d03fa75bccb87612c9d1fb9ec8c5001917eaf4302",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 119,
+          "textStartPage": 120,
+          "textEndPage": 127
+        },
+        {
+          "book": 13,
+          "source": "text/odyssey/book-13-opening.md",
+          "sourceSha256": "38bfc5c3b2c597ce3c9a76c09bc7f0911357ac423f12ae437beb4657dfd9b277",
+          "plateId": "odyssey-book-13-return-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-13-full-bleed.jpg",
+          "productionSha256": "e454a04e8ee1f073dc6527bfa6fad30cad24f486fcbcdcfe936c06bc4d5ecff3",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 128,
+          "textStartPage": 129,
+          "textEndPage": 134
+        },
+        {
+          "book": 14,
+          "source": "text/odyssey/book-14-opening.md",
+          "sourceSha256": "b6568ca6b32e17416e2de72d438e2aa4c7dd4f342b053c0095bc0ae6dc652f97",
+          "plateId": "odyssey-book-14-eumaeus-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-14-full-bleed.jpg",
+          "productionSha256": "4976c103eb4f7a33fa170a7430542a93a80b9e48bd6d6d73a866146e9ef4a832",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 135,
+          "textStartPage": 136,
+          "textEndPage": 145
+        },
+        {
+          "book": 15,
+          "source": "text/odyssey/book-15-opening.md",
+          "sourceSha256": "ccca6f0e3ab79eeeba58046bdfc5f4840eb60cecd53e145b38ba6bda278c9901",
+          "plateId": "odyssey-book-15-return-omen-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-15-full-bleed.jpg",
+          "productionSha256": "49ef69a9d45d262bb6adf76586e619fc0389b553d3395a1de768d209cf50feb6",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 146,
+          "textStartPage": 147,
+          "textEndPage": 155
+        },
+        {
+          "book": 16,
+          "source": "text/odyssey/book-16-opening.md",
+          "sourceSha256": "151df5bc85653e93acc35b7b6159666861000a97039da729ff39b076cc4785b6",
+          "plateId": "odyssey-book-16-father-son-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-16-full-bleed.jpg",
+          "productionSha256": "abca89ee28daf3a486d39e4c32ef7c34c1405b9d020787caf4ed1349e38e38a4",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 156,
+          "textStartPage": 157,
+          "textEndPage": 164
+        },
+        {
+          "book": 17,
+          "source": "text/odyssey/book-17-opening.md",
+          "sourceSha256": "d6d6a8d66e9ddf01e37aef33e9113ae39839f24bb27461cc643a49473390ad1c",
+          "plateId": "odyssey-book-17-argos-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-17-full-bleed.jpg",
+          "productionSha256": "a608987f06d81560b3b231515362f9111218db84dccea7905b68059b5699f6a9",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 165,
+          "textStartPage": 166,
+          "textEndPage": 173
+        },
+        {
+          "book": 18,
+          "source": "text/odyssey/book-18-opening.md",
+          "sourceSha256": "67b92abb6e7e8635d8c822f36367d02f3aea552b61733edb4c180372468edc0e",
+          "plateId": "odyssey-book-18-irus-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-18-full-bleed.jpg",
+          "productionSha256": "acbbf364cc63fcb6e3f54c446a2ff05c0e5dd1373e8f42bf642ec5d9280412de",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 174,
+          "textStartPage": 175,
+          "textEndPage": 180
+        },
+        {
+          "book": 19,
+          "source": "text/odyssey/book-19-opening.md",
+          "sourceSha256": "f3f562f2dd156ba87aada5bf8e9cf2597492da39a433f420482d8e2632dd8dd0",
+          "plateId": "odyssey-book-19-penelope-question-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-19-full-bleed.jpg",
+          "productionSha256": "ceae61da4daf2f422c77366a9b209852623714f655fb40531e1295ca8c635698",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 181,
+          "textStartPage": 182,
+          "textEndPage": 189
+        },
+        {
+          "book": 20,
+          "source": "text/odyssey/book-20-opening.md",
+          "sourceSha256": "6ff472bea2edbbe4a0aac8e526b4bf79bc7ca5e596bbf64aec6f1e7216467eae",
+          "plateId": "odyssey-book-20-omen-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-20-full-bleed.jpg",
+          "productionSha256": "833021f5630ad851bed6c8c3f579b144daf5c21470de45867b65c1c7be8c4b90",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 190,
+          "textStartPage": 191,
+          "textEndPage": 196
+        },
+        {
+          "book": 21,
+          "source": "text/odyssey/book-21-opening.md",
+          "sourceSha256": "72cc6939220e900d2b18e7de56218550cb08d4b213fce7bd618b305e11f8cc37",
+          "plateId": "odyssey-book-21-bow-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-21-full-bleed.jpg",
+          "productionSha256": "6a0e5f6beb7fa44504a565f5a55f9e6216cd57d427bda98f812babb285a2a0ee",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 197,
+          "textStartPage": 198,
+          "textEndPage": 202
+        },
+        {
+          "book": 22,
+          "source": "text/odyssey/book-22-opening.md",
+          "sourceSha256": "88ebeb4b7ae0e04a8908fb9392a11f28e955d335641513799b155d61d78dcadd",
+          "plateId": "odyssey-book-22-hall-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-22-full-bleed.jpg",
+          "productionSha256": "c73b933f11fdac5dd7630eee82464cdc811e2954e676d773921aa96b1fa702a1",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 203,
+          "textStartPage": 204,
+          "textEndPage": 208
+        },
+        {
+          "book": 23,
+          "source": "text/odyssey/book-23-opening.md",
+          "sourceSha256": "a07a5dca0b90e5c79d0df4179fbe60897958ed685ab3a6cd21413a50396c8894",
+          "plateId": "odyssey-book-23-penelope-bed-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-23-full-bleed.jpg",
+          "productionSha256": "5a5dd2d1ad4b232008b6c14e8cac902d0c39782b81cdf626c2d8bc28f7403953",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 209,
+          "textStartPage": 210,
+          "textEndPage": 213
+        },
+        {
+          "book": 24,
+          "source": "text/odyssey/book-24-opening.md",
+          "sourceSha256": "7e977df3f310d57a977bc6698f1404153a51dbeb19265b86dbf08dc0edf02616",
+          "plateId": "odyssey-book-24-peace-concept",
+          "plateApproval": "pending",
+          "productionAsset": "assets/print/illustrations/odyssey/book-24-full-bleed.jpg",
+          "productionSha256": "5958b24997ac43336ea6c73f48f74caa40cab25ba2ee053acbb8e486718f568f",
+          "productionPixels": [
+            2055,
+            3142
+          ],
+          "productionPpi": 300,
+          "platePage": 214,
+          "textStartPage": 215,
+          "textEndPage": 222
+        }
+      ],
+      "releaseEligible": false,
+      "releaseBlockers": [
+        "translation-signoff",
+        "illustration-signoff",
+        "font-license-lock",
+        "physical-proof"
+      ]
+    }
+  }
+}

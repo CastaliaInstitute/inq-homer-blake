@@ -79,6 +79,16 @@ The single plate is not repeated between text pages. Run
 `python3 scripts/preflight_web_previews.py` to verify canonical trim, page
 counts, image placement, and complete Book I text coverage.
 
+`python3 scripts/build_bookvault_interiors.py` builds the two checksum-bound
+BookVault prepress candidates. Each page has a 174 × 266 mm bleed MediaBox and
+an exact 168 × 260 mm TrimBox; each of the 24 books opens with one full-page
+2055 × 3142 pixel plate followed by two-column text. The builder stages output
+atomically under an exclusive lock and pads an odd final page count. Run
+`python3 scripts/validate_bookvault_interiors.py` to verify page boxes, even
+page counts, embedded fonts, art checksums, and complete per-book source text.
+The generated manifest remains `releaseEligible: false` until named editorial,
+illustration, font-license, and physical-proof approvals are recorded.
+
 Because “illustrated by Blake” can obscure the distinction between designer
 and engraver, the [Blake–Homer source register](design/blake-homer-source-register.md)
 records the primary collection evidence and controlled attribution language.

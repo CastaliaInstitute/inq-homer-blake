@@ -17,7 +17,7 @@ jobs:
       - name: Install image inspection tools
         run: |
           python3 -m venv .ci-image-tools
-          .ci-image-tools/bin/python -m pip install Pillow
+          .ci-image-tools/bin/python -m pip install Pillow reportlab==5.0.0
       - name: Validate manifest headers and CSV shape
         run: |
           scripts/validate_manifests.sh
@@ -37,6 +37,11 @@ jobs:
         run: ruby scripts/preflight_provenance.rb
       - name: Verify Homer print-review art
         run: .ci-image-tools/bin/python scripts/preflight_homer_print_art.py
+      - name: Rebuild and verify Bookvault prepress interiors
+        run: |
+          .ci-image-tools/bin/python scripts/build_bookvault_interiors.py
+          .ci-image-tools/bin/python scripts/validate_bookvault_interiors.py
+          git diff --exit-code -- output/pdf/inq-homer-iliad-bookvault-interior.pdf output/pdf/inq-homer-odyssey-bookvault-interior.pdf output/pdf/inq-homer-bookvault-interiors.manifest.json
       - name: Rebuild and verify plate asset checksums
         run: |
           python3 scripts/build_asset_checksums.py

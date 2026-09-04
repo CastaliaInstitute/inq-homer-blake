@@ -113,7 +113,7 @@ STYLES = {
     "book": ParagraphStyle("book", fontName="CormorantB", fontSize=19, leading=23, alignment=TA_CENTER, textColor=colors.HexColor("#211d18"), spaceAfter=4),
     "booksub": ParagraphStyle("booksub", fontName="CormorantI", fontSize=9.2, leading=11, alignment=TA_CENTER, textColor=colors.HexColor("#61594f"), spaceAfter=12),
     "front": ParagraphStyle("front", fontName="Cormorant", fontSize=10.2, leading=14, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), spaceAfter=8),
-    "verse": ParagraphStyle("verse", fontName="Cormorant", fontSize=9.35, leading=11.25, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), spaceAfter=0),
+    "verse": ParagraphStyle("verse", fontName="Cormorant", fontSize=11.2, leading=14.6, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), leftIndent=0.05 * inch, spaceAfter=0),
 }
 
 
@@ -126,7 +126,7 @@ def footer(title: str):
         canvas.setFont("Cormorant", 7.1)
         canvas.setFillColorRGB(0.34, 0.31, 0.27)
         canvas.drawString(MARGIN_X, (BLEED_MM + 6.3) * mm, title.upper())
-        canvas.drawCentredString(PAGE[0] / 2, (BLEED_MM + 6.3) * mm, "Longfellow-inspired translation / Castalia Institute")
+        canvas.drawCentredString(PAGE[0] / 2, (BLEED_MM + 6.3) * mm, "Translated by a.Longfellow")
         canvas.drawRightString(PAGE[0] - MARGIN_X, (BLEED_MM + 6.3) * mm, str(doc.page))
         canvas.restoreState()
 
@@ -160,8 +160,8 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         Paragraph(title, STYLES["title"]),
         Paragraph("Homer", STYLES["subtitle"]),
         Spacer(1, 11 * mm),
-        Paragraph("A Longfellow-inspired translation by Castalia Institute", STYLES["credit"]),
-        Paragraph("Historical Blake material and original Castalia Institute supplements", STYLES["credit"]),
+        Paragraph("Translated by a.Longfellow", STYLES["credit"]),
+        Paragraph("Illustrated by a.Blake", STYLES["credit"]),
         Paragraph("iNQ Epic - 168 x 260 mm edition", STYLES["credit"]),
         PageBreak(),
         Paragraph("FORWARD", STYLES["book"]),
@@ -187,7 +187,7 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
             Paragraph(book_subtitle if book == 1 else f"Book {book}", STYLES["booksub"]),
         ])
         for line in book_translation(path):
-            story.extend([Paragraph(line, STYLES["verse"]), Spacer(1, 1.1)])
+            story.extend([Paragraph(line, STYLES["verse"]), Spacer(1, 1.4)])
         book_records.append({
             "book": book,
             "source": path.relative_to(ROOT).as_posix(),
@@ -213,7 +213,7 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         str(working), pagesize=PAGE,
         leftMargin=MARGIN_X, rightMargin=MARGIN_X,
         topMargin=MARGIN_TOP, bottomMargin=MARGIN_BOTTOM,
-        title=title, author="Castalia Institute",
+        title=title, author="Homer",
         subject="iNQ Epic BookVault prepress candidate; release approval pending",
     )
     safe_width = PAGE[0] - 2 * MARGIN_X

@@ -3,9 +3,9 @@
 **Audit date:** 2026-09-03
 **Scope:** *The Iliad* and *The Odyssey*: text, credits, provenance, rights,
 and production controls
-**A+ target:** evidence-backed publication approval at 6.625 × 10.25 inches
-(comic size); musical,
-speakable Longfellow-inspired English governed by the Greek, not by padding
+**A+ target for this audit:** evidence-backed publication approval at exact
+6.625 × 10.25 inches (comic size); musical, speakable Longfellow-inspired
+English governed by the Greek, not by padding
 
 The cross-domain release control sheet is
 [`design/release-readiness.md`](release-readiness.md).
@@ -58,10 +58,9 @@ credits, a single comic-size production route, and physical proof approval.
   holds, *Odyssey* Books 21–24.
 - Established truthful shared credit rules and removed the blanket visual
   credit from illustration-free EPUB proof metadata.
-- Marked both BookVault interiors stale after the manuscript corrections;
-  their exact trim geometry remains evidence, but their text is no longer the
-  current source authority.
-
+- Rebuilt both BookVault interiors after the manuscript corrections and
+  restored source-hash agreement; their exact trim geometry remains a
+  provisional alternate route, not the comic-size release authority.
 ## Required editorial sequence
 
 1. Expand *Odyssey* 21–24 only from the pinned Greek and record restored source
@@ -72,8 +71,9 @@ credits, a single comic-size production route, and physical proof approval.
    after every substantive revision. Promote no ledger row until a named
    reviewer signs all six gates.
 4. Choose and document one exact 6.625 × 10.25 inch comic-size printer route.
-   BookVault’s 168 × 260 mm files remain provisional alternatives. Rebuild final
-   interiors, page maps, covers, and manifests only after text and art lock.
+   BookVault’s 168 × 260 mm files remain provisional alternatives. Rebuild
+   final interiors, page maps, covers, and manifests only after text and art
+   lock.
 5. Complete rights, physical-proof, and final-production review before any
    sale or public-distribution approval.
 

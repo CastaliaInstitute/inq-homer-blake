@@ -30,7 +30,7 @@ volumes:
     title: "The Iliad"
     interior_pdf: output/pdf/inq-homer-iliad-bookvault-interior.pdf
     interior_pages: 320
-    interior_status: prepress_candidate_stale_after_text_revision_rebuild_required
+    interior_status: provisional_prepress_candidate_source_locked_current_text_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
@@ -42,7 +42,7 @@ volumes:
     title: "The Odyssey"
     interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
     interior_pages: 222
-    interior_status: prepress_candidate_stale_after_text_revision_rebuild_required
+    interior_status: provisional_prepress_candidate_source_locked_current_text_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional

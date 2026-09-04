@@ -87,7 +87,11 @@ def main() -> None:
         for book in volume["books"]:
             source = ROOT / book["source"]
             plate = ROOT / book["productionAsset"]
-            assert digest(source) == book["sourceSha256"]
+            current_source_digest = digest(source)
+            assert current_source_digest == book["sourceSha256"], (
+                f"{slug} Book {book['book']}: source changed after this PDF was built; "
+                "rebuild the BookVault candidate after text lock"
+            )
             assert digest(plate) == book["productionSha256"]
             assert book["productionPixels"] == [2055, 3142]
             assert book["platePage"] + 1 == book["textStartPage"]

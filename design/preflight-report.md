@@ -29,7 +29,7 @@ must still be closed in `design/release-readiness.md`.
 - Plate manifest: 55 records; all concept/source-review, none final.
 - Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
 - Odyssey print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.
-- BookVault source lock: 2 stale manuscript reference(s); rebuild required before candidate validation.
+- BookVault source lock: 0 stale manuscript reference(s); candidate hashes match current manuscript sources.
 - Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.
 - Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.
 

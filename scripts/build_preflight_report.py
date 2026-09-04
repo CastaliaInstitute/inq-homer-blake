@@ -106,7 +106,10 @@ lines += [
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
     f"- Iliad print-review art: {iliad_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
     f"- Odyssey print-review art: {odyssey_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
-    f"- BookVault source lock: {len(stale_bookvault_sources)} stale manuscript reference(s); rebuild required before candidate validation.",
+    (
+        f"- BookVault source lock: {len(stale_bookvault_sources)} stale manuscript reference(s); "
+        + ("rebuild required before candidate validation." if stale_bookvault_sources else "candidate hashes match current manuscript sources.")
+    ),
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",
     "- Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.",
     "",

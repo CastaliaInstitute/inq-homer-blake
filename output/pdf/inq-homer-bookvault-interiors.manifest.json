@@ -16,7 +16,7 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "87912ae3855765e05838319ba560f2781dfae54acec03c68203a0b30d2ca5270",
+      "pdfSha256": "ed2c6d1266843aba89cdcf82abf73bb5279783a2ef0d3b1663a623f4fe3799d6",
       "pageCount": 320,
       "trimMm": [
         168,
@@ -398,7 +398,7 @@
         {
           "book": 21,
           "source": "text/iliad/book-21-opening.md",
-          "sourceSha256": "65ca237f4ba1caf11a0b807e690dfe56bcdb294b2f67f3a200abd66a8e769966",
+          "sourceSha256": "37ce8641394ba63caa831bb137ecd5bce2bba8bc4084d8a6bd3bc30a23bbab73",
           "plateId": "iliad-book-21-scamander-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/iliad/book-21-full-bleed.jpg",
@@ -475,7 +475,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "327e322d851eb171fb64390d0b8c84fe1dd0a41731a893d90b97fa82965f6f1a",
+      "pdfSha256": "2c0365b34b26cfcd0d6c9aec5cd01f2a9ed15d70cceb58cb80823c12a5edb114",
       "pageCount": 222,
       "trimMm": [
         168,
@@ -509,9 +509,9 @@
         181,
         190,
         197,
-        203,
-        209,
-        214
+        204,
+        210,
+        215
       ],
       "books": [
         {
@@ -857,7 +857,7 @@
         {
           "book": 21,
           "source": "text/odyssey/book-21-opening.md",
-          "sourceSha256": "72cc6939220e900d2b18e7de56218550cb08d4b213fce7bd618b305e11f8cc37",
+          "sourceSha256": "59dc4b827da209adbfdb2096243aa97fa1356578bc690022d376724739203372",
           "plateId": "odyssey-book-21-bow-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-21-full-bleed.jpg",
@@ -869,7 +869,7 @@
           "productionPpi": 300,
           "platePage": 197,
           "textStartPage": 198,
-          "textEndPage": 202
+          "textEndPage": 203
         },
         {
           "book": 22,
@@ -884,9 +884,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 203,
-          "textStartPage": 204,
-          "textEndPage": 208
+          "platePage": 204,
+          "textStartPage": 205,
+          "textEndPage": 209
         },
         {
           "book": 23,
@@ -901,9 +901,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 209,
-          "textStartPage": 210,
-          "textEndPage": 213
+          "platePage": 210,
+          "textStartPage": 211,
+          "textEndPage": 214
         },
         {
           "book": 24,
@@ -918,8 +918,8 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 214,
-          "textStartPage": 215,
+          "platePage": 215,
+          "textStartPage": 216,
           "textEndPage": 222
         }
       ],

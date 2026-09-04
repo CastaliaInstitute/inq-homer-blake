@@ -22,6 +22,11 @@ previous draft added a West Wind and repeated the South Wind; the Greek instead
 states that the South Wind blew without pause and that no other wind arose
 except East and South. The revised line preserves that narrower weather report.
 
+**Pinned evidence:** Perseus `tlg0012.tlg002.perseus-grc2`, source commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 12.325–326:
+`μῆνα δὲ πάντʼ ἄλληκτος ἄη Νότος ... εἰ μὴ Εὖρός τε Νότος τε`.
+The source record is [reproducible here](https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a/data/tlg0012/tlg002/tlg0012.tlg002.perseus-grc2.xml).
+
 ## Beauty and cadence
 
 Circe’s speech should gather force by accumulation, while the strait should

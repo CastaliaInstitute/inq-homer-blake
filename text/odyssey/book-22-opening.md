@@ -226,13 +226,6 @@ The bodies lay in blood and dust, like fish
 Drawn from the gray sea and flung upon the shore.
 The king searched the house; not one had fallen outside
 His reckoning.
-No suitor found the doorway, though they turned
-Toward it in terror; every road was closed.
-The hall that had been open to their feasts
-Became a pit from which no guest returned.
-No one escaped.
-The doors gave no safe road from the slaughter.
-No shield was left within the house for them.
 
 ### Lines 310–378 — Leiodes, Phemius, and Medon
 

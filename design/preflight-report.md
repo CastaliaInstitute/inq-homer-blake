@@ -18,7 +18,7 @@ must still be closed in `design/release-readiness.md`.
 | Iliad interior proof | 398 | 477 x 738 pts | no |
 | Odyssey interior proof | 285 | 477 x 738 pts | no |
 | Iliad BookVault prepress interior | 360 | 493.228 x 754.016 pts | no |
-| Odyssey BookVault prepress interior | 254 | 493.228 x 754.016 pts | no |
+| Odyssey BookVault prepress interior | 252 | 493.228 x 754.016 pts | no |
 | Iliad cover study | 1 | 1098 x 846 pts | no |
 | Odyssey cover study | 1 | 1098 x 846 pts | no |
 

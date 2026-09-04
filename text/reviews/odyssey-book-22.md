@@ -48,6 +48,16 @@ volley before Odysseus orders his allies to cast. This closes a tactical gap in
 the earlier compression and prevents the density screen from rewarding
 omission; the added lines remain a working translation, not padding.
 
+## Accuracy correction — post-battle repetition
+
+The working pass had added a second cluster of escape-denial sentences after
+the fish simile: “No suitor found the doorway,” “No one escaped,” and related
+claims about the doors and shields. The pinned Greek’s corresponding sequence
+(Odyssey 22.381–394) has Odysseus inspect the fallen suitors and then call
+Eurycleia. The repeated cluster was removed from both manuscript and collation
+as unsupported expansion; the earlier battle passage still preserves the
+blocked exits and absent weapons where the Greek scene establishes them.
+
 ## Critical review — 2026-09-03
 
 The book’s architecture is strong: it preserves the source’s rapid causal

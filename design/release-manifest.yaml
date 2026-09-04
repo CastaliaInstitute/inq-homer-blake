@@ -43,7 +43,7 @@ volumes:
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
-    interior_pages: 254
+    interior_pages: 252
     interior_status: alternate_bookvault_candidate_current_text_locked_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt

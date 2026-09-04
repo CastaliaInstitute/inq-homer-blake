@@ -7,7 +7,9 @@
 The manuscript preserves Penelope’s disciplined disbelief, Telemachus’s impatience,
 the false bed test, and the rooted olive as the private sign that resolves the
 marriage. The bed’s construction and the maid Actoris are named so recognition
-rests on shared household knowledge rather than resemblance alone.
+rests on shared household knowledge rather than resemblance alone. The revision
+now lets the physical bed complete its argument before Penelope’s guarded
+knowledge breaks, preserving the scene’s restraint.
 
 The delayed dawn remains active narrative time: Athena restrains the sun while
 the reunited couple exchange histories, then Odysseus recounts Tiresias’s inland

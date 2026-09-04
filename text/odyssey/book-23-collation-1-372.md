@@ -63,9 +63,9 @@ Or run and kiss his head and both his hands.
 She crossed the threshold, and in the firelight
 Sat opposite, looking at him now and then,
 Yet silent, for his blood-stained clothes concealed him.
-Telemachus cried, “Mother, why do you remain
-Apart from him? After twenty years of labor
-He has returned, and you will not speak to him.”
+Telemachus cried, “Mother, why sit apart
+From him who, after twenty years of labor,
+Has come home living, and will not speak to him?”
 
 “My heart is struck with wonder,” she replied.
 “I cannot speak, nor look upon his face,
@@ -138,7 +138,7 @@ And bound with leather shining red as wine.
 
 ### Lines 181–246 — Recognition and the lengthened night
 
-Penelope knew the secret sign. She ran to him,
+Then all her guarded knowledge broke. She ran to him,
 Embraced his neck, and kissed his head, saying
 “Do not be angry; wisdom was my guard.
 The gods who envied us denied the years

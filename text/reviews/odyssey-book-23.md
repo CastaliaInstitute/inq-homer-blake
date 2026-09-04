@@ -39,8 +39,10 @@ second oath and exact evidence, Penelope’s warning that another woman would be
 driven from the chamber for waking her, the dead gathered at the outer doors,
 and the physical logic of the olive-root bed. It also restores concrete
 voyage-history detail about the opened bag of winds and the loss of the fleet.
-The conservative density screen now passes at 5.01 words per source line; this
-is a triage result, not human approval.
+After the rooted-bed correction, the conservative density screen is 4.78 words
+per source line, so Book 23 is now an explicit compression hold. This is a
+triage result, not human approval; the passage must be expanded only where
+Greek comparison identifies missing content, never by padding.
 
 The book’s central image—the bed whose living olive root becomes the house’s
 marital center—is beautiful and structurally exact. The false wedding song is

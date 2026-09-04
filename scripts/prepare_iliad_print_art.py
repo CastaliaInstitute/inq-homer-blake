@@ -128,7 +128,7 @@ def main() -> None:
         "schemaVersion": 1,
         "work": "The Iliad",
         "artistCredit": "CastaliaInstitute",
-        "style": "original ink contour and restrained watercolor informed by the a.Blake house language; not by William Blake",
+        "style": "original ink contour and restrained watercolor informed by the repository's Blake-informed house language; not by William Blake",
         "historicalScansIncluded": False,
         "reviewStatus": "print-review derivatives; human art-direction and physical proof pending",
         "nativeMasterClaim": False,

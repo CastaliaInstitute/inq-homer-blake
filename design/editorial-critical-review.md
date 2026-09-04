@@ -39,7 +39,8 @@ artifact-level status.
 
 - Established standard US comic trim as the primary production target;
   relabeled 168 × 260 mm files as alternate BookVault prepress studies.
-- Corrected print-manifest authorship from `a.Blake` to `CastaliaInstitute` and
+- Corrected print-manifest authorship from an ambiguous Blake shorthand to
+  `CastaliaInstitute` and
   added a validator guard against future blanket Blake attribution.
 - Removed unsafe raster cover studies from the EPUB build path and added
   explicit translator-role, source-edition, accessibility, and fail-closed

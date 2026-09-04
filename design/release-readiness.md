@@ -23,7 +23,7 @@ source, literary, art, rights, printer, or physical-proof approval.
 | Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |
 | EPUB | HOLD | Deterministic, reflowable, illustration-free private proofs can be built with semantic navigation and fail-closed rights metadata. Authoritative EPUBCheck is not installed locally; final covers are also unresolved. |
 | Interior geometry | HOLD | Comic-size architecture proofs are 477 × 738 pt. Separate BookVault candidates validate at exact 168 × 260 mm with 24 full-page plates and embedded fonts; they are alternate prepress candidates, not the primary comic-size edition. |
-| Legacy PDFs | HOLD | 477 × 738 pt interiors/web samples and 1098 × 846 pt cover studies are architecture artifacts, not exact-trim release files. |
+| Legacy PDFs | HOLD | 477 × 738 pt interiors/web samples and 1098 × 846 pt comic-size cover studies are architecture artifacts, not exact-trim release files. |
 | Plates | HOLD | 48 checksum-bound 2055 × 3142 px, 300-PPI, embedded-sRGB derivatives exist, but every selection is pending and many sources are upscaled concept art, not native masters. |
 | Cover art and credits | HOLD | Both raster front-cover studies visibly miscredit “A.Longfellow” as translator and “A.Blake” as illustrator. They are excluded from editorial EPUBs and cannot be released. |
 | Provenance and rights | HOLD | Two historical Met scans have object-level public-domain records with Flaxman/designer and Blake-or-Piroli/engraver roles. Original candidates are documented as CastaliaInstitute work, not William Blake; final plate rights grants and selections remain open. |

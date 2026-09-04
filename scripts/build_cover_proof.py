@@ -24,7 +24,10 @@ for name, filename in {
 }.items():
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
-TRIM_W, TRIM_H = 168 * mm, 260 * mm
+# Primary project trim: 6.625 x 10.25 in comic size, expressed in points.
+# Keep cover-study geometry on the same primary trim as the architecture proof;
+# BookVault's metric trim is an alternate interior candidate only.
+TRIM_W, TRIM_H = 477, 738
 BLEED = 3 * mm
 WRAP = 0.75 * inch
 DEFAULT_SPINE = 0.5 * inch

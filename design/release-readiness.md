@@ -48,7 +48,7 @@ cover treatment; they are deliberately not represented as final cover art.
    with the late Odyssey recognition and reconciliation sequence, then complete
    independent omissions/additions and fidelity reports for all 48 books.
 2. Obtain named signoff for all 288 editorial gate cells and resolve/document
-   the 7,838 meter-screen outliers through human read-aloud review.
+   the 7,840 meter-screen outliers through human read-aloud review.
 3. Select 48 final plates; lock passage, caption, creator role, rights/license,
    native-resolution master, and printer profile for each.
 4. Retire the inaccurate raster cover studies, then adapt the corrected

@@ -8,11 +8,11 @@ available assets
 
 ## Editorial conclusion
 
-The illustration system has 48 defined book slots and 40 current manifest
-records. They cover 33 unique book slots with original generated candidates:
-all 24 Iliad books and 9 Odyssey books. The current set is useful for editorial selection and
+The illustration system has 48 defined book slots and 48 current manifest
+records. They cover 41 unique book slots with original generated candidates:
+all 24 Iliad books and 17 Odyssey books. The current set is useful for editorial selection and
 art-direction review, but it contains no approved final art. Two records are
-historical references from the 1805 Flaxman Homer edition; the other 38 are
+historical references from the 1805 Flaxman Homer edition; the other 46 are
 CastaliaInstitute original generated concepts, including alternates. The historical material must be presented as
 Flaxman-designed work with the recorded engraver, never as Blake compositions.
 The original concepts may be Blake-informed in visual language, but they are not
@@ -117,7 +117,7 @@ selection is still needed.
 | 1 — advance now | ILI-01 (Apollo v2), ILI-02, ILI-03, ILI-11, ILI-16, ILI-24; ODY-01 (Athena v2), ODY-02, ODY-05, ODY-09, ODY-22 | Existing concepts cover the openings, dream/assembly, central Patroclus arc, Cyclops ordeal, storm, and both climaxes. Resolve duplicates and production risks first. |
 | 2 — commission the return arc | ILI-16, ILI-24; ODY-13, ODY-16, ODY-23 | The five-plate art-direction brief gives this set the clearest thematic sequence. All five slots now have concepts; compare them as a sequence, then commission or regenerate native print masters. |
 | 3 — review the complete Iliad arc | ILI-04 through ILI-10; ILI-12 through ILI-15; ILI-17 through ILI-23 | Every Iliad book now has an original candidate. Review the newly continuous arc as a sequence, resolve alternates, and select one canonical image per book before print-master work. ILI-18 also retains historical Flaxman/Piroli context, but the historical scan is not a substitute for its new original candidate. |
-| 4 — develop remaining Odyssey slots | ODY-03, ODY-04, ODY-06, ODY-07, ODY-08, ODY-10, ODY-11, ODY-12, ODY-14, ODY-15, ODY-17, ODY-18, ODY-19, ODY-20, ODY-21, ODY-24 | Completes the 24-book Odyssey arc around Athena, Telemachus, the storm, Cyclops, hall, and return concepts. Preserve the distinct domestic, underworld, and final-peace beats rather than overconcentrating on action. |
+| 4 — develop remaining Odyssey slots | ODY-15, ODY-17, ODY-18, ODY-19, ODY-20, ODY-21, ODY-24 | Completes the 24-book Odyssey arc around Athena, Telemachus, Sparta, Nausicaa, Phaeacia, Circe, the underworld, Sirens, Eumaeus, the hall, and return concepts. Preserve the distinct domestic, recognition, and final-peace beats rather than overconcentrating on action. |
 
 The order intentionally leaves every slot visible. It does not imply that an
 unlisted placeholder has been rejected; it identifies the next editorial

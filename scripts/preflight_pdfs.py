@@ -78,7 +78,9 @@ for pdf in pdfs:
     if fonts.returncode != 0:
         fail(f"cannot inspect fonts in {pdf.name}")
     rows = [line.split() for line in fonts.stdout.splitlines()[2:] if line.strip()]
-    release_pdf = "proof" not in pdf.stem
+    # Web samplers are editorial distribution previews, not release PDFs; the
+    # architecture and cover proofs remain explicitly non-release as well.
+    release_pdf = "proof" not in pdf.stem and "web-preview" not in pdf.stem
     if release_pdf and any(len(row) >= 6 and row[3].lower() != "yes" for row in rows):
         fail(f"release PDF {pdf.name} contains a non-embedded font")
     if pdf.stem.endswith("-volume-proof"):

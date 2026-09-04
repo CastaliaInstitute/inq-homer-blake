@@ -146,6 +146,9 @@ Deterministic EPUB 3 editorial proofs can be built with
 `python3 scripts/build_epub.py` and checked with `python3 scripts/validate_epub.py`.
 Their package metadata and build manifests explicitly prohibit sale and public
 distribution while review gates remain open; unapproved plate art is omitted.
+Web samplers can be regenerated with `python3 scripts/build_web_previews.py`;
+they contain the cover study, one original concept plate, and complete Book I
+text with explicit Longfellow-inspired/Castalia Institute attribution.
 PDF geometry and release-font requirements are checked by
 `scripts/preflight_pdfs.py`; the tracked PDFs remain architecture samples until
 the full-volume and cover gates are complete.

@@ -137,7 +137,7 @@ Your hand, and brings you home.
 I came from the sea, after long suffering;
 The waves have driven me here. I know no city,
 No people, and no land. Give help, princess:
-Give me a rag to cover me, and show
+Give me a garment to cover me, and show
 The road that leads into your town. May Zeus
 Grant you the thing your heart desires: a home,
 A husband, and one mind within the house.

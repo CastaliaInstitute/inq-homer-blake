@@ -30,3 +30,13 @@ washing, Odysseus's supplication, and the road to the Phaeacian palace.
 **Reviewer:** unassigned  
 **Review date:** unassigned  
 **Decision:** not approved
+
+## Critical review — 2026-09-04
+
+The live translation and its collation now agree with the read-aloud decision
+to render Odysseus’s request as “Give me a garment to cover me” rather than
+“Give me a rag.” The change preserves the Greek request for clothing while
+avoiding a debasing English register that the surrounding hospitality scene
+does not require. This is a diction correction only; the Greek-fidelity,
+literary, meter, notes, production, and independent signoff gates remain
+open.

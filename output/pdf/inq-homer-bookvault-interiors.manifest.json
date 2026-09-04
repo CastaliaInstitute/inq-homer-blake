@@ -478,7 +478,7 @@
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "4870c390b2b87ab3bcd6fe6877a490d09c4a9ec744586878c2f0732f40d49c50",
+      "pdfSha256": "2b881a65e1390ee6986574697b5722ad1279867610729207de9ddcad75d3b7ab",
       "pageCount": 254,
       "trimMm": [
         168,
@@ -606,7 +606,7 @@
         {
           "book": 6,
           "source": "text/odyssey/book-06-opening.md",
-          "sourceSha256": "f336b6cf47a90ed807dcfc3ef5485965db3408da56ee475585100becf9c7e38e",
+          "sourceSha256": "9be15405801a8206f42469560579e58238cce520c364adb97b9f81b59b638d1a",
           "plateId": "odyssey-book-06-nausicaa-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-06-full-bleed.jpg",

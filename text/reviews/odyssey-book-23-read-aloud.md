@@ -35,5 +35,59 @@ an escape from the obligations that follow.
 - Check the wedding-cover story and the exact point at which the party leaves.
 - Commission an independent read-aloud and omissions/additions report.
 
-**Conclusion:** recognition and reconciliation architecture are preserved; not
-approved for layout or final publication.
+## Critical beauty and accuracy review — 2026-09-04
+
+### Accuracy
+
+The draft’s central evidence is sound: Eurycleia identifies Odysseus by the
+scar and reports his command of silence; Penelope descends without accepting
+the nurse’s conclusion; Telemachus’s impatience is set against her deliberate
+test; and the bed’s rooted olive construction provides the private knowledge
+that no impostor could possess. The translation also preserves the false
+wedding song as tactical cover, the delayed dawn, Tiresias’s inland-oar sign,
+and the departure toward Laertes rather than ending at the embrace.
+
+No new factual emendation is adopted here. The following remain explicit
+verification flags: “Athena poured beauty over his head and shoulders” should
+be checked for the source’s exact transformation and sequence; the bed’s
+ox-hide thongs, gold, silver, and ivory should not become decorative additions
+that obscure the living olive; and the final voyage catalogue should be tested
+against the source’s ordering and omissions. “Only Odysseus and Penelope, / And
+one maid” is clear English but should be checked for the source’s precise
+knowledge claim before it is treated as definitive.
+
+### Beauty and cadence
+
+The book’s finest formal idea is that recognition arrives through architecture:
+the house remembers what the face conceals. The present version sometimes
+announces that idea (“Penelope knew the secret sign”) before the bed has done
+its work. A revision should let the rooted trunk, the cut chamber, and the
+question about its standing carry the revelation, then shorten the explanatory
+sentence after the embrace.
+
+The opening is strongest when Penelope’s silence is allowed to resist the
+nurse’s joy. Telemachus’s “why do you remain / Apart from him?” is narratively
+necessary but too contemporary in its plainness; it needs a more ceremonious
+public pressure without making him wiser than the scene permits. The night
+extension and the final catalogue should alternate breadth and hush. At
+present, “Thus each exchanged the burden of the years” summarizes an emotional
+exchange that deserves a few more concrete, tactile beats in the final line
+edit.
+
+### Revision priorities
+
+1. Delay the recognition sentence until after the bed’s physical evidence has
+   completed its argument.
+2. Re-line Telemachus’s impatience and Penelope’s caution for five-stress music,
+   preserving their difference in temperament.
+3. Keep the wedding song as sound heard from outside, not as a narrator’s label
+   for concealment.
+4. Expand the shared-history passage only with source-grounded images; avoid a
+   generalized summary of suffering.
+5. Read the book aloud in the comic-size two-column proof and mark places where
+   explanatory diction interrupts the held night.
+
+**Conclusion:** recognition, marriage-test, delayed dawn, and post-return labor
+are faithfully staged; the translation remains an editorial hold until the
+bed-test language, catalogue sequence, and compressed emotional transitions
+receive independent review.

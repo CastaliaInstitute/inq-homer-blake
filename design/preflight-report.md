@@ -24,7 +24,7 @@ must still be closed in `design/release-readiness.md`.
 ## Coverage and provenance
 
 - Translation ledger: 48 books; all remain under review.
-- Reader-facing density screen: 4 provisional holds; see `design/translation-density-report.md`.
+- Reader-facing density screen: 3 provisional holds; see `design/translation-density-report.md`.
 - Architecture page map: 680 traced pages.
 - Plate manifest: 55 records; all concept/source-review, none final.
 - Iliad print-review art: 24 checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.

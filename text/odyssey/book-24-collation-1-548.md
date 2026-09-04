@@ -376,12 +376,21 @@ Saw all the armed men, and cried aloud:
 “They are upon us—arm yourselves with speed!”
 
 Then rushed Odysseus and his son against
-The fleeing ranks, with sword and spear, resolved
-To follow vengeance to its final breath.
-But Zeus cast down a smoking thunderbolt
-Before Athena’s feet. The goddess cried:
-“Hold, son of Laertes; end this equal war,
-Lest wide-ruling Zeus be angered.” He obeyed.
+The fleeing ranks, with sword and spear; they struck
+The foremost men and drove them back in fear.
+They might have slain them all and left none living,
+Had not Athena lifted up her voice:
+“Hold, Ithacans, and cease this bitter war;
+Let kindred blood be parted without more.”
+The weapons fell from every trembling hand,
+And toward the city all the people fled.
+Odysseus, like an eagle high in air,
+Would still have followed, but Zeus cast his bolt
+Before Athena’s feet, and shook the field.
+She turned to him: “God-born Laertes’ son,
+Hold back, and end the strife of men who share
+One blood, lest Zeus, whose voice is wide, grow angry.”
+He heard and gladly stayed his hand.
 
 The Ithacans let fall their arms and fled
 Toward the city, terrified; and Zeus

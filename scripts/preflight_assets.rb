@@ -5,8 +5,8 @@ require "open3"
 
 ROOT = File.expand_path("..", __dir__)
 MIN_DPI = 300.0
-TRIM_WIDTH_IN = 6.625
-TRIM_HEIGHT_IN = 10.25
+TRIM_WIDTH_IN = 168.0 / 25.4
+TRIM_HEIGHT_IN = 260.0 / 25.4
 
 def fail!(message)
   warn "FAIL: #{message}"
@@ -112,7 +112,7 @@ rows.each_with_index do |row, index|
   height = width_output[/pixelHeight:\s*(\d+)/, 1].to_i
   fail!("no dimensions found for #{file}") if width.zero? || height.zero?
 
-  # The project trim is 6.625 × 10.25 inches. A concept may be below print resolution,
+  # The project trim is exactly 168 × 260 mm. A concept may be below print resolution,
   # but a record marked final may not pass this gate.
   dpi = [width / TRIM_WIDTH_IN, height / TRIM_HEIGHT_IN].min
   if row["curation_status"] == "final" && dpi < MIN_DPI

@@ -99,9 +99,9 @@ for pdf in pdfs:
     rows = [line.split() for line in fonts.stdout.splitlines()[2:] if line.strip()]
     # Web samplers are editorial distribution previews, not release PDFs; the
     # architecture and cover proofs remain explicitly non-release as well.
-    release_pdf = "proof" not in pdf.stem and "web-preview" not in pdf.stem
-    if release_pdf and any(len(row) >= 6 and row[3].lower() != "yes" for row in rows):
-        fail(f"release PDF {pdf.name} contains a non-embedded font")
+    candidate_pdf = bookvault_interior
+    if candidate_pdf and any(len(row) >= 6 and row[3].lower() != "yes" for row in rows):
+        fail(f"prepress candidate {pdf.name} contains a non-embedded font")
     if pdf.stem.endswith("-volume-proof"):
         extracted = run("pdftotext", str(pdf), "-")
         if extracted.returncode != 0:
@@ -110,7 +110,7 @@ for pdf in pdfs:
             fail(f"{pdf.name} contains editorial working-synopsis text")
     print(
         f"OK {pdf.relative_to(ROOT)}: {fields.get('Pages', '?')} pages, "
-        f"{fields.get('Page size', '?')}, class={'release' if release_pdf else 'sample'}"
+        f"{fields.get('Page size', '?')}, class={'prepress-candidate' if candidate_pdf else 'legacy-sample'}"
     )
 
 print("PDF preflight passed.")

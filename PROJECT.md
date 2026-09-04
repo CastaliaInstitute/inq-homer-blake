@@ -2,7 +2,7 @@
 
 ## Goal
 
-Produce a two-volume hardcover edition of Homer at a 6.625 × 10.25 inch comic-size trim,
+Produce a two-volume hardcover edition of Homer at standard US comic trim (6.625 × 10.25 in),
 printed on 80# coated paper:
 
 1. Homer's _Iliad_
@@ -57,9 +57,9 @@ Each plate manifest record must include:
 
 ## Lulu production baseline
 
-The current target is a standard US comic-size 6.625 × 10.25 in trim with 80# White Coated interior
-paper and Premium Color printing. A full-bleed interior page is 6.875 × 10.5
-in, with 0.125 in bleed on every edge. Final binding, page count, cover
+The current primary target is standard US comic trim (6.625 × 10.25 in) with 80# White Coated interior
+paper and Premium Color printing. A full-bleed interior page is 174 × 266 mm,
+with 3 mm bleed on every edge. Final binding, page count, cover
 spread, and spine width must be locked in Lulu before cover export. Each
 volume will require one interior PDF and one cover PDF.
 

@@ -25,6 +25,12 @@ def digest(path: Path) -> str:
 
 def tokens(text: str) -> list[str]:
     normalized = unicodedata.normalize("NFKD", unescape(text)).casefold()
+    # Poppler places the running title between a hyphenated line split at a
+    # page boundary (for example, ``foot-`` / ``THE ILIAD`` / ``Stool``).
+    # Remove that furniture before joining lexical hyphens.
+    normalized = re.sub(r"\n+(?:the iliad|the odyssey)\n+", "\n", normalized)
+    normalized = re.sub(r"\n+(?:longfellow-inspired translation / castalia institute|the iliad|the odyssey)\n+", "\n", normalized)
+    normalized = re.sub(r"\n+\d+\n+", "\n", normalized)
     # Join lexical hyphens because Poppler can drop them at a line break, but
     # keep punctuation dashes as boundaries ("him - it" must not become
     # ``himit``).
@@ -51,9 +57,14 @@ def main() -> None:
 
     for slug, volume in manifest["volumes"].items():
         pdf = ROOT / volume["pdf"]
-        assert digest(pdf) == volume["pdfSha256"]
+        assert digest(pdf) == volume["pdfSha256"], (
+            f"{slug}: PDF checksum differs from the shared manifest; complete one atomic two-volume rebuild"
+        )
         assert volume["pageCount"] % 2 == 0
         assert volume["plateCount"] == len(volume["books"]) == 24
+        assert volume.get("verseLayout") == "single_column_source_line_preserving", (
+            f"{slug}: candidate predates the line-preserving single-column layout; rebuild after text lock"
+        )
         assert [book["book"] for book in volume["books"]] == list(range(1, 25))
         assert all(book["plateApproval"] == "pending" for book in volume["books"])
 
@@ -81,7 +92,7 @@ def main() -> None:
         title = subprocess.check_output(["pdftotext", "-f", "1", "-l", "1", str(pdf), "-"], text=True)
         assert volume["title"] in title
         assert "A Longfellow-inspired translation by Castalia Institute" in title
-        assert "Historical Blake material and original Castalia Institute supplements" in title
+        assert "Original plate candidates by Castalia Institute; not by William Blake" in title
         assert "Edited by Castalia Institute" not in title
 
         for book in volume["books"]:

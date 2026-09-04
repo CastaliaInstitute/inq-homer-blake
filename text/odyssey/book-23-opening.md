@@ -148,11 +148,18 @@ And bound with leather shining red as wine.
 
 Penelope knew the secret sign. She ran to him,
 Embraced his neck, and kissed his head, saying
-That she had been wary, for many people planned deceit.
+“Do not be angry; wisdom was my guard.
+The gods who envied us denied the years
+Of youth together, and brought old age upon
+Us separately, before this hour of joy.”
+She named the bed, a secret known to them,
+And to one serving-woman, Actoris, whom
+Her father gave her when she crossed the sea;
+Actoris kept the chamber’s doors for them.
+She had been wary, for many people planned deceit.
 Even Helen, daughter of Zeus, would not have shared
 A foreign bed if she had known the Achaeans
-Would bring her home. Only Odysseus and Penelope,
-And one maid, Actoris, knew how the bed was made.
+Would bring her home.
 So he overcame her heart, hard though it had been.
 They wept like sailors who, when Poseidon breaks
 Their ship, set foot at last upon the land; and still
@@ -173,7 +180,8 @@ Odysseus answered: “Tiresias commanded me
 To carry a well-balanced oar inland, until
 A traveler, seeing it, should mistake it for
 A winnowing fan—proof that the people there
-Know neither sea nor ships nor shaped oars. Then
+Know neither sea nor ships nor shaped oars,
+Nor eat their food with salt from the sea. Then
 I must set the oar within the earth, and sacrifice
 A ram, a bull, and a boar to Poseidon;
 Returning home, make holy hecatombs
@@ -210,6 +218,17 @@ How, after grief and many labors, those
 Phaeacians honored him as they would a god,
 And sent him home with bronze, and gold, and clothes,
 The gifts that now lay waiting in his halls.
+He told how first he sacked the land of Cicones,
+And how the Lotus-eaters’ sweetness made
+His men forget the road; how Aeolus received
+Him kindly, yet the storm unbound the winds
+And drove him out again across the fish-dark sea.
+At Telepylus the Laestrygonians broke
+The ships and killed his people; he alone
+Escaped in his black ship. He spoke of Circe’s craft,
+The road to Hades, and his mother’s shade;
+Of Sirens, Scylla, Charybdis, and the cattle
+That brought the lightning down upon his crew.
 Thus each exchanged the burden of the years,
 Till sleep came softly and released their cares.
 

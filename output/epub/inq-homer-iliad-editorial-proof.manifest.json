@@ -11,20 +11,24 @@
   "illustrationPlates": 0,
   "illustrationStatus": "omitted_pending_final_art_and_rights",
   "illustrationCredit": "No illustrations included; final visual credits pending plate-level selection and rights review",
+  "coverStatus": "text_only_unapproved_misattributed_cover_art_omitted",
+  "sourceEdition": "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2",
   "source": "output/text/inq-homer-iliad.txt",
   "sourceSha256": "f50f27c582fe7a11e19174fc8df989033ed16ce41a1320202d243108954406df",
   "wordCount": 116290,
-  "identifier": "78d8cd55-d688-546d-996e-e3f3b47284b8",
+  "identifier": "74974a4e-5efc-5fcc-9ccb-a9344a663bdc",
   "epub": "inq-homer-iliad-editorial-proof.epub",
-  "epubSha256": "148f8b10b9a990b9bdeb35a7b89ed8a8fdf4c92811203eccfcbc6df17dcf44cf",
-  "bytes": 3464750,
+  "epubSha256": "4ef71dcb9ae427e6c9728f7d35147a248831f4e3c9dfd9fb27dc7c46b70a9c12",
+  "bytes": 579572,
   "openEditorialGates": [
     "greek_fidelity",
     "literary",
     "meter",
     "notes_glossary",
     "art_direction",
+    "cover_art",
     "production",
+    "epubcheck",
     "physical_proof"
   ]
 }

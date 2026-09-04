@@ -19,8 +19,14 @@ OUTPUT_DIR = ROOT / "output" / "epub"
 FIXED_TIME = (2026, 9, 3, 0, 0, 0)
 
 VOLUMES = {
-    "iliad": {"title": "The Iliad", "cover": ROOT / "assets/covers/epic/iliad/front-cover.jpg"},
-    "odyssey": {"title": "The Odyssey", "cover": ROOT / "assets/covers/epic/odyssey/front-cover.jpg"},
+    "iliad": {
+        "title": "The Iliad",
+        "source_urn": "urn:cts:greekLit:tlg0012.tlg001.perseus-grc2",
+    },
+    "odyssey": {
+        "title": "The Odyssey",
+        "source_urn": "urn:cts:greekLit:tlg0012.tlg002.perseus-grc2",
+    },
 }
 
 
@@ -34,7 +40,7 @@ def esc(value: str) -> str:
 
 def document(title: str, body: str, body_class: str = "") -> str:
     return f'''<?xml version="1.0" encoding="utf-8"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="en" xml:lang="en">
 <head><title>{esc(title)}</title><meta charset="utf-8"/><link rel="stylesheet" type="text/css" href="../css/book.css"/></head>
 <body class="{body_class}">{body}</body></html>'''
 
@@ -62,7 +68,7 @@ def parse_export(path: Path) -> list[tuple[int, list[str]]]:
     return books
 
 
-def package(title: str, identifier: str) -> str:
+def package(title: str, identifier: str, source_urn: str) -> str:
     items = "\n".join(
         f'<item id="book-{number:02}" href="text/book-{number:02}.xhtml" media-type="application/xhtml+xml"/>'
         for number in range(1, 25)
@@ -72,11 +78,20 @@ def package(title: str, identifier: str) -> str:
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="pub-id">
 <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dc:identifier id="pub-id">urn:uuid:{identifier}</dc:identifier>
-<dc:title>{esc(title)}</dc:title><dc:creator>Homer</dc:creator><dc:language>en</dc:language>
-<dc:publisher>Castalia Institute</dc:publisher><dc:contributor>Translated by Castalia Institute from the pinned Greek copy text in a Longfellow-inspired English verse form</dc:contributor>
-<dc:contributor>No illustrations included; final visual credits pending plate-level selection and rights review</dc:contributor>
+<dc:title>{esc(title)}</dc:title><dc:creator id="author">Homer</dc:creator><dc:language>en</dc:language>
+<meta refines="#author" property="role" scheme="marc:relators">aut</meta>
+<dc:publisher>Castalia Institute</dc:publisher>
+<dc:contributor id="translator">Castalia Institute</dc:contributor>
+<meta refines="#translator" property="role" scheme="marc:relators">trl</meta>
+<dc:source>{esc(source_urn)}</dc:source>
+<dc:description>A private, illustration-free editorial proof of a translation from the pinned Greek copy text in a Longfellow-inspired English verse form.</dc:description>
 <dc:rights>Private editorial proof. Not approved for sale or public distribution.</dc:rights>
 <meta property="dcterms:modified">2026-09-03T00:00:00Z</meta>
+<meta property="schema:accessMode">textual</meta>
+<meta property="schema:accessibilityFeature">structuralNavigation</meta>
+<meta property="schema:accessibilityFeature">tableOfContents</meta>
+<meta property="schema:accessibilityHazard">none</meta>
+<meta property="schema:accessibilitySummary">This illustration-free proof provides reflowable text, semantic headings, and a linked table of contents.</meta>
 </metadata>
 <manifest>
 <item id="nav" href="text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -85,7 +100,6 @@ def package(title: str, identifier: str) -> str:
 <item id="notice" href="text/notice.xhtml" media-type="application/xhtml+xml"/>
 <item id="css" href="css/book.css" media-type="text/css"/>
 <item id="font" href="fonts/CormorantGaramond-Regular.ttf" media-type="font/ttf"/>
-<item id="cover-image" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
 {items}
 </manifest>
 <spine><itemref idref="cover-page"/><itemref idref="title-page"/><itemref idref="nav"/><itemref idref="notice"/>{spine}</spine>
@@ -97,22 +111,21 @@ def build(volume: str) -> dict:
     source = ROOT / "output" / "text" / f"inq-homer-{volume}.txt"
     books = parse_export(source)
     source_bytes = source.read_bytes()
-    cover_bytes = spec["cover"].read_bytes()
     font = ROOT / "assets/fonts/CormorantGaramond-Regular.ttf"
-    identifier = str(uuid.uuid5(uuid.NAMESPACE_URL, sha256(source_bytes) + sha256(cover_bytes)))
+    identifier = str(uuid.uuid5(uuid.NAMESPACE_URL, sha256(source_bytes) + spec["source_urn"]))
     output = OUTPUT_DIR / f"inq-homer-{volume}-editorial-proof.epub"
 
     with tempfile.TemporaryDirectory(prefix=f"inq-homer-{volume}-epub-") as tmp:
         root = Path(tmp)
         oebps = root / "OEBPS"
-        for directory in (root / "META-INF", oebps / "text", oebps / "css", oebps / "fonts", oebps / "images"):
+        for directory in (root / "META-INF", oebps / "text", oebps / "css", oebps / "fonts"):
             directory.mkdir(parents=True, exist_ok=True)
         (root / "mimetype").write_text("application/epub+zip", encoding="ascii")
         (root / "META-INF/container.xml").write_text('<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="OEBPS/package.opf" media-type="application/oebps-package+xml"/></rootfiles></container>', encoding="utf-8")
-        shutil.copyfile(spec["cover"], oebps / "images/cover.jpg")
         shutil.copyfile(font, oebps / "fonts/CormorantGaramond-Regular.ttf")
         (oebps / "css/book.css").write_text("""@font-face{font-family:Cormorant;src:url('../fonts/CormorantGaramond-Regular.ttf')}body{font-family:Cormorant,Georgia,serif;line-height:1.42;margin:6%;color:#211713}p{margin:0 0 .34em}.verse{orphans:2;widows:2}.cover{margin:0;text-align:center}.cover img{display:block;width:100%;height:auto;max-height:100vh;object-fit:contain}.title{text-align:center;padding-top:18%}.title h1{font-size:2.8em;margin-bottom:.5em}.credit{letter-spacing:.06em}.notice{border:.08em solid #7d2d25;padding:1em;margin-top:18%;font-family:Georgia,serif}nav ol{list-style:none;padding:0}nav li{margin:.35em 0}h1{break-before:page;text-align:center}""", encoding="utf-8")
-        (oebps / "text/cover.xhtml").write_text(document("Cover", '<img epub:type="cover" src="../images/cover.jpg" alt="Cover of ' + esc(spec["title"]) + '"/>', "cover"), encoding="utf-8")
+        cover_body = f'<p>iNQ EPIC</p><h1>{esc(spec["title"])}</h1><p class="credit">Homer</p><p class="credit">Translated by Castalia Institute</p><p class="credit">Illustration-free editorial proof</p>'
+        (oebps / "text/cover.xhtml").write_text(document("Cover", cover_body, "cover title"), encoding="utf-8")
         title_body = f'<p>iNQ EPIC</p><h1>{esc(spec["title"])}</h1><p class="credit">Homer</p><p class="credit">Translated by Castalia Institute from the pinned Greek copy text in a Longfellow-inspired English verse form</p><p class="credit">No illustrations included</p><p>Editorial proof</p>'
         (oebps / "text/title.xhtml").write_text(document(spec["title"], title_body, "title"), encoding="utf-8")
         notice = '<h1>Editorial proof notice</h1><div class="notice"><p>This edition is a private working proof. It is not approved for sale or public distribution.</p><p>All twenty-four books remain under review. Independent Greek-fidelity, literary, meter, notes, art-direction, production, and physical-proof approvals remain open. Illustration plates are intentionally omitted until final art and rights are locked.</p></div>'
@@ -123,7 +136,7 @@ def build(volume: str) -> dict:
         for number, lines in books:
             paragraphs = "".join(f'<p class="verse">{esc(line)}</p>' for line in lines)
             (oebps / f"text/book-{number:02}.xhtml").write_text(document(f"Book {number}", f'<h1>Book {number}</h1>{paragraphs}'), encoding="utf-8")
-        (oebps / "package.opf").write_text(package(spec["title"], identifier), encoding="utf-8")
+        (oebps / "package.opf").write_text(package(spec["title"], identifier, spec["source_urn"]), encoding="utf-8")
 
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
         with zipfile.ZipFile(output, "w") as archive:
@@ -150,6 +163,8 @@ def build(volume: str) -> dict:
         "illustrationPlates": 0,
         "illustrationStatus": "omitted_pending_final_art_and_rights",
         "illustrationCredit": "No illustrations included; final visual credits pending plate-level selection and rights review",
+        "coverStatus": "text_only_unapproved_misattributed_cover_art_omitted",
+        "sourceEdition": spec["source_urn"],
         "source": source.relative_to(ROOT).as_posix(),
         "sourceSha256": sha256(source_bytes),
         "wordCount": sum(len(line.split()) for _, lines in books for line in lines),
@@ -157,7 +172,7 @@ def build(volume: str) -> dict:
         "epub": output.name,
         "epubSha256": sha256(epub_bytes),
         "bytes": len(epub_bytes),
-        "openEditorialGates": ["greek_fidelity", "literary", "meter", "notes_glossary", "art_direction", "production", "physical_proof"],
+        "openEditorialGates": ["greek_fidelity", "literary", "meter", "notes_glossary", "art_direction", "cover_art", "production", "epubcheck", "physical_proof"],
     }
     manifest_path = OUTPUT_DIR / f"inq-homer-{volume}-editorial-proof.manifest.json"
     manifest_path.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")

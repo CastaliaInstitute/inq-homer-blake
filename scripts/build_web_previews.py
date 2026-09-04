@@ -105,7 +105,7 @@ def build(slug: str, title: str, book_label: str) -> Path:
         topMargin=MARGIN_TOP, bottomMargin=MARGIN_BOTTOM,
         title=f"{title} - Book I illustrated preview",
         author="Castalia Institute",
-        subject="iNQ Epic sampler: cover, one original a.Blake plate, and complete Book I text",
+        subject="iNQ Epic sampler: cover, one original Castalia Institute plate, and complete Book I text",
     )
 
     blank = Frame(0, 0, PAGE_W, PAGE_H, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="blank")

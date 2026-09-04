@@ -263,8 +263,10 @@ Arete ordered the women to set a bed beneath the portico, and lay fine purple
 Blankets over it, with rugs above and woolen cloaks to cover him. The women went out
 Bearing torches. When they had made the close-woven bed, they called him:
 “Rise now, stranger; your bed is ready.” It seemed a welcome thing to sleep.
-The much-enduring Odysseus lay beneath the roof, upon the pierced bed beneath the echoing hall.
-Alcinous slept within the house’s heart, and the queen prepared the bed and resting-place.
+The much-enduring Odysseus lay beneath the roof,
+Upon the pierced bed beneath the echoing hall.
+Alcinous slept within the house’s heart,
+And the queen prepared the bed and resting-place.
 
 ## Decision log
 

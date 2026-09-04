@@ -16,8 +16,8 @@
     "iliad": {
       "title": "The Iliad",
       "pdf": "output/pdf/inq-homer-iliad-bookvault-interior.pdf",
-      "pdfSha256": "ed2c6d1266843aba89cdcf82abf73bb5279783a2ef0d3b1663a623f4fe3799d6",
-      "pageCount": 320,
+      "pdfSha256": "16b7645d207c5ffad27ae72cd4d0f72aee64807e11981526f4d905e4d50f9831",
+      "pageCount": 360,
       "trimMm": [
         168,
         260
@@ -28,31 +28,32 @@
       ],
       "bleedMm": 3,
       "plateCount": 24,
+      "verseLayout": "single_column_source_line_preserving",
       "colourPages": [
         3,
-        15,
-        32,
-        42,
-        53,
-        68,
-        77,
-        85,
-        93,
-        105,
-        117,
-        131,
-        141,
-        157,
-        167,
+        16,
+        34,
+        45,
+        57,
+        74,
+        83,
+        91,
+        98,
+        108,
+        118,
+        136,
+        148,
+        168,
         181,
-        200,
-        216,
-        229,
-        240,
-        252,
-        268,
-        281,
-        302
+        199,
+        222,
+        242,
+        257,
+        270,
+        285,
+        302,
+        317,
+        341
       ],
       "books": [
         {
@@ -70,7 +71,7 @@
           "productionPpi": 300,
           "platePage": 3,
           "textStartPage": 4,
-          "textEndPage": 14
+          "textEndPage": 15
         },
         {
           "book": 2,
@@ -85,9 +86,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 15,
-          "textStartPage": 16,
-          "textEndPage": 31
+          "platePage": 16,
+          "textStartPage": 17,
+          "textEndPage": 33
         },
         {
           "book": 3,
@@ -102,9 +103,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 32,
-          "textStartPage": 33,
-          "textEndPage": 41
+          "platePage": 34,
+          "textStartPage": 35,
+          "textEndPage": 44
         },
         {
           "book": 4,
@@ -119,9 +120,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 42,
-          "textStartPage": 43,
-          "textEndPage": 52
+          "platePage": 45,
+          "textStartPage": 46,
+          "textEndPage": 56
         },
         {
           "book": 5,
@@ -136,9 +137,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 53,
-          "textStartPage": 54,
-          "textEndPage": 67
+          "platePage": 57,
+          "textStartPage": 58,
+          "textEndPage": 73
         },
         {
           "book": 6,
@@ -153,9 +154,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 68,
-          "textStartPage": 69,
-          "textEndPage": 76
+          "platePage": 74,
+          "textStartPage": 75,
+          "textEndPage": 82
         },
         {
           "book": 7,
@@ -170,9 +171,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 77,
-          "textStartPage": 78,
-          "textEndPage": 84
+          "platePage": 83,
+          "textStartPage": 84,
+          "textEndPage": 90
         },
         {
           "book": 8,
@@ -187,9 +188,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 85,
-          "textStartPage": 86,
-          "textEndPage": 92
+          "platePage": 91,
+          "textStartPage": 92,
+          "textEndPage": 97
         },
         {
           "book": 9,
@@ -204,9 +205,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 93,
-          "textStartPage": 94,
-          "textEndPage": 104
+          "platePage": 98,
+          "textStartPage": 99,
+          "textEndPage": 107
         },
         {
           "book": 10,
@@ -221,9 +222,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 105,
-          "textStartPage": 106,
-          "textEndPage": 116
+          "platePage": 108,
+          "textStartPage": 109,
+          "textEndPage": 117
         },
         {
           "book": 11,
@@ -238,9 +239,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 117,
-          "textStartPage": 118,
-          "textEndPage": 130
+          "platePage": 118,
+          "textStartPage": 119,
+          "textEndPage": 135
         },
         {
           "book": 12,
@@ -255,9 +256,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 131,
-          "textStartPage": 132,
-          "textEndPage": 140
+          "platePage": 136,
+          "textStartPage": 137,
+          "textEndPage": 147
         },
         {
           "book": 13,
@@ -272,9 +273,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 141,
-          "textStartPage": 142,
-          "textEndPage": 156
+          "platePage": 148,
+          "textStartPage": 149,
+          "textEndPage": 167
         },
         {
           "book": 14,
@@ -289,9 +290,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 157,
-          "textStartPage": 158,
-          "textEndPage": 166
+          "platePage": 168,
+          "textStartPage": 169,
+          "textEndPage": 180
         },
         {
           "book": 15,
@@ -306,9 +307,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 167,
-          "textStartPage": 168,
-          "textEndPage": 180
+          "platePage": 181,
+          "textStartPage": 182,
+          "textEndPage": 198
         },
         {
           "book": 16,
@@ -323,9 +324,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 181,
-          "textStartPage": 182,
-          "textEndPage": 199
+          "platePage": 199,
+          "textStartPage": 200,
+          "textEndPage": 221
         },
         {
           "book": 17,
@@ -340,9 +341,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 200,
-          "textStartPage": 201,
-          "textEndPage": 215
+          "platePage": 222,
+          "textStartPage": 223,
+          "textEndPage": 241
         },
         {
           "book": 18,
@@ -357,9 +358,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 216,
-          "textStartPage": 217,
-          "textEndPage": 228
+          "platePage": 242,
+          "textStartPage": 243,
+          "textEndPage": 256
         },
         {
           "book": 19,
@@ -374,9 +375,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 229,
-          "textStartPage": 230,
-          "textEndPage": 239
+          "platePage": 257,
+          "textStartPage": 258,
+          "textEndPage": 269
         },
         {
           "book": 20,
@@ -391,9 +392,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 240,
-          "textStartPage": 241,
-          "textEndPage": 251
+          "platePage": 270,
+          "textStartPage": 271,
+          "textEndPage": 284
         },
         {
           "book": 21,
@@ -408,9 +409,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 252,
-          "textStartPage": 253,
-          "textEndPage": 267
+          "platePage": 285,
+          "textStartPage": 286,
+          "textEndPage": 301
         },
         {
           "book": 22,
@@ -425,9 +426,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 268,
-          "textStartPage": 269,
-          "textEndPage": 280
+          "platePage": 302,
+          "textStartPage": 303,
+          "textEndPage": 316
         },
         {
           "book": 23,
@@ -442,9 +443,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 281,
-          "textStartPage": 282,
-          "textEndPage": 301
+          "platePage": 317,
+          "textStartPage": 318,
+          "textEndPage": 340
         },
         {
           "book": 24,
@@ -459,24 +460,26 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 302,
-          "textStartPage": 303,
-          "textEndPage": 320
+          "platePage": 341,
+          "textStartPage": 342,
+          "textEndPage": 360
         }
       ],
       "releaseEligible": false,
       "releaseBlockers": [
         "translation-signoff",
         "illustration-signoff",
+        "plate-rights-lock",
         "font-license-lock",
+        "printer-profile-lock",
         "physical-proof"
       ]
     },
     "odyssey": {
       "title": "The Odyssey",
       "pdf": "output/pdf/inq-homer-odyssey-bookvault-interior.pdf",
-      "pdfSha256": "32d512ff9b299e91891e012497f0c78b337a58f201170b0d316298da6fe67889",
-      "pageCount": 224,
+      "pdfSha256": "4171d30ca510c9a006c59e187a23745267d4cdd13162dbd277e83cda773cdc74",
+      "pageCount": 250,
       "trimMm": [
         168,
         260
@@ -487,31 +490,32 @@
       ],
       "bleedMm": 3,
       "plateCount": 24,
+      "verseLayout": "single_column_source_line_preserving",
       "colourPages": [
         3,
-        11,
-        18,
-        31,
-        50,
-        62,
-        69,
-        76,
-        87,
-        97,
-        107,
-        119,
-        128,
+        12,
+        20,
+        34,
+        55,
+        68,
+        77,
+        84,
+        98,
+        110,
+        121,
         135,
-        146,
-        156,
+        145,
+        153,
         165,
-        174,
-        181,
-        190,
-        197,
-        204,
-        210,
-        215
+        176,
+        185,
+        194,
+        202,
+        212,
+        219,
+        226,
+        233,
+        240
       ],
       "books": [
         {
@@ -529,7 +533,7 @@
           "productionPpi": 300,
           "platePage": 3,
           "textStartPage": 4,
-          "textEndPage": 10
+          "textEndPage": 11
         },
         {
           "book": 2,
@@ -544,9 +548,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 11,
-          "textStartPage": 12,
-          "textEndPage": 17
+          "platePage": 12,
+          "textStartPage": 13,
+          "textEndPage": 19
         },
         {
           "book": 3,
@@ -561,9 +565,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 18,
-          "textStartPage": 19,
-          "textEndPage": 30
+          "platePage": 20,
+          "textStartPage": 21,
+          "textEndPage": 33
         },
         {
           "book": 4,
@@ -578,9 +582,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 31,
-          "textStartPage": 32,
-          "textEndPage": 49
+          "platePage": 34,
+          "textStartPage": 35,
+          "textEndPage": 54
         },
         {
           "book": 5,
@@ -595,9 +599,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 50,
-          "textStartPage": 51,
-          "textEndPage": 61
+          "platePage": 55,
+          "textStartPage": 56,
+          "textEndPage": 67
         },
         {
           "book": 6,
@@ -612,14 +616,14 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 62,
-          "textStartPage": 63,
-          "textEndPage": 68
+          "platePage": 68,
+          "textStartPage": 69,
+          "textEndPage": 76
         },
         {
           "book": 7,
           "source": "text/odyssey/book-07-opening.md",
-          "sourceSha256": "ad82bc33df35f254097a414b45edc48a9c6251cbdcbe3e4f5462e185f89a1285",
+          "sourceSha256": "2319fa898a14564ddbc18c61ec35e208d38581769295ba77efb4bca9b352b9ed",
           "plateId": "odyssey-book-07-arete-palace-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-07-full-bleed.jpg",
@@ -629,9 +633,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 69,
-          "textStartPage": 70,
-          "textEndPage": 75
+          "platePage": 77,
+          "textStartPage": 78,
+          "textEndPage": 83
         },
         {
           "book": 8,
@@ -646,9 +650,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 76,
-          "textStartPage": 77,
-          "textEndPage": 86
+          "platePage": 84,
+          "textStartPage": 85,
+          "textEndPage": 97
         },
         {
           "book": 9,
@@ -663,9 +667,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 87,
-          "textStartPage": 88,
-          "textEndPage": 96
+          "platePage": 98,
+          "textStartPage": 99,
+          "textEndPage": 109
         },
         {
           "book": 10,
@@ -680,9 +684,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 97,
-          "textStartPage": 98,
-          "textEndPage": 106
+          "platePage": 110,
+          "textStartPage": 111,
+          "textEndPage": 120
         },
         {
           "book": 11,
@@ -697,9 +701,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 107,
-          "textStartPage": 108,
-          "textEndPage": 118
+          "platePage": 121,
+          "textStartPage": 122,
+          "textEndPage": 134
         },
         {
           "book": 12,
@@ -714,9 +718,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 119,
-          "textStartPage": 120,
-          "textEndPage": 127
+          "platePage": 135,
+          "textStartPage": 136,
+          "textEndPage": 144
         },
         {
           "book": 13,
@@ -731,9 +735,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 128,
-          "textStartPage": 129,
-          "textEndPage": 134
+          "platePage": 145,
+          "textStartPage": 146,
+          "textEndPage": 152
         },
         {
           "book": 14,
@@ -748,9 +752,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 135,
-          "textStartPage": 136,
-          "textEndPage": 145
+          "platePage": 153,
+          "textStartPage": 154,
+          "textEndPage": 164
         },
         {
           "book": 15,
@@ -765,9 +769,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 146,
-          "textStartPage": 147,
-          "textEndPage": 155
+          "platePage": 165,
+          "textStartPage": 166,
+          "textEndPage": 175
         },
         {
           "book": 16,
@@ -782,9 +786,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 156,
-          "textStartPage": 157,
-          "textEndPage": 164
+          "platePage": 176,
+          "textStartPage": 177,
+          "textEndPage": 184
         },
         {
           "book": 17,
@@ -799,9 +803,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 165,
-          "textStartPage": 166,
-          "textEndPage": 173
+          "platePage": 185,
+          "textStartPage": 186,
+          "textEndPage": 193
         },
         {
           "book": 18,
@@ -816,9 +820,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 174,
-          "textStartPage": 175,
-          "textEndPage": 180
+          "platePage": 194,
+          "textStartPage": 195,
+          "textEndPage": 201
         },
         {
           "book": 19,
@@ -833,9 +837,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 181,
-          "textStartPage": 182,
-          "textEndPage": 189
+          "platePage": 202,
+          "textStartPage": 203,
+          "textEndPage": 211
         },
         {
           "book": 20,
@@ -850,9 +854,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 190,
-          "textStartPage": 191,
-          "textEndPage": 196
+          "platePage": 212,
+          "textStartPage": 213,
+          "textEndPage": 218
         },
         {
           "book": 21,
@@ -867,9 +871,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 197,
-          "textStartPage": 198,
-          "textEndPage": 203
+          "platePage": 219,
+          "textStartPage": 220,
+          "textEndPage": 225
         },
         {
           "book": 22,
@@ -884,14 +888,14 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 204,
-          "textStartPage": 205,
-          "textEndPage": 209
+          "platePage": 226,
+          "textStartPage": 227,
+          "textEndPage": 232
         },
         {
           "book": 23,
           "source": "text/odyssey/book-23-opening.md",
-          "sourceSha256": "94773f74050d76c481215e809c284578652f547834b8417142a6e5c81e4be713",
+          "sourceSha256": "0e3f831b4146cf04884d02ededf356f7c2892f785053f48cff6f46cd705c3c9e",
           "plateId": "odyssey-book-23-penelope-bed-concept",
           "plateApproval": "pending",
           "productionAsset": "assets/print/illustrations/odyssey/book-23-full-bleed.jpg",
@@ -901,9 +905,9 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 210,
-          "textStartPage": 211,
-          "textEndPage": 214
+          "platePage": 233,
+          "textStartPage": 234,
+          "textEndPage": 239
         },
         {
           "book": 24,
@@ -918,16 +922,18 @@
             3142
           ],
           "productionPpi": 300,
-          "platePage": 215,
-          "textStartPage": 216,
-          "textEndPage": 224
+          "platePage": 240,
+          "textStartPage": 241,
+          "textEndPage": 250
         }
       ],
       "releaseEligible": false,
       "releaseBlockers": [
         "translation-signoff",
         "illustration-signoff",
+        "plate-rights-lock",
         "font-license-lock",
+        "printer-profile-lock",
         "physical-proof"
       ]
     }

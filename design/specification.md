@@ -3,10 +3,11 @@
 ## Finished format
 
 - Two separate hardcover volumes: *Iliad* and *Odyssey*
-- Trim: 6.625 × 10.25 inches, portrait (standard US comic size)
+- Primary trim: standard US comic size, exactly 6.625 × 10.25 in
 - Interior stock: 80# coated paper
 - Printing: color, subject to final printer profile and proof
-- Bleed: 0.125 inch on all trimmed edges when artwork reaches the edge
+- Bleed: 0.125 in on all trimmed edges when artwork reaches the edge; full-bleed
+  document size 6.875 × 10.5 in
 - Final cover spread and spine width: calculated from the locked page count
   and current printer specification
 
@@ -19,7 +20,7 @@ each interior page count is locked.
 ## Page system
 
 Use a shared typographic system across both volumes: restrained classical
-display treatment, highly readable verse text, generous outer margins, and a
+display treatment, source-line-preserving two-column verse, generous outer margins, and a
 consistent running architecture for book numbers, notes, captions, and plates.
 The final grid, typefaces, point sizes, leading, and color values must be
 recorded here before production pages are assembled.

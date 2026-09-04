@@ -13,6 +13,7 @@ import fcntl
 import hashlib
 import json
 import subprocess
+from html import unescape
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -48,7 +49,6 @@ FONT_DIR = ROOT / "assets" / "fonts"
 MARGIN_X = (BLEED_MM + 15) * mm
 MARGIN_TOP = (BLEED_MM + 16) * mm
 MARGIN_BOTTOM = (BLEED_MM + 15) * mm
-COLUMN_GUTTER = 6 * mm
 
 for name, filename in {
     "Cormorant": "CormorantGaramond-Regular.ttf",
@@ -113,7 +113,7 @@ STYLES = {
     "book": ParagraphStyle("book", fontName="CormorantB", fontSize=19, leading=23, alignment=TA_CENTER, textColor=colors.HexColor("#211d18"), spaceAfter=4),
     "booksub": ParagraphStyle("booksub", fontName="CormorantI", fontSize=9.2, leading=11, alignment=TA_CENTER, textColor=colors.HexColor("#61594f"), spaceAfter=12),
     "front": ParagraphStyle("front", fontName="Cormorant", fontSize=10.2, leading=14, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), spaceAfter=8),
-    "verse": ParagraphStyle("verse", fontName="Cormorant", fontSize=11.2, leading=14.6, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), leftIndent=0.05 * inch, spaceAfter=0),
+    "verse": ParagraphStyle("verse", fontName="Cormorant", fontSize=10.5, leading=14.6, alignment=TA_LEFT, textColor=colors.HexColor("#211d18"), leftIndent=0.05 * inch, spaceAfter=0),
 }
 
 
@@ -161,7 +161,7 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         Paragraph("Homer", STYLES["subtitle"]),
         Spacer(1, 11 * mm),
         Paragraph("A Longfellow-inspired translation by Castalia Institute", STYLES["credit"]),
-        Paragraph("Historical Blake material and original Castalia Institute supplements", STYLES["credit"]),
+        Paragraph("Original plate candidates by Castalia Institute; not by William Blake", STYLES["credit"]),
         Paragraph("iNQ Epic - provisional 168 x 260 mm prepress candidate", STYLES["credit"]),
         PageBreak(),
         Paragraph("FORWARD", STYLES["book"]),
@@ -187,6 +187,13 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
             Paragraph(book_subtitle if book == 1 else f"Book {book}", STYLES["booksub"]),
         ])
         for line in book_translation(path):
+            available = PAGE[0] - 2 * MARGIN_X - STYLES["verse"].leftIndent
+            width = pdfmetrics.stringWidth(unescape(line), STYLES["verse"].fontName, STYLES["verse"].fontSize)
+            if width > available:
+                raise ValueError(
+                    f"{slug} Book {book}: verse line exceeds the single-column measure; "
+                    "revise its line break without changing or padding the text"
+                )
             story.extend([Paragraph(line, STYLES["verse"]), Spacer(1, 1.4)])
         book_records.append({
             "book": book,
@@ -217,15 +224,13 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         subject="iNQ Epic BookVault prepress candidate; release approval pending",
     )
     safe_width = PAGE[0] - 2 * MARGIN_X
-    column_width = (safe_width - COLUMN_GUTTER) / 2
     front = Frame(MARGIN_X, MARGIN_BOTTOM, safe_width, PAGE[1] - MARGIN_TOP - MARGIN_BOTTOM, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="front")
     plate = Frame(0, 0, PAGE[0], PAGE[1], leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="plate")
-    left = Frame(MARGIN_X, MARGIN_BOTTOM, column_width, PAGE[1] - MARGIN_TOP - MARGIN_BOTTOM, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="left")
-    right = Frame(MARGIN_X + column_width + COLUMN_GUTTER, MARGIN_BOTTOM, column_width, PAGE[1] - MARGIN_TOP - MARGIN_BOTTOM, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="right")
+    text = Frame(MARGIN_X, MARGIN_BOTTOM, safe_width, PAGE[1] - MARGIN_TOP - MARGIN_BOTTOM, leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0, id="text")
     doc.addPageTemplates([
         PageTemplate(id="front", frames=front),
         PageTemplate(id="plate", frames=plate),
-        PageTemplate(id="text", frames=[left, right], onPage=footer(title)),
+        PageTemplate(id="text", frames=[text], onPage=footer(title)),
         PageTemplate(id="blank", frames=plate),
     ])
     doc.build(story, canvasmaker=ProductionCanvas)
@@ -251,10 +256,11 @@ def build(slug: str, title: str, book_subtitle: str, pad_final_blank: bool = Fal
         "documentMm": [174, 266],
         "bleedMm": BLEED_MM,
         "plateCount": 24,
+        "verseLayout": "single_column_source_line_preserving",
         "colourPages": [record["platePage"] for record in book_records],
         "books": book_records,
         "releaseEligible": False,
-        "releaseBlockers": ["translation-signoff", "illustration-signoff", "font-license-lock", "physical-proof"],
+        "releaseBlockers": ["translation-signoff", "illustration-signoff", "plate-rights-lock", "font-license-lock", "printer-profile-lock", "physical-proof"],
     }
 
 

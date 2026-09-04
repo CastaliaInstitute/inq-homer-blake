@@ -127,8 +127,8 @@ def main() -> None:
     manifest = {
         "schemaVersion": 1,
         "work": "The Iliad",
-        "artistCredit": "a.Blake",
-        "style": "original ink contour and restrained watercolor in the a.Blake house language",
+        "artistCredit": "CastaliaInstitute",
+        "style": "original ink contour and restrained watercolor informed by the a.Blake house language; not by William Blake",
         "historicalScansIncluded": False,
         "reviewStatus": "print-review derivatives; human art-direction and physical proof pending",
         "nativeMasterClaim": False,

@@ -53,7 +53,11 @@ bookvault_manifest = json.loads(
     (ROOT / "output/pdf/inq-homer-bookvault-interiors.manifest.json").read_text(encoding="utf-8")
 )
 stale_bookvault_sources = []
+stale_bookvault_pdfs = []
 for volume, record in bookvault_manifest["volumes"].items():
+    pdf = ROOT / record["pdf"]
+    if hashlib.sha256(pdf.read_bytes()).hexdigest() != record["pdfSha256"]:
+        stale_bookvault_pdfs.append(volume)
     for book in record["books"]:
         source = ROOT / book["source"]
         current = hashlib.sha256(source.read_bytes()).hexdigest()
@@ -81,8 +85,9 @@ lines = [
     "",
     "## Edition target",
     "",
-    "- Trim: 6.625 × 10.25 inches (comic size), with BookVault's provisional 168 × 260 mm candidate route documented separately",
-    "- Interior: two columns, hardcover, 80# White Coated, Premium Color target",
+    "- Primary production trim: standard US comic size, 6.625 × 10.25 in (477 × 738 pt)",
+    "- BookVault 168 × 260 mm candidates are alternate prepress studies, not the primary release geometry",
+    "- Primary interior: source-line-preserving two-column verse, hardcover, 80# White Coated, Premium Color target",
     "- Cover studies: one-page integrated casewrap spreads; printer-specific template required after page-count lock",
     "",
     "## Proof inventory",
@@ -106,9 +111,14 @@ lines += [
     f"- Plate manifest: {len(plates)} records; all concept/source-review, none final.",
     f"- Iliad print-review art: {iliad_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
     f"- Odyssey print-review art: {odyssey_print['plateCount']} checksum-bound 2055 × 3142 / 300-PPI sRGB derivatives; human approval pending.",
+    "- Raster cover studies: HOLD; both contain inaccurate A.Longfellow translator and A.Blake illustrator credits and must not ship.",
     (
         f"- BookVault source lock: {len(stale_bookvault_sources)} stale manuscript reference(s); "
         + ("rebuild required before candidate validation." if stale_bookvault_sources else "candidate hashes match current manuscript sources.")
+    ),
+    (
+        f"- BookVault PDF manifest lock: {len(stale_bookvault_pdfs)} checksum mismatch(es)"
+        + (f" ({', '.join(stale_bookvault_pdfs)}); atomic rebuild required." if stale_bookvault_pdfs else "; PDF hashes match the shared manifest.")
     ),
     "- Asset checksums: `design/asset-checksums.csv`, rebuilt in CI.",
     "- Font evidence: `design/font-lock.md`; Cormorant Garamond OFL 1.1 files tracked.",
@@ -118,9 +128,11 @@ lines += [
     "1. Named independent Greek-fidelity review for all 48 books.",
     "2. Separate literary, meter, and notes/glossary approvals.",
     "3. Art-direction selection, passage/caption locks, and rights confirmation.",
-    "4. Final printer profile, cover templates, spine widths, and binding lock.",
-    "5. Rebuild the stale BookVault candidates after text lock, then run PDF, trim, profile, overprint, font, and source-hash checks.",
-    "6. Physical or printer proof inspection and dated correction record.",
+    "4. Replacement cover art with accurate built-in author, translator, and illustrator/artist credits.",
+    "5. Exact comic-size printer route, final profile, cover templates, spine widths, and binding lock.",
+    "6. Rebuild any stale BookVault candidates after text lock, then run PDF, trim, profile, overprint, font, and source-hash checks.",
+    "7. Authoritative EPUBCheck plus deterministic two-build comparison.",
+    "8. Physical or printer proof inspection and dated correction record.",
 ]
 
 OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")

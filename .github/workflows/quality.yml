@@ -14,6 +14,8 @@ jobs:
       - uses: actions/checkout@v4
       - name: Install PDF inspection tools
         run: brew list poppler >/dev/null 2>&1 || brew install poppler
+      - name: Install EPUBCheck
+        run: brew list epubcheck >/dev/null 2>&1 || brew install epubcheck
       - name: Install image inspection tools
         run: |
           python3 -m venv .ci-image-tools
@@ -88,7 +90,19 @@ jobs:
           python3 scripts/build_architecture_page_map.py
           git diff --exit-code -- design/architecture-page-map.csv design/volume-proof-book-starts.csv
       - name: Run accessible text-export preflight
-        run: python3 scripts/preflight_text_exports.py
+        run: |
+          python3 scripts/build_text_exports.py
+          git diff --exit-code -- output/text
+          python3 scripts/preflight_text_exports.py
+      - name: Rebuild, validate, and reproduce EPUB editorial proofs
+        run: |
+          python3 scripts/build_epub.py
+          git diff --exit-code -- output/epub
+          python3 scripts/validate_epub.py --require-epubcheck
+          shasum -a 256 output/epub/*.epub > /tmp/inq-homer-epub-first.txt
+          python3 scripts/build_epub.py
+          shasum -a 256 output/epub/*.epub > /tmp/inq-homer-epub-second.txt
+          diff -u /tmp/inq-homer-epub-first.txt /tmp/inq-homer-epub-second.txt
       - name: Rebuild and verify meter screening artifacts
         run: |
           python3 scripts/build_meter_report.py

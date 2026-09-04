@@ -13,24 +13,26 @@ publication_credits:
 
 format:
   trim_in: [6.625, 10.25]
-  trim_mm_nominal: [168.275, 260.35]
+  trim_pt: [477, 738]
   interior_bleed_in: 0.125
+  full_bleed_document_in: [6.875, 10.5]
   interior_stock: "80# White Coated"
   printing: "Premium Color hardcover target"
   binding: hardcover
+  verse_layout: two_column_source_line_preserving
   cover_spread: pending_page_count_and_printer_lock
-  cover_template_authority: "Printer-specific custom template after interior upload; BookVault is a provisional working route only"
+  cover_template_authority: "Printer-specific comic-size custom template after interior upload"
   cover_safety_margin_casewrap_in: 0.75
   cover_spine_edge_clearance_in: 0.125
   cover_pdf_structure: single_page_integrated_spread
-  printer_spec_checked: "Comic-size hardcover working target documented; final vendor, stock, and template confirmation pending"
+  printer_spec_checked: "Comic trim target documented; final vendor, stock, and template confirmation pending"
 
 volumes:
   - id: iliad
     title: "The Iliad"
     interior_pdf: output/pdf/inq-homer-iliad-bookvault-interior.pdf
-    interior_pages: 320
-    interior_status: provisional_prepress_candidate_source_locked_current_text_not_final
+    interior_pages: 360
+    interior_status: alternate_bookvault_candidate_current_text_locked_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-iliad.txt
     text_export_status: provisional
@@ -41,8 +43,8 @@ volumes:
   - id: odyssey
     title: "The Odyssey"
     interior_pdf: output/pdf/inq-homer-odyssey-bookvault-interior.pdf
-    interior_pages: 224
-    interior_status: provisional_prepress_candidate_source_locked_current_text_not_final
+    interior_pages: 250
+    interior_status: alternate_bookvault_candidate_current_text_locked_not_final
     cover_pdf: architecture_proof_complete_printer_template_pending
     text_export: output/text/inq-homer-odyssey.txt
     text_export_status: provisional
@@ -66,32 +68,32 @@ color:
 
 proofs:
   - file: output/pdf/inq-homer-book-1-proof.pdf
-    class: architecture_sample
+    class: legacy_architecture_sample_not_exact_trim
     page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-odyssey-book-1-proof.pdf
-    class: architecture_sample
+    class: legacy_architecture_sample_not_exact_trim
     page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-historical-plate-proof.pdf
-    class: provenance_sample
+    class: legacy_provenance_sample_not_exact_trim
     page_size_pt: [477, 738]
   - file: output/pdf/inq-homer-iliad-volume-proof.pdf
-    class: architecture_sample
+    class: legacy_architecture_sample_not_exact_trim
     page_size_pt: [477, 738]
     pages: 398
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-odyssey-volume-proof.pdf
-    class: architecture_sample
+    class: legacy_architecture_sample_not_exact_trim
     page_size_pt: [477, 738]
     pages: 282
     assembly: scripts/build_volume_proof.py
   - file: output/pdf/inq-homer-iliad-cover-design-proof.pdf
-    class: cover_design_sample
+    class: legacy_cover_design_sample_not_exact_trim
     page_size_pt: [1098, 846]
     pages: 1
     assembly: scripts/build_cover_proof.py
     spine_status: placeholder_only
   - file: output/pdf/inq-homer-odyssey-cover-design-proof.pdf
-    class: cover_design_sample
+    class: legacy_cover_design_sample_not_exact_trim
     page_size_pt: [1098, 846]
     pages: 1
     assembly: scripts/build_cover_proof.py
@@ -104,6 +106,8 @@ release_gates:
   printer_profile_lock: incomplete
   interior_pdfs: architecture_proofs_and_bookvault_candidates_complete_final_exports_pending
   cover_pdfs: design_proofs_complete_printer_templates_incomplete
+  cover_credit_accuracy: failed_existing_raster_studies_misattribute_translator_and_illustrator
+  epubcheck: unavailable_locally_pending_authoritative_validation
   physical_proof: incomplete
   editorial_signoff: incomplete
   epub_sale: disabled_until_editorial_and_art_gates_close

@@ -1,66 +1,62 @@
 # Release-readiness control sheet
 
-**Edition:** CastaliaInstitute / Homer–Blake-informed two-volume set  
-**Audit date:** 2026-09-03  
-**Format:** Standard US comic trim, 6.625 × 10.25 inches; two columns;
-hardcover; 80# White Coated interior, Premium Color target. BookVault’s
-168 × 260 mm interiors are provisional alternate prepress candidates.
+**Edition:** Castalia Institute / Homer two-volume set
 
-This sheet is the handoff control for the final publication review. A green
-automated preflight is evidence that the repository is internally consistent;
-it is not a substitute for a named human reviewer, a printer specification,
-or a physical proof.
+**Audit date:** 2026-09-03
 
-## Verified in the repository
+**Required format:** standard US comic trim, 6.625 × 10.25 in; 0.125 in bleed; two-column line-preserving verse
 
-| Area | Evidence | Current result |
+**Decision:** **HOLD — neither volume is release-approved.**
+
+A passing build proves only internal consistency. It cannot substitute for
+source, literary, art, rights, printer, or physical-proof approval.
+
+## Repository evidence
+
+| Area | Result | Evidence / limitation |
 |---|---|---|
-| Source coverage | `design/collation-coverage.md`; `scripts/preflight_translation.rb`; source-lock and Greek-coverage preflights | All 48 books have contiguous, non-overlapping source authority; gaps and overlaps fail preflight |
-| Translation completeness | `ruby scripts/preflight_translation_completeness.rb`; `scripts/preflight_translation_density.rb`; `design/translation-expansion-plan.md` | All 48 source authorities reach their endpoints; the density screen records provisional holds and the expansion plan makes each hold actionable |
-| Accessible reading copies | `output/text/inq-homer-iliad.txt`, `output/text/inq-homer-odyssey.txt` | 24 books in each export; preflight passed |
-| EPUB editorial proofs | `output/epub/*-editorial-proof.epub`; `scripts/validate_epub.py` | Deterministic 24-book EPUBs; fail-closed as private/not for sale; plates omitted pending art approval |
-| BookVault prepress interiors | `output/pdf/inq-homer-*-bookvault-interior.pdf`; `scripts/validate_bookvault_interiors.py` | Iliad 320 pages and Odyssey 224 pages retain exact 168 × 260 mm TrimBox geometry and currently match the manuscript source hashes. They remain provisional alternate files, not the primary comic-size release exports. |
-| Historical architecture proofs | `output/pdf/inq-homer-iliad-volume-proof.pdf`, `output/pdf/inq-homer-odyssey-volume-proof.pdf` | Current comic-size development proofs at 477 × 738 pt; final locked-text exports pending. The current Odyssey proof has 282 pages after the Book 24 revision. |
-| Cover studies | `output/pdf/*cover-design-proof.pdf`; `design/cover-proof.md` | Single integrated 1098 × 846 pt studies; printer template and final spine remain pending |
-| Image provenance | `design/plate-manifest.csv`, `design/asset-checksums.csv`, `design/provenance-audit.md`, `design/blake-homer-source-register.md` | Historical Flaxman/engraver roles, primary collection corroboration, original non-Blake credits, and byte-level asset checksums recorded |
-| Homer print-review art | `design/*-plate-selection.csv`; `assets/print/illustrations/{iliad,odyssey}/manifest.json`; `scripts/preflight_homer_print_art.py` | All 48 books have checksum-bound 2055 × 3142 / 300-PPI embedded-sRGB derivatives; selections and human approval remain provisional |
-| Production snapshot | `design/preflight-report.md` | Deterministic handoff summary of current proofs, coverage, provenance, and release blockers |
-| Review governance | `scripts/preflight_review_packets.rb` and all 48 packets | A gate cannot be recorded as passed without a named reviewer and review date |
-| Placeholder program | `design/illustration-placeholders.md` | 48 book slots defined; current candidates remain concept-review |
-| Typography | `design/font-lock.md`, `design/typography.md` | Architecture font evidence recorded; final license lock pending |
-| Automation | `.github/workflows/editorial-quality.yml` | Editorial Quality CI is the required validation path for every pushed commit; the current branch must retain a passing run before release |
+| Book and source structure | PASS | 24 ordered books per volume; all 48 source-span authorities reach their canonical endpoint without a ledger gap or overlap. |
+| Duplicate screen | PASS | All 48 openings and collation authorities pass repeated-block and adjacent-duplicate checks. This is not an omissions audit. |
+| Reader-facing completeness | HOLD | *Odyssey* 21–23 remain below the conservative 5.0 words/source-line screen: 4.66, 3.40, and 4.36. *Iliad* has no density hold. |
+| Human editorial gates | HOLD | All 48 books are `review`; all 288 Greek, narrative, verse, diction, notes, and production gate cells remain `pending`. |
+| Oral prosody | HOLD | 7,444/12,712 *Iliad* lines (58.6%) and 5,910/8,462 *Odyssey* lines (69.8%) fall in the heuristic 8–12-syllable band; 7,820 outliers remain unreviewed. |
+| Accessible text | PASS (provisional) | Two plain-text exports contain Books 1–24 in order and exclude editorial logs. |
+| EPUB | HOLD | Deterministic, reflowable, illustration-free private proofs can be built with semantic navigation and fail-closed rights metadata. Authoritative EPUBCheck is not installed locally; final covers are also unresolved. |
+| Interior geometry | HOLD | Comic-size architecture proofs are 477 × 738 pt. Separate BookVault candidates validate at exact 168 × 260 mm with 24 full-page plates and embedded fonts; they are alternate prepress candidates, not the primary comic-size edition. |
+| Legacy PDFs | HOLD | 477 × 738 pt interiors/web samples and 1098 × 846 pt cover studies are architecture artifacts, not exact-trim release files. |
+| Plates | HOLD | 48 checksum-bound 2055 × 3142 px, 300-PPI, embedded-sRGB derivatives exist, but every selection is pending and many sources are upscaled concept art, not native masters. |
+| Cover art and credits | HOLD | Both raster front-cover studies visibly miscredit “A.Longfellow” as translator and “A.Blake” as illustrator. They are excluded from editorial EPUBs and cannot be released. |
+| Provenance and rights | HOLD | Two historical Met scans have object-level public-domain records with Flaxman/designer and Blake-or-Piroli/engraver roles. Original candidates are documented as CastaliaInstitute work, not William Blake; final plate rights grants and selections remain open. |
+| Typography | HOLD | Cormorant Garamond binaries and OFL evidence are present and candidate PDF fonts are embedded; production font/license lock and printer output intent remain unsigned. |
+| Reproducible build | HOLD | Build scripts and checksum manifests exist. Current-branch CI, EPUBCheck, final PDF/profile checks, and a clean two-run reproducibility record remain required after text/art lock. |
 
-## Required human and production signoffs
+## Cover artifact audit
 
-These are intentionally still open. They must be completed and dated before
-the release manifest can move beyond `development`:
+| Files | Result | Exact defect |
+|---|---|---|
+| `assets/covers/epic/{iliad,odyssey}/cover-art.png` | HOLD | Distinct art-only studies (1024 × 1536 and 1009 × 1559); no built-in credits, final provenance/right grant, or full-bleed 300-PPI production master. |
+| `assets/covers/epic/{iliad,odyssey}/front-cover.jpg` | HOLD | 2055 × 3142 / 300-PPI derivatives, but both visibly miscredit A.Longfellow and A.Blake. |
+| `assets/covers/epic/{iliad,odyssey}/web-cover.webp` | HOLD | 900 × 1376 web derivatives repeat the unsafe built-in credits and are not print masters. |
+| `output/pdf/inq-homer-*-cover-design-proof.pdf` | HOLD | Distinct one-page casewrap studies with placeholder spines; title and Homer are present, but translator/cover-artist credits and exact printer templates are absent. |
 
-1. A named Greek-fidelity reviewer compares every book against the pinned Greek
-   source and records omissions, additions, names, numbers, agency, and spatial
-   sense.
-2. A separate literary reviewer assesses beauty, Longfellow-derived cadence,
-   diction, image precision, repetition, and read-aloud flow.
-3. A meter reviewer resolves the screening outliers or documents intentional
-   variation; the syllable report alone is not a prosody approval.
-4. A notes/glossary reviewer checks proper names, cultural notes, and editorial
-   interventions against the source record.
-5. An art director selects or rejects each plate candidate, locks its exact
-   passage and caption, and records final creator and rights language. No
-   generated concept may be presented as a William Blake work.
-6. Production locks the licensed fonts, printer color profile, bleed, cover
-   template, binding, paper specification, and final spine widths from the
-   printer’s current template.
-7. The final interiors and covers are exported from locked text and art, then
-   checked with PDF geometry, image/profile, overprint, font-embedding, and
-   trim-safety inspection.
-8. A physical or printer proof is inspected for ink density, coated-stock
-   contrast, registration, trim, gutter, folios, cover wrap, and spine text;
-   corrections are recorded and the proof is dated.
+The illustration-free EPUB cover pages are the only currently credit-safe
+cover treatment; they are deliberately not represented as final cover art.
 
-## Promotion rule
+## Exact remaining gates
 
-Do not mark a book `approved`, a plate `final`, or a PDF `release` until its
-named signoff and evidence are present. Do not calculate a production spine
-from the architecture-proof count alone. The current PDFs are valuable working
-proofs, but the edition remains a controlled editorial prototype until the
-items above are closed.
+1. Expand or explicitly waive *Odyssey* 21–23 from the pinned Greek, then
+   complete independent omissions/additions and fidelity reports for all 48 books.
+2. Obtain named signoff for all 288 editorial gate cells and resolve/document
+   the 7,820 meter-screen outliers through human read-aloud review.
+3. Select 48 final plates; lock passage, caption, creator role, rights/license,
+   native-resolution master, and printer profile for each.
+4. Replace both inaccurate cover studies with distinct exact-template covers
+   carrying Homer, Castalia Institute as translator, and truthful cover-art
+   creator credits. Do not invent an ISBN.
+5. Lock the exact comic-size printer route, stock, binding, output profile,
+   final page counts, generated cover templates, and spine widths.
+6. Rebuild from locked sources; pass text, EPUBCheck, PDF box/font/image/profile,
+   trim-safety, and reproducibility checks; inspect and date physical proofs.
+
+No artifact may be labeled `release`, `final`, sale-approved, or publicly
+distributable until every applicable gate above has evidence.

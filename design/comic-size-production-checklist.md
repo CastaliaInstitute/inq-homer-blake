@@ -8,12 +8,12 @@ proof PDFs are printer-ready.
 
 | Control | Current target | Evidence / release condition |
 |---|---|---|
-| Trim | 6.625 × 10.25 in (168.275 × 260.35 mm) comic size | Architecture proofs report 477 × 738 pt; BookVault candidates are a separate provisional route with an exact 168 × 260 mm TrimBox |
-| Format | Two-column hardcover casewrap | Confirm the selected printer’s current hardcover option before activation |
+| Trim | Exact 6.625 × 10.25 in comic size | Architecture proofs declare 477 × 738 pt; BookVault candidates are alternate 168 × 260 mm prepress studies |
+| Format | Two-column line-preserving verse; hardcover casewrap | Confirm the selected printer’s current hardcover option and maximum spine before activation |
 | Interior stock | 80# White Coated, Premium Color target | Confirm the printer’s current stock name before upload |
 | Interior bleed | 3 mm on all sides; 174 × 266 mm MediaBox | Validator checks every page and every full-page plate |
 | Interior color | Color-managed RGB/CMYK workflow selected with printer | Final profile and output intent are still pending |
-| Current architecture proof counts | Iliad 398 pages; Odyssey 280 pages | Counts must be frozen after publication approval and before template download; BookVault candidates remain separate prepress studies |
+| Current BookVault alternate counts | Iliad 360 pages; Odyssey 250 pages | Alternate candidates only; comic-size architecture proof counts remain primary until final printer lock |
 | Cover | One-page integrated casewrap spread on the printer’s exact template | Must use the printer-generated template, not an estimated spine |
 | Typography | Embedded, licensed Cormorant Garamond family | License lock and final PDF font inspection remain required |
 
@@ -24,7 +24,7 @@ proof PDFs are printer-ready.
   diction, and narrative beauty for every book.
 - [ ] Meter and read-aloud outliers have either been revised or expressly
   waived by the named literary editor.
-- [ ] The four current Odyssey density holds (Books 21–24) have been
+- [ ] The three current Odyssey density holds (Books 21–23) have been
   expanded and reviewed, or have a documented editorial waiver explaining why
   compression is intentional and faithful.
 - [ ] Names, notes, glossary, and source-range references have passed their
@@ -39,7 +39,7 @@ proof PDFs are printer-ready.
 - [ ] The printer template is downloaded for the exact trim, binding, stock,
   and page count; its filename, date, dimensions, and spine width are recorded
   in `design/release-manifest.yaml`.
-- [ ] Interior and cover PDFs pass structural, font, image, bleed, color, and
+- [ ] Interior and cover PDFs pass structural, line-wrap, font, image, bleed, color, and
   page-count checks; no provisional footer or placeholder remains.
 - [ ] A physical proof of each volume has been inspected for gutter loss,
   column readability, grayscale/color reproduction, cover wrap, and spine
@@ -47,8 +47,9 @@ proof PDFs are printer-ready.
 
 ## Current state
 
-The working comic-size proofs and BookVault prepress candidates satisfy their
-respective geometry, source-text, font, and plate checks, but none is yet a
+The BookVault candidates use the required exact trim, but the Odyssey file must
+be revalidated after the current Book 23 revision. Legacy comic-size proofs do
+not satisfy the exact-trim production target. None is yet a
 release artifact. Translation approvals, final art, printer-specific covers,
 color/profile controls, stock confirmation, and physical proofs remain open.
 This distinction is intentional: a clean prepress candidate is evidence of

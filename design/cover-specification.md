@@ -3,7 +3,7 @@
 ## Current production target
 
 - Product: hardcover casewrap (Lulu is the provisional working target; vendor not finally selected)
-- Trim: 6.625 × 10.25 inches (168.275 × 260.35 mm), standard US comic size
+- Primary trim: standard US comic size, exactly 6.625 × 10.25 in
 - Interior: 80# White Coated, Premium Color
 - Cover: casewrap; current Lulu stock documentation lists an 80# gloss
   laminated white cover stock
@@ -15,6 +15,11 @@
 - Current Odyssey cover study: the back panel uses the original CastaliaInstitute
   Book 24 concept as a clearly provisional stand-in; no Iliad source scan is
   reused on the Odyssey cover.
+- Current raster front-cover studies: **not release eligible**. Both contain
+  inaccurate built-in “Translated by A.Longfellow” and “Illustrated by
+  A.Blake” credits. Replacement art must identify Homer, Castalia Institute as
+  translator, and the documented cover-art creator without implying William
+  Blake authorship.
 
 ## Template authority
 
@@ -43,7 +48,7 @@ page count, and template dimensions in the release manifest.
 
 ## Release record required for each volume
 
-Current architecture counts are 398 pages for the Iliad and 280 pages for the
+Legacy architecture counts are 398 pages for the Iliad and 282 pages for the
 Odyssey. These counts are suitable for regenerating design studies, but they do
 not replace the custom printer templates required for final spine calculation.
 

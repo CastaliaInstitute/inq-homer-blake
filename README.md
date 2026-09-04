@@ -23,7 +23,7 @@ conversation with Blake's visual language.
   captions.
 - Label newly generated or commissioned images as new work; never present
   them as Blake originals.
-- Produce two 6.625 × 10.25 inch comic-size hardcover volumes with 80# coated paper and
+- Produce two standard US comic-size hardcover volumes (6.625 × 10.25 in) with 80# coated paper and
   print-safe margins and high-resolution image assets.
 
 ## Repository layout
@@ -42,7 +42,7 @@ scripts/                 repeatable validation and production utilities
 Run `scripts/validate_manifests.sh` before committing manifest changes and
 `scripts/preflight_assets.rb` before promoting an image record to `final`.
 These checks also run automatically in GitHub Actions for pushes and pull
-requests.
+requests under `.github/workflows/quality.yml`.
 A reference workflow run and its limitations are recorded in [CI verification](preflight/ci-verification.md); the current commit must be checked in GitHub Actions before release.
 
 See [PROJECT.md](PROJECT.md) for the production brief and
@@ -81,8 +81,10 @@ counts, image placement, and complete Book I text coverage.
 
 `python3 scripts/build_bookvault_interiors.py` builds the two checksum-bound
 BookVault prepress candidates. Each page has a 174 × 266 mm bleed MediaBox and
-an exact 168 × 260 mm TrimBox; each of the 24 books opens with one full-page
-2055 × 3142 pixel plate followed by two-column text. The builder stages output
+an exact comic-size TrimBox; each of the 24 books opens with one full-page
+2055 × 3142 pixel plate followed by source-line-preserving two-column verse.
+The builder rejects any verse line that would wrap at the production measure,
+so lineation cannot silently change in PDF layout. The builder stages output
 atomically under an exclusive lock and pads an odd final page count. Run
 `python3 scripts/validate_bookvault_interiors.py` to verify page boxes, even
 page counts, embedded fonts, art checksums, and complete per-book source text.
@@ -100,10 +102,10 @@ All 48 books are currently in review; all six review gates remain pending for ev
 The current approval evidence and remaining review work are summarized in the
 [translation review dashboard](design/review-dashboard.md).
 
-The physical-edition handoff is controlled by the [comic-size production
+The physical-edition handoff is controlled by the [production
 checklist](design/comic-size-production-checklist.md), which keeps the
-6.625 × 10.25 inch target distinct from final printer-template and proof
-approval.
+comic-size target distinct from alternate 168 × 260 mm BookVault studies
+proofs and from final printer-template and physical-proof approval.
 
 The [48-book control ledger](text/translation-status.csv) and
 [translation workflow](text/translation-workflow.md) make that status
@@ -163,7 +165,9 @@ plain-text reading copies; both remain provisional with the translation gates.
 Deterministic EPUB 3 editorial proofs can be built with
 `python3 scripts/build_epub.py` and checked with `python3 scripts/validate_epub.py`.
 Their package metadata and build manifests explicitly prohibit sale and public
-distribution while review gates remain open; unapproved plate art is omitted.
+distribution while review gates remain open; unapproved plate and cover art is
+omitted. The two existing raster cover studies carry inaccurate translator and
+illustrator text and are not eligible for packaging or release.
 Web samplers can be regenerated with `python3 scripts/build_web_previews.py`;
 they contain the cover study, one original concept plate, and complete Book I
 text with explicit Longfellow-inspired/Castalia Institute attribution.

@@ -10,6 +10,7 @@ from xml.sax.saxutils import escape
 from PIL import Image
 from reportlab.lib.colors import HexColor, white
 from reportlab.lib.pagesizes import inch
+from reportlab.lib.units import mm
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen.canvas import Canvas
@@ -23,8 +24,8 @@ for name, filename in {
 }.items():
     pdfmetrics.registerFont(TTFont(name, str(FONT_DIR / filename)))
 
-TRIM_W, TRIM_H = 6.625 * inch, 10.25 * inch
-BLEED = 0.125 * inch
+TRIM_W, TRIM_H = 168 * mm, 260 * mm
+BLEED = 3 * mm
 WRAP = 0.75 * inch
 DEFAULT_SPINE = 0.5 * inch
 
@@ -78,7 +79,9 @@ def build(volume: str, title: str, pages: int, art: Path, back_art: Path, output
     canvas.setFont("CormorantB", 31)
     canvas.drawString(front_x + WRAP + 22, doc_h - WRAP - 90, title.upper())
     label(canvas, "HOMER", front_x + WRAP + 24, doc_h - WRAP - 120, 13, HexColor("#e6d8bd"), "CormorantI")
-    label(canvas, "A new Longfellow-inspired translation", front_x + WRAP + 24, WRAP + 56, 11, white, "CormorantI")
+    label(canvas, "Translated by Castalia Institute", front_x + WRAP + 24, WRAP + 70, 10.5, white, "CormorantI")
+    label(canvas, "Longfellow-inspired English verse", front_x + WRAP + 24, WRAP + 56, 9.5, white, "CormorantI")
+    label(canvas, "Cover art by Castalia Institute; not by William Blake", front_x + WRAP + 24, WRAP + 42, 8, white)
     label(canvas, "PROVISIONAL COVER DESIGN PROOF", WRAP, WRAP + 28, 8, HexColor("#e6d8bd"), "CormorantB")
     label(canvas, f"Current architecture proof: {pages} pages", WRAP, WRAP + 14, 7.5, white)
     label(canvas, "Historical and original image credits remain in the provenance dossier.", WRAP, 18, 7, HexColor("#ded6c8"))

@@ -23,6 +23,8 @@ def validate(work: str) -> None:
         raise SystemExit(f"FAIL: {work} print manifest identity or count is invalid")
     if data.get("historicalScansIncluded") is not False or data.get("nativeMasterClaim") is not False:
         raise SystemExit(f"FAIL: {work} manifest must exclude historical scans and native-master claims")
+    if data.get("artistCredit") != "CastaliaInstitute" or "not by William Blake" not in data.get("style", ""):
+        raise SystemExit(f"FAIL: {work} manifest must credit the documented creator and disclaim William Blake authorship")
     if data.get("trimMm") != [168, 260] or data.get("documentMm") != [174, 266] or data.get("bleedMm") != 3:
         raise SystemExit(f"FAIL: {work} print geometry is not canonical iNQ comic size")
 

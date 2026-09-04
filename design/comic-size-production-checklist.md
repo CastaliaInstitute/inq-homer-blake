@@ -48,8 +48,9 @@ proof PDFs are printer-ready.
 ## Current state
 
 The BookVault candidates use the required exact trim, and the Odyssey file has
-been revalidated after the current Book 21 revision. Legacy comic-size proofs do
-not satisfy the exact-trim production target. None is yet a
+been revalidated after the latest Book 12 source correction (and the earlier
+Book 21 revision). Legacy comic-size proofs do not satisfy the exact-trim
+production target. None is yet a
 release artifact. Translation approvals, final art, printer-specific covers,
 color/profile controls, stock confirmation, and physical proofs remain open.
 This distinction is intentional: a clean prepress candidate is evidence of

@@ -84,3 +84,21 @@ unnecessary claim of premature death from the Greek’s direct image of souls
 being sent to Hades; the second keeps the divine purpose active and audible
 without the passive construction “was brought.” The revision preserves the
 Longfellow-inspired elevated register while tightening the source relation.
+
+### Independent source check — prayer, Iliad 1.37–42
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg001.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.37–42
+
+The draft's prayer preserves the three place-names, the remembered temple and
+thigh sacrifices, and the requested reversal of the Danaans' violence. One
+phrase was needlessly interpretive: “pay / for my tears beneath your arrows.”
+The Greek's *σοῖσι βέλεσσιν* specifies the means—“with your arrows”—not a
+location beneath them. The adopted revision is therefore “let the Danaans pay
+ / for my tears with your arrows.” It restores the exchange's directness,
+keeps Apollo's agency visible, and has cleaner Longfellow-like stress without
+adding imagery.
+
+This is a source-led revision, not independent approval. Speaker-boundary,
+omission/addition, diction, meter, notes, and production gates remain pending.

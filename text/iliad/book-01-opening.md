@@ -62,7 +62,7 @@ or burned for you the rich thigh-pieces of bulls
 
 and goats, grant this desire: let the Danaans pay
 
-for my tears beneath your arrows.” So he prayed,
+for my tears with your arrows.” So he prayed,
 
 and Phoebus Apollo heard him. Down from Olympus
 

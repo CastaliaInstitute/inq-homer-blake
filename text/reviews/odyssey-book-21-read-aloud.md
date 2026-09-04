@@ -30,6 +30,54 @@ the hall’s breath. The scar recognition outside should sound intimate and urge
 then return to the public room with the long, almost effortless stringing and the
 single arrow’s clean passage through the axes.
 
+## Critical beauty and accuracy review — 2026-09-03
+
+### Accuracy
+
+The draft’s strongest fidelity work is concrete and sequential. It keeps the
+Iphitus episode as a gift-exchange marked by violated guest-right; preserves the
+twelve axes, Telemachus’s three attempts and his father’s restraining nod; and
+places the private recognition before the public test. It also correctly keeps
+the book’s terminal boundary at the arrow’s passage and does not import
+Antinous’s death from Book 22.
+
+No new factual correction is warranted from this pass. The following points
+remain verification flags rather than alleged errors: whether “all of which had
+perished” should be softened to the Greek’s simpler statement of the horses’
+death; whether “the first beginning of their friendship” overstates the
+relationship’s chronology; and whether “the bow belongs to men” should retain
+more of the source’s idiomatic force about men’s business. These are editorial
+choices to test against the pinned Greek, not reasons to silently emend the
+translation.
+
+### Beauty and cadence
+
+The relic-to-weapon transformation is the book’s governing image and should be
+made more audible. The Iphitus paragraph currently explains several motives in
+quick succession; a line edit should give the bow more silence and weight before
+the hall claims it. Telemachus’s speech is clear but rhetorically flat in its
+middle: “the power is mine” states the turn directly, where a more public,
+ceremonial cadence would let authority arrive through image and inheritance.
+
+The last movement is strongest in the singer-and-swallow simile, the change of
+color, the thunder, and the arrow’s uninterrupted course. It weakens when the
+translation names its own plot mechanics (“understood the sign”) and explains
+the coming supper and “more sport.” Preserve the signal, but allow the reader
+to feel its meaning through the father-and-son movement. The repeated modern
+connectors—“then,” “now,” “in turn,” and “within”—also flatten the pressure of
+the scene and should be varied in the read-aloud pass.
+
+### Revision priorities
+
+1. Re-line the bow’s provenance so the object, not the explanatory biography,
+   carries the emotional center.
+2. Give Telemachus’s dismissal of Penelope a more elevated public music while
+   preserving its necessary patriarchal bluntness.
+3. Cut or convert authorial explanations at the arrow’s release; keep the
+   meaning legible through action.
+4. Read the entire book aloud in comic-size two-column line lengths and flag
+   stress collisions before any layout approval.
+
 ## Open decisions
 
 - Independently verify Iphitus’s horses, the axes’ arrangement, and the exact

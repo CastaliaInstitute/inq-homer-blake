@@ -109,5 +109,21 @@ sharpens Zeus's pronouncement.
 This is a source-led revision, not independent approval. Greek-fidelity,
 narrative, verse, diction, notes, and production gates remain pending.
 
+### Independent source check — Calypso's motive, Odyssey 1.13–15
+
+**Check date:** 2026-09-04
+**Source authority:** Perseus `tlg0012.tlg002.perseus-grc2`, pinned commit
+`ac0bc60033f1f83990a5cf7f1e7fc2e0423e381a`, lines 1.13–15
+
+The opening already retained Calypso's cave and her divine status but omitted
+the participial motive in the Greek: she keeps Odysseus because she longs to
+have him as her husband. The adopted addition, “who longed to have him for her
+husband,” restores that motive without importing modern psychology. It also
+makes the following contrast—Odysseus longing for his wife and return—more
+musically exact: the two desires are placed in deliberate opposition.
+
+This is a source-led revision, not independent approval. Greek-fidelity,
+narrative, verse, diction, notes, and production gates remain pending.
+
 **Disposition:** critical review recorded; Greek-fidelity, literary, meter,
 notes, and human sign-off remain pending.

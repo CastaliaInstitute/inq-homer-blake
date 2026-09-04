@@ -56,7 +56,9 @@ still longing for his wife and for the day of return,
 
 was held in hollow caves by the lady nymph,
 
-Calypso, shining among the deathless ones.
+Calypso, shining among the deathless ones,
+
+who longed to have him for her husband.
 
 But when the circling years had brought the hour
 
